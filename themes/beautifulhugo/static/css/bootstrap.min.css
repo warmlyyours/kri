@@ -6220,12 +6220,12 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:focus, a.list-g
 
 .well blockquote {
   border-color: #ddd;
-  border-color: rgba(0, 0, 0, .15)
+  border-color: rgba(0, 0, 0, .15);
 }
 
 .well-lg {
   padding: 24px;
-  border-radius: 6px
+  border-radius: 6px;
 }
 
 .well-sm {

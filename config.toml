@@ -14,10 +14,10 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "Bringing Truly Bright Ideas" # Set a different text for the header on the home page
   subtitle = "On-Demand Design & Innovation"
   mainSections = ["post","posts"]
-  logo = "img/KRIlogo.svg" # Expecting square dimensions
+  logo = "img/KRIlogo.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
