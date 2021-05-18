@@ -12,7 +12,10 @@ body {
 }
 .container[role=main] {
   margin-bottom:50px;
+  padding: 50px;
+  border-radius: 25px;
   flex: 1 0 auto;
+  background-image: linear-gradient(#FFF,#987347);
 }
 
 @media only screen and (max-width: 767px) {
