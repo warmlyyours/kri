@@ -1,0 +1,149 @@
+baseurl = "https://www.kitchenremodelideas.com"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "Kitchen Remodel Ideas"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "On-Demand Design & Innovation"
+  mainSections = ["post","posts"]
+  logo = "img/KRIlogo.svg" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+  src = "img/kitchen-88M2ZCJ.jpg"
+  desc = "Kitchen By twenty20photos"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#   position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Chris Selvais"
+  website = "kitchenremodelideas.com"
+  email = "chris@kitchenremodelideas.com"
+  facebook = "https://www.facebook.com/kitchenremodelideasworldwide/"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  twitter = "https://twitter.com/KR_Ideas"
+  #reddit = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  instagram = "https://www.instagram.com/kitchenremodelideas/"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+
+[[menu.main]]
+    identifier = "Blog"
+    name = "Blog"
+    weight = 1
+
+[[menu.main]]
+    parent = "Blog"
+    name = "Faucets"
+    url = "tags/faucets/"
+    weight = 1
+
+  [[menu.main]]
+    parent = "Blog"
+    name = "Furniture"
+    url = "tags/furniture/"
+    weight = 2
+
+  [[menu.main]]
+    parent = "Blog"
+    name = "Cabinets"
+    url = "tags/cabinets/"
+    weight = 3
+
+  [[menu.main]]
+    parent = "Blog"
+    name = "Countertops"
+    url = "tags/countertops/"
+    weight = 4
+
+  [[menu.main]]
+    parent = "Blog"
+    name = "Flooring"
+    url = "tags/flooring/"
+    weight = 5
+
+    [[menu.main]]
+    parent = "Blog"
+    name = "Essentials"
+    url = "tags/essentials/"
+    weight = 6
+
+    [[menu.main]]
+    parent = "Blog"
+    name = "Wall Tiles"
+    url = "tags/wall-tiles/"
+    weight = 7
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "Gallery"
+    name = "Gallery"
+    weight = 2
+
+[[menu.main]]
+    parent = "Gallery"
+    name = "Design Gallery"
+    url = "page/designgallery/"
+    weight = 1
+
+[[menu.main]]
+    parent = "Gallery"
+    name = "Floor Plan Gallery"
+    url = "page/floorplangallery/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "page/contact/"
+    weight = 3
