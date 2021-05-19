@@ -12,6 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
+paginate = 3
 
 [Params]
   homeTitle = "Bringing Truly Bright Ideas" # Set a different text for the header on the home page
