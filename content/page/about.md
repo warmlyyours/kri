@@ -11,6 +11,3 @@ KRI is your online destination for kitchen design. Each how-to blog post and eve
 **Swim with the current**
 
 Freedom isn't following the latest trends, it's a shameless expression of your creativity by choice. Transform your kitchen the way you want it to be. A conscious decision to shape your surroundings can leave one with an unbelievably incredible experience.
-
-
-{{< contactform >}}

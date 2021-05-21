@@ -2,6 +2,7 @@
 title: Countertops vs. Backsplash
 subtitle: Reliable Pairing Options
 date: 2019-12-11
+author: Kitchen Remodel Ideas
 tags:
   - Wall Tiles
   - Countertops

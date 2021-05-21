@@ -5207,7 +5207,7 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 }
 
 .pager .next>a, .pager .next>span {
-  float: right
+  float: right;
 }
 
 .pager .previous>a, .pager .previous>span {
