@@ -5,6 +5,7 @@ date: 2019-12-04
 author: Kitchen Remodel Ideas
 tags:
   - Flooring
+  - Essentials
 ---
 
 Flooring is very very important and when winter rolls around, homeowners ought  to be concerned about spills and even the occasional leak. Naturally, waterproof options are the most durable choice. The big question on everyone's mind is... "Can laminate be waterproof?" To be honest - 'cause that's our job - the answer is no.
