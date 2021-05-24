@@ -1,4 +1,4 @@
-baseurl = "https://www.kitchenremodelideas.com/"
+baseurl = "https://warmlyyours.github.io/kri/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Kitchen Remodel Ideas"
@@ -145,7 +145,7 @@ paginate = 3
 [[menu.main]]
     parent = "Gallery"
     name = "Floor Plan Gallery"
-    url = "floorplans"
+    url = "floorplans/"
     weight = 2
 
 [[menu.main]]
