@@ -11,7 +11,7 @@
 <br>
 <div class="container-fluid position-relative max-width">
 {{</ mermaid >}}
-{{< figure src="img/architectural-floor-plan-PUHPY3X.jpg/" link="img/architectural-floor-plan-PUHPY3X.jpg/" >}}
+{{< figure src="/img/architectural-floor-plan-PUHPY3X.jpg/" link="/img/architectural-floor-plan-PUHPY3X.jpg/" >}}
 {{< mermaid >}}
 <p>Create the best kitchen you could ever hope for! Whether you're installing a new stone countertop, researching natural quartz, or updating your kitchen backsplash, you can design your dream kitchen with us.</p>
 </div>
