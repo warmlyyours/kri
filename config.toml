@@ -13,6 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 paginate = 3
+staticDir = ["static"]
 
 [Params]
   homeTitle = "Bringing Truly Bright Ideas" # Set a different text for the header on the home page

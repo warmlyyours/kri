@@ -3,7 +3,7 @@
 <head>
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 </head>
-{{< load-photoswipe >}}
+
 <div class="row d-flex" style="color:#aaa;font-weight: 300;font-size: 45px>
   <div class="col">
 <h1>Learn With the Best</h1>
@@ -15,7 +15,7 @@
 <br>
 <div class="container-fluid position-relative max-width">
 {{</ mermaid >}}
-{{< figure src="img/landingPage/bluePrint.jpg/" link="img/landingPage/bluePrint.jpg/" >}}
+![Blue Print](/img/landingPage/bluePrint.jpg)
 {{< mermaid >}}
 <p>Create the best kitchen you could ever hope for! Whether you're installing a new stone countertop, researching natural quartz, or updating your kitchen backsplash, you can design your dream kitchen with us.</p>
 </div>
