@@ -20,8 +20,6 @@
 <p>Create the best kitchen you could ever hope for! Whether you're installing a new stone countertop, researching natural quartz, or updating your kitchen backsplash, you can design your dream kitchen with us.</p>
 </div>
 <br>
-<br>
-<br>
 <h3 style="font-family: 'verdana';font-weight:500;font-size:50px;color:#bd8201;">
 Featured Categories
 </h3>
