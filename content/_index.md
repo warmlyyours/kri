@@ -60,4 +60,7 @@ Featured Categories
 
 </div>
 </div>
+<br>
+<br>
+<br>
 {{</ mermaid >}}
