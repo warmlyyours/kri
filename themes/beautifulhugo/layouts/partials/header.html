@@ -1,4 +1,4 @@
-{{- partial "load-photoswipe-theme.html" . }}
+{{- partial "load-photoswipe.html" . }}
 
 {{ if .IsHome }}
   {{ if .Site.Params.homeTitle }}{{ $.Scratch.Set "title" .Site.Params.homeTitle }}{{ else }}{{ $.Scratch.Set "title" .Site.Title }}{{ end }}
@@ -15,12 +15,12 @@
 
 {{ if or $bigimg $title }}
   {{ if $bigimg }}
-    <div id="header-big-imgs" data-num-img={{len $bigimg}} 
+    <div id="header-big-imgs" data-num-img={{len $bigimg}}
       {{range $i, $img := $bigimg}}
-         {{ if (fileExists $img.src)}} 
-          data-img-src-{{add $i 1}}="{{$img.src | absURL }}" 
+         {{ if (fileExists $img.src)}}
+          data-img-src-{{add $i 1}}="{{$img.src | absURL }}"
          {{else}}
-          data-img-src-{{add $i 1}}="{{$img.src}}" 
+          data-img-src-{{add $i 1}}="{{$img.src}}"
          {{end}}
          {{ if $img.desc}}data-img-desc-{{add $i 1}}="{{$img.desc}}"{{end}}
       {{end}}></div>

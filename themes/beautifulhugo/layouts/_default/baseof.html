@@ -2,7 +2,7 @@
 <html lang="{{ .Lang }}" itemscope itemtype="http://schema.org/WebPage">
   <head>
     {{ partial "head.html" . }}
-    
+
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -17,14 +17,6 @@
     {{ block "main" . }}{{ end }}
     {{ partial "footer.html" . }}
     {{ block "footer" . }}{{ end }}
-
-    <!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
-{{ if ($.Scratch.Get "photoswipeloaded") }}
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-<script src="/js/load-photoswipe.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
-{{ end }}
 
   </body>
 </html>
