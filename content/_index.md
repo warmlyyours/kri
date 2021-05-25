@@ -3,6 +3,7 @@
 <head>
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 </head>
+{{< load-photoswipe >}}
 <div class="row d-flex" style="color:#aaa;font-weight: 300;font-size: 45px>
   <div class="col">
 <h1>Learn With the Best</h1>
