@@ -1,7 +1,7 @@
 baseurl = "https://kitchenremodelideas.onrender.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Kitchen Remodel Ideas"
+title = "KRI"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
