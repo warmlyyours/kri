@@ -756,10 +756,12 @@ div.splitbox {width:100%; overflow:auto;}
 
 div.splitbox div.left {
                width:48%;
-               float:left;}
+               float:right;
+             margin: 0px 10px 0px 0px;}
 div.splitbox div.right {
                width:48%;
-               float:right;}
+               float:left;
+             margin: 0px 0px 0px 10px;}
 
 @media only screen and (max-width: 600px) {
 div.splitbox div.left {
