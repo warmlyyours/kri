@@ -9,7 +9,7 @@ tags:
 
 ![Architecture Cabinets](/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.jpg)
 
-People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus and thanks to “social distancing” I have a ton of new found time on my hands. Cleaning out the kitchen cabinets and reorganizing the kitchenware sounds like a great project to kill some time and stay productive during social isolation...don’ it?
+People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus. Social distancing has given us tons of new found time on our hands. Cleaning out the kitchen cabinets and reorganizing the kitchenware sounds like a great project to kill some time and stay productive during social isolation...don’it?
 
 ***
 

@@ -1,6 +1,6 @@
 ---
 title: Selecting the Best Wall Tiles
-date: 2020-04-20
+date: 2020-06-24
 author: Kitchen Remodel Ideas
 tags:
   - Wall Tiles
