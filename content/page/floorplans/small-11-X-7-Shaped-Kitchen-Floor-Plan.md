@@ -2,7 +2,7 @@
 title: Small 11X7 L Shaped Kitchen Floor Plan
 date: "2021-06-04"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1519351-R1.jpg
+image:  /img/floorPlans/IP1519351-R1.jpg
 floorplans:
 - L Shaped
 ---
