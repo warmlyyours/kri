@@ -2,6 +2,7 @@
 title: 32 Dazzling Traditional Kitchen Design Photos
 date: 2021-02-18
 author: Kitchen Remodel Ideas
+image: /img/32Dazzling/32-Dazzling-Traditional-Kitchen-Design-Photos
 tags:
   - Cabinets
   - Furniture
