@@ -13,7 +13,6 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 paginate = 5
-staticDir = ["static", "images"]
 
 [Params]
   homeTitle = "Bringing Truly Bright Ideas" # Set a different text for the header on the home page
