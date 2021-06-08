@@ -1,0 +1,9 @@
+# Group 1
+User-agent: Googlebot
+Allow: /
+
+# Group 2
+User-agent: Adsbot-Google
+Allow: /
+
+Sitemap: https://www.kitchenremodelideas.com/sitemap.xml
