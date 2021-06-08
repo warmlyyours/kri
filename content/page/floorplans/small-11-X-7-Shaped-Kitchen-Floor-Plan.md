@@ -26,7 +26,7 @@ floorplans:
 
 ### [Tempzone Flex Rolls:](https://www.warmlyyours.com/en-US/products/line/floor-heating-tempzone-flex-roll?referral_code=KRICOM)
 
-![Tempzone Flex Rolls](/img/installationOptions/IP1519351/tempzone-flex-roll-f1fd46.jpeg)
+![Tempzone Flex Rolls](/img/installationOptions/warmlyYours/tempzone-flex-roll-f1fd46.jpeg)
 
 “The WarmlyYours TempZone™ 3.7-Watt Floor Heating Cable allows you to bring radiant warmth to any room. TempZone™ Floor Heating Cable (Twin) is ultra-low EMF by design. It features a twin conductor with a 15’ cold lead and is available in two voltage options and a range of lengths to meet the requirements of any installation. In 120V, we offer lengths ranging from 30 to 432 linear feet . For 240V, our lengths range from 55 to 864 linear feet.
 
