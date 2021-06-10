@@ -9,7 +9,7 @@
 <h1>Learn With the Best</h1>
 <br>
 </div>
-<img src="img/homeIcon.png" class="img-fluid" alt="home icon" style="border:0;max-width: 40px;pading:50px;">
+<img src="img/homeIcon.png" class="img-fluid responsive" alt="home icon" style="border:0;max-width: 40px;pading:50px;">
 <br>
 <h2 style="font-family: 'Arial';font-size:50px;">Discover the Kitchen you <span class="underline">Deserve</span></h2>
 <br>
@@ -25,31 +25,31 @@ Featured Categories
 </h3>
 <br>
 <div class="row">
-<div class="col-md-6" style="padding:50px;background-image: url('/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/faucets/" alt="Faucets">
 <button class="btn mermaid" style="width:100%;">Faucets</button></a>
 </div>
-<div class="col-md-6" style="padding:50px;background-image: url('/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/cabinets/" alt="Cabinets">
 <button class="btn mermaid" style="width:100%;">Cabinets</button></a>
 </div>
 </div>
 <div class="row">
-<div class="col-md-6" style="padding:50px;background-image: url('/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/countertops/" alt="Countertops">
 <button class="btn mermaid" style="width:100%;">Countertops</button></a>
 </div>
-<div class="col-md-6" style="padding:50px;background-image: url('img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K.JPG');background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-small.jpg") 480w, url("/img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-medium.jpg") 768w, url("/img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-large.jpg") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/flooring/" alt="Flooring">
 <button class="mermaid" style="width:100%;">Flooring</button></a>
 </div>
 </div>
 <div class="row">
-<div class="col-md-6" style="padding:50px;background-image: url('img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A.jpg');background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: url('img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A.jpg');background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/wall-tiles/" alt="Wall Tiles">
 <button class="btn mermaid" style="width:100%;">Wall Tiles</button></a>
 </div>
-<div class="col-md-6" style="padding:50px;background-image: url('/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2.jpg');background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2.jpg');background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/essentials/" alt="Essentials">
 <button class="btn mermaid" style="width:100%;">Essentials</button></a>
 </div>
