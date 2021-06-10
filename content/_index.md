@@ -25,31 +25,31 @@ Featured Categories
 </h3>
 <br>
 <div class="row">
-<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-small.jp2") 480w, url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-medium.jp2") 768w, url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-large.jp2") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-small.webp") 480w, url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-medium.webp") 768w, url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-large.webp") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/faucets/" alt="Faucets">
 <button class="btn mermaid" style="width:100%;">Faucets</button></a>
 </div>
-<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-small.jp2") 480w, url("/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-medium.jp2") 768w, url("/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-large.jp2") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-small.webp") 480w, url("img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-medium.webp") 768w, url("img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-large.webp") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/cabinets/" alt="Cabinets">
 <button class="btn mermaid" style="width:100%;">Cabinets</button></a>
 </div>
 </div>
 <div class="row">
-<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-small.jp2") 480w, url("/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-medium.jp2") 768w, url("/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-large.jp2") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-small.webp") 480w, url("img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-medium.webp") 768w, url("img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-large.webp") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/countertops/" alt="Countertops">
 <button class="btn mermaid" style="width:100%;">Countertops</button></a>
 </div>
-<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-small.jpg") 480w, url("/img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-medium.jpg") 768w, url("/img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-large.jpg") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-small.webp") 480w, url("img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-medium.webp") 768w, url("img/fcImages/laminate-floor-background-texture-wooden-laminate--SNAK39K-large.webp") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/flooring/" alt="Flooring">
 <button class="mermaid" style="width:100%;">Flooring</button></a>
 </div>
 </div>
 <div class="row">
-<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-small.jp2") 480w, url("/img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-medium.jp2") 768w, url("/img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-large.jp2") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-small.webp") 480w, url("img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-medium.webp") 768w, url("img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-large.webp") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/wall-tiles/" alt="Wall Tiles">
 <button class="btn mermaid" style="width:100%;">Wall Tiles</button></a>
 </div>
-<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-url(url("/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-small.jp2") 480w, url("/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-medium.jp2") 768w, url("/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-large.jp2") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-url(url("img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-small.webp") 480w, url("img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-medium.webp") 768w, url("img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-large.webp") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/essentials/" alt="Essentials">
 <button class="btn mermaid" style="width:100%;">Essentials</button></a>
 </div>
