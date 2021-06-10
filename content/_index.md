@@ -15,7 +15,7 @@
 <br>
 <div class="container-fluid position-relative max-width">
 {{</ mermaid >}}
-![Blue Print](/img/landingPage/bluePrint.jpg)
+![Blue Print](/img/landingPage/bluePrint.jp2)
 {{< mermaid >}}
 <p>Create the best kitchen you could ever hope for! Whether you're installing a new stone countertop, researching natural quartz, or updating your kitchen backsplash, you can design your dream kitchen with us.</p>
 </div>
@@ -25,17 +25,17 @@ Featured Categories
 </h3>
 <br>
 <div class="row">
-<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-small.jp2") 480w, url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-medium.jp2") 768w, url("/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-large.jp2") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/faucets/" alt="Faucets">
 <button class="btn mermaid" style="width:100%;">Faucets</button></a>
 </div>
-<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-small.jp2") 480w, url("/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-medium.jp2") 768w, url("/img/fcImages/contemporary-kitchen-cabinet-ensemble-with-differe-3UEPHXL-large.jp2") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/cabinets/" alt="Cabinets">
 <button class="btn mermaid" style="width:100%;">Cabinets</button></a>
 </div>
 </div>
 <div class="row">
-<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE.jpg');background-size: cover;box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-small.jp2") 480w, url("/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-medium.jp2") 768w, url("/img/fcImages/close-up-of-woman-choosing-quartz-materials-for-co-JFBLMTE-large.jp2") 1080w);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/countertops/" alt="Countertops">
 <button class="btn mermaid" style="width:100%;">Countertops</button></a>
 </div>
@@ -45,11 +45,11 @@ Featured Categories
 </div>
 </div>
 <div class="row">
-<div class="col-md-6 responsive" style="padding:50px;background-image: url('img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A.jpg');background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url("/img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-small.jp2") 480w, url("/img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-medium.jp2") 768w, url("/img/fcImages/home-decor-renovation-and-remodeling-projects-kitc-Q989R7A-2-large.jp2") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/wall-tiles/" alt="Wall Tiles">
 <button class="btn mermaid" style="width:100%;">Wall Tiles</button></a>
 </div>
-<div class="col-md-6 responsive" style="padding:50px;background-image: url('/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2.jpg');background-size: cover; box-shadow: inset 0 0 100px #FFF;">
+<div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-url(url("/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-small.jp2") 480w, url("/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-medium.jp2") 768w, url("/img/fcImages/vegetarian-dinner-party-gathering-PJGXMN2-large.jp2") 1080w);background-size: cover; box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/essentials/" alt="Essentials">
 <button class="btn mermaid" style="width:100%;">Essentials</button></a>
 </div>

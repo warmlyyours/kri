@@ -2,7 +2,7 @@
 title: Cost of Adding Luxury Radiant Heating in a Kitchen
 date: 2020-11-12
 author: Kitchen Remodel Ideas
-image: /img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.png
+image: /img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.jp2
 tags:
   - Countertops
   - Flooring
