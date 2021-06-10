@@ -30,7 +30,7 @@ floorplans:
 
 "Add radiant warmth to your tile and stone floors with WarmlyYours TempZone™ Flex Rolls. These 240 VAC floor heating rolls feature a 1/8" TempZone™ heating cable, affixed to a mesh fabric backing in a serpentine pattern to evenly distribute heat across the floor." 
 
-### [Samsung 22.6 Cu. Ft. Fingerprint Resistant Stainless Steel Counter Depth French Door Refrigerator-RF23R6201SR:](https://www.grandappliance.com/product/samsung-226-cu-ft-counter-depth-french-door-refrigerator-rf23r6201-330161)
+### [Samsung 22.6 Cu. Ft. Fingerprint Resistant Stainless Steel Counter Depth French Door Refrigerator-RF23R6201SR:](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjUtru53YvxAhWUXM0KHbnRDq0QFjAAegQIAhAD&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-22-6-cu-ft-french-door-counter-depth-fingerprint-resistant-refrigerator-with-coolselect-pantry-stainless-steel%2F6355738.p%3FskuId%3D6355738&usg=AOvVaw0P31aaxC7pS0uvtBb6jJzb)
 
 ![Samsung 22.6 Cu. Ft. Fingerprint Resistant Stainless Steel Counter Depth French Door Refrigerator-RF23R6201SR](/img/installationOptions/IP1511082-1200x899-1/de096c6c-b2a3-4219-abb7-22d42e1c5ec8.jpg)
 

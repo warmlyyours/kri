@@ -42,7 +42,7 @@ floorplans:
 
 "Incredible retro 50s look. 36" wide x 47" long (59" total when you use the leaf) 4 matching chairs. Excellent condition overall. Estate fresh was covered for decades. Great teal colored chairs, high backs, tacked all the way around. A couple small tears to chairs that were covered with clear tape (see closeup photos) one has a tear on upper portion one has a tear on seat, both seem to be stable. Comes with one extension leaf. Table top in excellent shape not dent holes crates or stains. Legs will clean up and SHINE with some 000 still wool (I did a few legs already and they clean up so nicely). Will take a little bit of work but this set will have a great look when it's cleaned up."
 
-### [Kimarri Vibrant Kitchen Glass Mosaic Tile in Red/Brown/Green:](https://www.macys.com/shop/product/eclectrics-all-metal-stand-mixer?ID=7639862&PartnerID=LINKSHARE&cm_mmc=LINKSHARE-_-47-_-85-_-MP4785&ranMID=3184&ranEAID=gy1lbEbPhUY&ranSiteID=gy1lbEbPhUY-nzAHsgy9eywCYVrdgGkyVg&LinkshareID=gy1lbEbPhUY-nzAHsgy9eywCYVrdgGkyVg&m_sc=aff&PartnerID=LINKSHARE)
+### [Kimarri Vibrant Kitchen Glass Mosaic Tile in Red/Brown/Green:](https://www.wayfair.com/home-improvement/pdp/latitude-run-kimarri-vibrant-kitchen-glass-mosaic-tile-in-redbrowngreen-susj1648.html)
 
 ![Kimarri Vibrant Kitchen Glass Mosaic Tile in Red/Brown/Green](/img/installationOptions/IP1530123/Kimarri+Vibrant+Kitchen+Glass+Mosaic+Tile+in+Red-Brown-Green.jpg)
 

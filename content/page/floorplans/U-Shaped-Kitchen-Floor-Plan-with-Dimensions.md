@@ -36,7 +36,7 @@ floorplans:
 
 "Gather your friends and family and serve them salad with these beautiful gilded salad servers, which will look perfect on any table."
 
-### [Kaitlynn 2-Light Kitchen Island Geometric LED Pendant:](https://www.wayfair.com/kitchen-tabletop/pdp/wayfair-basics-sliding-pot-organizer-pull-out-drawer-w004531050.html)
+### [Kaitlynn 2-Light Kitchen Island Geometric LED Pendant:](https://www.allmodern.com/lighting/pdp/kaitlynn-2-light-kitchen-island-geometric-led-pendant-a000808604.html)
 
 ![Kaitlynn 2-Light Kitchen Island Geometric LED Pendant](/img/installationOptions/IP1514745/Fenn+3+-+Light+Kitchen+Island+Geometric+Pendant.jpg)
 

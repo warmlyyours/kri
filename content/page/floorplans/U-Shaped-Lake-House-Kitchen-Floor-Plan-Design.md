@@ -24,7 +24,7 @@ floorplans:
 
 ***
 
-### [Environ Flex Rolls:](https://www.warmlyyours.com/en-US/products/line/floor-heating-tempzone-flex-roll?referral_code=KRICOM)
+### [Environ Flex Rolls:](https://www.warmlyyours.com/en-US/products/line/floor-heating-environ-flex-roll?referral_code=KRICOM)
 
 ![Environ Flex Rolls](/img/installationOptions/warmlyYours/environ-flex-roll-b66ff4.jpeg)
 
