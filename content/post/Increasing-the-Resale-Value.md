@@ -2,12 +2,12 @@
 title: Increasing the Resale Value of your Home with Radiant Floor Heating
 date: 2020-10-02
 author: Kitchen Remodel Ideas
-image: /img/increasingValue/Increasing-resale-value-radiant-floor-heating.jpg
+image: /img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp
 tags:
   - Flooring
 ---
 
-![Increasing Resale Value Featured Image](/img/increasingValue/Increasing-resale-value-radiant-floor-heating.jpg)
+![Increasing Resale Value Featured Image](/img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp)
 
 # Increasing your Resale Value with Radiant Floor Heating
 

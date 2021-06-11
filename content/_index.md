@@ -9,7 +9,7 @@
 <h1>Learn With the Best</h1>
 <br>
 </div>
-<img src="img/homeIcon.png" class="img-fluid responsive" alt="home icon" style="border:0;max-width: 40px;pading:50px;">
+<img src="img/homeIcon.webp" class="img-fluid responsive" alt="home icon" style="border:0;max-width: 40px;pading:50px;">
 <br>
 <h2 style="font-family: 'Arial';font-size:50px;">Discover the Kitchen you <span class="underline">Deserve</span></h2>
 <br>

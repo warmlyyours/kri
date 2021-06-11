@@ -2,12 +2,12 @@
 title: Increasing the Resale Value of your Home with Radiant Floor Heating
 date: 2020-10-12
 author: Kitchen Remodel Ideas
-image: /img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.jpg
+image: /img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp
 tags:
   - Essentials
   - Furniture
 ---
-![Kitchen's New Role During the Covid-19 Pandemic Featured Image](/img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.jpg)
+![Kitchen's New Role During the Covid-19 Pandemic Featured Image](/img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp)
 
 # The Kitchen’s New Role During the Covid-19 Pandemic
 
