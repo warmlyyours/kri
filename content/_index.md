@@ -23,7 +23,6 @@
 <h3 style="font-family: 'verdana';font-weight:500;font-size:50px;color:#bd8201;">
 Featured Categories
 </h3>
-<br>
 <div class="row">
 <div class="col-md-6 responsive" style="padding:50px;background-image: -webkit-image-set(url('/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-small.webp') 1x, url('/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-medium.webp') 1x, url('/img/fcImages/kitchen-faucets-on-shelf-closeup-plumbing-shop-PSC9EJX-large.webp') 2x);background-size: cover;box-shadow: inset 0 0 100px #FFF;">
 <a href="tags/faucets/" alt="Faucets">
