@@ -130,7 +130,9 @@ img {
 }
 
 .img-title {
-  width: 51%;
+  max-width: 480px;
+  height: auto;
+  width: 480px;
 }
 
 @media only screen and (max-width: 768px) {
