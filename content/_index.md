@@ -4,19 +4,17 @@
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 </head>
 
-<div class="row d-flex" style="color:#aaa;font-weight: 300;font-size: 45px>
+<div class="row d-flex" style="color:#aaa;font-weight: 300;font-size: 45px; padding: 20px">
   <div class="col">
 <h1>Learn With the Best</h1>
-<br>
+</div>
 </div>
 <img src="img/homeIcon.webp" class="img-fluid responsive" alt="home icon" style="border:0;max-width: 40px;pading:50px;">
 <br>
 <h2 style="font-family: 'Arial';font-size:50px;">Discover the Kitchen you <span class="underline">Deserve</span></h2>
 <br>
 <div class="container-fluid position-relative max-width">
-{{</ mermaid >}}
-![Blue Print](/img/landingPage/bluePrint.webp)
-{{< mermaid >}}
+<img src="/img/landingPage/bluePrint.webp" alt="Blue Print on Table" style="max-width: 480px; width: 100%; height: auto;" />
 <p>Create the best kitchen you could ever hope for! Whether you're installing a new stone countertop, researching natural quartz, or updating your kitchen backsplash, you can design your dream kitchen with us.</p>
 </div>
 <br>
