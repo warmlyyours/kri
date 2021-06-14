@@ -76,7 +76,7 @@
   <link rel="stylesheet" media="print" onload="this.media='all'" href="{{ "css/codeblock.css" | absURL }}" />
 
   {{- if .Site.Params.staticman.recaptcha -}}
-  <script src='https://www.google.com/recaptcha/api.js'></script>
+  <script src='https://www.google.com/recaptcha/api.js' async></script>
   {{- end -}}
 
   {{- if .Site.Params.selfHosted -}}
