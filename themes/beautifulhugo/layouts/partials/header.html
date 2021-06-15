@@ -23,11 +23,7 @@
           data-img-src-{{add $i 1}}="{{$img.src}}"
          {{end}}
          {{ if $img.desc}}data-img-desc-{{add $i 1}}="{{$img.desc}}"{{end}}
-         {{ $srcset := .srcset }}
-        src="{{.src}}" {{ with .srcset }}{{ printf "srcset=\"%s\"" $srcset | safeHTMLAttr }}{{ end }} alt="{{.alt}}"
-      {{end}}>
-    {{ $srcset := .srcset }}
-  <img class="img-fluid" src="{{.src}}" {{ with .srcset }}{{ printf "srcset=\"%s\"" $srcset | safeHTMLAttr }}{{ end }} alt="{{.alt}}"></div>
+      {{end}}></div>
   {{ end }}
 
   <header class="header-section {{ if $bigimg }}has-img{{ end }}">
