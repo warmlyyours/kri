@@ -40,6 +40,7 @@ paginate = 5
  [[Params.bigimg]]
    src = "/img/kitchen-88M2ZCJ.webp"
    desc = "Kitchen By twenty20photos"
+   srcset = [["/img/kitchen-88M2ZCJ.webp", "/img/kitchen-88M2ZCJ-small.webp"], [1080px, 720px] ]
 
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
