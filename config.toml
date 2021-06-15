@@ -38,8 +38,11 @@ paginate = 5
   tag = "tags"
 
 [[Params.bigimg]]
-  src = "img/kitchen-88M2ZCJ.webp"
+  src = "/img/kitchen-88M2ZCJ.webp"
   desc = "Kitchen By twenty20photos"
+  srcset = "/img/kitchen-88M2ZCJ-small.webp"
+  width = "720px"
+
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
