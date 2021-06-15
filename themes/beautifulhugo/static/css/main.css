@@ -136,7 +136,7 @@ img {
 }
 
 @media only screen and (max-width: 768px) {
-.img-title { width: 100%; max-width: 400px; height: auto;}
+.img-title { width: 300px; max-width: 400px; height: auto;}
 }
 
 @media only screen and (max-width: 768px) {
@@ -194,6 +194,7 @@ img {
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
+  width: 50px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo {
   padding-top: 5px;
