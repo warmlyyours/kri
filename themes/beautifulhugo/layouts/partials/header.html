@@ -22,9 +22,6 @@
          {{else}}
           data-img-src-{{add $i 1}}="{{$img.src}}"
          {{end}}
-         {{if .srcset}}srcset="{{.srcset }}"{{end}}
-         {{if .height}}height="{{.height}}"{{end}}
-         {{if .width}}height="{{.width}}"{{end}}
          {{ if $img.desc}}data-img-desc-{{add $i 1}}="{{$img.desc}}"{{end}}
       {{end}}></div>
   {{ end }}
