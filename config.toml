@@ -38,7 +38,7 @@ paginate = 5
   tag = "tags"
 
  [[Params.bigimg]]
-   src = "/img/kitchen-88M2ZCJ.webp"
+   src = "/img/kitchen-88M2ZCJ-copy-2.webp"
    desc = "Kitchen By twenty20photos"
 
 #[[Params.bigimg]]
