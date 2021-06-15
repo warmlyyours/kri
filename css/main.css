@@ -598,7 +598,7 @@ footer .theme-by {
   display: none;
 }
 @media only screen and (min-width: 768px) {
-  .intro-header {
+  .intro-header .intro-header.big-img {
     margin-top: 130px;
     width: 100%;
     height: auto;
