@@ -14,7 +14,7 @@
 <h2 style="font-family: 'Arial';font-size:50px;">Discover the Kitchen you <span class="underline">Deserve</span></h2>
 <br>
 <div class="container-fluid position-relative max-width">
-<img srcset="/img/landingPage/bluePrint-small.webp 300w, /img/landingPage/bluePrint.webp 600w" sizes="(max-width: 768px) 300px, 600px" src="/img/landingPage/bluePrint.webp" alt="Blue Print on Table" style="width: 600px; height: auto;" />
+<img srcset="/img/landingPage/bluePrint-small.webp 300w, /img/landingPage/bluePrint.webp 600w" sizes="(max-width: 768px) 300px, 600px" src="/img/landingPage/bluePrint.webp" alt="Blue Print on Table" style="width: 480px; height: 322px;" />
 <p>Create the best kitchen you could ever hope for! Whether you're installing a new stone countertop, researching natural quartz, or updating your kitchen backsplash, you can design your dream kitchen with us.</p>
 </div>
 <br>
