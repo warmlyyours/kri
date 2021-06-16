@@ -127,6 +127,8 @@ img {
   margin: auto;
   max-width: 100%;
   border: 3px solid #d3ce64;
+  max-width: 480px;
+  height: auto;
 }
 
 .img-title {
