@@ -3,7 +3,7 @@ DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "KRI"
 theme = "beautifulhugo"
-metaDataFormat = "yaml"
+metaDataFormat = "toml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -52,7 +52,7 @@ paginate = 5
 
 [Author]
   name = "Chris Selvais"
-  website = "kitchenremodelideas.com"
+  website = "www.kitchenremodelideas.com"
   email = "chris@kitchenremodelideas.com"
   facebook = "kitchenremodelideasworldwide/"
   #github = "username"
@@ -153,3 +153,8 @@ paginate = 5
     name = "Contact"
     url = "page/contact/"
     weight = 3
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
