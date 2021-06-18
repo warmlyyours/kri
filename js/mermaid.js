@@ -71,7 +71,6 @@
           return 0 > e && (e = t.length + e), t.substr(e, n)
         }
       }).call(this, t("_process"))
-    }
 
       function n() {}
 
