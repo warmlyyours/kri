@@ -2,19 +2,6 @@
 .fas,
 .far,
 .fal,
-.fab {
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  display: inline-block;
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  line-height: 1; }
-
-.fa-lg {
-  font-size: 1.33333em;
-  line-height: 0.75em;
-  vertical-align: -.0667em; }
 
 .fa-xs {
   font-size: .75em; }
@@ -157,30 +144,6 @@
 :root .fa-flip-both {
   -webkit-filter: none;
           filter: none; }
-
-.fa-stack {
-  display: inline-block;
-  height: 2em;
-  line-height: 2em;
-  position: relative;
-  vertical-align: middle;
-  width: 2.5em; }
-
-.fa-stack-1x,
-.fa-stack-2x {
-  left: 0;
-  position: absolute;
-  text-align: center;
-  width: 100%; }
-
-.fa-stack-1x {
-  line-height: inherit; }
-
-.fa-stack-2x {
-  font-size: 2em; }
-
-.fa-inverse {
-  color: #fff; }
 
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
 readers do not read off random characters that represent icons */
@@ -568,9 +531,6 @@ readers do not read off random characters that represent icons */
 .fa-bong:before {
   content: "\f55c"; }
 
-.fa-book:before {
-  content: "\f02d"; }
-
 .fa-book-dead:before {
   content: "\f6b7"; }
 
@@ -657,9 +617,6 @@ readers do not read off random characters that represent icons */
 
 .fa-calculator:before {
   content: "\f1ec"; }
-
-.fa-calendar:before {
-  content: "\f133"; }
 
 .fa-calendar-alt:before {
   content: "\f073"; }
@@ -892,9 +849,6 @@ readers do not read off random characters that represent icons */
 .fa-church:before {
   content: "\f51d"; }
 
-.fa-circle:before {
-  content: "\f111"; }
-
 .fa-circle-notch:before {
   content: "\f1ce"; }
 
@@ -912,9 +866,6 @@ readers do not read off random characters that represent icons */
 
 .fa-clipboard-list:before {
   content: "\f46d"; }
-
-.fa-clock:before {
-  content: "\f017"; }
 
 .fa-clone:before {
   content: "\f24d"; }
@@ -1366,9 +1317,6 @@ readers do not read off random characters that represent icons */
 .fa-empire:before {
   content: "\f1d1"; }
 
-.fa-envelope:before {
-  content: "\f0e0"; }
-
 .fa-envelope-open:before {
   content: "\f2b6"; }
 
@@ -1437,9 +1385,6 @@ readers do not read off random characters that represent icons */
 
 .fa-eye-slash:before {
   content: "\f070"; }
-
-.fa-facebook:before {
-  content: "\f09a"; }
 
 .fa-facebook-f:before {
   content: "\f39e"; }
@@ -2163,9 +2108,6 @@ readers do not read off random characters that represent icons */
 
 .fa-info-circle:before {
   content: "\f05a"; }
-
-.fa-instagram:before {
-  content: "\f16d"; }
 
 .fa-intercom:before {
   content: "\f7af"; }
@@ -3844,9 +3786,6 @@ readers do not read off random characters that represent icons */
 .fa-twitch:before {
   content: "\f1e8"; }
 
-.fa-twitter:before {
-  content: "\f099"; }
-
 .fa-twitter-square:before {
   content: "\f081"; }
 
@@ -4234,16 +4173,6 @@ readers do not read off random characters that represent icons */
 .fa-zhihu:before {
   content: "\f63f"; }
 
-.sr-only {
-  border: 0;
-  clip: rect(0, 0, 0, 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px; }
-
 .sr-only-focusable:active, .sr-only-focusable:focus {
   clip: auto;
   height: auto;
@@ -4259,8 +4188,6 @@ readers do not read off random characters that represent icons */
   src: url("../webfonts/fa-brands-400.eot");
   src: url("../webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"), url("../webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
 
-.fab {
-  font-family: 'Font Awesome 5 Brands'; }
 @font-face {
   font-family: 'Font Awesome 5 Free';
   font-style: normal;
