@@ -6,4 +6,8 @@ Allow: /
 User-agent: Adsbot-Google
 Allow: /
 
+# Group 3
+User-agent: a.navlinks-parent
+Allow: a.navlinks-parent
+
 Sitemap: https://www.kitchenremodelideas.com/sitemap.xml
