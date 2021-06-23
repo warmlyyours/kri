@@ -9,12 +9,12 @@
 <h1>Learn With the Best</h1>
 </div>
 </div>
-<img src="img/homeIcon.webp" class="img-fluid" alt="home icon" style="border:0;width: 40px; height: auto; max-width: 40px;">
+<img src="img/homeIcon.webp" width="40" height="40" class="img-fluid" alt="home icon" style="border:0;max-width: 40px;">
 <br>
 <h2 style="font-family: 'Arial';font-size:50px;">Discover the Kitchen you <span class="underline">Deserve</span></h2>
 <br>
 <div class="container-fluid position-relative max-width">
-<img srcset="/img/landingPage/bluePrint-small.webp 300w, /img/landingPage/bluePrint.webp 600w" sizes="(max-width: 768px) 300px, 600px" src="/img/landingPage/bluePrint.webp" alt="Blue Print on Table" style="width: 480px; height: 322px;" />
+<img srcset="img/landingPage/bluePrint-small.webp 300w, img/landingPage/bluePrint.webp 600w" sizes="(max-width: 768px) 300px, 600px" src="img/landingPage/bluePrint.webp" alt="Blue Print on Table" width="480" height="322">
 <p>Create the best kitchen you could ever hope for! Whether you're installing a new stone countertop, researching natural quartz, or updating your kitchen backsplash, you can design your dream kitchen with us.</p>
 </div>
 <br>
