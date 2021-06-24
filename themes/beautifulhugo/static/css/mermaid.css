@@ -250,9 +250,6 @@ text.actor {
   font-size: 18px;
   fill: black;
 }
-.underline {
-  text-decoration-line:underline;text-underline-offset: 20px;
-}
 
   /* Set a specific height */
   min-height: 300px;
