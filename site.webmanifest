@@ -1,7 +1,6 @@
 {
     "name": "Kitchen Remodel Ideas",
     "short_name": "KRI",
-    "start_url": "https://www.kitchenremodelideas.com",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -14,6 +13,7 @@
             "type": "image/png"
         }
     ],
+    "start_url": "/",
     "theme_color": "#BD8201",
     "background_color": "#112B3C",
     "display": "standalone"
