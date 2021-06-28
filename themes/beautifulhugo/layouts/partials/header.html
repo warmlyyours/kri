@@ -24,9 +24,9 @@
       {{end}}></div>
   {{ end }}
 
-  <header class="header-section {{ if $bigimg }}has-img{{ end }}">
+  <header style="width: 100%; height: auto;" class="header-section {{ if $bigimg }}has-img{{ end }}">
     {{ if $bigimg }}
-      <div class="intro-header big-img">
+      <div style="width: 100%; height: auto;" class="intro-header big-img">
         {{ $subtitle := $.Scratch.Get "subtitle" }}
         <div class="container">
           <div class="row">
@@ -84,5 +84,5 @@
   <div class="intro-header"></div>
 {{ end }}
 
-<script src="{{ "js/jquery.min.js" | absURL }}"></script>
+
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>

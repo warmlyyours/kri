@@ -1,4 +1,7 @@
 /* --- General --- */
+html {
+  min-height: 100%;
+}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -8,7 +11,7 @@ body {
   background: #FFF;
   display: flex;
   flex-flow: column;
-  height: 100vh;
+  min-height: 100vh;
 }
 .container[role=main] {
   margin-bottom:50px;
