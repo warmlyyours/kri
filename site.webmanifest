@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/",
+    "start_url": "https://www.kitchenremodelideas.com",
     "theme_color": "#BD8201",
     "background_color": "#112B3C",
     "display": "standalone"

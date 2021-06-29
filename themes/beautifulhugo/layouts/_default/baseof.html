@@ -20,8 +20,3 @@
 
   </body>
 </html>
-
-{{ $jsFile := resources.Get "js/jquery.min.js" }}
-{{ $style := $jsFile | resources.Minify }}
-
-<script src="{{ $style.Permalink }}"></script>
