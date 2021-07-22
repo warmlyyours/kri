@@ -1,0 +1,13 @@
+.fcButton {
+  border-radius: 20px;
+  opacity: 95%;
+}
+.fcButton :link {
+  color: #112b3c;
+}
+.fcButton :visited {
+  color: #717874;
+}
+.fcButton :hover {
+  color: #bd8201;
+}

@@ -24,13 +24,13 @@
       {{end}}></div>
   {{ end }}
 
-  <header style="width: 100%; height: auto;" class="header-section {{ if $bigimg }}has-img{{ end }}">
+  <header style="width: 100%; height: auto;text-align: center;" class="header-section {{ if $bigimg }}has-img{{ end }}">
     {{ if $bigimg }}
       <div style="width: 100%; height: auto;" class="intro-header big-img">
         {{ $subtitle := $.Scratch.Get "subtitle" }}
         <div class="container">
-          <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="row" style="width: 100%; height: auto;text-align: center;">
+            <div class="col-lg-12">
               <div class="{{ .Type }}-heading">
                 <h1>{{ with $.Scratch.Get "title" }}{{.}}{{ else }}<br/>{{ end }}</h1>
                   {{ if $subtitle }}
@@ -54,7 +54,7 @@
     <div class="intro-header no-img">
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="col">
             <div class="{{ .Type }}-heading">
               {{ if eq .Type "list" }}
                 <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>

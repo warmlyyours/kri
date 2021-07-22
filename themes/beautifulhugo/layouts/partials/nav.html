@@ -1,21 +1,21 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+<nav class="navbar navbar-expand-lg navbar-fixed-top navbar-inverse bg-inverse navbar-toggleable-sm fixed-top navbar-custom" style="z-index: 1">
   <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-        <span class="sr-only">{{ i18n "toggleNavigation" }}</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
       <a class="navbar-brand" href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#main-navbar" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon" style="background-color: white;border-radius: 5px;box-shadow: inset 0 0 5px #000000;height: 20px;"></span>
+      <span class="sr-only">{{ i18n "toggleNavigation" }}</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
     </div>
-
     <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav">
         {{ range .Site.Menus.main.ByWeight }}
           {{ if .HasChildren }}
             <li class="navlinks-container">
-              <a class="navlinks-parent">{{ .Name }}</a>
+              <a class="navlinks-parent align-middle" style="text-decoration: none;">{{ .Name }}</a>
               <div class="navlinks-children">
                 {{ range .Children }}
                   <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
@@ -23,8 +23,8 @@
               </div>
             </li>
           {{ else }}
-            <li>
-              <a title="{{ .Name }}" href="{{ .URL  | relLangURL }}">{{ .Name }}</a>
+            <li class="nav-item">
+              <a title="{{ .Name }}" href="{{ .URL  | relLangURL }}" style="text-decoration: none;padding: 0em 1em 0em 1em;">{{ .Name }}</a>
             </li>
           {{ end }}
         {{ end }}
@@ -63,10 +63,10 @@
     </div>
 
     {{ if isset .Site.Params "logo" }}
-      <div class="avatar-container">
+      <div class="avatar-container my-4">
         <div class="avatar-img-border">
           <a title="{{ .Site.Title }}" href="{{ "" | absLangURL }}">
-            <img class="avatar-img" width="100" height="100" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
+            <img class="avatar-img" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
           </a>
         </div>
       </div>

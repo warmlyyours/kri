@@ -710,6 +710,7 @@ footer .theme-by {
 
 h4.panel-title > span.badge {
     float: right;
+    color: #bd8201;
 }
 
 @media only screen and (min-width: 768px) {

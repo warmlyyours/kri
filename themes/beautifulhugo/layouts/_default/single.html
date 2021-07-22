@@ -1,8 +1,8 @@
 {{ define "main" }}
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article role="main" class="blog-post">
+<div class="container-fluid" role="main">
+  <div class="row d-flex justify-content-center">
+    <div class="col d-flex justify-content-center">
+      <article class="container-fluid max-width justify-content-center" role="main" class="blog-post">
         {{ .Content }}
 
         {{ if .Params.tags }}
@@ -39,22 +39,28 @@
           {{ end }}
         {{ end }}
       </article>
-
+    </div>
+  <div class="row my-auto mb-5">
       {{ if ne .Type "page" }}
-        <ul class="pager blog-pager">
+        <ul class="pager blog-pager" style="list-style-type: none;">
+          <div class="col justify-content-start">
           {{ if .PrevInSection }}
             <li class="previous">
               <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
             </li>
           {{ end }}
           {{ if .NextInSection }}
+          <div class="col justify-content-end">
             <li class="next">
               <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
             </li>
           {{ end }}
         </ul>
       {{ end }}
-
+        </div>
+      </div>
+    </div>
+</div>
 
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
         {{ if .Site.DisqusShortname }}
