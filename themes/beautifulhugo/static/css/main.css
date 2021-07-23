@@ -901,4 +901,5 @@ h4.see-also {
 
 .navbar-toggler-icon:hover {
   filter: invert(80%);
+  background-image: url(/img/menuicon.jpg)
 }
