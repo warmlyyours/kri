@@ -1,12 +1,12 @@
 ---
-title: Double Galley Kitchen Design
+title: U-Shaped Kitchen Design with Island
 date: "2021-07-23"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529279-R1.jpg
 floorplans:
-- Double Galley
+- U shaped
 ---
-# Double Galley Kitchen Design
+# U Shaped Kitchen Design with Island
 
 >> **Kitchen Shape:** Double Galley
 >
@@ -18,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-![Double Galley Kitchen Design](/img/floorPlans/IP1529279-R1.jpg)
+![U Shaped Kitchen Design with Island](/img/floorPlans/IP1529279-R1.jpg)
 
 ## Installation Options:
 

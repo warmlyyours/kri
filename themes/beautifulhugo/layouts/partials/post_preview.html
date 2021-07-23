@@ -1,5 +1,5 @@
 <article class="post-preview">
-    <a href="{{ .Permalink }}">
+    <a class="align-self-start" href="{{ .Permalink }}">
         <h2 class="post-title">{{ .Title }}</h2>
         {{ if .Params.subtitle }}
         <h3 class="post-subtitle">
@@ -7,7 +7,7 @@
         </h3>
         {{ end }}
         {{ if .Params.image }}
-        <img class="img-fluid" src="{{ .Params.image }}" width="460" height="325" style="max-width: 460px;"alt="{{ .Title }}" class="img-title" />
+        <img class="img align-self-center" src="{{ .Params.image }}" width="460" height="325" style="max-width: 460px;"alt="{{ .Title }}" class="img-title" />
         {{ end }}
         {{ if .Params.video }}
         <video loop autoplay muted playsinline class="img-title">
