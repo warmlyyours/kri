@@ -334,6 +334,12 @@ img {
   }
 }
 
+@media only screen and (max-width: 768px) {
+  .navbar-custom .nav .navlinks-children a:hover {
+    color: #112b3c;
+  }
+}
+
 /* --- Footer --- */
 
 footer {
@@ -893,6 +899,6 @@ h4.see-also {
   box-shadow: -2px -2px 10px rgba(0,0,0,.25) inset, 2px 2px 10px white inset;
 }
 
-.navbar-toggler-icon {
-background-image: url("menuicon.jpg");
+.navbar-toggler-icon:hover {
+  filter: invert(80%);
 }
