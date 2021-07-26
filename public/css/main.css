@@ -178,6 +178,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: #bd8201;
+  min-width: 120px;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -228,6 +229,7 @@ img {
   -webkit-transition: visibility 0.5s, opacity 0.5s ease-in-out;
   -moz-transition: visibility 0.5s, opacity 0.5s ease-in-out;
   transition: visibility 0.5s, opacity 0.5s ease-in-out;
+  top: 1%;
   left: 50%;
   width: 50px;
   margin-top: -25px;
@@ -300,7 +302,7 @@ img {
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
   .navbar-custom .nav .navlinks-container.show-children {
     background: #eee;
   }
@@ -330,6 +332,12 @@ img {
     padding-left: 10px;
     border: 1px solid #eaeaea;
     border-width: 0 1px 1px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-custom .nav .navlinks-children a:hover {
+    color: #112b3c;
   }
 }
 
@@ -890,4 +898,9 @@ h4.see-also {
   max-height: 40px;
   -webkit-appearance: button;
   box-shadow: -2px -2px 10px rgba(0,0,0,.25) inset, 2px 2px 10px white inset;
+}
+
+.navbar-toggler-icon:hover {
+  filter: invert(80%);
+  background-image: url(/img/menuicon.jpg)
 }
