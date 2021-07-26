@@ -542,6 +542,7 @@ footer .theme-by {
   -o-background-size: cover;
   margin-top: 53px; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 35px;
+  background-image: url("/img/kitchen-88M2ZCJ.webp");
 }
 .intro-header.big-img  .big-img-transition {
   position: absolute;
