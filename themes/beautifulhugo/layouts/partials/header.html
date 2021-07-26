@@ -27,10 +27,11 @@
   <header style="width: 100%; height: auto;text-align: center;" class="header-section {{ if $bigimg }}has-img{{ end }}">
     {{ if $bigimg }}
       <div style="width: 100%; height: auto;" class="intro-header big-img">
+    <div class="container">
+      <div class="row" style="width: 100%; height: auto;text-align: center;">
+        <div class="col-lg-12">
+
         {{ $subtitle := $.Scratch.Get "subtitle" }}
-        <div class="container">
-          <div class="row" style="width: 100%; height: auto;text-align: center;">
-            <div class="col-lg-12">
               <div class="{{ .Type }}-heading">
                 <h1>{{ with $.Scratch.Get "title" }}{{.}}{{ else }}<br/>{{ end }}</h1>
                   {{ if $subtitle }}
@@ -45,11 +46,11 @@
                     {{ partial "post_meta.html" . }}
                   {{ end }}
               </div>
+              </div>
             </div>
           </div>
         </div>
         <span class="img-desc" style="display: inline;"></span>
-      </div>
     {{end}}
     <div class="intro-header no-img">
       <div class="container">
