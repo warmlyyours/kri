@@ -40,11 +40,11 @@ If using your kitchen table for dual purposes is an option, one clever idea is t
 
 Puzzle tables with light frames are a lot easier to pick up and move around. It’s convenient because people are going a million miles an hour now learning and working from home while at the same maintaining the household. If you need to use the space for another purpose? No problem, the board can be easily moved from table to countertop, or stored away in a supply closet.
 
-A puzzle table can provide a surface for working but you will still need a place to store papers, pens, pencils, markers, scissors, etc. We highly recommend this [puzzle board](https://www.amazon.com/gp/product/B00NCJ5CB8/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1) as it has sliding compartments where you can tuck away all the supplies you need for the day. When you’re done and you want to make enough room for everyone else it’s seriously a one-step process of picking up the board and moving it elsewhere.
+A puzzle table can provide a surface for working but you will still need a place to store papers, pens, pencils, markers, scissors, etc. We highly recommend this [puzzle board](https://www.amazon.com/gp/product/B00NCJ5CB8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NCJ5CB8&linkCode=as2&tag=kri05-20&linkId=03c40d1a2ef41fbfa55f86147f8043c1) as it has sliding compartments where you can tuck away all the supplies you need for the day. When you’re done and you want to make enough room for everyone else it’s seriously a one-step process of picking up the board and moving it elsewhere.
 
 **Card Tables**
 
-When we talk about card tables, we aren’t talking about the ones at the casino. If you live in a house where at any given time the kitchen is packed, a card table is a perfect solution for a functional temporary work or learning space. Since it may become a semi-permanent fixture, we recommend something that’s functional and beautiful. There are many options to fit your kitchen style. For a more upscale look, we recommend the Meco Stakmore [card table](https://www.amazon.com/MECO-0056-00791-Straight-Folding-Cherry/dp/B0007IIJQM/ref=sxin_9_ac_d_rm?ac_md=0-0-Y2FyZCB0YWJsZQ%3D%3D-ac_d_rm&cv_ct_cx=card+table&dchild=1&keywords=card+table&pd_rd_i=B0007IIJQM&pd_rd_r=f2788bd3-fb96-4ce9-b512-9d347cdcd397&pd_rd_w=CXXr1&pd_rd_wg=5Gbcq&pf_rd_p=3d1a8341-be16-45b1-ae3d-ba8c533ec9f0&pf_rd_r=ZV7AWPPCERXJZKC0M9QC&psc=1&qid=1602528724&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081). It's durable and lightly brushed with a stunning cherry finish. It quickly folds up at the end of the day so that you can reclaim your kitchen space for mealtime or for entertaining.
+When we talk about card tables, we aren’t talking about the ones at the casino. If you live in a house where at any given time the kitchen is packed, a card table is a perfect solution for a functional temporary work or learning space. Since it may become a semi-permanent fixture, we recommend something that’s functional and beautiful. There are many options to fit your kitchen style. For a more upscale look, we recommend the Meco Stakmore [card table](https://www.amazon.com/gp/product/B0007IIJQM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007IIJQM&linkCode=as2&tag=kri05-20&linkId=9f2e42824928e21f9701fde8687ca705). It's durable and lightly brushed with a stunning cherry finish. It quickly folds up at the end of the day so that you can reclaim your kitchen space for mealtime or for entertaining.
 
 # Work, Eat and Play Comfortably
 
@@ -52,7 +52,7 @@ Now that the national consensus is to stay at home and wait out the coronavirus,
 
 Wall-mounted radiant panels provide supplemental heat for areas where your forced air system may not be providing enough heat for a cozy hang out spot. Radiant Panels have an even more important feature for this season of covid - unlike forced air systems, dust and allergens are not spread around the ducts and vents when in use. You can consider closing off the forced air for your kitchen or any room and let the radiant panel be the primary heat source - only turning on the forced air if on occasion you need a quick build-up of heart.
 
-[Radiant panels](https://www.warmlyyours.com/en-US/radiant-panel) may be installed horizontally or vertically so you can configure it to fit the wall space you have. And, there are panels that are plug-in which allow you to even move the panel from one room to another. A direct connection to a power source is another option if you want something that will be fixed in place.
+[Radiant panels](https://www.warmlyyours.com/en-US/radiant-panel?referral_code=KRICOM) may be installed horizontally or vertically so you can configure it to fit the wall space you have. And, there are panels that are plug-in which allow you to even move the panel from one room to another. A direct connection to a power source is another option if you want something that will be fixed in place.
 
 A combination of added warmth, extra work surfaces, and advanced planning will ensure that the kitchen’s new role as the command center keeps your family humming along and meeting the challenges that the coronavirus has brought.  You just might find that your new way of life inspires you to keep some of these methods of operating and running your household.
 
@@ -60,8 +60,3 @@ A combination of added warmth, extra work surfaces, and advanced planning will e
 Don’t hesitate to reach out to us on our socials or in the comments section if you have any questions, comments, or concerns.
 
 Have you set up your kitchen command center? Share your story with us and be sure to share this article with your friends.
-
-#### Sources
-
-https://www.cnn.com/2020/10/06/business/ikea-coronavirus-sales/index.html
-https://www.amazon.com/gp/product/B00NCJ5CB8/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1

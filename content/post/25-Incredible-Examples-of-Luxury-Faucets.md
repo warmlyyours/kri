@@ -18,7 +18,7 @@ The kitchen sink has a very important job to do. A good kitchen sink must be dur
 {{< figure src="img/25sinks/lenova.jpg" >}}
 5. [KSTB-4422 Triple Bowl](https://swanstone.com/en/product/kstb-4422-22%22-x-44%22-triple-bowl_sw000166)
 {{< figure src="img/25sinks/swanstone.jpg" >}}
-6. [Delta 4380-DST](https://www.amazon.com/dp/B002DHBRL4/?tag=cozyhouse-20)
+6. [Delta 4380-DST](https://www.amazon.com/gp/product/B002DHBRL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002DHBRL4&linkCode=as2&tag=kri05-20&linkId=b7a840ca4573a45e6e390ffd349801f9)
 {{< figure src="img/25sinks/cozyhouse.png" >}}
 7. [Source 306003](https://www.homerefinements.ca/en/product/model/306003/)
 {{< figure src="img/25sinks/homerefinements.jpg" >}}
@@ -30,13 +30,13 @@ The kitchen sink has a very important job to do. A good kitchen sink must be dur
 {{< figure src="/img/25sinks/barclay.jpg" >}}
 11. [Kunmai High Arc Kitchen Faucet](https://www.amazon.com/dp/B0771QJKVN?tag=kitchengearzone-20&linkCode=ogi&th=1&psc=1)
 {{< figure src="/img/25sinks/kunmai.png" >}}
-12. [VIGO VG02001MB](https://www.amazon.com/dp/B00RYA1T7M?tag=kitchengearzone-20&linkCode=ogi&th=1&psc=1)
+12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri05-20&linkId=b0af7065d801beca96e145edea855195)
 {{< figure src="/img/25sinks/vigo.png" >}}
 13. [Karbon®](https://www.us.kohler.com/us/karbon-articulating-two-hole-wall-mount-kitchen-sink-faucet-with-13-1-4-spout-with-black-tube/productDetail/kitchen-sink-faucets/427306.htm?skuId=405151&brandId=432405)
 {{< figure src="img/25sinks/karbon.jpeg" >}}
 14. [Franke Ff20650](https://www.houzz.com/products/franke-ff20650-bernadine-single-handle-kitchen-faucet-prvw-vr~120409497)
 {{< figure src="img/25sinks/franke.png" >}}
-15. [Moen 7594EC](https://www.amazon.com/Moen-Motionsense-Two-Sensor-One-Handle-7594EC/dp/B007Y6LL1K/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=thearcsgui07-20&linkId=3f75b2f3089d9da98ac60be496948ce2&language=en_US)
+15. [Moen 7594EC](https://www.amazon.com/gp/product/B007Y6LL1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y6LL1K&linkCode=as2&tag=kri05-20&linkId=4bae9dbce64ec2eed9f3bde5ff0047d7)
 {{< figure src="/img/25sinks/moen.jpg" >}}
 16. [Perrin and Rowe Bridge Kitchen Faucet](https://www.houzz.com/products/perrin-and-rowe-bridge-kitchen-faucet-in-polished-chrome-prvw-vr~68244843)
 {{< figure src="img/25sinks/perrin.png" >}}
@@ -52,7 +52,7 @@ The kitchen sink has a very important job to do. A good kitchen sink must be dur
 {{< figure src="/img/25sinks/elkay.png" >}}
 22. [KWC ERA](https://www.kwc.com/int-en/en/products/series-overview/linie-detail/line/kwc-era-4.html#kitchen)
 {{< figure src="/img/25sinks/kwc.png" >}}
-23. [Hapilife Mixer Monobloc Tap Hapi-03Z](https://www.amazon.co.uk/dp/B00F9Q7EMC/?tag=cozyhouse-20)
+23. [Hapilife Mixer Monobloc Tap Hapi-03Z](https://www.amazon.com/gp/product/B00F9Q7EMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F9Q7EMC&linkCode=as2&tag=kri05-20&linkId=ee278aaa29c676a804b9f3c63d28ff63)
 {{< figure src="/img/25sinks/hapilife.jpg" >}}
-24. [Funime TK 13](https://www.amazon.co.uk/Funime-Upgrade-Traditional-Kitchen-Monobloc/dp/B0722QL62L)
+24. [Funime TK 13](https://www.amazon.com/gp/product/B0722QL62L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0722QL62L&linkCode=as2&tag=kri05-20&linkId=c5706c879a7496ad526db3194abd75ec)
 {{< figure src="/img/25sinks/funime.png" >}}

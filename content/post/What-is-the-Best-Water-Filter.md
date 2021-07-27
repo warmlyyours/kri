@@ -30,7 +30,7 @@ Countertop filters get rid of unwanted contaminants with ease of use. Whilst oth
 Countertop filters have different levels of filtration, starting from simple charcoal carbon filters to more complex ionizing diffusion systems.
 
 
-## [Amazon Basics Filtration System](https://www.amazon.com/AmazonBasics-AMZN-G30CR-Filtration-Reduction-Countertop/dp/B07QHNJQLJ)
+## [Amazon Basics Filtration System](https://www.amazon.com/gp/product/B07QHNJQLJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07QHNJQLJ&linkCode=as2&tag=kri05-20&linkId=c994d4fcc701b1d9c15503d36866fb91)
 **Price: $46.73**
 
 The Amazon Basics system is excellent at reducing chlorine and volatile organic compound (VOC) particles. This kitchen sink filtration system perfectly filters out chlorine and unpleasant odors that can be associated with unfiltered tap water.
@@ -39,7 +39,7 @@ It has a 5-stage filter that is placed conveniently on a kitchen countertop. Ama
 
 This filtration system does not need replacement of the inner filter cartridge. The longevity of this kitchen tap water filter is better than the guaranteed amount of water for all competing product offerings. Competitors fall short of the 30,000 gallons of fresh drinking and cooking water guaranteed by this system.
 
-## [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://www.amazon.com/APEX-EXPRT-MR-2050-Countertop-Drinking/dp/B07GBNB7VG)
+## [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://www.amazon.com/gp/product/B07GBNB7VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GBNB7VG&linkCode=as2&tag=kri05-20&linkId=a5db9cb54d6bfdc24822404a466a99ba)
 **Price: $114.95**
 
 APEX has envisioned a unique and easy kitchen countertop water filter with fast-acting activated charcoal filters. One of the 5 filtering stages actually adds alkaline back into the water line using alkaline beads. This increases the total dissolved solids (TDS) while improving taste by removing chemicals in the amount of water. Customers praise this kitchen faucet filter quality as the closest thing to bottled water.
@@ -48,7 +48,7 @@ Many water filter systems claim reverse diffusion to be the best recommendation 
 
 The flow rate is pretty fast, and always able to fill up a glass in a matter of seconds. Replacement filters are reasonably priced and based on customer experience, your filter will last a couple of months. APEX truly offers a fine water filter system at an affordable price.
 
-## [H2O+ Cypress Countertop Water Filtration System](https://www.amazon.com/Brondell-Cypress-Countertop-Filter-Certified/dp/B00EEDJSES)
+## [H2O+ Cypress Countertop Water Filtration System](https://www.amazon.com/gp/product/B00EEDJSES/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EEDJSES&linkCode=as2&tag=kri05-20&linkId=3551d929336158fc4d9aaf94873dc2d7)
 **Price: $146.00**
 
 A major selling point of the H20+ Cypress is that it is both versatile and convenient, able to fit 99% of home faucets with appropriate adapters.
@@ -97,14 +97,14 @@ A good reason to select this undersink filter is its removal of chlorine and chl
 
 We just had to include faucet filters. A faucet filter is a kitchen faucet with a mounted attachment that connects to your kitchen sink. This past year, new technologies of faucet filters have been a major trend. Outfitting a sink to a kitchen faucet provides great-tasting and clean faucet water.
 
-## [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/Brita-Filtration-Reminder-Reduces-Standard/dp/B000EOOQPW/ref=zg_bs_680337011_3?_encoding=UTF8&refRID=D3W9GDFQRPCJTYNCPRBM&th=1)
+## [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/gp/product/B000EOOQPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOOQPW&linkCode=as2&tag=kri05-20&linkId=0f59eace4995b8dc2b16d9cfe2900bea)
 **Price: $16.88**
 
 Keep clean and great tasting water at your disposal with the critically acclaimed #1 Brand of water filtration in the world. Brita faucet mount filters 50 contaminants out of your tap, making your glass of water a sterile environment. With the addition of a one-click filter replacement, it’s simple to replace the water filter every 4 months. You’re no longer contributing to plastic bottle pollution and you’re saving money.
 
 Brita’s kitchen faucet water filter rarely ever leaks. The life span of a basic Brita filter guarantees 100 gallons of filtered tap water.
 
-## [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/Waterdrop-320-Gallon-Long-Lasting-Filtration-Adsorptive/dp/B01GABXWCK/ref=zg_bs_680337011_9?_encoding=UTF8&psc=1&refRID=D3W9GDFQRPCJTYNCPRBM)
+## [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/gp/product/B01GABXWCK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GABXWCK&linkCode=as2&tag=kri05-20&linkId=5f99f39588e8ae15061c693eca404218)
 **Price: $19.88**
 
 Upgrade your kitchen faucet to a brand new water faucet filtration system. A standard faucet mount can be fitted to your nozzle with the right adapters. This certified kitchen sink water faucet filter removes fluoride, lead, and other contaminants.
@@ -115,21 +115,21 @@ Time was spent subjecting this kitchen sink faucet filter to rigorous testing. C
 
 ### Best by Category:
 
-Best at removing fluoride: [Amazon Basics Filtration System](https://www.amazon.com/AmazonBasics-AMZN-G30CR-Filtration-Reduction-Countertop/dp/B07QHNJQLJ)
+Best at removing fluoride: [Amazon Basics Filtration System](https://www.amazon.com/gp/product/B07QHNJQLJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07QHNJQLJ&linkCode=as2&tag=kri05-20&linkId=c994d4fcc701b1d9c15503d36866fb91)
 
 Best at removing lead: [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
 
-Best taste: [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://www.amazon.com/APEX-EXPRT-MR-2050-Countertop-Drinking/dp/B07GBNB7VG)
+Best taste: [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://www.amazon.com/gp/product/B07GBNB7VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GBNB7VG&linkCode=as2&tag=kri05-20&linkId=a5db9cb54d6bfdc24822404a466a99ba)
 
-Best water filtration on a budget: [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/Brita-Filtration-Reminder-Reduces-Standard/dp/B000EOOQPW/ref=zg_bs_680337011_3?_encoding=UTF8&refRID=D3W9GDFQRPCJTYNCPRBM&th=1)
+Best water filtration on a budget: [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/gp/product/B000EOOQPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOOQPW&linkCode=as2&tag=kri05-20&linkId=0f59eace4995b8dc2b16d9cfe2900bea)
 
 Best at removing rust: [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
 
 Best under sink filter: [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
 
-Best countertop filter: [H2O+ Cypress Countertop Water Filtration System](https://www.amazon.com/Brondell-Cypress-Countertop-Filter-Certified/dp/B00EEDJSES)
+Best countertop filter: [H2O+ Cypress Countertop Water Filtration System](https://www.amazon.com/gp/product/B00EEDJSES/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EEDJSES&linkCode=as2&tag=kri05-20&linkId=3551d929336158fc4d9aaf94873dc2d7)
 
-Best faucet filter: [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/Waterdrop-320-Gallon-Long-Lasting-Filtration-Adsorptive/dp/B01GABXWCK/ref=zg_bs_680337011_9?_encoding=UTF8&psc=1&refRID=D3W9GDFQRPCJTYNCPRBM)
+Best faucet filter: [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/gp/product/B01GABXWCK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GABXWCK&linkCode=as2&tag=kri05-20&linkId=5f99f39588e8ae15061c693eca404218)
 
 Be free from the burdens of bottled water and save money. Our greatest interest is to showcase top notch water filtration systems. Whether it’s charcoal activated filters, reverse osmosis, or even distillation. You’ll be able to significantly decrease the number of contaminants of your water line.
 

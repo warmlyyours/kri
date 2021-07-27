@@ -6,6 +6,7 @@ author: Kitchen Remodel Ideas
 tags:
   - Flooring
   - Essentials
+image: /img/pups/shih-tzu-sitting-on-the-floor-2623968.jpg
 ---
 
 For those of us who chose to adopt a friendly canine companion, whether it's a new puppy or an older dog, perhaps even a rescue. This new chapter will be marked with responsibilities as you share your home with a clawed animal. They're going to be running around all over the place. Let's not even discuss the mess you're going to be constantly cleaning. As a homeowner, you're never not cleaning up thanks to them.
