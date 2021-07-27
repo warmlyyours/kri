@@ -29,10 +29,10 @@
           </li>
           {{ end }}
         </ul>
-        <p class="credits copyright text-muted">
+        <p class="credits copyright text-muted" style="color: #eee !important;">
           {{ if .Site.Author.name }}
             {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+              <a style="color: #eee" href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
             {{ else }}
               {{ .Site.Author.name }}
             {{ end }}
@@ -47,11 +47,11 @@
 
           {{ if .Site.Title }}
             &nbsp;&bull;&nbsp;
-            <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+            <a class="krifooter" href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
           {{ end }}
         </p>
         <!-- Please don't remove this, keep my open source work credited :) -->
-        <p class="credits theme-by text-muted">
+        <p class="credits theme-by text-muted align-self-center d-flex justify-content-center" style="color: #eee !important;">
           {{ i18n "poweredBy" . | safeHTML }}
           {{ if $.GitInfo }}&nbsp;&bull;&nbsp;[<a href="{{ .Site.Params.commit }}{{ .GitInfo.Hash }}">{{ substr .GitInfo.Hash 0 8 }}</a>]{{ end }}
         </p>
