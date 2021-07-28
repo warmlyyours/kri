@@ -16,7 +16,7 @@
           {{ if .HasChildren }}
             <li class="navlinks-container" style="padding-right: 10px;padding-left: 5px">
               <a class="navlinks-parent align-middle" style="text-decoration: none;">{{ .Name }}</a>
-              <div class="navlinks-children position-absolute" style="left: 0%">
+              <div class="navlinks-children" style="left: 0%">
                 {{ range .Children }}
                   <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ end }}
