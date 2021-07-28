@@ -293,6 +293,7 @@ img {
   display: none;
   word-break: break-word;
 }
+
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
   padding: 10px;
@@ -318,10 +319,10 @@ img {
     background: #eee;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
-    display: block;
+    display: inline-block;
   }
   .navbar-custom .nav .navlinks-children {
-    position: absolute;
+    position: relative;
   }
 
   .navbar-custom .nav .navlinks-children a:hover {
