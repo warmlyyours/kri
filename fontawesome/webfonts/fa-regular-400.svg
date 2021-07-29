@@ -14,7 +14,7 @@ Copyright (c) Font Awesome
 <font id="FontAwesome5Free-Regular" horiz-adv-x="512" >
   <font-face
     font-family="Font Awesome 5 Free Regular"
-    font-display="swap"
+    font-display="auto"
     font-weight="400"
     font-stretch="normal"
     units-per-em="512"

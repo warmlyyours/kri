@@ -4,7 +4,7 @@
 <defs >
 <font id="Lora" horiz-adv-x="603" ><font-face
     font-family="Lora"
-    font-display= "swap"
+    font-display= "auto"
     units-per-em="1000"
     panose-1="0 0 8 0 0 0 0 0 0 0"
     ascent="1033"
