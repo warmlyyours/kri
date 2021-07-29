@@ -14,7 +14,7 @@ Copyright (c) Font Awesome
 <font id="FontAwesome5Brands-Regular" horiz-adv-x="448" >
   <font-face
     font-family="Font Awesome 5 Brands Regular"
-    font-display="swap"
+    font-display="auto"
     font-weight="400"
     font-stretch="normal"
     units-per-em="512"
