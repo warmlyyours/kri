@@ -4,6 +4,7 @@
 <defs >
 <font id="OpenSans" horiz-adv-x="1219" ><font-face
     font-family="Open Sans"
+    font-display= "auto"
     units-per-em="2048"
     panose-1="2 11 8 6 3 5 4 2 2 4"
     ascent="2189"
