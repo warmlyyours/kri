@@ -10,8 +10,14 @@ The kitchen sink has a very important job to do. A good kitchen sink must be dur
 
 1. [Chillout FF4900](https://www.franke.com/us/en/ks/products/kitchen-faucets/chillout/115-0378-985_detail.html)
 {{< figure src="/img/25sinks/chillout.jpg" >}}
+
+For each and every kitchen, dishes must be done and cookware products ought to be cleaned. Rinsing the kitchen sink, blasting off leftover items, clearing large pans and pots, are just an array of opportunities. You name it! The Chillout FF4900 is THE kitchen sink.
+
 2. [Effe EF129](https://www.houzz.com/products/effe-ef-179-kitchen-faucet-with-swivel-spout-polished-chrome-prvw-vr~85446899)
 {{< figure src="/img/25sinks/effe.png" >}}
+
+Constantly cleaning up after yourself and others can be gruesomely monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
+
 3. [Vingloo Brushed Gold Luxury Kitchen Faucet](https://vingloo.com/product/luxury-brushed-gold-kitchen-faucet-gold-bathroom-faucets/)
 {{< figure src="img/25sinks/vingloo.jpg" >}}
 4. [Ozone Generating Kitchen Faucet Pull Down](https://lenovasinks.com/product/ozone-generating-kitchen-faucet-pull-down-16-1-2-height/?location=1250%20Flex%20Ct,%20Lake%20Zurich,%20IL%2060047,%20USA&radius=25)

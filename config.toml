@@ -53,10 +53,10 @@ paginate = 5
 
 [Author]
   name = "Chris Selvais"
-  website = "www.kitchenremodelideas.com"
+  website = "https://www.facebook.com/cselvais/"
   email = "chris@kitchenremodelideas.com"
   facebook = "kitchenremodelideasworldwide/"
-  #github = "username"
+  github = "antiprysm"
   #gitlab = "username"
   #bitbucket = "username"
   twitter = "KR_Ideas/"
