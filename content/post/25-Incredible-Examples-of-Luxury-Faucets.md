@@ -16,16 +16,30 @@ For each and every kitchen, dishes must be done and cookware products ought to b
 2. [Effe EF129](https://www.houzz.com/products/effe-ef-179-kitchen-faucet-with-swivel-spout-polished-chrome-prvw-vr~85446899)
 {{< figure src="/img/25sinks/effe.png" >}}
 
-Constantly cleaning up after yourself and others can be gruesomely monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
+Constantly cleaning up after yourself and others can be monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
 
-3. [Vingloo Brushed Gold Luxury Kitchen Faucet](https://vingloo.com/product/luxury-brushed-gold-kitchen-faucet-gold-bathroom-faucets/)
-{{< figure src="img/25sinks/vingloo.jpg" >}}
+3. [BESy Commercial Kitchen Faucet with Pull Down Sprayer](https://www.amazon.com/gp/product/B08KT5M375/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08KT5M375&linkCode=as2&tag=kri05-20&linkId=16fe27fed4ac170e987d0e156a73e89a)
+
+![BESy Commercial Kitchen Faucet with Pull Down Sprayer](/img/25sinks/613LjV8xbmS._AC_SL1500_.jpg)
+
+The BESy commercial kitchen faucet offers the latest of kitchen faucet technology. A three-function sprayer head can be pulled out and pulled town to spray off and rinse dishes, plates, and even baking sheets. Although we did not have the chance to experiment with this particular faucet at our testing facility, everyone's been leaving excellent reviews. A high-arch spout, single lever spring, and immaculate brushed gold finish makes cleanup a breeze.
+
+
 4. [Ozone Generating Kitchen Faucet Pull Down](https://lenovasinks.com/product/ozone-generating-kitchen-faucet-pull-down-16-1-2-height/?location=1250%20Flex%20Ct,%20Lake%20Zurich,%20IL%2060047,%20USA&radius=25)
 {{< figure src="img/25sinks/lenova.jpg" >}}
+
+Lenovasinks are some of the MOST luxurious market-ready faucets. But don't take it from us, we don't insist! Find out for yourself just how amazing it can be cleaning food particles and contaminants. The base of the faucet houses a filtration chamber, eliminating bacteria and pesticides without additional instillation of an under or over counter water filter system. You get an elegant swan neck and a spout you can pull down to reach every part of your sink basin. Long and tall spouts have higher clearances, but get lower water pressure than a short spout faucet.
+
 5. [KSTB-4422 Triple Bowl](https://swanstone.com/en/product/kstb-4422-22%22-x-44%22-triple-bowl_sw000166)
 {{< figure src="img/25sinks/swanstone.jpg" >}}
+
+A straight spout faucet such as this one here is small and lightweight enough and designed very well to fit perfectly for a compact kitchen. Three bowls inlayed next to each other gives maximum efficiency. The basins are shallow so if you say spring a leak then there's enough workspace under the counter to seal up your line, but you may need to wash large cookware separately. Not a lot of faucets are made with the quality of craftsmanship seen in this design.
+
 6. [Delta 4380-DST](https://www.amazon.com/gp/product/B002DHBRL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002DHBRL4&linkCode=as2&tag=kri05-20&linkId=b7a840ca4573a45e6e390ffd349801f9)
 {{< figure src="img/25sinks/cozyhouse.png" >}}
+
+
+
 7. [Source 306003](https://www.homerefinements.ca/en/product/model/306003/)
 {{< figure src="img/25sinks/homerefinements.jpg" >}}
 8. [WHKPFLV3-9550](http://whitehauscollection.com/product/whkpflv3-9550/)

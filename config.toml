@@ -32,6 +32,7 @@ paginate = 5
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
+  description = "Kitchen Remodeling Ideas"
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [taxonomies]

@@ -16,7 +16,7 @@
           {{ if .HasChildren }}
             <li class="navlinks-container nav-item dropdown" style="padding-right: 10px;padding-left: 5px">
               <a class="nav-item dropdown-toggle align-middle" style="text-decoration: none;" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}</a>
-              <ul class="dropdown-menu navlinks-children" aria-labelledby="navbarDropdown" style="left: 0%">
+              <ul class="dropdown-menu navlinks-children" aria-labelledby="navbarDropdown2" style="left: 0%">
                 <li>{{ range .Children }}
                   <a class="dropdown-item" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ end }}
