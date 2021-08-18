@@ -38,7 +38,7 @@ A straight spout faucet such as this one here is small and lightweight enough an
 6. [Delta 4380-DST](https://www.amazon.com/gp/product/B002DHBRL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002DHBRL4&linkCode=as2&tag=kri05-20&linkId=b7a840ca4573a45e6e390ffd349801f9)
 {{< figure src="img/25sinks/cozyhouse.png" >}}
 
-
+At a glance, if you're the proud owner of a three hole kitchen sink then this Delta faucet is perfect for you. A goose-neck faucet inspired by nature and modernity swivels 180 degrees for additional conveniency. The single handle faucet can set the desired temperature of the water and keep the actual temperature at no more or less than your configuration. Leak points are prevented by the patented DIAMOND Seal Technology and this sink claims to last twice as long as industry standards. Lastly, a detachable sprayer gives you the flexibility to wash tough-to-reach spots.
 
 7. [Source 306003](https://www.homerefinements.ca/en/product/model/306003/)
 {{< figure src="img/25sinks/homerefinements.jpg" >}}
