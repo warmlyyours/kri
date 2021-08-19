@@ -18,7 +18,7 @@ For each and every kitchen, dishes must be done and cookware products ought to b
 
 Constantly cleaning up after yourself and others can be monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
 
-3. [BESy Commercial Kitchen Faucet with Pull Down Sprayer](https://www.amazon.com/gp/product/B08KT5M375/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08KT5M375&linkCode=as2&tag=kri05-20&linkId=16fe27fed4ac170e987d0e156a73e89a)
+3. [BESy Commercial Kitchen Faucet with Pull Down Sprayer](https://www.amazon.com/gp/product/B08KT5M375/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08KT5M375&linkCode=as2&tag=kri0eb-20&linkId=8819521161518d9d6c812e472b23025f)
 
 ![BESy Commercial Kitchen Faucet with Pull Down Sprayer](/img/25sinks/613LjV8xbmS._AC_SL1500_.jpg)
 
@@ -35,28 +35,31 @@ Lenovasinks are some of the MOST luxurious market-ready faucets. But don't take 
 
 A straight spout faucet such as this one here is small and lightweight enough and designed very well to fit perfectly for a compact kitchen. Three bowls inlayed next to each other gives maximum efficiency. The basins are shallow so if you say spring a leak then there's enough workspace under the counter to seal up your line, but you may need to wash large cookware separately. Not a lot of faucets are made with the quality of craftsmanship seen in this design.
 
-6. [Delta 4380-DST](https://www.amazon.com/gp/product/B002DHBRL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002DHBRL4&linkCode=as2&tag=kri05-20&linkId=b7a840ca4573a45e6e390ffd349801f9)
+6. [Delta 4380-DST](https://www.amazon.com/gp/product/B002DHBRL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002DHBRL4&linkCode=as2&tag=kri0eb-20&linkId=02876161b6efff88f905287967718af5)
 {{< figure src="img/25sinks/cozyhouse.png" >}}
 
 At a glance, if you're the proud owner of a three hole kitchen sink then this Delta faucet is perfect for you. A goose-neck faucet inspired by nature and modernity swivels 180 degrees for additional conveniency. The single handle faucet can set the desired temperature of the water and keep the actual temperature at no more or less than your configuration. Leak points are prevented by the patented DIAMOND Seal Technology and this sink claims to last twice as long as industry standards. Lastly, a detachable sprayer gives you the flexibility to wash tough-to-reach spots.
 
 7. [Source 306003](https://www.homerefinements.ca/en/product/model/306003/)
 {{< figure src="img/25sinks/homerefinements.jpg" >}}
+
+Intuitively crafted German engineering brings the Source 306003 to the next level. Not just your average kitchen faucet, the Source is made of solid brass construction, moreover, resistant to bacterial growth. What's more is the locking spray jet mode strongly clears off dinner plates if not twice as fast as standard water sprays. If you want to remodel your countertop, the Source can be descaled for easy cleaning and low-maintenance reconstruction. This sink makes the chase as the leader of functionality and style.
+
 8. [WHKPFLV3-9550](http://whitehauscollection.com/product/whkpflv3-9550/)
 {{< figure src="/img/25sinks/whitehaus.jpg" >}}
 9. [Waterstone Faucets](https://waterstoneco.com/)
 {{< figure src="/img/25sinks/waterstone.jpg" >}}
 10. [Carlton Kitchen Bridge Faucet](https://www.barclayproducts.com/collections/kitchen-faucets/products/carlton-kitchen-bridge-faucet-with-metal-cross-handles)
 {{< figure src="/img/25sinks/barclay.jpg" >}}
-11. [Kunmai High Arc Kitchen Faucet](https://www.amazon.com/dp/B0771QJKVN?tag=kitchengearzone-20&linkCode=ogi&th=1&psc=1)
+11. [Kunmai High Arc Kitchen Faucet](https://www.amazon.com/gp/product/B0771QJKVN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0771QJKVN&linkCode=as2&tag=kri0eb-20&linkId=04cbc4fbd0afe8fe29b519ea7fe7e0db)
 {{< figure src="/img/25sinks/kunmai.png" >}}
-12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri05-20&linkId=b0af7065d801beca96e145edea855195)
+12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri0eb-20&linkId=b1968621cba0ce41296040a145f8f753)
 {{< figure src="/img/25sinks/vigo.png" >}}
 13. [Karbon®](https://www.us.kohler.com/us/karbon-articulating-two-hole-wall-mount-kitchen-sink-faucet-with-13-1-4-spout-with-black-tube/productDetail/kitchen-sink-faucets/427306.htm?skuId=405151&brandId=432405)
 {{< figure src="img/25sinks/karbon.jpeg" >}}
 14. [Franke Ff20650](https://www.houzz.com/products/franke-ff20650-bernadine-single-handle-kitchen-faucet-prvw-vr~120409497)
 {{< figure src="img/25sinks/franke.png" >}}
-15. [Moen 7594EC](https://www.amazon.com/gp/product/B007Y6LL1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y6LL1K&linkCode=as2&tag=kri05-20&linkId=4bae9dbce64ec2eed9f3bde5ff0047d7)
+15. [Moen 7594EC](https://www.amazon.com/gp/product/B007Y6LL1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y6LL1K&linkCode=as2&tag=kri0eb-20&linkId=b3c6d4b0e09c662c88a458d6a474fe7c)
 {{< figure src="/img/25sinks/moen.jpg" >}}
 16. [Perrin and Rowe Bridge Kitchen Faucet](https://www.houzz.com/products/perrin-and-rowe-bridge-kitchen-faucet-in-polished-chrome-prvw-vr~68244843)
 {{< figure src="img/25sinks/perrin.png" >}}
@@ -72,7 +75,7 @@ At a glance, if you're the proud owner of a three hole kitchen sink then this De
 {{< figure src="/img/25sinks/elkay.png" >}}
 22. [KWC ERA](https://www.kwc.com/int-en/en/products/series-overview/linie-detail/line/kwc-era-4.html#kitchen)
 {{< figure src="/img/25sinks/kwc.png" >}}
-23. [Hapilife Mixer Monobloc Tap Hapi-03Z](https://www.amazon.com/gp/product/B00F9Q7EMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F9Q7EMC&linkCode=as2&tag=kri05-20&linkId=ee278aaa29c676a804b9f3c63d28ff63)
+23. [Hapilife Mixer Monobloc Tap Hapi-03Z](https://www.amazon.com/gp/product/B00F9Q7EMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F9Q7EMC&linkCode=as2&tag=kri0eb-20&linkId=25266d2504bd4b639593efff7e09c384)
 {{< figure src="/img/25sinks/hapilife.jpg" >}}
 24. [Funime TK 13](https://www.amazon.com/gp/product/B0722QL62L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0722QL62L&linkCode=as2&tag=kri05-20&linkId=c5706c879a7496ad526db3194abd75ec)
 {{< figure src="/img/25sinks/funime.png" >}}

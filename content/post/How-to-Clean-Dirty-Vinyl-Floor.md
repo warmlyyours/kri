@@ -15,7 +15,7 @@ We live in a society that’s well-informed and each day we learn and continue t
 
 Even so, we’re conscious of the negative effects and yet how many of us keep the Windex ready to go during clean up time? It’s true that the heart of the issue is the high-impact that toxic chemicals have caused on the environment. So, don’t let this day go by without thinking about making the switch over to a chemical-free, non-toxic solution.
 
-You wouldn’t go wrong with an all-purpose cleaner and we have found some great non-toxic cleaning solutions out there. [Seventh Generation’s](https://www.amazon.com/gp/product/B00MUE2OHG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MUE2OHG&linkCode=as2&tag=kri05-20&linkId=5d39dc5537de19376b87766a7c18c546) got an excellent cleaner on the market that works superbly on all kinds of surfaces. If that’s not enough, you want more options, head over to your health food store and find a chemical-free solution that works to suit your needs and tackle the tough stains that buildup.
+You wouldn’t go wrong with an all-purpose cleaner and we have found some great non-toxic cleaning solutions out there. [Seventh Generation’s](https://www.amazon.com/gp/product/B00MUE2OHG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MUE2OHG&linkCode=as2&tag=kri0eb-20&linkId=9682e0bce08a12f481846e18c3b89b8e) got an excellent cleaner on the market that works superbly on all kinds of surfaces. If that’s not enough, you want more options, head over to your health food store and find a chemical-free solution that works to suit your needs and tackle the tough stains that buildup.
 
 # Leave Your Shoes at the Door
 
@@ -29,7 +29,7 @@ Doormats are a wonderful tool you place at the perimeter of your house and even 
 
 My mother and I live with three dogs and I am cleaning up after them every day. Dog ownership is a full-time job that’s also extremely rewarding. As we learn to coexist with our animal friends, we have changed parts of our house and made compromises that fit better for a life with a dog.
 
-An example of which we’ll address is none other than the in-floor heating we did underneath our kitchen tiles. Dogs absolutely love warm floors. When you supplementally heat a room with [radiant heating](https://www.warmlyyours.com/en-US/floor-heating), gentle heat radiantly warms your floors and the temperature change is just perfect for dogs - not too hot - and not at a temperature that plastic [dog boots](https://www.amazon.com/dog-boots/b?ie=UTF8&node=3024169011) could melt.
+An example of which we’ll address is none other than the in-floor heating we did underneath our kitchen tiles. Dogs absolutely love warm floors. When you supplementally heat a room with [radiant heating](https://www.warmlyyours.com/en-US/floor-heating), gentle heat radiantly warms your floors and the temperature change is just perfect for dogs - not too hot - and not at a temperature that plastic [dog boots](https://www.amazon.com/gp/product/B08LZ8CSQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08LZ8CSQ4&linkCode=as2&tag=kri0eb-20&linkId=0713c6ce2d40676221e80948a9468230) could melt.
 
 Furthermore, If you’ve got a dog door installed at home, then you won’t always be there to catch your dog from bringing in the mud. We urge you to consider the advantages of dog boots. First of all, dogs walk uncomfortably on hard surfaces.
 
