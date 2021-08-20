@@ -1,2 +1,4 @@
-##
-{{< frontpage >}}
+
+&nbsp;
+
+ {{< frontpage >}}

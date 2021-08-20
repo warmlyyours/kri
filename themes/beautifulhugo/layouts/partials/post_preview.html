@@ -7,7 +7,7 @@
         </h3>
         {{ end }}
         {{ if .Params.image }}
-        <img class="img rounded mx-auto d-block" src="{{ .Params.image }}" width="390" height="325" style="max-width: 720px;"alt="{{ .Title }}" class="img-title" />
+        <img class="img rounded mx-auto d-block" src="{{ .Params.image }}" width="390" height="325" style="max-width: 720px;" alt="{{ . }}" title="{{ .Title }}" class="img-title" />
         {{ end }}
         {{ if .Params.video }}
         <video loop autoplay muted playsinline class="img-title">

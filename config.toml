@@ -1,7 +1,7 @@
 baseurl = "https://www.kitchenremodelideas.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "KRI"
+title = "Kitchen Remodel Ideas"
 theme = "beautifulhugo"
 metaDataFormat = "toml"
 pygmentsStyle = "trac"
@@ -17,7 +17,7 @@ paginate = 5
 
 [Params]
   homeTitle = "Bringing Truly Bright Ideas" # Set a different text for the header on the home page
-  subtitle = "On-Demand Design & Innovation"
+  subtitle = "Kitchen Ideas Guaranteed"
   mainSections = ["post","posts"]
   logo = "img/KRIlogo.webp" # Expecting square dimensions
   favicon = "favicon.ico"
