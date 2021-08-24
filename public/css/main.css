@@ -885,6 +885,7 @@ h4.see-also {
   text-align: center;
   transition: all 150ms ease-in-out;
   color: #fff;
+  font-display: swap
 }
  ul.share li a {
   background-color: #b5c6ce;
