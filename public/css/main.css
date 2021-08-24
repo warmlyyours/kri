@@ -12,6 +12,7 @@ body {
   display: flex;
   flex-flow: column;
   min-height: 100vh;
+  font-display: swap
 }
 .container[role=main] {
   margin-bottom:50px;
@@ -46,6 +47,7 @@ p a {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
+  font-display: swap
 }
 a {
   color: #008AFF;
@@ -82,6 +84,7 @@ hr.small {
 .main-explain-area {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
+  font-display: swap
 }
 
 .hideme {
@@ -94,6 +97,7 @@ div.panel-body a.list-group-item {
   border-radius: 0;
   border: none;
   font-size: 16px;
+  font-display: swap
 }
 div.panel-group .panel {
     border-radius: 0;
@@ -166,6 +170,7 @@ img {
   background: #112b3c;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-display: swap
 }
 
 .navbar-custom .nav li a {
@@ -357,6 +362,7 @@ footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
+  font-display: swap
 }
 
 footer .copyright a:hover {
@@ -449,6 +455,7 @@ footer .theme-by a:hover {
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-display: swap
 }
 .post-entry-container {
   display: inline-block;
@@ -491,6 +498,7 @@ footer .theme-by a:hover {
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
+  font-display: swap
 }
 
 .blog-tags:before {
@@ -601,6 +609,7 @@ footer .theme-by a:hover {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
+  font-display: swap
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
@@ -627,6 +636,7 @@ footer .theme-by a:hover {
   right: 0;
   bottom: 0;
   display: none;
+  font-display: swap
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
@@ -710,6 +720,7 @@ footer .theme-by a:hover {
   background: #FFF;
   border-radius: 0;
   color: #404040;
+  font-display: swap
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -830,6 +841,7 @@ div.splitbox div.right {
   background: #FFF;
   border-radius: 0;
   color: #404040;
+  font-display: swap
 }
 @media only screen and (min-width: 768px) {
   .disqus-comments button {
@@ -864,7 +876,7 @@ h4.see-also {
  ul.share li:last-of-type {
   margin-right: 0;
 }
- ul.share li .fab {
+ ul.share li {
   display: block;
   width: 30px;
   height: 30px;
@@ -881,7 +893,7 @@ h4.see-also {
   text-decoration: none !important;
   margin: 0;
 }
- ul.share li:hover .fab {
+ ul.share li:hover {
   transform: scale(1.4)
 }
 
@@ -899,6 +911,7 @@ h4.see-also {
   color: #112b3c;
   max-height: 40px;
   -webkit-appearance: button;
+  font-display: swap
 }
 
 .mermaid button:hover {
@@ -913,6 +926,7 @@ h4.see-also {
   max-height: 40px;
   -webkit-appearance: button;
   box-shadow: -2px -2px 10px rgba(0,0,0,.25) inset, 2px 2px 10px white inset;
+  font-display: swap
 }
 
 .navbar-toggler-icon:hover {

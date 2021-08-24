@@ -48,10 +48,9 @@
   <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   {{- if .Site.Params.selfHosted -}}
-  <link rel="stylesheet" media="print" onload="this.onload=null;this.rel='stylesheet'" href="{{ "fontawesome/css/all.css" | absURL }}" />
   <link rel="stylesheet" media="print" onload="this.onload=null;this.rel='stylesheet'" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css" />
   {{- else -}}
-  <link rel="stylesheet" media="print" onload="this.media='all'" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.5.0/css/all.css" integrity="sha512-e+PxBumNbaIweetzh9C4Ptz8bD8NwI/H8usndKNEzmaBAKKR7sa8pp6iVqqeP04KHZSCzMaoRg0LFsAeImVHWg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
   <link rel="stylesheet" media="print" onload="this.onload=null;this.rel='stylesheet'" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css" integrity="sha512-usVBAd66/NpVNfBge19gws2j6JZinnca12rAe2l+d+QkLU9fiG02O1X8Q6hepIpr/EYKZvKx/I9WsnujJuOmBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   {{- end -}}
 
