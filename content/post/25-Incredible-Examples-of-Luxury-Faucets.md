@@ -1,12 +1,12 @@
 ---
-title: 25 Incredible Examples of Luxury Faucets
+title: 24 Incredible Examples of Luxury Faucets
 date: 2019-12-18
 author: Kitchen Remodel Ideas
 tags:
   - Faucets
 ---
 
-The kitchen sink has a very important job to do. A good kitchen sink must be durable enough to hold up to rigorous choring. Dishes are washed and sanitized on a daily basis. Your kitchen deserves a luxurious faucet that's both elegant and functional. Here's an assorted collection of kitchen & bath brands offering beautifully designed faucets for a fair price.
+The kitchen sink has a very important job to do. A good kitchen sink must be durable enough to hold up to rigorous choring. Dishes are washed and sanitized on a daily basis. Your kitchen deserves a luxurious faucet that's both elegant and functional. Here's an assorted collection of kitchen ware brands offering beautifully designed faucets for a fair price.
 
 1. [Chillout FF4900](https://www.franke.com/us/en/ks/products/kitchen-faucets/chillout/115-0378-985_detail.html)
 {{< figure src="/img/25sinks/chillout.jpg" >}}
@@ -38,15 +38,18 @@ A straight spout faucet such as this one here is small and lightweight enough an
 6. [Delta 4380-DST](https://www.amazon.com/gp/product/B002DHBRL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002DHBRL4&linkCode=as2&tag=kri0eb-20&linkId=02876161b6efff88f905287967718af5)
 {{< figure src="img/25sinks/cozyhouse.png" >}}
 
-At a glance, if you're the proud owner of a three hole kitchen sink then this Delta faucet is perfect for you. A goose-neck faucet inspired by nature and modernity swivels 180 degrees for additional conveniency. The single handle faucet can set the desired temperature of the water and keep the actual temperature at no more or less than your configuration. Leak points are prevented by the patented DIAMOND Seal Technology and this sink claims to last twice as long as industry standards. Lastly, a detachable sprayer gives you the flexibility to wash tough-to-reach spots.
+At a glance, if you're the proud owner of a three-hole kitchen sink then this Delta faucet is perfect for you. A goose-neck faucet inspired by nature and modernity swivels 180 degrees for additional conveniency. The single handle faucet can set the desired temperature of the water and keep the actual temperature at no more or less than your configuration. Leak points are prevented by the patented DIAMOND Seal Technology and this sink claims to last twice as long as industry standards. Lastly, a detachable sprayer gives you the flexibility to wash tough-to-reach spots.
 
 7. [Source 306003](https://www.homerefinements.ca/en/product/model/306003/)
 {{< figure src="img/25sinks/homerefinements.jpg" >}}
 
 Intuitively crafted German engineering brings the Source 306003 to the next level. Not just your average kitchen faucet, the Source is made of solid brass construction, moreover, resistant to bacterial growth. What's more is the locking spray jet mode strongly clears off dinner plates if not twice as fast as standard water sprays. If you want to remodel your countertop, the Source can be descaled for easy cleaning and low-maintenance reconstruction. This sink makes the chase as the leader of functionality and style.
 
-8. [WHKPFLV3-9550](http://whitehauscollection.com/product/whkpflv3-9550/)
-{{< figure src="/img/25sinks/whitehaus.jpg" >}}
+8. [VINTAGE III DECK MOUNT RETRACTABLE SWING SPOUT POT FILLER WITH LEVER HANDLES AND SWIVEL AERATOR](https://whitehauscollection.com/collections/pot-fillers/products/vintage-iii-deck-mount-retractable-swing-spout-pot-filler-with-lever-handles-and-swivel-aerator)
+![VINTAGE III DECK MOUNT RETRACTABLE SWING SPOUT POT FILLER WITH LEVER HANDLES AND SWIVEL AERATOR](/img/25sinks/WHKPFDLV3-9555_PolishedChrome_2000x.jpeg)
+
+Brilliantly designed top-notch kitchen hardware for serious chefs. Pot fillers are usually installed over the range so you won't lose your grip carrying heavy pots around your kitchen. The Vintage 3 is available in a huge array of tough finishes and you can map it out behind the stove with a longer supply hose to connect to your water line. Don't buy this faucet if you don't have a long enough supply line. It's dedicated to just cold water and can be fitted with a cold water filter to prevent the presence of water contaminants and bacteria. Patent protected and available at Whitehaus. The Vintage 3 deck mount dual arm pot filler has all these features and more ; bringing a touch of elegance and style for you.
+
 9. [Waterstone Faucets](https://waterstoneco.com/)
 {{< figure src="/img/25sinks/waterstone.jpg" >}}
 10. [Carlton Kitchen Bridge Faucet](https://www.barclayproducts.com/collections/kitchen-faucets/products/carlton-kitchen-bridge-faucet-with-metal-cross-handles)
