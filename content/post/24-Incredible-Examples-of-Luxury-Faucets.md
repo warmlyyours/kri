@@ -2,7 +2,7 @@
 title: 24 Incredible Examples of Luxury Faucets
 date: 2019-12-18
 author: Kitchen Remodel Ideas
-image: /img/24sinks/hapilife.jpg
+image: /img/24sinks/1328040093-kitchen_pr_gourmet_2.jpeg
 tags:
   - Faucets
 ---
@@ -51,35 +51,35 @@ Intuitively crafted German engineering brings the Source 306003 to the next leve
 
 Brilliantly designed top-notch kitchen hardware for serious chefs. Pot fillers are usually installed over the range so you won't lose your grip carrying heavy pots around your kitchen. The Vintage 3 is available in a huge array of tough finishes and you can map it out behind the stove with a longer supply hose to connect to your water line. Don't buy this faucet if you don't have a long enough supply line. It's dedicated to just cold water and can be fitted with a cold water filter to prevent the presence of water contaminants and bacteria. Patent protected and available at Whitehaus. The Vintage 3 deck mount dual arm pot filler has all these features and more ; bringing a touch of elegance and style for you.
 
-9. [Waterstone Faucets](https://waterstoneco.com/)
-{{< figure src="/img/24sinks/waterstone.jpg" >}}
+9. [Waterstone Traditional Wheel Faucet](https://waterstoneco.com/wheel-pulldown-faucet-5100/)
+![Waterstone Traditional Wheel Faucet](/img/24sinks/5100-PN.jpeg)
 10. [Carlton Kitchen Bridge Faucet](https://www.barclayproducts.com/collections/kitchen-faucets/products/carlton-kitchen-bridge-faucet-with-metal-cross-handles)
-{{< figure src="/img/24sinks/barclay.jpg" >}}
+![Carlton Kitchen Bridge Faucet](/img/24sinks/download_2700605d-504c-47e0-9727-6be31bb61045_448x448.jpeg)
 11. [Kunmai High Arc Kitchen Faucet](https://www.amazon.com/gp/product/B0771QJKVN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0771QJKVN&linkCode=as2&tag=kri0eb-20&linkId=04cbc4fbd0afe8fe29b519ea7fe7e0db)
-{{< figure src="/img/24sinks/kunmai.png" >}}
+![Kunmai High Arc Kitchen Faucet](/img/24sinks/716vpZF2oeL._AC_SL1000_.jpg)
 12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri0eb-20&linkId=b1968621cba0ce41296040a145f8f753)
-{{< figure src="/img/24sinks/vigo.png" >}}
+![VIGO VG02001MB](/img/24sinks/71RmOEC8+pL._AC_SL1500_.jpg)
 13. [Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](https://www.faucet.com/moen-87047-mediterranean-bronze-sullivan-pullout-spray-high-arc-kitchen-faucet-with-soap-dispenser-and-reflex-technology/f3765264)
 ![Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](/img/24sinks/moen-87047brb-5131189.jpeg)
 14. [Franke Ff20650](https://www.houzz.com/products/franke-ff20650-bernadine-single-handle-kitchen-faucet-prvw-vr~120409497)
 ![Franke Ff20650](/img/24sinks/franke.jpg)
 15. [Moen 7594EC](https://www.amazon.com/gp/product/B007Y6LL1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y6LL1K&linkCode=as2&tag=kri0eb-20&linkId=b3c6d4b0e09c662c88a458d6a474fe7c)
-{{< figure src="/img/24sinks/moen.jpg" >}}
+![Moen 7594EC](/img/24sinks/51DSoyqzGUL._AC_SL1000_.jpg)
 16. [Perrin and Rowe Bridge Kitchen Faucet](https://www.houzz.com/products/perrin-and-rowe-bridge-kitchen-faucet-in-polished-chrome-prvw-vr~68244843)
 ![Perrin and Rowe Bridge Kitchen Faucet](/img/24sinks/perrin.jpg)
 17. [4208 Ostende](https://www.herbeau.com/4208.html)
-{{< figure src="/img/24sinks/herbeau.png" >}}
-18. [Blanco Empressa™ Bridge Faucet​](https://www.blanco.com/en_us/en_us/faucets/productcatalog/detail.html?sid=BLANCO+EMPRESSA+Bridge+Pull+Down&filter=false&ttype=2#colors)
-{{< figure src="/img/24sinks/blanco.jpg" >}}
+![4208 Ostende](/img/24sinks/wp8c1f25db_1a.jpg)
+18. [Blanco Empressa™ Bridge Faucet​](https://www.blanco.com/us-en/faucets/empressa-f/empressa-bridge-low-pressure-metal-finish-pdp-99.205/?articleNr=442504)
+![Blanco Empressa™ Bridge Faucet](/img/24sinks/blanco-empressa-bridge.jpg)
 19. [Rohl Bridge Kitchen Faucet](https://www.houzz.com/products/rohl-bridge-kitchen-faucet-metal-cross-handles-in-polished-chrome-prvw-vr~90347903)
-{{< figure src="/img/24sinks/rohl.png" >}}
+![Rohl Bridge Kitchen Faucet](/img/24sinks/Rohl-Bridge-Kitchen-Faucet.jpg)
 20. [B2233-Gourmet II](http://alnoinc.com/product/b2233-gourmet-ii/)
-{{< figure src="/img/24sinks/alno.jpg" >}}
+![B2233-Gourmet II](/img/24sinks/1328040093-kitchen_pr_gourmet_2.jpeg)
 21. [Elkay Avado](https://www.elkay.com/products/lkav2031.html#208=1538)
-{{< figure src="/img/24sinks/elkay.png" >}}
-22. [KWC ERA](https://www.kwc.com/int-en/en/products/series-overview/linie-detail/line/kwc-era-4.html#kitchen)
-{{< figure src="/img/24sinks/kwc.png" >}}
+![Elkay Avado](/img/24sinks/elkay-avado.jpeg)
+22. [KWC ERA](https://www.kwc.ch/int-en/en/products/series-overview/linie-detail/line/kwc-era-4-1.html)
+![KWC ERA](/img/24sinks/KWC-ERA.jpg)
 23. [Hapilife Mixer Monobloc Tap Hapi-03Z](https://www.amazon.com/gp/product/B00F9Q7EMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F9Q7EMC&linkCode=as2&tag=kri0eb-20&linkId=25266d2504bd4b639593efff7e09c384)
-{{< figure src="/img/24sinks/hapilife.jpg" >}}
+![](/img/24sinks/61xlbcdJFaL._AC_SL1500_.jpg)
 24. [Funime TK 13](https://www.amazon.com/gp/product/B0722QL62L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0722QL62L&linkCode=as2&tag=kri05-20&linkId=c5706c879a7496ad526db3194abd75ec)
-{{< figure src="/img/24sinks/funime.png" >}}
+![Funime TK 13](/img/24sinks/61OfL4jxMFL._AC_SL1500_.jpg)
