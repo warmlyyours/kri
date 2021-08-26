@@ -1,4 +1,4 @@
 ---
-title: Kitchen Design Gallery
-layout: kitchen-design-gallery
+layout: kdg
 ---
+{{< kdg >}}
