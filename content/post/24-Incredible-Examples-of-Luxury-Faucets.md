@@ -15,7 +15,7 @@ The kitchen sink has a very important job to do. A good kitchen sink must be dur
 For each and every kitchen, dishes must be done and cookware products ought to be cleaned. Rinsing the kitchen sink, blasting off leftover items, clearing large pans and pots, are just an array of opportunities. You name it! The Chillout FF4900 is THE kitchen sink.
 
 2. [Effe EF129](https://www.houzz.com/products/effe-ef-179-kitchen-faucet-with-swivel-spout-polished-chrome-prvw-vr~85446899)
-{{< figure src="/img/24sinks/effe.png" >}}
+![Effe EF179](/img/24sinks/Effe-EF-179-Kitchen-Faucet-with-Swivel-Spout.jpg)
 
 Constantly cleaning up after yourself and others can be monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
 
