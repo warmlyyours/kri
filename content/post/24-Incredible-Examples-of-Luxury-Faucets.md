@@ -9,8 +9,8 @@ tags:
 
 The kitchen sink has a very important job to do. A good kitchen sink must be durable enough to hold up to rigorous choring. Dishes are washed and sanitized on a daily basis. Your kitchen deserves a luxurious faucet that's both elegant and functional. Here's an assorted collection of kitchen ware brands offering beautifully designed faucets for a fair price.
 
-1. [Chillout FF4900](https://www.franke.com/us/en/ks/products/kitchen-faucets/chillout/115-0378-985_detail.html)
-{{< figure src="/img/24sinks/chillout.jpg" >}}
+1. [Chillout FF4900](https://www.ajmadison.com/cgi-bin/ajmadison/FF4900.html)
+![Chillout FF4900](/img/24sinks/ff49005a71f5c7925b0_71fee.jpeg)
 
 For each and every kitchen, dishes must be done and cookware products ought to be cleaned. Rinsing the kitchen sink, blasting off leftover items, clearing large pans and pots, are just an array of opportunities. You name it! The Chillout FF4900 is THE kitchen sink.
 
