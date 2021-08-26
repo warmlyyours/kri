@@ -21,17 +21,17 @@ Cork is an excellent flooring type that's scratch-resistant which mimics the loo
 
 Cork's natural flexibility makes it easier to install. What's great about cork is that it can be site-finished and repaired to cover up damages to the flooring. It gives you an extra layer of flooring either floating or flat topped.
 
-# Bamboo Flooring
+## Bamboo Flooring
 
 In parts of the world that export bamboo, the bamboo their's some of the strongest natural wood materials ever discovered. Bamboo wood is scratch resistant because of its hardness and flexibility at surface level. Also it is antimicrobial which stops microorganisms like mold and mildew from growing and contaminating your home.
 
-# Laminate Flooring
+## Laminate Flooring
 
 Laminate is one of the more prevalent flooring options on the market. Assuredly a safe bet when choosing the right kind. Check for the abrasion classification (AC). AC ratings are a measurement of hardness. A1 and A2 floors will be weaker standing up against pet scratches.
 
 A dog-friendly household reuires a floor with at least an A3 rating to withstand your dogs claws. That's the best laminate flooring in my opinion. On the off chance that someone spills juice on the floor or a dog knocks over a house plant, in the short term, we tend to clean these things up as it happens. If left unattended, water may lead to warping and damage of the laminate floor.
 
-# Tile Flooring
+## Tile Flooring
 
 {{< figure src="/img/pups/gRetrieverpup.jpg" >}}
 
@@ -40,7 +40,7 @@ Dogs absolutely love heated floors that can be programmed to turn on at the flic
 
 ![Dog with Bone](/img/pups/dog-with-bone-P5ZVGV7.jpg)
 
-# Vinyl Flooring
+## Vinyl Flooring
 
 Vinyl couldn't be a better flooring option for dogs to race around on. Being scratch resistant, affordable, and easy-to-clean means happier and warmer feat and paws than ceramic or porcelain tile. Vinyl typically gives off a look of hardwood at a fraction of the cost. Installers and homeowners alike install Vinyl for it's similarity to hardwood. Vinyl planks are smooth and finished with a protective coating that gives scratch-resistance a big boost! Long nails might have to be trimmed. Un-groomed dog nails can cause a pet to slip, especially if they're running across the floors. Dogs are not meant to stand most of the time on hard surfaces. A dog's claws were meant to dig into the dirt so a vinyl floor with traction might give your dog sure footing.
 

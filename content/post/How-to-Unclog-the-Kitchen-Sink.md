@@ -23,7 +23,7 @@ Begin by identifying the common causes of clogged sinks. Decide what you should 
 
 Hair can clog the bathroom sink very easily. Regardless of the obstruction, you use the same technique to unclog both kinds of sinks.
 {{< endcolumns >}}
-# Mad Scientist Method
+## Mad Scientist Method
 
 ![Mad Scientist Method](/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.jpg)
 
@@ -35,7 +35,7 @@ Let the vinegar and baking soda sit overnight. Refrain from running the faucet o
 
 The combination of vinegar and baking soda immediately begins to release grease-fighting carbon dioxide gases. That’s what you will see bubbling up to the drain opening. Sometimes this DIY remedy resolves the issue of a clogged drain. If the foreign object doesn’t clear from the chemical reaction, the next step is to resort to a drain cleaner.
 
-# Drain Cleaners
+## Drain Cleaners
 
 ![Toilet Bowl Flushing](/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled.jpg)
 
@@ -59,13 +59,13 @@ Contain bleach, peroxide, and nitrates. Upon use of these kinds of drain cleaner
 
 As I’m sure you’re aware, handling these products increase the chance of skin contact and exposure to harmful chemicals. It’s very important to wear protective clothing when using them. 
 
-# Enzymatic Drain Cleaners
+## Enzymatic Drain Cleaners
 
 Enzymatic drain cleaners are much more forgiving than harsh chemical drain cleaners. What is great about enzymatic drain cleaners is that they contain some kind of bacteria culture and concentrated enzymes that obliterate organic material. It’s about as trustworthy as the vinegar and baking soda technique.
 
 These cleaners work much like compost ferments food scraps into high-density fertilizer. Amazingly, the enzymes and living cultures respond extremely well to any mold and mildew clinging on to the pipes. That is to say, the minute probiotics vigorously digest these waste substances and through the repetition of mitosis, the cells reproduce, thereby spreading “good” bacteria through the drainage system. After proper use, we suggest running hot water immediately after an enzymatic cleaner session to clear out the pipes of any debris. And work with protective clothing to avoid skin or eye damage. 
 
-# Plunging the Drain
+## Plunging the Drain
 
 ![Toilet Plunger](/img/unclogSink/plunger-PL4JFTS-scaled.jpg)
 
@@ -79,7 +79,7 @@ Keep the plunger upright and firmly grasped with your hands and pump hard 20 to 
 
 Then run hot water down the drain for 10 minutes to be sure they’re fully cleared. If they fill up with water, hit both sides with the plunger again. If the problem persists, the clog’s likely too far down the mainline for plunging to work. 
 
-# Unclogging the P-Trap
+## Unclogging the P-Trap
 
 ![Photo of cabinet under sink](/img/unclogSink/pTrap.jpg)
 
@@ -87,4 +87,4 @@ Now we will address how to unclog the kitchen sink garbage disposal and clear ou
 
 Start by checking if there’s any debris in the trap. In most kitchens, there is a p-trap installed under the open drain. If there’s a garbage disposal in the kitchen sink, then you must detach the line and clean any remaining debris. If there is no debris, then the clog will be located in the water drain line or main waste line.
 
-A clog in the mainline will block other drains above it, and a sewer snake will have to clean it. Sewer snakes are extended into a clogged drain tunnel to shake up and loosen stubborn clogs. Being both flexible and durable, a sewer snake can be extended through pipe turns. Perfect for hard-to-reach mainlines! 
+A clog in the mainline will block other drains above it, and a sewer snake will have to clean it. Sewer snakes are extended into a clogged drain tunnel to shake up and loosen stubborn clogs. Being both flexible and durable, a sewer snake can be extended through pipe turns. Perfect for hard-to-reach mainlines!

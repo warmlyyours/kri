@@ -23,7 +23,7 @@ Courtesy of [ewg.org](https://www.ewg.org/tapwater/)
 
 We’ve put together a buying guide to assist you along the process. Our goal is to help you decide which system works best for your local area, considering the contaminants you want to eliminate as well as the ease of installation and cost.
 
-# Countertop Filters
+## Countertop Filters
 
 Countertop filters get rid of unwanted contaminants with ease of use. Whilst other filters require a hefty installation process, countertop filters are easy to install and affordable.
 
@@ -59,14 +59,14 @@ Most people believe that the best quality of water involves a 5-stage reverse os
 
 We’re pleased to see that this filter is tested and approved by the Water Quality Association (WQA). The tankless system delivers fresh clean water without water waste or need for electricity.
 
-# Undersink Filters
+## Undersink Filters
 
 Undersink filters are another popular in-house water filter solution that delivers mineral-spring quality water without watersheds, tanks, and electricity. The most frequently chosen options are a one-channel design, requiring less maintenance.
 
 Filters of this kind are good quality at a higher price point. An undersink filter typically has a longer shelf life than faucet filters and countertop filters. Replacing old filters is quick and easy - resulting in tap water with superior taste and feel.  
 
 
-## [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
+### [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
 **Price: $142.85**
 
 Aquasana is a great water filter with charcoal filtering technology. We like the 3-stage under counter filter because it amazingly transforms dirty pipe water back into pristine condition.
@@ -75,7 +75,7 @@ Herbicides, pesticides, and VOCs are stopped from tainting the drinking water an
 
 Aquasan delivers strong results, showing a 99% reduction of 77 known contaminants. This filter also gets rid of lead mercury if you live in an older home with outdated plumbing. On the downside, reviews showed that the under kitchen sink water filter may be prone to leaking. However, by carefully following the installation instructions, you can be sure that the product works as directed.  
 
-## [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
+### [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
 **Price: $125.99**
 
 We all have a high standard when it comes to our drinking water. Frizzlife’s SK99 3-stage undersink certainly meets expectations and exceeds them in some categories. Right off the bat, we’re promised a 99.99% reduction of harmful contaminants.
@@ -85,7 +85,7 @@ Rusty pipes are no problem since the SK99 filtration process can take care of th
 Minerals with immune system boosting properties are not filtered out and it completely eliminates any funny tastes in the tap water. The flow rate is measured out at 2 Gallons Per Minute (GPM) for a 60 PSI plumbing system. The Frizzlife 3-stage can fill up a drinking glass faster than Aquasana’s 44% flow rate of .72 GPM’s.
 
 
-## [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
+### [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
 **Price: $815.98**
 
 Featuring a 2-in-one Compact Combo Series from The Pelican Company. The product offering is very positive to the extent of claiming to be of better quality and taste than bottled water.
@@ -93,18 +93,18 @@ Featuring a 2-in-one Compact Combo Series from The Pelican Company. The product 
 A good reason to select this undersink filter is its removal of chlorine and chloramine. These non-biotics are introduced into the water supply by municipal water treatment plants. Which consequently gives the water a funny smell or taste. With the EZ-Connect Water Filtration System, this is not a concern anymore.
 
 
-# Faucet Filters
+## Faucet Filters
 
 We just had to include faucet filters. A faucet filter is a kitchen faucet with a mounted attachment that connects to your kitchen sink. This past year, new technologies of faucet filters have been a major trend. Outfitting a sink to a kitchen faucet provides great-tasting and clean faucet water.
 
-## [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/gp/product/B000EOOQPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOOQPW&linkCode=as2&tag=kri0eb-20&linkId=51cec17a3cf44714ca60d14df9d1ebdb)
+### [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/gp/product/B000EOOQPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOOQPW&linkCode=as2&tag=kri0eb-20&linkId=51cec17a3cf44714ca60d14df9d1ebdb)
 **Price: $16.88**
 
 Keep clean and great tasting water at your disposal with the critically acclaimed #1 Brand of water filtration in the world. Brita faucet mount filters 50 contaminants out of your tap, making your glass of water a sterile environment. With the addition of a one-click filter replacement, it’s simple to replace the water filter every 4 months. You’re no longer contributing to plastic bottle pollution and you’re saving money.
 
 Brita’s kitchen faucet water filter rarely ever leaks. The life span of a basic Brita filter guarantees 100 gallons of filtered tap water.
 
-## [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/gp/product/B01GABXWCK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GABXWCK&linkCode=as2&tag=kri0eb-20&linkId=29b057289585eebf1b35a4f9997b1ce7)
+### [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/gp/product/B01GABXWCK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GABXWCK&linkCode=as2&tag=kri0eb-20&linkId=29b057289585eebf1b35a4f9997b1ce7)
 **Price: $19.88**
 
 Upgrade your kitchen faucet to a brand new water faucet filtration system. A standard faucet mount can be fitted to your nozzle with the right adapters. This certified kitchen sink water faucet filter removes fluoride, lead, and other contaminants.

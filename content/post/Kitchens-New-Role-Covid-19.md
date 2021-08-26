@@ -9,8 +9,6 @@ tags:
 ---
 ![Kitchen's New Role During the Covid-19 Pandemic Featured Image](/img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp)
 
-# The Kitchen’s New Role During the Covid-19 Pandemic
-
 Now more than ever, the kitchen is more than just an area to gather around the dinner table. It's become a multipurpose area transforming the heart of the home to command central. The coronavirus lockdown has reconnected us with our homes but in ways, we are unaccustomed.
 
 Life at home has become "more important than ever for people... which has led to a repurposing of the home in many ways," reported Ingka Group, who operates 374 Ikea stores. Families "changed kitchens into schools, bedrooms into workplaces, and backyards into amusement parks," Ikea added, describing 2020 as "a year of homecoming."

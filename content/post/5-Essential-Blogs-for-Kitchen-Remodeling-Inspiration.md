@@ -30,7 +30,7 @@ Sarah has a great house now after years of renovation efforts. The vintage house
 
 We will continue exploring her blog as we completely fell in love with her work. 
 
-# It's Great to be Home: Adventures of a Serial Home Improver
+## It's Great to be Home: Adventures of a Serial Home Improver
 
 ![Bedroom Over Garage](/img/5Blogs/bedroom-over-garage-in-a-house-1-6d89ff.jpg)
 
@@ -42,7 +42,7 @@ She shares excellent remodeling tips for homeowners and people interested in fli
 
 What’s shocking is that all ten houses have been sold which is deserving of our respect and recognition. The pointers and how-to’s uploaded to her platform are a valuable resource for any remodeler, professional or DIY.  
 
-# Retro Renovation
+## Retro Renovation
 
 ‘Retro Renovation’ is a blog that was designed for anyone who yearns for the bygone days. The main style that can be found here is called ‘Mid-Century Modest’ and is characterized by the mainstream - main street designs once prevailing American homes during the 1950s. Lace shaded windows and maplewood bed frames comprised hundreds of thousands of middle-class bedrooms. 
 
@@ -50,7 +50,7 @@ Our grandmothers and great grandmothers grew up with American eagles made out of
 
 ![Houzz Homepage Screenshot](/img/5Blogs/houzz-homepage-screenshot-4da31b.jpg)
 
-# Houzz
+## Houzz
 
 This blog is a staff-favorite of ours because you can find everything you need in the same place. Houzz’s online collection of informative articles will teach you all about remodeling trends, as well as innovative solutions to the pesky problems you may face when you’re remodeling an old room feel or replacing kitchen cabinets that have fallen apart. 
 
@@ -58,7 +58,7 @@ The site also hosts a social network for remodelers to connect and share comment
 
 There’s nothing more inspirational than this. And if you like something you saw, you can purchase the product immediately. You don’t have to search anywhere else. Houzz has everything you need to build your dream home. 
 
-# Young House Love
+## Young House Love
 
 Within the past 7 years, Sherry and John have fixed 3 houses and had 2 kids. As a proud mother and talented home improvement expert, her readers consider her work to be a huge hit! 
 

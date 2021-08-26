@@ -16,7 +16,7 @@ You’re not going to love your kitchen backsplash tiles if they do not suit the
 
 {{< figure src="/img/corbPairingOptions/functional-kitchen-with-long-countertop-P3M3EGR.jpg" >}}
 
-# Contrasting Color Theme
+## Contrasting Color Theme
 
 Use backsplash tiles with colors that visually clash against your countertops. We like counterintuitive and dramatic kitchens. Include a variety of colors to other spots of the kitchen, such as the floor, kitchen appliances, light fixtures, faucets, and ceramic sinks, and don't forget to choose a color that suits your overall style.
 
@@ -24,7 +24,7 @@ For starters, you may want to install a stainless steel backsplash with slate co
 
 {{< figure src="/img/corbPairingOptions/cake-herbs-and-fruits-on-kitchen-counter-in-927E8MC.jpg" >}}
 
-# Coordinating Colors
+## Coordinating Colors
 
 Every morning you wake up and the kitchen is one of the first places you seek out to start your day. You can opt for a backsplash tile color that suits or corresponds with a specific spot or hue. For example, soft gray backsplash tiles can appear striking against charcoal granite countertops with light gray spots.
 
@@ -32,7 +32,7 @@ Most honey-colored subway tiles look appealing on brown, gold and beige marble c
 
 Once you buy or add tile, keep backsplash tile test on your countertops to see which ones are most appealing. Pro-tip: test in a variety of lighting - dawn, high-noon and dusk. You will be surprised to see how the change in lighting will affect the character and nuance of each tile.
 
-# Design Tips
+## Design Tips
 
 When choosing countertops and backsplashes, do not lose sight of the fact that they have a job to do. If you're a serious chef, you might want a harder surface that doesn't need a lot of care and attention. If you're a baker, you may want a marble countertops or block-end that rests at a lower temperature. Think about how the material will hold up and make good choices that play to an evolving suitcase of needs over the years ahead.
 
@@ -53,7 +53,7 @@ No more suffering from cold countertops! The following video showcases a Feelswa
 
 {{< youtube Vn-ziZNbF9A >}}
 
-# Countertop First
+## Countertop First
 
 Answering the age old dilemma of the countertop or the backsplash. Which one goes first? You might not be sure whether to install a countertop or backsplash first. You might even be adjusting your design to a new layout. You may determine how busy or plain the kitchen backsplash and countertop ought to be. Incorporating a complex granite shouldn't be too bland, or even marble or quartzite, a discrete neutral choice that keeps the region from being too much.
 
@@ -61,7 +61,7 @@ Answering the age old dilemma of the countertop or the backsplash. Which one goe
 
 For example, the kitchen above has Fantasy Black Quartz countertops with a white subway tile backsplash and black grout. Backsplash is a good choice for a couple of reasons. First, it accentuates and contrasts the accent color of the countertop. Second, it feigns as a dirty subway wall when actually, it's a clean kitchen backsplash.
 
-# Backsplash First
+## Backsplash First
 
 Beginning with a backsplash isn't a bad idea. More often than not, the backsplash will be noticed before a countertop since it is at eye level. First impressions are important. Honing in on a backsplash option also narrows down countertop selections. Granite and marble are a safe choice. Absolute Black Granite and White Calcutta Marble tiles have been seeing a big reemergence this year.
 

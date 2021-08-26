@@ -23,13 +23,13 @@ The Houzz Shop includes more than 1.8 million home décor items, including furni
 
 ![Elements Towel Warmer](/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.jpg)
 
-# Digital Tools #2: Sketch
+## Digital Tools #2: Sketch
 
 The second new tool within the Houzz app is called Sketch. Essentially, it’s a virtual idea board for your room. Instead of collecting pictures of rooms and products that you like from a variety of sources, you can do so all in the Houzz app and share your ideas with your family, friends, or designer for feedback. By tapping the Sketch icon on any Houzz photo and selecting the chair icon, you can begin placing items from the Houzz store in the photo. The Sketch feature even allows you to mark up Houzz photos and your own photos to show what you like, what you don’t like, and what you want someone else’s’ opinion on. When you’re finished, green price tags will appear to show the products that are available for purchase on Houzz. For a brief example, check out the video below.
 
 {{< youtube ksvDF3puXCo >}}
 
-# Digital Tools #3: Match
+## Digital Tools #3: Match
 
 The last new tool is available on both the Houzz app and [Houzz.com](https://www.houzz.com/). If you’ve ever spotted an item that you love but realized it’s way more than you intended to spend, this tool is a must-have for you. Simply by clicking on the items that you like in a photo, this tool will pull up similar products that are available in the [Houzz Shop](https://www.houzz.com/products). The products may or may not be less expensive than the original, but you’re left with a variety of options from which to choose, so it’s very likely you’ll find something that you love that’s in your budget.
 

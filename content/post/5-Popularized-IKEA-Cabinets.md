@@ -46,7 +46,7 @@ And here’s where function steps in. For cleaning the glass, there are snap-on 
 
 30 "
 
-# SEKTION: IKEA Kitchen Cabinet Code SE HS2D2E2I
+## SEKTION: IKEA Kitchen Cabinet Code SE HS2D2E2I
 
 {{< figure src="/img/5IKEA/sektion2.png" >}}
 
@@ -68,7 +68,7 @@ The door damper catches a moving door and gently closes it silently. and you can
 **Frame, height:**
 80 "
 
-# SEKTION: Cabinet code SE WR1H
+## SEKTION: Cabinet code SE WR1H
 
 {{< figure src="/img/5IKEA/sektion3.png" >}}
 
@@ -87,7 +87,7 @@ Hinges are adjustable and a knob or a handle is required to open the hatch.
 **Frame, height:**
 15 "
 
-# SEKTION: Cabinet code SE HM2D2E
+## SEKTION: Cabinet code SE HM2D2E
 
 {{< figure src="/img/5IKEA/sektion4.png" >}}
 
@@ -109,7 +109,7 @@ PRO TIP:   If you do incorporate a microwave, leave ample room on the top and bo
 **Frame, height:**
 90 "
 
-# SEKTION: Cabinet code SE H2D3EE2I
+## SEKTION: Cabinet code SE H2D3EE2I
 
 {{< figure src="/img/5IKEA/sektion5.png" >}}
 
