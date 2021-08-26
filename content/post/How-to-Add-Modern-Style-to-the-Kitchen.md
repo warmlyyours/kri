@@ -53,8 +53,12 @@ PRO TIP:  One way to really spice up your kitchen is a pro tip from Roxanne of t
 
 **Sources:**
 
-[www.hgtv.com/design/rooms/kitchens/small-modern-kitchen-design-ideas](www.hgtv.com/design/rooms/kitchens/small-modern-kitchen-design-ideas)
+[www.hgtv.com/design/rooms/kitchens/small-modern-kitchen-design-ideas](https://www.hgtv.com/design/rooms/kitchens/small-modern-kitchen-design-ideas)
+
 [http://freshome.com/2010/06/11/25-modern-kitchen-designs-that-will-rock-your-cooking-world/](http://freshome.com/2010/06/11/25-modern-kitchen-designs-that-will-rock-your-cooking-world/)
-[www.dwell.com/post/article/20-modern-kitchens-we-love#5](www.dwell.com/post/article/20-modern-kitchens-we-love#5)
-[www.warmlyyours.com/floor-heating](www.warmlyyours.com/floor-heating)
+
+[https://www.dwell.com/collection/modern-kitchens-we-love-ef2c366a](https://www.dwell.com/collection/modern-kitchens-we-love-ef2c366a)
+
+[www.warmlyyours.com/floor-heating](https://www.warmlyyours.com/en-US/floor-heating)
+
 [https://thehoneycombhome.com/mixing-antiques-with-modern-decor/](https://thehoneycombhome.com/mixing-antiques-with-modern-decor/)

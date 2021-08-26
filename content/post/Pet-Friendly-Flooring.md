@@ -38,7 +38,7 @@ A dog-friendly household reuires a floor with at least an A3 rating to withstand
 Coming up against scratches, tile being durable and strong means dog claws don't damage the floor as much. Homewoners with dogs can hire a professional installer for in-floor [radiant heating](https://www.warmlyyours.com/en-US/floor-heating/tile-marble-or-stone) that goes underneath the floor.
 Dogs absolutely love heated floors that can be programmed to turn on at the flick of a switch.
 
-{{< figure src="img/pups/dog-with-bone-P5ZVGV7.jpg" >}}
+![Dog with Bone](/img/pups/dog-with-bone-P5ZVGV7.jpg)
 
 # Vinyl Flooring
 
