@@ -40,27 +40,29 @@
         {{ end }}
       </article>
     </div>
-  <div class="row my-auto mb-5">
+  <div class="row my-auto">
+    <div class="col p-3">
       {{ if ne .Type "page" }}
         <ul class="pager blog-pager" style="list-style-type: none;">
-          <div class="col justify-content-start">
           {{ if .PrevInSection }}
-            <li class="previous">
+            <li class="previous d-flex justify-content-start">
               <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
             </li>
+            </div>
+          </ul>
           {{ end }}
+          <div class="col p-3">
           {{ if .NextInSection }}
-          <div class="col justify-content-end">
-            <li class="next">
+          <ul class="pager blog-pager" style="list-style-type: none;">
+            <li class="next d-flex justify-content-end">
               <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
             </li>
           {{ end }}
+          </div>
         </ul>
-      {{ end }}
-        </div>
       </div>
+    {{ end }}
     </div>
-</div>
 
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
         {{ if .Site.DisqusShortname }}
