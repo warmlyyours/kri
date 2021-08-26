@@ -47,4 +47,4 @@ User-agent: Googlebot
 Allow: ../floorplans
 
 
-Sitemap: https://www.kitchenremodelideas.com/sitemap.xml
+Sitemap: https://www.kitchenremodelideas.com/layouts/sitemap.xml
