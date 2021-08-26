@@ -53,6 +53,9 @@ Brilliantly designed top-notch kitchen hardware for serious chefs. Pot fillers a
 
 9. [Waterstone Traditional Wheel Faucet](https://waterstoneco.com/wheel-pulldown-faucet-5100/)
 ![Waterstone Traditional Wheel Faucet](/img/24sinks/5100-PN.jpeg)
+
+Waterstone's traditional wheel faucet gives an amazing performance difference apart from the market. We'd like to highlight the luxurious style that bestows a beautiful pull-out spray head. It can be extended out 20" and swivel 360° for flexibility and convenience. You won't find another kitchen faucet made with this attention to quality craftsmanship anywhere else.
+
 10. [Carlton Kitchen Bridge Faucet](https://www.barclayproducts.com/collections/kitchen-faucets/products/carlton-kitchen-bridge-faucet-with-metal-cross-handles)
 ![Carlton Kitchen Bridge Faucet](/img/24sinks/download_2700605d-504c-47e0-9727-6be31bb61045_448x448.jpeg)
 11. [Kunmai High Arc Kitchen Faucet](https://www.amazon.com/gp/product/B0771QJKVN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0771QJKVN&linkCode=as2&tag=kri0eb-20&linkId=04cbc4fbd0afe8fe29b519ea7fe7e0db)
