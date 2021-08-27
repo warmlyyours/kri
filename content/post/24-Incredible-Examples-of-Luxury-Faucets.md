@@ -58,6 +58,9 @@ Waterstone's traditional wheel faucet gives an amazing performance difference ap
 
 10. [Carlton Kitchen Bridge Faucet](https://www.barclayproducts.com/collections/kitchen-faucets/products/carlton-kitchen-bridge-faucet-with-metal-cross-handles)
 ![Carlton Kitchen Bridge Faucet](/img/24sinks/download_2700605d-504c-47e0-9727-6be31bb61045_448x448.jpeg)
+
+What says elegance better than a classic design such as this. The Carlton dual-handle faucet was inspired by American ingenuity and quality craftsmanship. Its' delicate yet durable spout innovates a luxurious bridge design. Plus, the Carlton faucet is 100% lead free per its inherent anti-bacterial brass construction. So give your kitchen sink this perfect centerpiece to accompany your kitchen remodeling project.
+
 11. [Kunmai High Arc Kitchen Faucet](https://www.amazon.com/gp/product/B0771QJKVN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0771QJKVN&linkCode=as2&tag=kri0eb-20&linkId=04cbc4fbd0afe8fe29b519ea7fe7e0db)
 ![Kunmai High Arc Kitchen Faucet](/img/24sinks/716vpZF2oeL._AC_SL1000_.jpg)
 12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri0eb-20&linkId=b1968621cba0ce41296040a145f8f753)

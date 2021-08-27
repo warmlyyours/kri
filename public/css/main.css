@@ -720,7 +720,6 @@ footer .theme-by a:hover {
   background: #FFF;
   border-radius: 0;
   color: #404040;
-  font-display: swap
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -735,7 +734,13 @@ footer .theme-by a:hover {
 }
 
 .pager {
-  margin: 10px 0 0;
+  margin: 0;
+}
+
+.pager .main-pager {
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
 
 .pager.blog-pager {
