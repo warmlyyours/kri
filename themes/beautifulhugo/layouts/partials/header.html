@@ -13,6 +13,7 @@
 
 {{ if or $bigimg $title }}
   {{ if $bigimg }}
+  <div style="height: 0; padding-top: 5%">
     <div id="header-big-imgs" data-num-img={{len $bigimg}}
       {{range $i, $img := $bigimg}}
          {{ if (fileExists $img.src)}}
@@ -21,15 +22,15 @@
           data-img-src-{{add $i 1}}="{{$img.src}}"
          {{end}}
          {{ if $img.desc}}data-img-desc-{{add $i 1}}="{{$img.desc}}"{{end}}
-      {{end}}></div>
+      {{end}}></div></div>
   {{ end }}
 
   <header style="width: 100%; height: auto;text-align: center;" class="header-section {{ if $bigimg }}has-img{{ end }}">
     {{ if $bigimg }}
       <div style="width: 100%; height: auto;" class="intro-header big-img">
-    <div class="container">
+    <div class="container" style="width: 100%; height: auto">
       <div class="row" style="width: 100%; height: auto;text-align: center;">
-        <div class="col-lg-12">
+        <div class="col-lg-12" style="font-display: optional">
 
         {{ $subtitle := $.Scratch.Get "subtitle" }}
         {{ $title := $.Scratch.Get "title" }}

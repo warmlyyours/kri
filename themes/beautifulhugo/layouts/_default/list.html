@@ -1,9 +1,9 @@
 {{ define "main" }}
-  <div class="container-fluid" role="main">
-    <div class="row">
-      <div class="col">
+  <div class="container" role="main" style="min-width: 900vh">
+    <div class="row" style="width: 100%;height: auto;min-width: 900vh">
+      <div class="col" style="width: 100%;height: auto;min-width: 900vh">
         {{ with .Content }}
-          <div class="well">
+          <div class="well" style="min-height: 900vh;min-width: 900vh">
             {{.}}
           </div>
         {{ end }}
