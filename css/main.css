@@ -12,12 +12,13 @@ body {
   display: flex;
   flex-flow: column;
   min-height: 100vh;
-  font-display: swap
+  width: 100%;
+  height: auto
 }
+
 .container[role=main] {
   margin-bottom:50px;
   border-radius: 25px;
-  flex: 1 0 auto;
 }
 
 @media only screen and (max-width: 767px) {
@@ -170,7 +171,6 @@ img {
   background: #112b3c;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-display: swap
 }
 
 .navbar-custom .nav li a {
@@ -556,6 +556,8 @@ footer .theme-by a:hover {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+  width: 100%;
+  height: auto;
   -o-background-size: cover;
   margin-top: 53px; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 35px;
@@ -938,4 +940,12 @@ h4.see-also {
 .navbar-toggler-icon:hover {
   filter: invert(80%);
   background-image: url(/img/menuicon.jpg)
+}
+
+#navButton {
+  margin-top: 2px;
+  border: 2px solid #eee;
+  border-radius: 5px;
+  height: 20px;
+  background-image: url(img/menuicon.jpg)
 }
