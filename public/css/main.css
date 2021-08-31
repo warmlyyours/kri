@@ -19,7 +19,6 @@ body {
 .container[role=main] {
   margin-bottom:50px;
   border-radius: 25px;
-  min-height: 500vh;
 }
 
 @media only screen and (max-width: 767px) {
@@ -29,17 +28,10 @@ body {
 }
 }
 
-.responsive {
-  min-height: 900vh;
-  max-width: 100%;
-  height: auto
-}
-
 .well {
   border: 0;
   background-color: #FFF;
   box-shadow: none;
-  min-height: 130vh
 }
 
 p {
@@ -948,4 +940,12 @@ h4.see-also {
 .navbar-toggler-icon:hover {
   filter: invert(80%);
   background-image: url(/img/menuicon.jpg)
+}
+
+#navButton {
+  margin-top: 2px;
+  border: 2px solid #eee;
+  border-radius: 5px;
+  height: 20px;
+  background-image: url(img/menuicon.jpg)
 }

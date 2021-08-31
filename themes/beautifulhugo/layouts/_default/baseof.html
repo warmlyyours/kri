@@ -235,7 +235,7 @@ button,select {
   <body>
     {{ partial "nav.html" . }}
     {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
-    <div class="frontpage-container" style="min-height: 400vh;max-width: 100%; height: auto;">
+    <div class="frontpage-container">
     {{ block "main" . }}{{ end }}
   </div>
     {{ partial "footer.html" . }}
