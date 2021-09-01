@@ -43,9 +43,9 @@
   <div class="row my-auto">
     <div class="col p-3">
       {{ if ne .Type "page" }}
-        <ul class="pager blog-pager" style="list-style-type: none;">
+        <ul class="pager blog-pager" style="list-style-type: none;margin: 0;padding: 0;">
           {{ if .PrevInSection }}
-            <li class="previous d-flex justify-content-start">
+            <li class="previous d-flex justify-content-start align-items-center">
               <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
             </li>
             </div>
@@ -53,8 +53,8 @@
           {{ end }}
           <div class="col p-3">
           {{ if .NextInSection }}
-          <ul class="pager blog-pager" style="list-style-type: none;">
-            <li class="next d-flex justify-content-end">
+          <ul class="pager blog-pager" style="list-style-type: none;margin: 0;padding: 0;">
+            <li class="next d-flex justify-content-end align-items-center">
               <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
             </li>
           {{ end }}

@@ -1,9 +1,9 @@
 {{ define "main" }}
-  <div class="container" role="main" style="min-width: 900vh">
-    <div class="row" style="width: 100%;height: auto;min-width: 900vh">
-      <div class="col" style="width: 100%;height: auto;min-width: 900vh">
+  <div class="container" role="main">
+    <div class="row" style="width: 100%;height: auto;">
+      <div class="col" style="width: 100%;height: auto;">
         {{ with .Content }}
-          <div class="well" style="min-height: 900vh;min-width: 900vh">
+          <div class="well">
             {{.}}
           </div>
         {{ end }}
@@ -12,19 +12,27 @@
             {{ partial "post_preview.html" .}}
           {{ end }}
         </div>
+        <div class="row my-auto">
+          <div class="col p-3">
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-          <ul class="pager main-pager p-3">
+          <ul class="pager main-pager p-3" style="list-style-type: none;margin: 0;padding: 0;">
             {{ if .Paginator.HasPrev }}
-              <li class="previous">
+              <li class="previous d-flex align-items-center justify-content-start">
                 <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
               </li>
+            </div>
+          </ul>
             {{ end }}
+            <div class="col p-3">
             {{ if .Paginator.HasNext }}
-              <li class="next">
+            <ul class="pager blog-pager p-3" style="list-style-type: none;margin: 0; padding: 0">
+              <li class="next d-flex align-items-center justify-content-end">
                 <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
               </li>
             {{ end }}
+            </div>
           </ul>
+          </div>
         {{ end }}
       </div>
     </div>

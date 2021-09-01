@@ -4128,6 +4128,7 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
+  background-image: url(img/menuicon.jpg)
 }
 
 .custom-toggler-icon {
@@ -4537,7 +4538,7 @@ textarea.form-control-lg {
 
 .card-img, .card-img-top {
   border-top-left-radius: calc(.25rem - 1px);
-  border-top-right-radius: calc(.25rem - 1px)
+  border-top-right-radius: calc(.25rem - 1px);
 }
 
 .card-img, .card-img-bottom {

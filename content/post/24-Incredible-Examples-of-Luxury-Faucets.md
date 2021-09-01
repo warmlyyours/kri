@@ -29,7 +29,7 @@ The BESy commercial kitchen faucet offers the latest of kitchen faucet technolog
 4. [Ozone Generating Kitchen Faucet Pull Down](https://lenovasinks.com/product/ozone-generating-kitchen-faucet-pull-down-16-1-2-height/)
 ![Ozone Generating Kitchen Faucet Pull Down](/img/24sinks/F-SS-OZ-B-101.jpeg)
 
-Lenovasinks are some of the MOST luxurious market-ready faucets. But don't take it from us, we don't insist! Find out for yourself just how amazing it can be cleaning food particles and contaminants. The base of the faucet houses a filtration chamber, eliminating bacteria and pesticides without additional instillation of an under or over counter water filter system. You get an elegant swan neck and a spout you can pull down to reach every part of your sink basin. Long and tall spouts have higher clearances, but get lower water pressure than a short spout faucet.
+Lenovasinks are luxurious and market-ready faucets. But don't take it from us, we don't insist! Find out for yourself just how amazing it can be cleaning food particles and contaminants. The base of the faucet houses a filtration chamber, eliminating bacteria and pesticides without additional instillation of an under or over counter water filter system. You get an elegant swan neck and a spout you can pull down to reach every part of your sink basin. Long and tall spouts have higher clearances, but get lower water pressure than a short spout faucet.
 
 5. [KSTB-4422 Triple Bowl](https://swanstone.com/en/product/kstb-4422-22%22-x-44%22-triple-bowl_sw000166)
 ![KSTB-4422 Triple Bowl](/img/24sinks/Swan-SW000166-010.jpg)
@@ -68,6 +68,9 @@ You'll never want another kitchen sink after witnessing the luxury and style of 
 
 12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri0eb-20&linkId=b1968621cba0ce41296040a145f8f753)
 ![VIGO VG02001MB](/img/24sinks/71RmOEC8+pL._AC_SL1500_.jpg)
+
+
+
 13. [Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](https://www.faucet.com/moen-87047-mediterranean-bronze-sullivan-pullout-spray-high-arc-kitchen-faucet-with-soap-dispenser-and-reflex-technology/f3765264)
 ![Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](/img/24sinks/moen-87047brb-5131189.jpeg)
 14. [Franke Ff20650](https://www.houzz.com/products/franke-ff20650-bernadine-single-handle-kitchen-faucet-prvw-vr~120409497)
