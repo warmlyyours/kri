@@ -69,7 +69,7 @@ You'll never want another kitchen sink after witnessing the luxury and style of 
 12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri0eb-20&linkId=b1968621cba0ce41296040a145f8f753)
 ![VIGO VG02001MB](/img/24sinks/71RmOEC8+pL._AC_SL1500_.jpg)
 
-
+We've long awaited to review this innovative kitchen faucet in a gorgeous matte black. The Vigo Single-Handle faucet can be installed in tight spaces without splashing the wall tiles. Available as specified plus optional components such as a matching finish soap dispenser and deck plate if you've got extra holes to cover up. Best of all, this sink is ADA compliant and designed to ensure convenient accessibility for each and every use.
 
 13. [Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](https://www.faucet.com/moen-87047-mediterranean-bronze-sullivan-pullout-spray-high-arc-kitchen-faucet-with-soap-dispenser-and-reflex-technology/f3765264)
 ![Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](/img/24sinks/moen-87047brb-5131189.jpeg)

@@ -3,6 +3,12 @@ html {
   min-height: 100%;
 }
 
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
@@ -245,20 +251,24 @@ img {
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  position: absolute;
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
   border-radius: 50%;
   display: block;
+  position: absolute;
 }
 
 .navbar-custom.top-nav-short .avatar-container{
   opacity: 0;
   visibility: hidden;
+  position: absolute;
 }
 
 .navbar-custom.top-nav-expanded .avatar-container  {
   display: none;
+  position: absolute;
 }
 
 @media only screen and (min-width: 768px) {
