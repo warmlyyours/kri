@@ -74,12 +74,12 @@ We've long awaited to review this innovative kitchen faucet in a gorgeous matte 
 13. [Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](https://www.faucet.com/moen-87047-mediterranean-bronze-sullivan-pullout-spray-high-arc-kitchen-faucet-with-soap-dispenser-and-reflex-technology/f3765264)
 ![Moen Sullivan Pullout Spray High-Arc Kitchen Faucet with Soap Dispenser and Reflex Technology](/img/24sinks/moen-87047brb-5131189.jpeg)
 
-The Moen 87047BRB is a stunning part of the world-class Sullivan collection. Featuring a luxurious faucet cut from a durable metal material and finished with a rust-resistant protective coating. Additionally, each use of the faucet showcases exclusive reflex technology which retracts smoothly back to initial conditions without needed assistance. A single handle lever rests at the center of this practical kitchen faucet. Built to turbocharge the cleaning of plates, pots, kettles, and common kitchenware. 
+The Moen 87047BRB is a stunning part of the world-class Sullivan collection. Featuring a luxurious faucet cut from a durable metal material and finished with a rust-resistant protective coating. Additionally, each use of the faucet showcases exclusive reflex technology which retracts smoothly back to initial conditions without needed assistance. A single handle lever rests at the center of this practical kitchen faucet. Built to turbocharge the cleaning of plates, pots, kettles, and common kitchenware.
 
 14. [Franke Ff20650](https://www.houzz.com/products/franke-ff20650-bernadine-single-handle-kitchen-faucet-prvw-vr~120409497)
 ![Franke Ff20650](/img/24sinks/franke.jpg)
 
-
+<!-- Minimalist, sleek, bold, platinum chrome finish, reflective surface, motion-activated, reliable. -->
 
 15. [Moen 7594EC](https://www.amazon.com/gp/product/B007Y6LL1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y6LL1K&linkCode=as2&tag=kri0eb-20&linkId=b3c6d4b0e09c662c88a458d6a474fe7c)
 ![Moen 7594EC](/img/24sinks/51DSoyqzGUL._AC_SL1000_.jpg)
