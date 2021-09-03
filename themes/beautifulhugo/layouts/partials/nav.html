@@ -14,8 +14,8 @@
         {{ range .Site.Menus.main.ByWeight }}
           {{ if .HasChildren }}
             <li class="navlinks-container nav-item dropdown" style="padding-right: 10px;padding-left: 5px">
-              <a class="nav-item dropdown-toggle" style="text-decoration: none;" href="https://www.kitchenremodelideas.com" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}</a>
-              <ul class="dropdown-menu navlinks-children" aria-labelledby="navbarDropdown2" style="left: 0%">
+              <a class="nav-item dropdown-toggle" style="text-decoration: none;" href="https://www.kitchenremodelideas.com" id="parentDropdown" aria-labelledby="parentDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}</a>
+              <ul class="dropdown-menu navlinks-children" aria-labelledby="nestedMenu" id="nestedMenu" style="left: 0%">
                 <li>{{ range .Children }}
                   <a class="dropdown-item" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 {{ end }}
