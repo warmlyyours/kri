@@ -17,7 +17,7 @@ paginate = 5
 
 
 [Params]
-  homeTitle = "Bringing Truly Bright Ideas" # Set a different text for the header on the home page
+  #homeTitle = "" # Set a different text for the header on the home page
   subtitle = "Kitchen Ideas Guaranteed"
   mainSections = ["post","posts"]
   logo = "/img/KRI-LOGO4-200x200.webp" # Expecting square dimensions
