@@ -79,7 +79,8 @@ The Moen 87047BRB is a stunning part of the world-class Sullivan collection. Fea
 14. [Franke Ff20650](https://www.houzz.com/products/franke-ff20650-bernadine-single-handle-kitchen-faucet-prvw-vr~120409497)
 ![Franke Ff20650](/img/24sinks/franke.jpg)
 
-<!-- Minimalist, sleek, bold, platinum chrome finish, reflective surface, motion-activated, reliable. -->
+All the front side boldly formed specially of stainless steel. An  platinum chrome finish encapsulates the sink's mechanisms. Clearing your work space with a high-arch gooseneck. The minimalist design leaves much to be desired. Exactly the kind of faucet you'd want cleaning plates after a great wolfing down of delicious meals shared together. Prized for its sleek design and reliable performance.
+
 
 15. [Moen 7594EC](https://www.amazon.com/gp/product/B007Y6LL1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y6LL1K&linkCode=as2&tag=kri0eb-20&linkId=b3c6d4b0e09c662c88a458d6a474fe7c)
 ![Moen 7594EC](/img/24sinks/51DSoyqzGUL._AC_SL1000_.jpg)
