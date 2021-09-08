@@ -2,7 +2,7 @@
 title: The Do's and Don'ts of Moving Across Country
 date: 2020-09-22
 author: Kitchen Remodel Ideas
-image: /img/movingAcross/the-dos-and-don't-of-moving-across-country-featured-image-v2.jpg
+image: /img/movingAcross/the-dos-and-don't-of-moving-across-country-featured-image-v2.webp
 tags:
   - Essentials
 ---

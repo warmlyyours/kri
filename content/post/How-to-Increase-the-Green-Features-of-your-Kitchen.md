@@ -2,7 +2,7 @@
 title: How to Increase the Green Features of your Kitchen
 date: 2020-08-24
 author: Kitchen Remodel Ideas
-image: /img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.jpg
+image: /img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.webp
 tags:
   - Essentials
   - Furniture

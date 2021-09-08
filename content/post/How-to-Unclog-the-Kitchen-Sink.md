@@ -1,7 +1,7 @@
 ---
 title: How to Unclog the Kitchen Sink
 date: 2020-03-04
-image: /img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.jpg
+image: /img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp
 author: Kitchen Remodel Ideas
 tags:
   - Faucets

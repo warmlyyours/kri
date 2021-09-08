@@ -1,7 +1,7 @@
 ---
 title: Marble Vs. Granite Countertops
 date: 2020-05-15
-image: /img/marbleVs/gvm-1-scaled.jpg
+image: /img/marbleVs/gvm-1-scaled.webp
 author: Kitchen Remodel Ideas
 tags:
   - Flooring
