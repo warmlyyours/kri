@@ -19,7 +19,7 @@ For each and every kitchen, dishes must be done and cookware products ought to b
 
 Constantly cleaning up after yourself and others can be monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
 
-3. [BESy Commercial Kitchen Faucet with Pull Down Sprayer](https://www.amazon.com/gp/product/B08KT5M375/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08KT5M375&linkCode=as2&tag=kri0eb-20&linkId=8819521161518d9d6c812e472b23025f)
+3. [BESy Commercial Kitchen Faucet with Pull Down Sprayer](https://amzn.to/3EbguO6)
 
 ![BESy Commercial Kitchen Faucet with Pull Down Sprayer](/img/24sinks/613LjV8xbmS._AC_SL1500_.jpg)
 
@@ -36,7 +36,7 @@ Lenovasinks are luxurious and market-ready faucets. But don't take it from us, w
 
 A straight spout faucet such as this one here is small and lightweight enough and designed very well to fit perfectly for a compact kitchen. Three bowls inlayed next to each other gives maximum efficiency. The basins are shallow so if you say spring a leak then there's enough workspace under the counter to seal up your line, but you may need to wash large cookware separately. Not a lot of faucets are made with the quality of craftsmanship seen in this design.
 
-6. [Delta 4380-DST](https://www.amazon.com/gp/product/B002DHBRL4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002DHBRL4&linkCode=as2&tag=kri0eb-20&linkId=02876161b6efff88f905287967718af5)
+6. [Delta 4380-DST](https://amzn.to/3k8xrAK)
 ![Delta 4380-DST](/img/24sinks/716EU51Zn6L._AC_SL1500_.jpg)
 
 At a glance, if you're the proud owner of a three-hole kitchen sink then this Delta faucet is perfect for you. A goose-neck faucet inspired by nature and modernity swivels 180 degrees for additional conveniency. The single handle faucet can set the desired temperature of the water and keep the actual temperature at no more or less than your configuration. Leak points are prevented by the patented DIAMOND Seal Technology and this sink claims to last twice as long as industry standards. Lastly, a detachable sprayer gives you the flexibility to wash tough-to-reach spots.
@@ -61,12 +61,12 @@ Waterstone's traditional wheel faucet gives an amazing performance difference ap
 
 What says elegance better than a classic design such as this. The Carlton dual-handle faucet was inspired by American ingenuity and quality craftsmanship. Its' delicate yet durable spout innovates a luxurious bridge design. Plus, the Carlton faucet is 100% lead free per its inherent anti-bacterial brass construction. So give your kitchen sink this perfect centerpiece to accompany your kitchen remodeling project.
 
-11. [Kunmai High Arc Kitchen Faucet](https://www.amazon.com/gp/product/B0771QJKVN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0771QJKVN&linkCode=as2&tag=kri0eb-20&linkId=04cbc4fbd0afe8fe29b519ea7fe7e0db)
+11. [Kunmai High Arc Kitchen Faucet](https://amzn.to/3hwvexc)
 ![Kunmai High Arc Kitchen Faucet](/img/24sinks/716vpZF2oeL._AC_SL1000_.jpg)
 
 You'll never want another kitchen sink after witnessing the luxury and style of the KunMai Single Handle High Arc Swiveling Dual-Mode Pull-Down Sprayer Kitchen Sink Faucet with Porcelain Handle in Polished Gold. Crystal clear water fountains out from its burnished exterior. Built with lead-free construction to stop the spread of water-borne bacteria. Able to swivel all around your kitchen sink and the lever handle turns away from the faucet spout to keep your hands free of backsplash.
 
-12. [VIGO VG02001MB](https://www.amazon.com/gp/product/B00RYA1T7M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RYA1T7M&linkCode=as2&tag=kri0eb-20&linkId=b1968621cba0ce41296040a145f8f753)
+12. [VIGO VG02001MB](https://amzn.to/394tp6k)
 ![VIGO VG02001MB](/img/24sinks/71RmOEC8+pL._AC_SL1500_.jpg)
 
 We've long awaited to review this innovative kitchen faucet in a gorgeous matte black. The Vigo Single-Handle faucet can be installed in tight spaces without splashing the wall tiles. Available as specified plus optional components such as a matching finish soap dispenser and deck plate if you've got extra holes to cover up. Best of all, this sink is ADA compliant and designed to ensure convenient accessibility for each and every use.
@@ -82,12 +82,21 @@ The Moen 87047BRB is a stunning part of the world-class Sullivan collection. Fea
 All the front side boldly formed specially of stainless steel. An  platinum chrome finish encapsulates the sink's mechanisms. Clearing your work space with a high-arch gooseneck. The minimalist design leaves much to be desired. Exactly the kind of faucet you'd want cleaning plates after a great wolfing down of delicious meals shared together. Prized for its sleek design and reliable performance.
 
 
-15. [Moen 7594EC](https://www.amazon.com/gp/product/B007Y6LL1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y6LL1K&linkCode=as2&tag=kri0eb-20&linkId=b3c6d4b0e09c662c88a458d6a474fe7c)
+15. [Moen 7594EC](https://amzn.to/3AaZsgv)
 ![Moen 7594EC](/img/24sinks/51DSoyqzGUL._AC_SL1000_.jpg)
+
+We can hardly wait to cover the Moen Arbor Motion Sense Kitchen Faucet. Shortly after finding out about its features, one key-component stood out among the rest. The faucet can be rigged with reliable motion sensors, meaning touchless motion activation. A convenient technological breakthrough which minimizes the spread of common bacterial diseases, like salmonella, from spreading. Treat your family and friends to an all-new experience today.
+
 16. [Perrin and Rowe Bridge Kitchen Faucet](https://www.houzz.com/products/perrin-and-rowe-bridge-kitchen-faucet-in-polished-chrome-prvw-vr~68244843)
 ![Perrin and Rowe Bridge Kitchen Faucet](/img/24sinks/perrin.jpg)
+
+Perrin and Rowe bridge kitchen faucet's a timeless design. The highly reflective chrome finish creates a mirror-like appearance that complements any décor. Styled with class, allowing accurate water temperature setting and adjustment. Should you want to clear up the sink, the faucet's paired with a retractable side sprayer head.
+
 17. [4208 Ostende](https://www.herbeau.com/4208.html)
 ![4208 Ostende](/img/24sinks/wp8c1f25db_1a.jpg)
+
+Simply marvel at the Ostende's beauty and grace, designed effortlessly after the ocean's daunting expanse and maritime structures of coastal charms. The faucet is thus, a playful and elegant neck allowing this structure to perch at a height above the sink. Each handle can be specified as either a ceramic or wooden material build. Small intricacies of great detail such as this make the "Ostende" Single Hole Mixer with flexible handspray a standout winner.
+
 18. [Blanco Empressa™ Bridge Faucet​](https://www.blanco.com/us-en/faucets/empressa-f/empressa-bridge-low-pressure-metal-finish-pdp-99.205/?articleNr=442504)
 ![Blanco Empressa™ Bridge Faucet](/img/24sinks/blanco-empressa-bridge.jpg)
 19. [Rohl Bridge Kitchen Faucet](https://www.houzz.com/products/rohl-bridge-kitchen-faucet-metal-cross-handles-in-polished-chrome-prvw-vr~90347903)
@@ -98,7 +107,7 @@ All the front side boldly formed specially of stainless steel. An  platinum chro
 ![Elkay Avado](/img/24sinks/elkay-avado.jpeg)
 22. [KWC ERA](https://www.kwc.ch/int-en/en/products/series-overview/linie-detail/line/kwc-era-4-1.html)
 ![KWC ERA](/img/24sinks/KWC-ERA.jpg)
-23. [Hapilife Mixer Monobloc Tap Hapi-03Z](https://www.amazon.com/gp/product/B00F9Q7EMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F9Q7EMC&linkCode=as2&tag=kri0eb-20&linkId=25266d2504bd4b639593efff7e09c384)
+23. [Hapilife Mixer Monobloc Tap Hapi-03Z](https://amzn.to/397wceV)
 ![](/img/24sinks/61xlbcdJFaL._AC_SL1500_.jpg)
-24. [Funime TK 13](https://www.amazon.com/gp/product/B0722QL62L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0722QL62L&linkCode=as2&tag=kri05-20&linkId=c5706c879a7496ad526db3194abd75ec)
+24. [Funime TK 13](https://amzn.to/3Ce1iOB)
 ![Funime TK 13](/img/24sinks/61OfL4jxMFL._AC_SL1500_.jpg)
