@@ -571,7 +571,7 @@ footer .theme-by a:hover {
   -o-background-size: cover;
   margin-top: 53px; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 35px;}
-  
+
 .intro-header.big-img  .big-img-transition {
   position: absolute;
   width: 100%;
@@ -595,7 +595,7 @@ footer .theme-by a:hover {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 100px 0;
-  color: #FFF;
+  color: red;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1,
