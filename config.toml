@@ -33,7 +33,7 @@ paginate = 5
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
-  description = "Kitchen Remodeling Ideas"
+  description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything AND the kitchen sink's covered by our informative kitchen remodeling blogs."
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [taxonomies]

@@ -105,6 +105,35 @@ Years of research have gone into perfecting the kitchen sink experience. Our bes
 
 19. [Rohl Bridge Kitchen Faucet](https://www.houzz.com/products/rohl-bridge-kitchen-faucet-metal-cross-handles-in-polished-chrome-prvw-vr~90347903)
 ![Rohl Bridge Kitchen Faucet](/img/24sinks/Rohl-Bridge-Kitchen-Faucet.jpg)
+
+<!-- We've been dying to tell you all about the Rohl Bridge Kitchen Faucet.
+
+Excellence, durability, and beauty. Family values, integrity, and innovation. These are all terms which aptly describe Rohl and its remarkable selection of kitchen and bathroom faucets and fixtures. Since 1983. Rohl has maintained a commitment to providing high-quality plumbing products for residential and commercial applications, while assuring these fixtures would make a difference in the overall decor in the living space. With a dedication to excellence throughout the home, Rohl has been satisfying homes, schools, hopsitality venues, and restaurants all around the world. Rohl specializes in providing timeless designs for every type of theme, including traditional, transitional, and modern. When Rohl suggests its products reflect the feel of a certain area outside the United States, it's more than just that. Rohl products are authentically crafted in towns in New Zealand, Western Europe, and North America.
+
+Perrin and Rowe Bridge Kitchen Faucet and Metal Cross Handles
+
+Rohl's Perrin and Rowe collection provides the opportunity to showcase the Victorian theme throughout the home. Design elements like ample scrolling and generously arced spouts define the Victorian theme, augmented by solid brass construction and a wide variety of finish options. Rohl's Perrrin and Rowe collection features stylish and high-quality faucets for the kitchen and bathroom, alloiwng you to carry the theme from room to room
+
+All brass faucet body construction - weight: 10 lbs
+Hand-machines from solid brass stock
+Industry leading, 1/4 turn lifetime ceramic disc valve
+Superior finishing process - chemical, scratch, and stain resistant
+Number of installation holes required: 3
+Bridge-style, above the counter mixing valve
+Spout swivels to allow for unobstructed sink access
+Center-to-center distance between handle installation holes (faucet centers): 8in
+Installs onto decks up to 2-3/8in thick
+Metal cross handles included
+Overall height: 10-1/2in (measured from counter top to faucet outlet)
+Spout height: 8in (measured from counter top to highest point of faucet)
+Low lead compliant - complies with federal and state regulations for lead content
+Designed for use with standard U.S. plumbing connections
+Extra secure mounting assembly
+All necessary mounting hardware included
+Fully covered under Rohl's limited lifetime warranty
+Manufacture in New Zealand, Western Europe, and/or North America -->
+
+
 20. [B2233-Gourmet II](http://alnoinc.com/product/b2233-gourmet-ii/)
 ![B2233-Gourmet II](/img/24sinks/1328040093-kitchen_pr_gourmet_2.jpeg)
 21. [Elkay Avado](https://www.elkay.com/products/lkav2031.html#208=1538)
