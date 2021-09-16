@@ -5,6 +5,7 @@ author: Kitchen Remodel Ideas
 image: /img/24sinks/1328040093-kitchen_pr_gourmet_2.jpeg
 tags:
   - Faucets
+  draft: true
 ---
 
 The kitchen sink has a very important job to do. A good kitchen sink must be durable enough to hold up to rigorous choring. Dishes are washed and sanitized on a daily basis. Your kitchen deserves a luxurious faucet that's both elegant and functional. Here's an assorted collection of kitchen ware brands offering beautifully designed faucets for a fair price.
