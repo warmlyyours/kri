@@ -1,12 +1,12 @@
 ---
-title: 4 Budget Friendly Kitchen Remodeling Ideas
+title: "4 Budget Friendly Kitchen Remodeling Ideas"
 date: 2020-10-12
-author: Kitchen Remodel Ideas
+author: "Kitchen Remodel Ideas"
 image: /img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp
 tags:
-  - Essentials
-  - Cabinets
-  - Furniture
+- Essentials
+- Cabinets
+- Furniture
 ---
 ![Hammer smashing open a Jar of Money](/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp)
 

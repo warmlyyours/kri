@@ -1,11 +1,11 @@
 ---
-title: 5 Popularized IKEA Cabinets
-subtitle: and Here's Why!
+title: "5 Popularized IKEA Cabinets"
+subtitle: "and Here's Why!"
 date: 2020-01-20
-author: Kitchen Remodel Ideas
+author: "Kitchen Remodel Ideas"
 tags:
-  - Furniture
-  - Cabinets
+- Furniture
+- Cabinets
 ---
 
 IKEA kitchen cabinets, found at the furniture megastore, may seem impersonal at times compared to your local furniture store. But, the Scandinavian company designs and fabricates beautiful kitchen cabinetry year after year and supplies furniture to literally millions of homes across the country. 

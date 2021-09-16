@@ -1,10 +1,10 @@
 ---
-title: 7 Kitchen Countertops made with Recycled Glass
+title: "7 Kitchen Countertops made with Recycled Glass"
 date: 2020-08-07
-author: Kitchen Remodel Ideas
+author: "Kitchen Remodel Ideas"
 image: /img/7Countertops/7_countertops_blog.jpg
 tags:
-  - Countertops
+- Countertops
 ---
 
 What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers - in recent history - sent glass bottles of all kinds to the landfill where they would sit for several lifetimes.  With the environmental movement of the 70ies, people started to wise up. The pollution of our planet stirred the oceans of change.

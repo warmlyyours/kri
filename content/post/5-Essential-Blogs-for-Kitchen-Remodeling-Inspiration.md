@@ -1,11 +1,11 @@
 ---
-title: 5 Essential Blogs
-subtitle: for Kitchen Remodeling Inspiration
+title: "5 Essential Blogs"
+subtitle: "for Kitchen Remodeling Inspiration"
 date: 2020-02-28
 image: /img/5Blogs/inspirational-blogs-for-remodeling-ideas-38f9f3.jpg
-author: Kitchen Remodel Ideas
+author: "Kitchen Remodel Ideas"
 tags:
-  - Essentials
+- Essentials
 ---
 
 ![Inspiration blogs for Remodeling](/img/5Blogs/inspirational-blogs-for-remodeling-ideas-38f9f3.jpg)
