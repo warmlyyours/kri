@@ -96,7 +96,11 @@ Perrin and Rowe bridge kitchen faucet's a timeless design. The highly reflective
 17. [4208 Ostende](https://www.herbeau.com/4208.html)
 ![4208 Ostende](/img/24sinks/wp8c1f25db_1a.jpg)
 
+<<<<<<< HEAD
 Simply marvel at the Ostende's beauty and grace, designed effortlessly after the sea's daunting expanse and maritime structures of Belgian coastal charms. The faucet is thus, a playful and elegant neck allowing this structure to perch at a height above the sink. Each handle can be specified as either a ceramic or wooden material build. Small intricacies such as this make the "Ostende" Single Hole Mixer with a flexible hand spray a standout winner.
+=======
+Simply marvel at the Ostende's beauty and grace, designed effortlessly after the ocean's daunting expanse and maritime structures of coastal charms. The faucet is thus, a playful and elegant neck allowing this structure to perch at a height above the sink. Each handle can be specified as either a ceramic or wooden material build. Small intricacies of great detail such as this make the "Ostende" Single Hole Mixer with flexible handspray a standout winner.
+>>>>>>> parent of 8fa675bd (Update 24 sinks)
 
 18. [Blanco Empressa™ Bridge Faucet​](https://www.blanco.com/us-en/faucets/empressa-f/empressa-bridge-low-pressure-metal-finish-pdp-99.205/?articleNr=442504)
 ![Blanco Empressa™ Bridge Faucet](/img/24sinks/blanco-empressa-bridge.jpg)
