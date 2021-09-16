@@ -91,18 +91,15 @@ We can hardly wait to cover the Moen Arbor Motion Sense Kitchen Faucet. Shortly 
 16. [Perrin and Rowe Bridge Kitchen Faucet](https://www.houzz.com/products/perrin-and-rowe-bridge-kitchen-faucet-in-polished-chrome-prvw-vr~68244843)
 ![Perrin and Rowe Bridge Kitchen Faucet](/img/24sinks/perrin.jpg)
 
-Perrin and Rowe bridge kitchen faucet's a timeless design. The highly reflective chrome finish creates a mirror-like appearance that complements any décor. Styled with class that capstones your kitchen sink. Dual handle water temperature setting and adjustment. Should you want to clear up the sink, the faucet's paired with a retractable side sprayer head.
+Perrin and Rowe bridge kitchen faucet's a timeless design. The highly reflective chrome finish creates a mirror-like appearance that complements any décor. Styled with class, allowing accurate water temperature setting and adjustment. Should you want to clear up the sink, the faucet's paired with a retractable side sprayer head.
 
 17. [4208 Ostende](https://www.herbeau.com/4208.html)
 ![4208 Ostende](/img/24sinks/wp8c1f25db_1a.jpg)
 
-Simply marvel at the Ostende's beauty and grace, designed effortlessly after the sea's daunting expanse and maritime structures of Belgian coastal charms. The faucet is thus, a playful and elegant neck allowing this structure to perch at a height above the sink. Each handle can be specified as either a ceramic or wooden material build. Small intricacies such as this make the "Ostende" Single Hole Mixer with a flexible hand spray a standout winner.
+Simply marvel at the Ostende's beauty and grace, designed effortlessly after the sea's daunting expanse and maritime structures of Belgian coastal charms. The faucet is thus, a playful and elegant neck allowing this structure to perch at a height above the sink. Each handle can be specified as either a ceramic or wooden material build. Small intricacies such as this make the "Ostende" Single Hole Mixer with a flexible handspray a standout winner.
 
 18. [Blanco Empressa™ Bridge Faucet​](https://www.blanco.com/us-en/faucets/empressa-f/empressa-bridge-low-pressure-metal-finish-pdp-99.205/?articleNr=442504)
 ![Blanco Empressa™ Bridge Faucet](/img/24sinks/blanco-empressa-bridge.jpg)
-
-Years of research have gone into perfecting the kitchen sink experience. Our best people have worked on this and now the Empressa Bridge is finally here. See what it's all about. It's the Empressa collection and it makes bold statements. Strategically designed for you and your daily cleaning tasks. A spray head button defines the type of jet stream selectuably chosen. It also was formed with stronger brass material. Innovatively built without being too brash, the Empressa Bridge steals the show.
-
 19. [Rohl Bridge Kitchen Faucet](https://www.houzz.com/products/rohl-bridge-kitchen-faucet-metal-cross-handles-in-polished-chrome-prvw-vr~90347903)
 ![Rohl Bridge Kitchen Faucet](/img/24sinks/Rohl-Bridge-Kitchen-Faucet.jpg)
 
