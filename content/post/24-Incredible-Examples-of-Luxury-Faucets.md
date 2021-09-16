@@ -1,7 +1,11 @@
 ---
 title: "24 Incredible Examples of Luxury Faucets"
 date: 2019-12-18
+<<<<<<< HEAD
 author: "Kitchen Remodel Ideas"
+=======
+author: Kitchen Remodel Ideas
+>>>>>>> parent of 72f6f47e (Update 24 sinks)
 image: /img/24sinks/1328040093-kitchen_pr_gourmet_2.jpeg
 tags:
   - Faucets
