@@ -2,7 +2,7 @@
 title: How to Organize the Kitchen Cabinets
 date: "2020-03-18"
 author: Kitchen Remodel Ideas
-image: /img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.webp
+image: /img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.jpg
 tags:
 - Cabinets
 ---

@@ -2,7 +2,7 @@
 title: What is the Best Water Filter
 date: 2020-09-02
 author: Kitchen Remodel Ideas
-image: /img/bestFilter/whats-the-best-water-filter-sans-text.webp
+image: /img/bestFilter/whats-the-best-water-filter-sans-text.jpg
 tags:
   - Faucets
 ---

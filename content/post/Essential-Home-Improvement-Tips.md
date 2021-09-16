@@ -2,7 +2,7 @@
 title: Essential Home Improvement Tips for a Quick Sale
 date: 2020-09-29
 author: Kitchen Remodel Ideas
-image: /img/essentialHITips/essentialhometipsfeaturedimage.webp
+image: /img/essentialHITips/essentialhometipsfeaturedimage.jpg
 tags:
   - Essentials
 ---
@@ -37,4 +37,4 @@ Whether you’re in a buyer’s or seller’s market, selling a home can be chal
 - Shape up the [landscaping](https://www.dragonettibrothers.com/blog/post/landscaping-for-curb-appeal) through regular lawn maintenance, gardening, and other tasks.
 - Add landscape [lighting](https://www.diynetwork.com/how-to/skills-and-know-how/electrical-and-wiring/22-landscape-lighting-ideas-pictures) to attract buyers and make the property safer.
 
-You may not be able to control everything about the home selling process, but you can take steps to help your home stand out on the market. Remember how home improvements can benefit your home sale, and determine what interior and exterior projects you *ought to* take on.
+You may not be able to control everything about the home selling process, but you can take steps to help your home stand out on the market. Remember how home improvements can benefit your home sale, and determine what interior and exterior projects you *ought to* take on. 
