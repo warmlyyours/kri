@@ -4,9 +4,11 @@ date: 2020-09-02
 author: Kitchen Remodel Ideas
 image: /img/bestFilter/whats-the-best-water-filter-sans-text.jpg
 tags:
-  - Faucets
+- Faucets
 ---
-{{< figure src="/img/bestFilter/whats-the-best-water-filter-sans-text.jpg" >}}
+
+## ![What is Best Water Filter](/img/bestFilter/whats-the-best-water-filter-sans-text.jpg "What is the Best Water Filter Featured Image")    
+
 
 Water is an essential building block of life which makes up more than 80% of our bodies. The quality of the water we drink and share with our family and house guests is dependent upon so many factors.
 
@@ -18,7 +20,7 @@ You can research the [Tap Water Database](https://www.ewg.org/tapwater/) to find
 
 We entered our zip code to get an idea of the information that the report contains. The U.S. EPA reports (January 2019 - March 2019) the tap water from our zip code has a total of 15 contaminants.  Of these, seven exceed the EWG health guidelines.
 
-![Contaminants Detected](/img/bestFilter/ContaminantsDetected.png)
+## ![Contaminants Detected](/img/bestFilter/ContaminantsDetected.png)
 Courtesy of [ewg.org](https://www.ewg.org/tapwater/)
 
 We’ve put together a buying guide to assist you along the process. Our goal is to help you decide which system works best for your local area, considering the contaminants you want to eliminate as well as the ease of installation and cost.

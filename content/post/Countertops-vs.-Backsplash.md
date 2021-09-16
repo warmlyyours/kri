@@ -38,7 +38,7 @@ When choosing countertops and backsplashes, do not lose sight of the fact that t
 
 There are a few things to consider when it comes to granite, quartz, or laminate. Granite is a natural material, so that the pattern is unique to a stone's veins and mineral deposits. This is also the most attractive to some people. Whilst granite is the hardest, most durable and least scratch-able natural stone, it can still be stained. Quartz is a man-made material available in many different forms.
 
-![banana on shiny countertop](/img/corbPairingOptions/bananacountertop.jpg)
+## ![banana on shiny countertop](/img/corbPairingOptions/bananacountertop.jpg)
 
 
 Quartz countertops consist of quartz chips that bond with resin, giving quartz a generally more uniform feel. Quartz is an extremely hard and robust product that's become a poplar choice for kitchen countertops. They need less upkeep and care than granite and do not need to be covered.
@@ -57,7 +57,7 @@ No more suffering from cold countertops! The following video showcases a Feelswa
 
 Answering the age old dilemma of the countertop or the backsplash. Which one goes first? You might not be sure whether to install a countertop or backsplash first. You might even be adjusting your design to a new layout. You may determine how busy or plain the kitchen backsplash and countertop ought to be. Incorporating a complex granite shouldn't be too bland, or even marble or quartzite, a discrete neutral choice that keeps the region from being too much.
 
-![Home pairing options](/img/corbPairingOptions/home-design.jpg)
+## ![Home pairing options](/img/corbPairingOptions/home-design.jpg)
 
 For example, the kitchen above has Fantasy Black Quartz countertops with a white subway tile backsplash and black grout. Backsplash is a good choice for a couple of reasons. First, it accentuates and contrasts the accent color of the countertop. Second, it feigns as a dirty subway wall when actually, it's a clean kitchen backsplash.
 
@@ -65,7 +65,7 @@ For example, the kitchen above has Fantasy Black Quartz countertops with a white
 
 Beginning with a backsplash isn't a bad idea. More often than not, the backsplash will be noticed before a countertop since it is at eye level. First impressions are important. Honing in on a backsplash option also narrows down countertop selections. Granite and marble are a safe choice. Absolute Black Granite and White Calcutta Marble tiles have been seeing a big reemergence this year.
 
-![Modern Kitchenette with Wooden Furniture](/img/corbPairingOptions/modern-kitchenette-with-wooden-furniture.jpg)
+## ![Modern Kitchenette with Wooden Furniture](/img/corbPairingOptions/modern-kitchenette-with-wooden-furniture.jpg)
 
 Countertops materials and backsplash tiles often proovide a visual lead. Your visual lead sets the tone for the rest of the kitchen experience. That doesn't mean you're not supposed to play around with colors and layout placements. You're going to want to have a theme that works with both a countertop and a backsplash, even mildly so.
 

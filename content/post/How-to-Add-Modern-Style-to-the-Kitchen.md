@@ -10,7 +10,7 @@ Remodeling a somewhat dated kitchen with a new style keeps the magic going, righ
 
 # Aesthetic Style
 
-![Remodelista](/img/modernStyle/Remodelista.png)
+## ![Remodelista](/img/modernStyle/Remodelista.png)
 
 Contemporary kitchens feature minimalist design with monochromatic colors and elements that are flush against walls and countertops. In today’s modern kitchen design, everything is streamlined, and clean lines are featured throughout the room.
 
@@ -33,7 +33,7 @@ In addition to the features above, you can add modern style to your kitchen with
 
 - **Open Shelving:** Use floating shelves constructed out of reclaimed wood for stylish storage that will showcase your items and impress your guests.
 
-- ![HGTV Backsplash](/img/modernStyle/HGTVbacksplash.png)
+## ![HGTV Backsplash](/img/modernStyle/HGTVbacksplash.png)
 
 - **Backsplash Patterns:** Backsplash tile arranged in a chevron pattern is the trend right now. This pattern will stand out and help showcase artisan tile in your kitchen.
 

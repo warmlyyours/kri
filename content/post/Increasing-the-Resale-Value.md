@@ -7,7 +7,7 @@ tags:
   - Flooring
 ---
 
-![Increasing Resale Value Featured Image](/img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp)
+## ![Increasing Resale Value Featured Image](/img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp)
 
 # Increasing your Resale Value with Radiant Floor Heating
 

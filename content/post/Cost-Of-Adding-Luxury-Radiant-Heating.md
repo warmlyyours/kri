@@ -7,7 +7,7 @@ tags:
   - Countertops
   - Flooring
 ---
-![Cost of Adding Luxury Radiant Heating in a Kitchen](/img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp)
+## ![Cost of Adding Luxury Radiant Heating in a Kitchen](/img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp)
 
 What is the cost of adding luxury radiant heating in a kitchen? Before we discuss the average cost of radiantly heating a home, let’s first discuss what exactly is radiant heating? Think of it as an electric heating blanket for your floor. It’s a heating cable sewn onto a fiberglass mesh that spans the area to cover from wall to wall. The heating element is installed over the subfloor. Then, flooring, like tile, is placed on top of the heating system. This technology results in better room temperatures, better home relaxation, and better energy efficiency. It just makes everything better.
 
@@ -30,7 +30,7 @@ Check out [WarmlyYours’ Instant Quote tool](https://www.warmlyyours.com/en-US/
 
 Below is an example of a kitchen floor plan with the heating element designed in the foot print of the room. In this example, the areas next to the walls or underneath permanent fixtures do not need to get heated. This is what WarmlyYours calls a SmartPlan. The space between the cabinets is the area that is actually heated.
 
-![Smart Guide](/img/luxuryHeating/IP1519351-R1-(2)-(1).png)
+## ![Smart Guide](/img/luxuryHeating/IP1519351-R1-(2)-(1).png)
 
 To read the floor plan, there is a black triangle on the bottom right of the floor plan that pinpoints where to start laying out the product, and the arrows show where to cut the mesh and turn the cable. The TempZone™ Flex Roll allows the installer the flexibility to cut and turn the roll to effectively fill the floor space while providing 15 watts per square foot of warm radiant heat.
 
@@ -38,15 +38,15 @@ The [1.5- by 30-foot Flex Roll](https://www.warmlyyours.com/en-US/products/code/
 
 The circles with dotted lines provide installation tips for the heating element. One gives reference to the sensor location that hooks up to the thermostat. The floor sensor is placed 6” from the wall and rests atop the fiberglass mesh to be covered with the finished flooring. When an electrician connects the floor heating system to a thermostat, the floor sensor adeptly reports accurate readings of the actual floor temperatures and simultaneously ensures that the cable’s working correctly:
 
-![Cutting cables](/img/luxuryHeating/floor-sensor-v2.png)
+## ![Cutting cables](/img/luxuryHeating/floor-sensor-v2.png)
 
 The diagram below illustrates how to carefully cut the cable away from the fiberglass mesh. This circle represents specifically the cut-and-turn processes. Every time there is an arrow indicated on the plan is where this process should be repeated. Always remember to never cut the cable.
 
-![Cut and Turn Technology](/img/luxuryHeating/cut-mesh.png)
+## ![Cut and Turn Technology](/img/luxuryHeating/cut-mesh.png)
 
 The final of the circles shows you if free form cable is required at that place along the cable’s journey. A number of inches that’s been bordered by a black square line tells you how much to remove from the mesh. Twelve inches of the mesh is cut off of the grid and when you get rid of that fiberglass mesh then you free up enough cable to cover parts of the floor embedded cable couldn’t reach on its own. In this case, the cable must be 2” from the base of the cabinet unit. Properly space the cable so the radiant energy reaches just up to the edge of where the floor heating should be:
 
-![Proper Spacing](/img/luxuryHeating/free-form-3.png)
+## ![Proper Spacing](/img/luxuryHeating/free-form-3.png)
 
 Controllers are priced from $139.00 and can go up to $295.00 dependent upon the features you desire. The thermostat temperature is controlled by an in-floor sensor which is installed between loops of the heating element and wired to the back of the control. The sensor checks the actual temperature and adjusts temperature based on your schedule.
 
@@ -56,7 +56,7 @@ The top-of-the-line control option is a [Wifi Programmable Thermostat](https://w
 
 There’s an all new suite of services from WarmlyYours that can help with every part of the installation process -  either onsite or remotely. Their [SmartGuide Service](https://www.warmlyyours.com/en-US/services) takes out all the trip-ups of installing radiant heating. There are four services available.
 
-![Smiling Architect Having a Phone Call](/img/luxuryHeating/smiling-architect-having-a-phone-call-6DJWV7H.jpg)
+## ![Smiling Architect Having a Phone Call](/img/luxuryHeating/smiling-architect-having-a-phone-call-6DJWV7H.jpg)
 
 For $75 WarmlyYours’ [Remote SmartFit](https://www.warmlyyours.com/en-US/services/troubleshooting) service will assist with remote measuring of the intended room you want to install radiant heating in. The fee includes up to three rooms plus $10 to measure each subsequent room. The end result ensures that your SmartPlan is accurate and has just the right amount of heating cable.
 
@@ -74,7 +74,7 @@ If you are located or reside within 100 miles of the WarmlyYours HQ in Lake Zuri
 
 As the installer masterfully installs the 45 sq ft of kitchen flooring with tempzone flex roll, the going rate is fixed at an additional $199 / Day. Here it tallies to a total of $157.50 for a great installation from an experienced trade professional. When you add that onto the cost of the product, you’re now looking at $675 in addition to a lifetime warranty.
 
-![Energy Use Calculator](/img/luxuryHeating/energy-use-calculator-9d6312.jpeg)
+## ![Energy Use Calculator](/img/luxuryHeating/energy-use-calculator-9d6312.jpeg)
 
 ### Operating Costs
 

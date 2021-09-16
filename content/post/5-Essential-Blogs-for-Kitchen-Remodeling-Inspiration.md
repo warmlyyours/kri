@@ -8,7 +8,7 @@ tags:
 - Essentials
 ---
 
-![Inspiration blogs for Remodeling](/img/5Blogs/inspirational-blogs-for-remodeling-ideas-38f9f3.jpg)
+## ![Inspiration blogs for Remodeling](/img/5Blogs/inspirational-blogs-for-remodeling-ideas-38f9f3.jpg)
 
 As the freeze begins to thaw the frozen tundra we call winter, now has never been a more opportune time to start a remodeling project. Spring is coming soon and the days are growing longer, if you have kids during the springtime, you can muster a small army of volunteers over the weekend to help you out. Millions of people across the world take the opportunity to begin organizing and decluttering from their hibernate states as the snow begins to melt. 
 
@@ -32,7 +32,7 @@ We will continue exploring her blog as we completely fell in love with her work.
 
 ## It's Great to be Home: Adventures of a Serial Home Improver
 
-![Bedroom Over Garage](/img/5Blogs/bedroom-over-garage-in-a-house-1-6d89ff.jpg)
+## ![Bedroom Over Garage](/img/5Blogs/bedroom-over-garage-in-a-house-1-6d89ff.jpg)
 
 Liz and her husband are fantastic practitioners of the ‘fix-and-flip’ scenario where an investor who sees what a dilapidated home’s potential could be will then purchase the property at a discounted price. The couple has been bravely investing with a mindset of fixing up houses and renovating them to increase the market valuation. 
 
@@ -48,7 +48,7 @@ What’s shocking is that all ten houses have been sold which is deserving of ou
 
 Our grandmothers and great grandmothers grew up with American eagles made out of cast iron above the fireplace. If you feel your house should have a vintage look to it and you want to recreate the look built during the post-World War II boom, check out this blog. You’ll learn how to incorporate design inspirations from different time periods and how to borrow the styles from retro suburban homes.  
 
-![Houzz Homepage Screenshot](/img/5Blogs/houzz-homepage-screenshot-4da31b.jpg)
+## ![Houzz Homepage Screenshot](/img/5Blogs/houzz-homepage-screenshot-4da31b.jpg)
 
 ## Houzz
 

@@ -137,3 +137,5 @@ Here’s the first kitchen we’ve seen with a sink stool which, over the years,
 ![Wood and Brown Kitchen](/img/32Dazzling/wooden-and-brown-kitchen-KZJ5SFN.jpg)
 
 We will never see two kitchens a like. We have to say, even the fridge has been embellished with electric and eye-popping color schemes and beautifully stained paneling.
+
+{{< mdResponsive >}}
