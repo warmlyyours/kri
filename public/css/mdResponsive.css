@@ -1,0 +1,22 @@
+img,
+svg {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  width: 75%;
+  height: auto;
+}
+
+@media only screen and (max-width: 767px) { img,
+svg {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  width: 100%;
+  height: auto
+}
+
+h2, img {
+  display: flex;
+  justify-content: center
+}

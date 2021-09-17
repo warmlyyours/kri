@@ -10,49 +10,49 @@ tags:
 The kitchen sink has a very important job to do. A good kitchen sink must be durable enough to hold up to rigorous choring. Dishes are washed and sanitized on a daily basis. Your kitchen deserves a luxurious faucet that's both elegant and functional. Here's an assorted collection of kitchen ware brands offering beautifully designed faucets for a fair price.
 
 1. [Chillout FF4900](https://www.ajmadison.com/cgi-bin/ajmadison/FF4900.html)
-![Chillout FF4900](/img/24sinks/ff49005a71f5c7925b0_71fee.jpeg)
+# ![Chillout FF4900](/img/24sinks/ff49005a71f5c7925b0_71fee.jpeg)
 
 For each and every kitchen, dishes must be done and cookware products ought to be cleaned. Rinsing the kitchen sink, blasting off leftover items, clearing large pans and pots, are just an array of opportunities. You name it! The Chillout FF4900 is THE kitchen sink.
 
 2. [Effe EF129](https://www.houzz.com/products/effe-ef-179-kitchen-faucet-with-swivel-spout-polished-chrome-prvw-vr~85446899)
-![Effe EF179](/img/24sinks/Effe-EF-179-Kitchen-Faucet-with-Swivel-Spout.jpg)
+## ![Effe EF179](/img/24sinks/Effe-EF-179-Kitchen-Faucet-with-Swivel-Spout.jpg)
 
 Constantly cleaning up after yourself and others can be monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
 
 3. [BESy Commercial Kitchen Faucet with Pull Down Sprayer](https://amzn.to/3EbguO6)
 
-![BESy Commercial Kitchen Faucet with Pull Down Sprayer](/img/24sinks/613LjV8xbmS._AC_SL1500_.jpg)
+## ![BESy Commercial Kitchen Faucet with Pull Down Sprayer](/img/24sinks/613LjV8xbmS._AC_SL1500_.jpg)
 
 The BESy commercial kitchen faucet offers the latest of kitchen faucet technology. A three-function sprayer head can be pulled out and pulled town to spray off and rinse dishes, plates, and even baking sheets. Although we did not have the chance to experiment with this particular faucet at our testing facility, everyone's been leaving excellent reviews. A high-arch spout, single lever spring, and immaculate brushed gold finish makes cleanup a breeze.
 
 
 4. [Ozone Generating Kitchen Faucet Pull Down](https://lenovasinks.com/product/ozone-generating-kitchen-faucet-pull-down-16-1-2-height/)
-![Ozone Generating Kitchen Faucet Pull Down](/img/24sinks/F-SS-OZ-B-101.jpeg)
+## ![Ozone Generating Kitchen Faucet Pull Down](/img/24sinks/F-SS-OZ-B-101.jpeg)
 
 Lenovasinks are luxurious and market-ready faucets. But don't take it from us, we don't insist! Find out for yourself just how amazing it can be cleaning food particles and contaminants. The base of the faucet houses a filtration chamber, eliminating bacteria and pesticides without additional instillation of an under or over counter water filter system. You get an elegant swan neck and a spout you can pull down to reach every part of your sink basin. Long and tall spouts have higher clearances, but get lower water pressure than a short spout faucet.
 
 5. [KSTB-4422 Triple Bowl](https://swanstone.com/en/product/kstb-4422-22%22-x-44%22-triple-bowl_sw000166)
-![KSTB-4422 Triple Bowl](/img/24sinks/Swan-SW000166-010.jpg)
+## ![KSTB-4422 Triple Bowl](/img/24sinks/Swan-SW000166-010.jpg)
 
 A straight spout faucet such as this one here is small and lightweight enough and designed very well to fit perfectly for a compact kitchen. Three bowls inlayed next to each other gives maximum efficiency. The basins are shallow so if you say spring a leak then there's enough workspace under the counter to seal up your line, but you may need to wash large cookware separately. Not a lot of faucets are made with the quality of craftsmanship seen in this design.
 
 6. [Delta 4380-DST](https://amzn.to/3k8xrAK)
-![Delta 4380-DST](/img/24sinks/716EU51Zn6L._AC_SL1500_.jpg)
+## ![Delta 4380-DST](/img/24sinks/716EU51Zn6L._AC_SL1500_.jpg)
 
 At a glance, if you're the proud owner of a three-hole kitchen sink then this Delta faucet is perfect for you. A goose-neck faucet inspired by nature and modernity swivels 180 degrees for additional conveniency. The single handle faucet can set the desired temperature of the water and keep the actual temperature at no more or less than your configuration. Leak points are prevented by the patented DIAMOND Seal Technology and this sink claims to last twice as long as industry standards. Lastly, a detachable sprayer gives you the flexibility to wash tough-to-reach spots.
 
 7. [Source 306003](https://www.homerefinements.ca/en/product/model/306003/)
-![Source 306003](/img/24sinks/306003.jpg)
+## ![Source 306003](/img/24sinks/306003.jpg)
 
 Intuitively crafted German engineering brings the Source 306003 to the next level. Not just your average kitchen faucet, the Source is made of solid brass construction, moreover, resistant to bacterial growth. What's more is the locking spray jet mode strongly clears off dinner plates if not twice as fast as standard water sprays. If you want to remodel your countertop, the Source can be descaled for easy cleaning and low-maintenance reconstruction. This sink makes the chase as the leader of functionality and style.
 
 8. [VINTAGE III DECK MOUNT RETRACTABLE SWING SPOUT POT FILLER WITH LEVER HANDLES AND SWIVEL AERATOR](https://whitehauscollection.com/collections/pot-fillers/products/vintage-iii-deck-mount-retractable-swing-spout-pot-filler-with-lever-handles-and-swivel-aerator)
-![VINTAGE III DECK MOUNT RETRACTABLE SWING SPOUT POT FILLER WITH LEVER HANDLES AND SWIVEL AERATOR](/img/24sinks/WHKPFDLV3-9555_PolishedChrome_2000x.jpeg)
+## ![VINTAGE III DECK MOUNT RETRACTABLE SWING SPOUT POT FILLER WITH LEVER HANDLES AND SWIVEL AERATOR](/img/24sinks/WHKPFDLV3-9555_PolishedChrome_2000x.jpeg)
 
 Brilliantly designed top-notch kitchen hardware for serious chefs. Pot fillers are usually installed over the range so you won't lose your grip carrying heavy pots around your kitchen. The Vintage 3 is available in a huge array of tough finishes and you can map it out behind the stove with a longer supply hose to connect to your water line. Don't buy this faucet if you don't have a long enough supply line. It's dedicated to just cold water and can be fitted with a cold water filter to prevent the presence of water contaminants and bacteria. Patent protected and available at Whitehaus. The Vintage 3 deck mount dual arm pot filler has all these features and more ; bringing a touch of elegance and style for you.
 
 9. [Waterstone Traditional Wheel Faucet](https://waterstoneco.com/wheel-pulldown-faucet-5100/)
-![Waterstone Traditional Wheel Faucet](/img/24sinks/5100-PN.jpeg)
+## ![Waterstone Traditional Wheel Faucet](/img/24sinks/5100-PN.jpeg)
 
 Waterstone's traditional wheel faucet gives an amazing performance difference apart from the market. We'd like to highlight the luxurious style that bestows a beautiful pull-out spray head. It can be extended out 20" and swivel 360° for flexibility and convenience. You won't find another kitchen faucet made with this attention to quality craftsmanship anywhere else.
 

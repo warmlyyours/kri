@@ -3,7 +3,7 @@ DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Kitchen Remodel Ideas"
 theme = "beautifulhugo"
-metaDataFormat = "toml"
+metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -14,7 +14,7 @@ enableRobotsTXT = false
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 paginate = 5
-
+description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything AND the kitchen sink's covered by our informative kitchen remodeling blogs."
 
 [Params]
   #homeTitle = "" # Set a different text for the header on the home page
@@ -24,7 +24,7 @@ paginate = 5
   favicon = "favicon/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = false
+  rss = true
   comments = true
   readingTime = true
   wordCount = true
@@ -33,7 +33,6 @@ paginate = 5
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
-  description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything AND the kitchen sink's covered by our informative kitchen remodeling blogs."
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [taxonomies]
@@ -55,19 +54,19 @@ paginate = 5
 
 [Author]
   name = "Chris Selvais"
-  website = "https://www.facebook.com/cselvais/"
+  #website = ""
   email = "chris@kitchenremodelideas.com"
-  facebook = "kitchenremodelideasworldwide/"
+  facebook = "kitchenremodelideasworldwide"
   github = "antiprysm"
   #gitlab = "username"
   #bitbucket = "username"
-  twitter = "KR_Ideas/"
+  twitter = "KR_Ideas"
   #reddit = "username"
   #linkedin = "username"
   #xing = "username"
   #stackoverflow = "users/XXXXXXX/username"
   #snapchat = "username"
-  instagram = "kitchenremodelideas/"
+  instagram = "kitchenremodelideas"
   #youtube = "user/username" # or channel/channelname
   #soundcloud = "username"
   #spotify = "username"
