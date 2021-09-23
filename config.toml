@@ -83,7 +83,7 @@ description = "Kitchen Remodeling Ideas is your online database of kitchen renov
   #slack = "username"
 
 [[menu.main]]
-    url="kitchen-design-gallery"
+    url="kitchen-design-gallery/"
     name="Design Gallery Redirect"
 
 [[menu.main]]
