@@ -107,7 +107,7 @@ There are also strong support groups you can join like a meetup group with a sha
 >
 >> - Be too proud to ask for help
 >> - Put off unpacking
->> - Cut off ties wit past friends and family
+>> - Cut off ties with past friends and family
 
 Whether you’re moving for love, family or moving to a new place all by yourself, we hope we’ve given you some tips to make moving across country easier on your mind and budget.
 
