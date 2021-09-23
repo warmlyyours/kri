@@ -4,10 +4,10 @@ date: 2020-05-15
 image: /img/marbleVs/gvm-1-scaled.jpg
 author: Kitchen Remodel Ideas
 tags:
-  - Flooring
+  - Countertops
 ---
-## ![Marble Vs Granite](/img/marbleVs/gvm-1-scaled.jpg)
 
+{{< postImage "Marble Vs Granite" "/img/marbleVs/gvm-1-scaled.jpg" "/img/marbleVs/gvm-1-scaled.jpg" >}}
 What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers - in recent history - sent glass bottles of all kinds to the landfill where they would sit for several lifetimes.  With the environmental movement of the 70ies, people started to wise up. The pollution of our planet stirred the oceans of change.
 
 ***
@@ -18,8 +18,8 @@ We will be going over marble and granite countertops thoroughly and diving deep 
 
 Let’s not forget that each slab of marble and granite are deposited from quarries all over the world. Sourcing natural stones from these locations will be more expensive than man-made countertops which can be engineered to resemble granite or marble. Marble from one part of the world may have different properties than say marble sourced from somewhere else. For example, it’s well known that Carrara marble is very dense and non-porous, giving it a natural resistance to stains and scratches quite excellently. The northernmost point of this region is home to some of the finest marble in the world. Positively put, marble and/or granite won’t vary too much depending on where it’s sourced from, and yet won’t always be identical to what you know and love. 
 
-## ![High End Luxury Kitchen with Granite Countertops](/img/marbleVs/high-end-luxury-kitchen-with-granite-countertops-a-XWJBUNP-scaled.jpg)
 
+{{< postImage "High End Luxury Kitchen with Granite Countertops" "/img/marbleVs/high-end-luxury-kitchen-with-granite-countertops-a-XWJBUNP-scaled.jpg" "/img/marbleVs/high-end-luxury-kitchen-with-granite-countertops-a-XWJBUNP-scaled.jpg" >}}
 ## Granite
 
 Granite is one of the hardest and strongest materials one can utilize for kitchen countertops. These types of stones can have thousands of beautiful pattern variations and a wide range of colors to choose from. Eco-conscious homeowners consider granite to be one of the top choices for both elegant form and practical function. 
@@ -44,7 +44,6 @@ Even if granite is durable, it isn’t completely impervious to damage. Some typ
 The etching is caused by acidic solutions eating away the surface. The same kind of damage can be done to marble and other types of natural stone such as travertine and slate if you don't take care of it properly. The good news is that a homemade paste made of baking soda and acetone can clean oil stains, and organic stains can be extracted by soaking a paper towel in bleach and rubbing it on the affected area.
 
 ## ![Marble Kitchen Countertops](/img/marbleVs/37518821020_168509e295_b.jpg)
-
 ## Marble
 
 People who entertain dinner guests often get together, and marble countertops are impressive and welcoming to any invitees that visit the kitchen. Compared to granite, marble has a symbolic meaning of luxury and distinction. Marble is also very durable and is the reason why famous structures from antiquity like The Pantheon and Michelangelo’s David have withstood the test of time to this very day.
@@ -53,7 +52,7 @@ People who entertain dinner guests often get together, and marble countertops ar
 
 {{< columns >}}
 {{< column >}}
-## ![White Marble Quarry](/img/marbleVs/white-marble-quarry-and-excavators-carrara-italy-PV3DLD2-crop-scaled.jpg)
+{{< postImage "White Marble Quarry" "/img/marbleVs/white-marble-quarry-and-excavators-carrara-italy-PV3DLD2-crop-scaled.jpg" "/img/marbleVs/white-marble-quarry-and-excavators-carrara-italy-PV3DLD2-crop-scaled.jpg" >}}
 {{< column >}}
 Marble slabs first begin their journey from a limestone quarry where the slabs are cut from a larger stone. The recognizable characteristics of streaks and swirls of many types of marble varieties are usually due to mineral impurities such as silt, clay, iron oxides, sand, and chert which were present during the limestone’s formation millions of years ago. And so geologists classify marble as a metamorphic rock when limestone experiences immense heat and pressure over a long time. Marble is made from the carbonate crystals forming the limestone, most commonly dolomite and calcite. Marble forms under such conditions when the calcite recrystallizes and forms a denser rock made out of the newly formed calcite crystals.
 {{< endcolumns >}}

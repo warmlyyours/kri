@@ -20,7 +20,7 @@ To start your journey, our team investigated IKEA’s kitchen cabinet offering.�
 
 # SEKTION: IKEA Kitchen Cabinet Code SE BS2G
 
-{{< figure src="/img/5IKEA/sektion1.png" >}}
+{{< postImage "SE BS2G" "/img/5IKEA/sektion1.png" "/img/5IKEA/sektion1.png" >}}
 
 We are really impressed by this IKEA base cabinet. The IKEA kitchen cabinet received high marks.  I think what makes this wide cabinet interesting is that it’s what may be considered as part of the collection of IKEA custom cabinets. The base cabinet’s spacing can be customized. 
 
@@ -48,7 +48,7 @@ And here’s where function steps in. For cleaning the glass, there are snap-on 
 
 ## SEKTION: IKEA Kitchen Cabinet Code SE HS2D2E2I
 
-{{< figure src="/img/5IKEA/sektion2.png" >}}
+{{< postImage "SE HS2D2E2I" "/img/5IKEA/sektion2.png" "/img/5IKEA/sektion2.png" >}}
 
 Color is again trending in kitchen design and that’s reflected in the popularity of this model.  After year-over-year of white-on-white kitchen themes, color is back and in a big way.
 
@@ -70,7 +70,7 @@ The door damper catches a moving door and gently closes it silently. and you can
 
 ## SEKTION: Cabinet code SE WR1H
 
-{{< figure src="/img/5IKEA/sektion3.png" >}}
+{{< postImage "SE WR1H" "/img/5IKEA/sektion3.png" "/img/5IKEA/sektion3.png" >}}
 
 A well-designed kitchen incorporates cabinetry with purpose. We think that this piece really shines above a fridge and it’s possible to wall-mount it for added safety.  That’s especially important if you are planning to use this space to tuck away large appliances.
 
@@ -89,7 +89,7 @@ Hinges are adjustable and a knob or a handle is required to open the hatch.
 
 ## SEKTION: Cabinet code SE HM2D2E
 
-{{< figure src="/img/5IKEA/sektion4.png" >}}
+{{< postImage "SE HM2D2E" "/img/5IKEA/sektion4.png" "/img/5IKEA/sektion4.png" >}}
 
 IKEA specializes in maximizing storage space and this cabinet is a clear popular choice for smaller kitchens.  When wall space is limited - travel up! Incorporating the space for the microwave - is a space saver too and clears up much needed counter space for prepping those home-cooked meals that your family appreciates and loves!! Especially if your kitchen is small, you’ve got seven and a half feet of vertical storage.
 
@@ -111,7 +111,7 @@ PRO TIP:   If you do incorporate a microwave, leave ample room on the top and bo
 
 ## SEKTION: Cabinet code SE H2D3EE2I
 
-{{< figure src="/img/5IKEA/sektion5.png" >}}
+{{< postImage "SE H2D3EE2I" "/img/5IKEA/sektion5.png" "/img/5IKEA/sektion5.png" >}}
 
 To round out the fab-five, this popular cabinet configuration has drawers that are located behind the cabinet doors giving it a sleek finish. The cabinet can blend into any kitchen giving the room a seamless design with a modern feel.
 

@@ -21,7 +21,7 @@ To use the feature, users simply need to open the Houzz app, click the Shop butt
 
 The Houzz Shop includes more than 1.8 million home décor items, including furniture, lighting, artwork and even radiant heating products like [towel warmers](https://www.warmlyyours.com/en-US/towel-warmer?referral_code=KRICOM) and [radiant panels](https://www.warmlyyours.com/en-US/radiant-panel?referral_code=KRICOM).
 
-## ![Elements Towel Warmer](/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.jpg)
+{{< postImage "Elements Towel Warmer" "/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.jpg" "/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.jpg" >}}
 
 ## Digital Tools #2: Sketch
 

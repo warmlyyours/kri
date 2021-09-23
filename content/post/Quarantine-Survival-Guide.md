@@ -44,4 +44,4 @@ Although the manufacturer’s guidelines should always be followed. Look for upd
 
 Here is the cleaning checklist we at Kitchen Remodel Ideas created for you. We’ve left a few of the lines blank so that you can personalize the list for your needs. Once you print it out, you can laminate it and stick it to your fridge or notice board. Please don’t hesitate to reach out to us if you have any questions or have ideas or recommendations for cleaning and sanitizing a kitchen.
 
-## ![Covid-19 Sanitation Checklist](/img/sanitationChecklist/Checklist.jpg)
+{{< postImage "Covid-19 Sanitation Checklist" "/img/sanitationChecklist/Checklist.jpg" "/img/sanitationChecklist/Checklist.jpg" >}}

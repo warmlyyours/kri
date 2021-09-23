@@ -10,7 +10,12 @@
 {{ $bigimg := $.Scratch.Get "bigimg" }}
 {{ $title := $.Scratch.Get "title" }}
 {{ $subtitle := $.Scratch.Get "subtitle" }}
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 {{ if or $bigimg $title }}
   {{ if $bigimg }}
   <div class="container-fluid d-flex justify-content-center p-5" style="height: auto;">
@@ -54,14 +59,14 @@
         {{ $title := $.Scratch.Get "title" }}
               <div class="{{ .Type }}-heading">
                 <h1>{{ .Site.Title }}<br/>{{ end }}</h1>
-                  {{ if $subtitle }}
+                  <!-- {{ if $subtitle }}
                     {{ if eq .Type "page" }}
                       <hr class="small" style="color: #bd8201;min-height: 5px">
                       <h2 class="{{ .Type }}-subheading">{{ $subtitle }}</h2>
                     {{ else }}
                       <h2 class="{{ .Type }}-subheading">{{ $subtitle }}</h2>
                     {{ end }}
-                  {{ end }}
+                  {{ end }} -->
                   {{ if eq .Type "post" }}
                     {{ partial "post_meta.html" . }}
                   {{ end }}
@@ -78,11 +83,11 @@
       <div class="container">
         <div class="row" style="margin-top: 35px">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="{{ .Type }}-heading">
+            <div style="text-decoration: underline;text-underline-offset: 5px" class="{{ .Type }}-heading">
               {{ if eq .Type "list" }}
-                <h2>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+                <h2>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h2>
               {{ else }}
-                <h2>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h1>
+                <h2>{{ with $title }}{{.}}{{ else }}<br/>{{ end }}</h2>
               {{ end }}
               {{ if ne .Type "post" }}
                 <hr class="small">
@@ -93,9 +98,6 @@
                 {{ else }}
                   <h2 class="{{ .Type }}-subheading">{{ $subtitle }}</h2>
                 {{ end }}
-              {{ end }}
-              {{ if eq .Type "post" }}
-                {{ partial "post_meta.html" . }}
               {{ end }}
             </div>
           </div>

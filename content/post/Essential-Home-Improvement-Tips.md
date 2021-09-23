@@ -6,7 +6,9 @@ image: /img/essentialHITips/essentialhometipsfeaturedimage.jpg
 tags:
   - Essentials
 ---
-## ![Essential Home Improvement Tips Featured Image](/img/essentialHITips/essentialhometipsfeaturedimage.jpg)
+
+
+{{< postImage "Essential Home Improvement Tips Featured Image" "/img/essentialHITips/essentialhometipsfeaturedimage.jpg" "/img/essentialHITips/essentialhometipsfeaturedimage.jpg" >}}
 Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-209274/)
 
 # Essential Home Improvement Tips for a Quick Sale

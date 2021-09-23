@@ -7,7 +7,8 @@ tags:
   - Essentials
   - Furniture
 ---
-## ![Kitchen's New Role During the Covid-19 Pandemic Featured Image](/img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp)
+
+{{< postImage "Kitchen's New Role During the Covid-19 Pandemic Featured Image" "/img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp" "/img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp" >}}
 
 Now more than ever, the kitchen is more than just an area to gather around the dinner table. It's become a multipurpose area transforming the heart of the home to command central. The coronavirus lockdown has reconnected us with our homes but in ways, we are unaccustomed.
 

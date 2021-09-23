@@ -10,8 +10,7 @@ Remodeling a somewhat dated kitchen with a new style keeps the magic going, righ
 
 # Aesthetic Style
 
-## ![Remodelista](/img/modernStyle/Remodelista.png)
-
+{{< postImage "Remodelista" "/img/modernStyle/Remodelista.png" "/img/modernStyle/Remodelista.png" >}}
 Contemporary kitchens feature minimalist design with monochromatic colors and elements that are flush against walls and countertops. In today’s modern kitchen design, everything is streamlined, and clean lines are featured throughout the room.
 
 Note that the popular materials used in modern kitchens today include metals, glass and stainless steel for an industrial feel. The color schemes are often dominated by slate, gray and black. Hardware is usually chrome; otherwise, sometimes no hardware is used at all on kitchen cabinets.
@@ -33,8 +32,7 @@ In addition to the features above, you can add modern style to your kitchen with
 
 - **Open Shelving:** Use floating shelves constructed out of reclaimed wood for stylish storage that will showcase your items and impress your guests.
 
-## ![HGTV Backsplash](/img/modernStyle/HGTVbacksplash.png)
-
+{{< postImage "HGTV Backsplash" "/img/modernStyle/HGTVbacksplash.png" "/img/modernStyle/HGTVbacksplash.png" >}}
 - **Backsplash Patterns:** Backsplash tile arranged in a chevron pattern is the trend right now. This pattern will stand out and help showcase artisan tile in your kitchen.
 
 The backsplash is a fun place where you can show off your style and design sense. If you don’t want to go with a tiled backsplash, consider using reclaimed wood to decorate the space above the stovetop.
