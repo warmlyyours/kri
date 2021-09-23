@@ -45,6 +45,7 @@
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 1px;
+    text-decoration: none;
   }
 
   .navbar-custom .navbar-brand,
@@ -174,18 +175,18 @@
     font-weight: normal;
   }
 
-  @media only screen and (min-width: 768px) {
-    .navbar-custom .nav .navlinks-container {
-      text-align: center;
+  @media only screen and (max-width: 991px) {
+    #main-navbar {
+      position: relative;
+      width: auto;
+      padding: 0;
+      top: auto;
     }
     .navbar-custom .nav .navlinks-container:hover {
       background: #eee;
     }
     .navbar-custom .nav .navlinks-container:hover .navlinks-children {
       display: block;
-    }
-    .navbar-custom .nav .navlinks-children {
-      position: absolute;
     }
 
     .navbar-custom .nav .navlinks-children a:hover {
@@ -197,14 +198,25 @@
       border: 1px solid #eaeaea;
       border-width: 0 1px 1px;
     }
-  }
-
-  @media only screen and (max-width: 768px) {
     .navbar-custom .nav .navlinks-children a:hover {
       color: #112b3c;
     }
+    #main-navbar {
+      position: absolute;
+      top: 60px;
+      left: 0;
+      z-index: 1000;
+      background: #112b3c;
+      width: 250px;
+      padding: 15px;
+    }
   }
-
+  
+  @media only screen and (max-width: 480px) {
+    #main-navbar {
+      width: 100%;
+    }
+  }
 
   .intro-header {
     margin: 80px 0 20px;
