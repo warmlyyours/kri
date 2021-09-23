@@ -94,47 +94,55 @@ description = "Kitchen Remodeling Ideas is your online database of kitchen renov
 [[menu.main]]
     parent = "Blog"
     name = "Faucets"
+    identifier = "Faucets"
     url = "tags/faucets/"
     weight = 1
 
   [[menu.main]]
     parent = "Blog"
     name = "Furniture"
+    identifier = "Furniture"
     url = "tags/furniture/"
     weight = 2
 
   [[menu.main]]
     parent = "Blog"
     name = "Cabinets"
+    identifier = "Cabinets"
     url = "tags/cabinets/"
     weight = 3
 
   [[menu.main]]
     parent = "Blog"
     name = "Countertops"
+    identifier = "Countertops"
     url = "tags/countertops/"
     weight = 4
 
   [[menu.main]]
     parent = "Blog"
     name = "Flooring"
+    identifier = "Flooring"
     url = "tags/flooring/"
     weight = 5
 
     [[menu.main]]
     parent = "Blog"
     name = "Essentials"
+    identifier = "Essentials"
     url = "tags/essentials/"
     weight = 6
 
     [[menu.main]]
     parent = "Blog"
     name = "Wall Tiles"
+    identifier = "Wall Tiles"
     url = "tags/wall-tiles/"
     weight = 7
 
 [[menu.main]]
     name = "About"
+    identifier = "About"
     url = "page/about/"
     weight = 3
 
@@ -146,17 +154,20 @@ description = "Kitchen Remodeling Ideas is your online database of kitchen renov
 [[menu.main]]
     parent = "Gallery"
     name = "Design Gallery"
+    identifier = "Design Gallery"
     url = "page/designgallery/"
     weight = 1
 
 [[menu.main]]
     parent = "Gallery"
     name = "Floor Plan Gallery"
+    identifier = "Floor Plan Gallery"
     url = "floorplans/"
     weight = 2
 
 [[menu.main]]
     name = "Contact"
+    identifier = "Contact"
     url = "page/contact/"
     weight = 3
 
