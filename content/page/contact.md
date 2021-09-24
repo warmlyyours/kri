@@ -1,6 +1,5 @@
 ---
-title: Contact
-subtitle: Contact Us
+title: Contact Us
 date: 2021-05-13
 ---
 

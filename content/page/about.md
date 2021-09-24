@@ -1,9 +1,8 @@
 ---
-title: About
-subtitle: About Us
+title: About Us
 date: 2021-05-13
 ---
-# Honesty Guaranteed
+# Earnesty Guaranteed
 
 {{< break >}}
 

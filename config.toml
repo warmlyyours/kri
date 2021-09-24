@@ -13,6 +13,8 @@ enableRobotsTXT = false
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
+canonifyURLS = false
+uglyURLS = false
 paginate = 5
 description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything AND the kitchen sink's covered by our informative kitchen remodeling blogs."
 
