@@ -96,55 +96,55 @@ description = "Kitchen Remodeling Ideas is your online database of kitchen renov
     parent = "Blog"
     name = "Faucets"
     identifier = "Faucets"
-    url = "tags/faucets/"
+    url = "tags/faucets"
     weight = 1
 
   [[menu.main]]
     parent = "Blog"
     name = "Furniture"
     identifier = "Furniture"
-    url = "tags/furniture/"
+    url = "tags/furniture"
     weight = 2
 
   [[menu.main]]
     parent = "Blog"
     name = "Cabinets"
     identifier = "Cabinets"
-    url = "tags/cabinets/"
+    url = "tags/cabinets"
     weight = 3
 
   [[menu.main]]
     parent = "Blog"
     name = "Countertops"
     identifier = "Countertops"
-    url = "tags/countertops/"
+    url = "tags/countertops"
     weight = 4
 
   [[menu.main]]
     parent = "Blog"
     name = "Flooring"
     identifier = "Flooring"
-    url = "tags/flooring/"
+    url = "tags/flooring"
     weight = 5
 
     [[menu.main]]
     parent = "Blog"
     name = "Essentials"
     identifier = "Essentials"
-    url = "tags/essentials/"
+    url = "tags/essentials"
     weight = 6
 
     [[menu.main]]
     parent = "Blog"
     name = "Wall Tiles"
     identifier = "Wall Tiles"
-    url = "tags/wall-tiles/"
+    url = "tags/wall-tiles"
     weight = 7
 
 [[menu.main]]
     name = "About"
     identifier = "About"
-    url = "page/about/"
+    url = "page/about"
     weight = 3
 
 [[menu.main]]
@@ -156,20 +156,20 @@ description = "Kitchen Remodeling Ideas is your online database of kitchen renov
     parent = "Gallery"
     name = "Design Gallery"
     identifier = "Design Gallery"
-    url = "page/designgallery/"
+    url = "page/designgallery"
     weight = 1
 
 [[menu.main]]
     parent = "Gallery"
     name = "Floor Plan Gallery"
     identifier = "Floor Plan Gallery"
-    url = "floorplans/"
+    url = "floorplans"
     weight = 2
 
 [[menu.main]]
     name = "Contact"
     identifier = "Contact"
-    url = "page/contact/"
+    url = "page/contact"
     weight = 3
 
 [sitemap]
