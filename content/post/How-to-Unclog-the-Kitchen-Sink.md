@@ -1,13 +1,13 @@
 ---
 title: How to Unclog the Kitchen Sink
 date: 2020-03-04
-image: /img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.jpg
+image: /img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp
 author: Kitchen Remodel Ideas
 tags:
   - Faucets
 ---
 
-{{< postImage "Woman fixing kitchen sink" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.jpg" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.jpg" >}}
+{{< postImage "Woman fixing kitchen sink" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled-small.webp" >}}
 We’re going to be talking about an all-too-common issue that many homeowners face. Kitchen sinks with clogged pipes and how to unclog them. 
 
 Understanding how to unclog the kitchen sink plays an integral part in sink maintenance and upkeep. If you can figure out how to unclog the kitchen sink on your own, then you’ll be saving money. Especially if you’re someone like me who doesn’t know much about working pipes.
@@ -15,7 +15,7 @@ Understanding how to unclog the kitchen sink plays an integral part in sink main
 # What Causes Clogging
 
 
-{{< postImage "Woman Clearing Clogged Drain" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.jpeg" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.jpeg" >}}
+{{< postImage "Woman Clearing Clogged Drain" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.webp" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled-small.webp" >}}
 
 Begin by identifying the common causes of clogged sinks. Decide what you should and shouldn’t be throwing down the sink drain. Potato peels and other food waste will plug up kitchen sinks.
 
@@ -23,7 +23,7 @@ Hair can clog the bathroom sink very easily. Regardless of the obstruction, you 
 
 ## Mad Scientist Method
 
-{{< postImage "Mad Scientist Method" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.jpg" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.jpg" >}}
+{{< postImage "Mad Scientist Method" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.webp" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled-small.webp" >}}
 We’ll be addressing how to unclog a grease clog in the kitchen sink. This method also works in bathroom plumbing systems. Grease clogs happen if someone unknowingly poured bacon grease down the kitchen sink. Don’t do this, as it might solidify in the line and potentially cause [major issues](https://www.nationalgeographic.com/news/2017/08/fatbergs-fat-cities-sewers-wet-wipes-science/).  
 
 First, remove all of the water from the sink basin. Second, pour one cup of baking soda into the clogged drain pipes. Then, pour an equal amount of baking soda (8 fl. oz of vinegar) down the drain.
@@ -34,7 +34,7 @@ The combination of vinegar and baking soda immediately begins to release grease-
 
 ## Drain Cleaners
 
-{{< postImage "Toilet Bowl Flushing" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled.jpg" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled.jpg" >}}
+{{< postImage "Toilet Bowl Flushing" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled.webp" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled-small.webp" >}}
 ## Chemical Drain Cleaners
 
 Drain cleaners containing chemical substances are usually sold as liquids, however, powders and gels are also available. Chemical drain cleaners work by mixing different chemical compounds to trigger a reaction. There are three general kinds of chemical drain openers/cleaners:
@@ -63,7 +63,7 @@ These cleaners work much like compost ferments food scraps into high-density fer
 
 ## Plunging the Drain
 
-{{< postImage "Toilet Plunger" "/img/unclogSink/plunger-PL4JFTS-scaled.jpeg" "/img/unclogSink/plunger-PL4JFTS-scaled.jpeg" >}}
+{{< postImage "Toilet Plunger" "/img/unclogSink/plunger-PL4JFTS-scaled.webp" "/img/unclogSink/plunger-PL4JFTS-scaled-small.webp" >}}
 Place a plunger over the obstructed drain. Pour luke-warm water into the basin. Add enough water to cover the lip of the plunger to create a seal. Fully immerse the plunger into the water with at least 2” to 3” of buffer between the head and the surface. 
 
 Plunge several times straight up and down, then "kick" the plunger forward. Follow the procedure many times to clear the clog. Plunging is a sure-fire way of clearing a drain clog.
@@ -76,7 +76,7 @@ Then run hot water down the drain for 10 minutes to be sure they’re fully clea
 
 ## Unclogging the P-Trap
 
-{{< postImage "Photo of cabinet under sink" "/img/unclogSink/pTrap.jpeg" "/img/unclogSink/pTrap.jpeg" >}}
+{{< postImage "Photo of cabinet under sink" "/img/unclogSink/pTrap.webp" "/img/unclogSink/pTrap-small.webp" >}}
 
 Now we will address how to unclog the kitchen sink garbage disposal and clear out the p-trap. If plunging doesn’t work, put a bucket underneath the trap of the drain. Draw off each end of the trap and drain the water into the seal. 
 

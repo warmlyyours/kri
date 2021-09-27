@@ -2,14 +2,14 @@
 title: How to Increase the Green Features of your Kitchen
 date: 2020-08-24
 author: Kitchen Remodel Ideas
-image: /img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.jpg
+image: /img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.webp
 tags:
   - Essentials
   - Furniture
   - Flooring
 ---
 
-{{< postImage "How to Increase the Green Features of your Kitchen" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.jpg" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.jpg" >}}
+{{< postImage "How to Increase the Green Features of your Kitchen" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.webp" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen-small.webp" >}}
 
 The kitchen is one of the busiest rooms in the home and, consequently, one of the greatest energy users. So it's not surprising that the kitchen offers ample opportunities to be energy efficient, enabling both the homeowner and the environment to reap the benefits. This year, there’s been a handful of products designed to minimize economic disruption. You’re going to be seeing these products on display as well as a brief description of its energy-saving benefits.
 
@@ -21,7 +21,7 @@ Whether you're a conscientious cook, a committed conservationist, or maybe just 
 
 1. Equip your kitchen with energy-efficient appliances
 
-{{< postImage "Energy Star Appliances" "/img/greenFeatures/pastedimage0.png" "/img/greenFeatures/pastedimage0.png" >}}
+{{< postImage "Energy Star Appliances" "/img/greenFeatures/pastedimage0.webp" "/img/greenFeatures/pastedimage0-small.webp" >}}
 
 A wide variety of new appliances can be utilized to minimize wasted power, from quiet dishwashers that use less water and electricity to refrigerators that minimize their electric intake. Newer ovens make preheating almost non-existent, saving valuable energy. There are even range hoods with ventilation fans that use 60 percent less energy than standard models.
 
@@ -29,7 +29,7 @@ The Energy Star label has certified products that lead the field in energy effic
 
 2. Consider adding radiant heating
 
-{{< postImage "Radiant floor heating thermostat and lifestyle photo" "/img/greenFeatures/nspire-touch-wifi-floor-heating-thermostat-lifestyle-3a9620.jpeg" "/img/greenFeatures/nspire-touch-wifi-floor-heating-thermostat-lifestyle-3a9620.jpeg" >}}
+{{< postImage "Radiant floor heating thermostat and lifestyle photo" "/img/greenFeatures/nspire-touch-wifi-floor-heating-thermostat-lifestyle-3a9620.webp" "/img/greenFeatures/nspire-touch-wifi-floor-heating-thermostat-lifestyle-3a9620-small.webp" >}}
 
 Radiant heating systems are an eco-friendly way to keep your house comfortable during a late-summer cold snap or a deep-winter freeze. [Radiant floor heating](https://www.warmlyyours.com/en-US) is especially useful for the kitchen, where you can install it easily under any flooring type, from tile to hardwood. Many homes inhabited by eco-conscious homeowners hold radiant heating with great esteem as the wider majority have seen its use as an eco-friendly upgrade in green building applications. Instead of using a forced-air system, which distributes dust and allergens through ducts, switch to a modern, efficient, and green form of heating.
 
@@ -41,7 +41,7 @@ In addition, you can keep track of your energy consumption and change the temper
 
 3. Use LED or CFL lighting
 
-{{< postImage "Lifestyle of a Kitchen with Electric Radiant Countertop Heating" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912.jpeg" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912.jpeg" >}}
+{{< postImage "Lifestyle of a Kitchen with Electric Radiant Countertop Heating" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912.webp" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912-small.webp" >}}
 photo courtesy of [Feelswarm](https://feelswarm.com/about-us/)
 
 Electric lighting alone accounts for up to 25 percent of the average home energy budget. A single incandescent bulb's lifetime electricity use costs five to 10 times the original purchase price of the bulb itself. There’s been a technology revolution and you’re going to be witnessing huge steps forward as far as lighting’s concerned. LED (light-emitting diodes) and CFL (compact fluorescent lights) are revolutionizing 21st-century lighting with their energy efficiency.

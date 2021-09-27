@@ -8,10 +8,10 @@ tags:
 ---
 
 
-{{< postImage "Essential Home Improvement Tips Featured Image" "/img/essentialHITips/essentialhometipsfeaturedimage.jpg" "/img/essentialHITips/essentialhometipsfeaturedimage.jpg" >}}
+{{< postImage "Essential Home Improvement Tips Featured Image" "/img/essentialHITips/essentialhometipsfeaturedimage.webp" "/img/essentialHITips/essentialhometipsfeaturedimage-small.webp" >}}
 Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-209274/)
 
-# Essential Home Improvement Tips for a Quick Sale
+# Essential Home Improvement Tips for Quick Selling
 
 Whether you’re in a buyer’s or seller’s market, selling a home can be challenging. Not only can it be difficult to sell for the price you want, but you never really know how long your home will sit on the market. One thing you can do, however, is to get your home in the best shape possible for impressing buyers. Along with checking out sites like [Kitchen Remodel Ideas](http://kitchenremodelideas.com), considering the advice and resources below can help you get started:
 
@@ -19,7 +19,7 @@ Whether you’re in a buyer’s or seller’s market, selling a home can be chal
 *When it comes down to it, making improvements to your home can be summarized in a few simple steps:*
 
 - Research the [recently sold](https://www.nerdwallet.com/blog/mortgages/find-your-homes-value-do-your-own-comps-in-4-steps/) homes in your area to get an idea of what projects could benefit your home.
-- View other homes [in person](https://www.novanthealth.org/healthy-headlines/how-to-covid-navigating-house-shopping-and-your-move) that are on the market right now to see how you can make your home shine among the competition.
+- View other homes [in person](https://www.novanthealth.org/healthy-headlines/how-to-covid-navigating-house-shopping-and-your-move) that are on the market right now to see how you can make your home shine amongst the competition.
 - [Learn about](https://www.redfin.com/resources/how-to-increase-your-home-appraisal-value-now) how improvements can add value to your home.
 - Focus on both your home's interior and exterior when planning improvement [projects](https://www.homes.com/blog/2018/08/how-to-prioritize-home-repair-projects-before-selling-your-home/).
 
@@ -28,7 +28,7 @@ Whether you’re in a buyer’s or seller’s market, selling a home can be chal
 
 - Invest in a kitchen renovation for maximum ROI even freshening up the [kitchen cabinets](https://toolreviewlab.com/4-quick-and-easy-diy-home-improvement-projects/) yourself can make a big difference.
 - Bathroom remodels also tend to provide a solid ROI. Assess your [bathrooms](https://www.elledecor.com/design-decorate/room-ideas/g140/the-bathroom-gallery-16975/), particularly the master bath, to determine what improvements you can make.
-- If you have any areas of your home with bad or old paint jobs, throw on a fresh [coat of paint](https://www.homeadvisor.com/r/room-colors-and-moods/) for a quick and easy transformation.
+- If you have any areas of your home with bad or old paint jobs, throw on a fresh [coat of paint](https://www.homeadvisor.com/r/room-colors-and-moods/) which'll quickly and easily apply.
 - Embrace [home staging](https://northof.nyc/archive/21-home-staging-tips/) to bring out your home's best qualities.
 
 ## Exterior Projects

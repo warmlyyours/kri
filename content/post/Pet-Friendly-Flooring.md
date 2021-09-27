@@ -6,14 +6,15 @@ author: Kitchen Remodel Ideas
 tags:
   - Flooring
   - Essentials
-image: /img/pups/shih-tzu-sitting-on-the-floor-2623968.jpg
+image: /img/pups/shih-tzu-sitting-on-the-floor-2623968.webp
 ---
 
 For those of us who chose to adopt a friendly canine companion, whether it's a new puppy or an older dog, perhaps even a rescue. This new chapter will be marked with responsibilities as you share your home with a clawed animal. They're going to be running around all over the place. Let's not even discuss the mess you're going to be constantly cleaning. As a homeowner, you're never not cleaning up thanks to them.
 
 Read on as we find out - "what is the best type of flooring for dogs?". Let's dive right in. We're going to be breaking down each flooring type and how it holds up to the paw of your canine friend.
 
-{{< postImage "Shih-tzu on the floor" "/img/pups/shih-tzu-sitting-on-the-floor-2623968.jpg" "/img/pups/shih-tzu-sitting-on-the-floor-2623968.jpg" >}}
+{{< postImage "Shih-tzu on the floor" "/img/pups/shih-tzu-sitting-on-the-floor-2623968.webp" "/img/pups/shih-tzu-sitting-on-the-floor-2623968-small.webp" >}}
+
 # Cork Flooring
 
 Cork is an excellent flooring type that's scratch-resistant which mimics the look of natural hardwood. This type of flooring is both stai nand water resistant. If your dog forgets all about its house training and has an accident, make sure to clean up the mess right away as water exposure can damage and alter the shape if left for an extended period of time.
@@ -32,11 +33,11 @@ A dog-friendly household reuires a floor with at least an A3 rating to withstand
 
 ## Tile Flooring
 
-{{< postImage "Golden Retriever" "/img/pups/gRetrieverpup.jpg" "/img/pups/gRetrieverpup.jpg" >}}
+{{< postImage "Golden Retriever" "/img/pups/gRetrieverpup.webp" "/img/pups/gRetrieverpup-small.webp" >}}
 Coming up against scratches, tile being durable and strong means dog claws don't damage the floor as much. Homewoners with dogs can hire a professional installer for in-floor [radiant heating](https://www.warmlyyours.com/en-US/floor-heating/tile-marble-or-stone) that goes underneath the floor.
 Dogs absolutely love heated floors that can be programmed to turn on at the flick of a switch.
 
-{{< postImage "Dog with Bone" "/img/pups/dog-with-bone-P5ZVGV7.jpg" "/img/pups/dog-with-bone-P5ZVGV7.jpg" >}}
+{{< postImage "Dog with Bone" "/img/pups/dog-with-bone-P5ZVGV7.webp" "/img/pups/dog-with-bone-P5ZVGV7-small.webp" >}}
 ## Vinyl Flooring
 
 Vinyl couldn't be a better flooring option for dogs to race around on. Being scratch resistant, affordable, and easy-to-clean means happier and warmer feat and paws than ceramic or porcelain tile. Vinyl typically gives off a look of hardwood at a fraction of the cost. Installers and homeowners alike install Vinyl for it's similarity to hardwood. Vinyl planks are smooth and finished with a protective coating that gives scratch-resistance a big boost! Long nails might have to be trimmed. Un-groomed dog nails can cause a pet to slip, especially if they're running across the floors. Dogs are not meant to stand most of the time on hard surfaces. A dog's claws were meant to dig into the dirt so a vinyl floor with traction might give your dog sure footing.

@@ -13,7 +13,6 @@ tags:
 
 A running concept of a traditional kitchen emboldens one with a return to normalcy. Traditional kitchens are not of course subject to modern styles, as we’re sure you’re aware. They’re the building of time accumulations, half bewitching inhabitants to another time in through the keeping of the tried and true. We better understand how far we’re going, how to modernize a traditional kitchen, and what makes a kitchen traditional? We don’t offer you trends, but lessons. Lessons that continue to espouse strong family values.
 
-
 {{< postImage "Aged Woman in White Cutting Yellow Pumpkin Again" "/img/32Dazzling/aged-woman-in-white-apron-cut-yellow-pumpkin-again-H5PPSVA.jpg" "/img/32Dazzling/aged-woman-in-white-apron-cut-yellow-pumpkin-again-H5PPSVA.jpg" >}}
 An elderly woman attends to her meal preparation. A sleek black hood range rests atop a modernized retro oven.
 
@@ -21,92 +20,92 @@ An elderly woman attends to her meal preparation. A sleek black hood range rests
 
 Turkish coffee on the kitchen range with a clear workspace natural kitchen countertop. Glass framed cabinets pair well with white country cabinets.
 
-{{< postImage "Christmas Table Decoration in the Kitchen Banquet" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet.jpg" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet.jpg" >}}
+{{< postImage "Christmas Table Decoration in the Kitchen Banquet" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet.webp" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet-small.webp" >}}
 
 Beautiful hexagonal tiles back up this kitchen’s backsplash with vertical diagonal accent pieces. Open shelved cabinets hold assortments of kitchenware and canned goods.
 
-{{< postImage "Expensive Kitchen" "/img/32Dazzling/expensive-kitchen-PX3YPN7.jpg" "/img/32Dazzling/expensive-kitchen-PX3YPN7.jpg" >}}
+{{< postImage "Expensive Kitchen" "/img/32Dazzling/expensive-kitchen-PX3YPN7.webp" "/img/32Dazzling/expensive-kitchen-PX3YPN7-small.webp" >}}
 There’s amazing pendant lighting above a spacious edge trimmed kitchen island. No such thing as too many woodtones. The antique china hutch cabinet welcomes guests in to this beautiful space.
 
-{{< postImage "Beautiful Kitchen" "/img/32Dazzling/41f59cf1-9d44-49ac-900b-4a3eff338983.jpg" "/img/32Dazzling/41f59cf1-9d44-49ac-900b-4a3eff338983.jpg" >}}
+{{< postImage "Beautiful Kitchen" "/img/32Dazzling/41f59cf1-9d44-49ac-900b-4a3eff338983.webp" "/img/32Dazzling/41f59cf1-9d44-49ac-900b-4a3eff338983-small.webp" >}}
 The kitchen scene here's a fine example to showcase sophisticated corbels and subtle color schemes, plus a custom wall tile piece as well. The colors are so rich with vibrance and countertops are durable enough for ample food preparation and cooking.
 
-{{< postImage "Kitchen and Island Countertop Grill" "/img/32Dazzling/a8d348fb-6210-4968-8070-8295f3a37bfc.jpg" "/img/32Dazzling/a8d348fb-6210-4968-8070-8295f3a37bfc.jpg" >}}
+{{< postImage "Kitchen and Island Countertop Grill" "/img/32Dazzling/a8d348fb-6210-4968-8070-8295f3a37bfc.webp" "/img/32Dazzling/a8d348fb-6210-4968-8070-8295f3a37bfc-small.webp" >}}
 This kitchen has an island grill on the island and a kitchen sink where the range is normally installed. Check out the traditional kitchen cabinet’s incredible crown molding.
 
-{{< postImage "Traditional Kitchen overlooking Great Lucious Forest" "/img/32Dazzling/c70e3384-0dd0-48a8-b682-d68d1dee7bcf.jpg" "/img/32Dazzling/c70e3384-0dd0-48a8-b682-d68d1dee7bcf.jpg" >}}
+{{< postImage "Traditional Kitchen overlooking Great Lucious Forest" "/img/32Dazzling/c70e3384-0dd0-48a8-b682-d68d1dee7bcf.webp" "/img/32Dazzling/c70e3384-0dd0-48a8-b682-d68d1dee7bcf-small.webp" >}}
 A lot of kitchens have an island that also acts as a kitchen bar. Here’s a unique way to modernize a traditional kitchen. The exposed truss gives a level of great authenticity and humbleness.
 
-{{< postImage "Farmhouse Kitchen Displaying Harvest" "/img/32Dazzling/3f7f7910-30a7-4110-b2d1-77e19689e148.jpg" "/img/32Dazzling/3f7f7910-30a7-4110-b2d1-77e19689e148.jpg" >}}
+{{< postImage "Farmhouse Kitchen Displaying Harvest" "/img/32Dazzling/3f7f7910-30a7-4110-b2d1-77e19689e148.webp" "/img/32Dazzling/3f7f7910-30a7-4110-b2d1-77e19689e148-small.webp" >}}
 Every guest can enjoy beautiful beams spanning wall to wall giving the feel of a cozy country house. We don’t get to see the metal knobs on the face of the classical country cabinets. Plenty of natural light shines off of this kitchen’s black natural stone countertops.
 
-{{< postImage "Cozy I Shaped Kitchen" "/img/32Dazzling/5b0632b3-0ec4-4cfc-9147-4c83fe898af9.jpg" "/img/32Dazzling/5b0632b3-0ec4-4cfc-9147-4c83fe898af9.jpg" >}}
+{{< postImage "Cozy I Shaped Kitchen" "/img/32Dazzling/5b0632b3-0ec4-4cfc-9147-4c83fe898af9.webp" "/img/32Dazzling/5b0632b3-0ec4-4cfc-9147-4c83fe898af9-small.webp" >}}
 You don’t often hear about a kitchen with versaille floors but here it is! Kitchens with this kind of flooring type exude the ostentatiousness of the French royal palace.
 
-{{< postImage "Exotic Remote Kitchen" "/img/32Dazzling/5cc9f449-b26b-4290-99ed-5d983be5e47f.jpg" "/img/32Dazzling/5cc9f449-b26b-4290-99ed-5d983be5e47f.jpg" >}}
+{{< postImage "Exotic Remote Kitchen" "/img/32Dazzling/5cc9f449-b26b-4290-99ed-5d983be5e47f.webp" "/img/32Dazzling/5cc9f449-b26b-4290-99ed-5d983be5e47f-small.webp" >}}
 Christmas lights span across structural support beams giving this rustic kitchen good lighting all year round. Serving plates and charming clay pots are stored above the kitchen countertop.
 
-{{< postImage "Luxuriously Decorated Traditional Kitchen" "/img/32Dazzling/9ef422ed-1494-4c47-8821-4b8c42c737c2.jpg" "/img/32Dazzling/9ef422ed-1494-4c47-8821-4b8c42c737c2.jpg" >}}
+{{< postImage "Luxuriously Decorated Traditional Kitchen" "/img/32Dazzling/9ef422ed-1494-4c47-8821-4b8c42c737c2.webp" "/img/32Dazzling/9ef422ed-1494-4c47-8821-4b8c42c737c2-small.webp" >}}
 Open faced shelves and a hooded range line the walls. The layered kitchen island is placed artfully.
 
-{{< postImage "Olive Colored Kitchen Cabinets Grooved" "/img/32Dazzling/51c33dd7-b6e3-4cf4-a078-1de60a4cf11e.jpg" "/img/32Dazzling/51c33dd7-b6e3-4cf4-a078-1de60a4cf11e.jpg" >}}
+{{< postImage "Olive Colored Kitchen Cabinets Grooved" "/img/32Dazzling/51c33dd7-b6e3-4cf4-a078-1de60a4cf11e.webp" "/img/32Dazzling/51c33dd7-b6e3-4cf4-a078-1de60a4cf11e-small.webp" >}}
 
-{{< postImage "Rounded Kitchen Island Dark Rose Colored Cabinet" "/img/32Dazzling/67ea7929-09f4-474f-b820-9093156207dd.jpg" "/img/32Dazzling/67ea7929-09f4-474f-b820-9093156207dd.jpg" >}}
+{{< postImage "Rounded Kitchen Island Dark Rose Colored Cabinet" "/img/32Dazzling/67ea7929-09f4-474f-b820-9093156207dd.webp" "/img/32Dazzling/67ea7929-09f4-474f-b820-9093156207dd-small.webp" >}}
 Kitchens that are considered traditional can also at times include accent pieces that aren’t too drab. Like this rounded kitchen island with dark rose curved cabinets.
 
-{{< postImage "Wood Paneled Shaker Kitchen Cabinets" "/img/32Dazzling/8278ad77-514c-4c89-bf9e-c41233fa8b7f.jpg" "/img/32Dazzling/8278ad77-514c-4c89-bf9e-c41233fa8b7f.jpg" >}}
+{{< postImage "Wood Paneled Shaker Kitchen Cabinets" "/img/32Dazzling/8278ad77-514c-4c89-bf9e-c41233fa8b7f.webp" "/img/32Dazzling/8278ad77-514c-4c89-bf9e-c41233fa8b7f-small.webp" >}}
 The pendant lighting expertly utilizes the overhang space above this kitchen’s kitchen island with beautiful rounded corners. History’s indication of ‘self-cleaning kitchens’ really stands out as a number of appliances are stainless steel.
 
-{{< postImage "Soft-Lit Homey Kitchen" "/img/32Dazzling/unnamed.jpg" "/img/32Dazzling/unnamed.jpg" >}}
+{{< postImage "Soft-Lit Homey Kitchen" "/img/32Dazzling/unnamed.webp" "/img/32Dazzling/unnamed-small.webp" >}}
 Here’s another classic kitchen design with a more expansive cabinet design and natural wood accents. An offset kitchen floor surface, a luxury kitchen sink, a streamlined kitchen stovetop, and lower shelf kitchen storage to maximize kitchen space storage.
 
-{{< postImage "Kitchen Featuring Heavy Wood Tones" "/img/32Dazzling/6966737c-695b-4b3b-a8c8-4e949128bcbb.jpg" "/img/32Dazzling/6966737c-695b-4b3b-a8c8-4e949128bcbb.jpg" >}}
+{{< postImage "Kitchen Featuring Heavy Wood Tones" "/img/32Dazzling/6966737c-695b-4b3b-a8c8-4e949128bcbb.webp" "/img/32Dazzling/6966737c-695b-4b3b-a8c8-4e949128bcbb-small.webp" >}}
 Cutting-edge innovations, minimalist chandelier and track lighting are seen here. What’s amazing about the kitchen oven is it’s retrofitted with a stovepipe which is not a standard modern appliance. We used to cook with coal and wood and the stovepipe released the heat to a flue or chimney. Now it’s all about electric ranges.
 
-{{< postImage "Corner Shot of White-Stained Cabinets and Treated Wood Countertops" "/img/32Dazzling/07438150-9cea-43c8-9a30-646b8530af90.jpg" "/img/32Dazzling/07438150-9cea-43c8-9a30-646b8530af90.jpg" >}}
+{{< postImage "Corner Shot of White-Stained Cabinets and Treated Wood Countertops" "/img/32Dazzling/07438150-9cea-43c8-9a30-646b8530af90.webp" "/img/32Dazzling/07438150-9cea-43c8-9a30-646b8530af90-small.webp" >}}
 As previously stated, we once cooked with coal wood and gas, but not anymore. The electric stove range has become standard, keeping the kitchen a safer environment whilst maintaining a classic facade.
 
-{{< postImage "Subway Backsplash Range Hood with Crown Molding and Custom Countertop Chopping Block End" "/img/32Dazzling/17296424-a79e-4e92-95dc-fe54facbea9f.jpg" "/img/32Dazzling/17296424-a79e-4e92-95dc-fe54facbea9f.jpg" >}}
+{{< postImage "Subway Backsplash Range Hood with Crown Molding and Custom Countertop Chopping Block End" "/img/32Dazzling/17296424-a79e-4e92-95dc-fe54facbea9f.webp" "/img/32Dazzling/17296424-a79e-4e92-95dc-fe54facbea9f-small.webp" >}}
 Traditional Kitchen houses are all about the columns and crown molding. The 90’s were all about granite, and this granite countertop is capped with a chopping block end.
 
-{{< postImage "Open Concept Kitchen" "/img/32Dazzling/a34a3bee-afa3-4212-8a81-d2f096f8ee72.jpg" "/img/32Dazzling/a34a3bee-afa3-4212-8a81-d2f096f8ee72.jpg" >}}
+{{< postImage "Open Concept Kitchen" "/img/32Dazzling/a34a3bee-afa3-4212-8a81-d2f096f8ee72.webp" "/img/32Dazzling/a34a3bee-afa3-4212-8a81-d2f096f8ee72-small.webp" >}}
 In the affluent 50’s, custom cabinetry was a standard option. A realistic example represents the white enamel and stainless steel here on display.
 
-{{< postImage "Open Shelving Bead-board Backing and Marble Backsplash" "/img/32Dazzling/ab390348-43e6-42f3-a319-0723980ecf4b.jpg" "/img/32Dazzling/ab390348-43e6-42f3-a319-0723980ecf4b.jpg" >}}
+{{< postImage "Open Shelving Bead-board Backing and Marble Backsplash" "/img/32Dazzling/ab390348-43e6-42f3-a319-0723980ecf4b.webp" "/img/32Dazzling/ab390348-43e6-42f3-a319-0723980ecf4b-small.webp" >}}
 Kitchenware is on a field day here. Previous decades emphasized laminate, Formica, and wood countertops but this one’s all about Granite.
 
-{{< postImage "Versaille Puzzle Stone Kitchen Flooring" "/img/32Dazzling/b97c7473-c18b-41c3-8455-a3a052a7241b.jpg" "/img/32Dazzling/b97c7473-c18b-41c3-8455-a3a052a7241b.jpg" >}}
+{{< postImage "Versaille Puzzle Stone Kitchen Flooring" "/img/32Dazzling/b97c7473-c18b-41c3-8455-a3a052a7241b.webp" "/img/32Dazzling/b97c7473-c18b-41c3-8455-a3a052a7241b-small.webp" >}}
 Though some may choose more distinct color options, these hues are drawn from a soft and neutral palette. Here, wood tones pull together the open floor plan giving a boundless kitchen space a unified visual appeal.
 
-{{< postImage "Kitchen with Single Barstool Seat" "/img/32Dazzling/c18ef817-5847-45ba-aa3e-ef8b74abc192.jpg" "/img/32Dazzling/c18ef817-5847-45ba-aa3e-ef8b74abc192.jpg" >}}
+{{< postImage "Kitchen with Single Barstool Seat" "/img/32Dazzling/c18ef817-5847-45ba-aa3e-ef8b74abc192.webp" "/img/32Dazzling/c18ef817-5847-45ba-aa3e-ef8b74abc192-small.webp" >}}
 Most homeowners prefer classic black and white appliances similar to white island cabinet base and black granite countertop. The sage green colors here are a memento to the muted color palettes of the 90’s.
 
-{{< postImage "Interior View of Kitchen with Stone Tile Floor" "/img/32Dazzling/interior-view-of-kitchen-with-stone-tile-floor-woo-52P62VU.jpg" "/img/32Dazzling/interior-view-of-kitchen-with-stone-tile-floor-woo-52P62VU.jpg" >}}
+{{< postImage "Interior View of Kitchen with Stone Tile Floor" "/img/32Dazzling/interior-view-of-kitchen-with-stone-tile-floor-woo-52P62VU.webp" "/img/32Dazzling/interior-view-of-kitchen-with-stone-tile-floor-woo-52P62VU-small.webp" >}}
 The emphasis on wall shelves and open kitchen shelving is clearly the main theme, showing off all of the kitchenware and gadgets. Lighting is dramatic and bold without being too dense.
 
-{{< postImage "Kitchen Cabinets and Table" "/img/32Dazzling/kitchen-cabinets-and-table-H5Z7NNV.jpg" "/img/32Dazzling/kitchen-cabinets-and-table-H5Z7NNV.jpg" >}}
+{{< postImage "Kitchen Cabinets and Table" "/img/32Dazzling/kitchen-cabinets-and-table-H5Z7NNV.webp" "/img/32Dazzling/kitchen-cabinets-and-table-H5Z7NNV-small.webp" >}}
 For any kitchen, installing trimmed crown molding where the wall meets the ceiling’s sure to call back to tradition. Small potted plants atop the kitchen cabinets bring us back to nature.
 
-{{< postImage "Kitchen Interior in Modern Country House" "/img/32Dazzling/kitchen-interior-in-modern-country-house-P8A7ZPV.jpg" "/img/32Dazzling/kitchen-interior-in-modern-country-house-P8A7ZPV.jpg" >}}
+{{< postImage "Kitchen Interior in Modern Country House" "/img/32Dazzling/kitchen-interior-in-modern-country-house-P8A7ZPV.webp" "/img/32Dazzling/kitchen-interior-in-modern-country-house-P8A7ZPV-small.webp" >}}
 Here’s a kitchen that houses a mix of the old and new, the traditional and modern, and the kitchen design does find a nice balance. A brass chandelier, checkered kitchen floor, mosaic kitchen range backsplash, and yellowed cabinets definitely herald the Victorian age.
 
-{{< postImage "Charlotte May" "/img/32Dazzling/pexels-charlotte-may-5824488.jpg" "/img/32Dazzling/pexels-charlotte-may-5824488.jpg" >}}
+{{< postImage "Charlotte May" "/img/32Dazzling/pexels-charlotte-may-582448.webp" "/img/32Dazzling/pexels-charlotte-may-5824488-small.webp" >}}
 This kitchen is the epitome of the ‘everyman’s kitchen as it’s highly optimized for efficiency. Hanging wall shelves and wall hooks make for practical countertop storage.
 
-{{< postImage "Ksenia Chernaya" "/img/32Dazzling/pexels-ksenia-chernaya-4740486.jpg" "/img/32Dazzling/pexels-ksenia-chernaya-4740486.jpg" >}}
+{{< postImage "Ksenia Chernaya" "/img/32Dazzling/pexels-ksenia-chernaya-4740486.webp" "/img/32Dazzling/pexels-ksenia-chernaya-4740486-small.webp" >}}
 At the turn of the century, many homeowners were seeking out smaller kitchens and compact designs. Smaller kitchens were considered better back then as many interior designers crafted minimalist kitchens.
 
-{{< postImage "Lara Santos" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149.jpg" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149.jpg" >}}
+{{< postImage "Lara Santos" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149.webp" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149-small.webp" >}}
 At the heyday of the 50’s, cooking and eating at home was a growing trend for a lot of people. This walk up kitchen bar demonstrates a streamlined eat-at-home experience.
 
-{{< postImage "Polina Kovaleva" "/img/32Dazzling/pexels-polina-kovaleva-5644353.jpg" "/img/32Dazzling/pexels-polina-kovaleva-5644353.jpg" >}}
+{{< postImage "Polina Kovaleva" "/img/32Dazzling/pexels-polina-kovaleva-5644353.webp" "/img/32Dazzling/pexels-polina-kovaleva-5644353-small.webp" >}}
 Enjoy fresh pressed coffee and the amenities of a beautiful kitchen as you go back to nature gazing at the wonderful windowsill garden. Extranoradily less color though the exposed brick is a nice touch, white subway tiles with white grout extend vertically at the back wall.
 
-{{< postImage "SkitterPhoto" "/img/32Dazzling/pexels-skitterphoto-349749.jpg" "/img/32Dazzling/pexels-skitterphoto-349749.jpg" >}}
+{{< postImage "SkitterPhoto" "/img/32Dazzling/pexels-skitterphoto-349749.webp" "/img/32Dazzling/pexels-skitterphoto-349749-small.webp" >}}
 We can’t help but feel cozy as you see efficient use of space and clean lines that helped shape countless American family homes. Cove lighting and natural light allow this kitchen to truly shine.
 
-{{< postImage "The Interior of a Traditionally Built and Furnished" "/img/32Dazzling/the-interior-of-a-traditionally-built-and-furnishe-C3QPNES.jpg" "/img/32Dazzling/the-interior-of-a-traditionally-built-and-furnishe-C3QPNES.jpg" >}}
+{{< postImage "The Interior of a Traditionally Built and Furnished" "/img/32Dazzling/the-interior-of-a-traditionally-built-and-furnishe-C3QPNES.webp" "/img/32Dazzling/the-interior-of-a-traditionally-built-and-furnishe-C3QPNES-small.webp" >}}
 Here’s the first kitchen we’ve seen with a sink stool which, over the years, eases the burden of back pain from standing at the kitchen sink for hours on end. We just can’t get over how beautiful this kitchen is...really nice.
 
-{{< postImage "Wood and Brown Kitchen" "/img/32Dazzling/wooden-and-brown-kitchen-KZJ5SFN.jpg" "/img/32Dazzling/wooden-and-brown-kitchen-KZJ5SFN.jpg" >}}
+{{< postImage "Wood and Brown Kitchen" "/img/32Dazzling/wooden-and-brown-kitchen-KZJ5SFN.webp" "/img/32Dazzling/wooden-and-brown-kitchen-KZJ5SFN-small.webp" >}}
 We will never see two kitchens a like. We have to say, even the fridge has been embellished with electric and eye-popping color schemes and beautifully stained paneling.

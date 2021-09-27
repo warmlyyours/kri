@@ -7,7 +7,7 @@ tags:
 - Cabinets
 ---
 
-{{< postImage "Architecture Cabinets" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.jpg" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.jpg" >}}
+{{< postImage "Architecture Cabinets" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.webp" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648-small.webp" >}}
 People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus. Social distancing has given us tons of new found time on our hands. Cleaning out the kitchen cabinets and reorganizing the kitchenware sounds like a great project to kill some time and stay productive during social isolation...don’it?
 
 ***
@@ -18,7 +18,7 @@ Essentially, it’s all about being intentional about how you organize your spac
 
 1. **Pull it Together**
 
-{{< postImage "Kitchenware" "/img/organizeCabinets/set-of-white-plates-PR7KXZ3.JPG" "/img/organizeCabinets/set-of-white-plates-PR7KXZ3.JPG" >}}
+{{< postImage "Kitchenware" "/img/organizeCabinets/set-of-white-plates-PR7KXZ3.webp" "/img/organizeCabinets/set-of-white-plates-PR7KXZ3-small.webp" >}}
 We rarely have a chance to see our cabinets sit vacantly without any items occupying its space. Seeing a space empty helps all of us to reimagine how you want to set it up. Your cupboard space needs to be cleared of unnecessary items and after emptying the contents of your kitchen cabinets, you’re more able to visualize how to organize kitchen cabinets and drawers.
 
 This first step gives you the capacity to see if there are any duplicates, see if there are any perishables which expired, and what you want to keep. Removing things you don’t really use definitely saves space by keeping it down to the bare essentials. The trick is optimizing the space while also making sure that your kitchenware is still easily accessible.
@@ -33,7 +33,7 @@ Additionally, if you have the storage space then you can use pegs to keep a hand
 
 3. **Store "likes with likes"**
 
-{{< postImage "Kitchenware in the Cabinets" "/img/organizeCabinets/kitchenware-in-the-cabinets-KTXMDP7.jpg" "/img/organizeCabinets/kitchenware-in-the-cabinets-KTXMDP7.jpg" >}}
+{{< postImage "Kitchenware in the Cabinets" "/img/organizeCabinets/kitchenware-in-the-cabinets-KTXMDP7.webp" "/img/organizeCabinets/kitchenware-in-the-cabinets-KTXMDP7-small.webp" >}}
 If you’re like me and you meal prep on Sundays or you live with an insatiable foodie then it’s best to organize your pots and pans to prep food. A like is used to describe the set of all of the pots that are gonna be stacked together or at least on the same shelf. All of the pans are going to be stacked together as well because all of them can be nested inside of one another to give you extra storage space.
 
 4. **Invest in a Handful of Organizational Products**
@@ -44,7 +44,7 @@ I have a lazy susan installed in my small kitchen because it’s a godsend and h
 
 5. **Store Dinnerware in Upper Cabinets**
 
-{{< postImage "Opening Kitchen Cabinet" "/img/organizeCabinets/opening-kitchen-cabinet-door-woman-putting-plates-GVZT5XZ.jpg" "/img/organizeCabinets/opening-kitchen-cabinet-door-woman-putting-plates-GVZT5XZ.jpg" >}}
+{{< postImage "Opening Kitchen Cabinet" "/img/organizeCabinets/opening-kitchen-cabinet-door-woman-putting-plates-GVZT5XZ.webp" "/img/organizeCabinets/opening-kitchen-cabinet-door-woman-putting-plates-GVZT5XZ-small.webp" >}}
 Storing dinnerware in the upper cabinet doors really goes the extra mile to ensure that you know where you stored your plates, cups, and bowls at all times. Upper cabinets only help in keeping your dinnerware at eye-level. One of my best tips is to keep your expendable dinnerware in cabinets with high foot traffic and section off the more expensive dinnerware for when you’re expecting important guests.
 
 Either way, try and make a plan that suits your needs. Don’t go running around the kitchen searching for something that’s gone missing. Keep everything you need in one place so that one, you are  absolutely sure that you can find what you’re looking for and two, ready to entertain friends and family at any time in your kitchen.

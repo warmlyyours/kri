@@ -19,7 +19,7 @@ You can research the [Tap Water Database](https://www.ewg.org/tapwater/) to find
 
 We entered our zip code to get an idea of the information that the report contains. The U.S. EPA reports (January 2019 - March 2019) the tap water from our zip code has a total of 15 contaminants.  Of these, seven exceed the EWG health guidelines.
 
-{{< postImage "Contaminants Detected" "/img/bestFilter/ContaminantsDetected.png" "/img/bestFilter/ContaminantsDetected.png" >}}
+{{< postImage "Contaminants Detected" "/img/bestFilter/ContaminantsDetected.webp" "/img/bestFilter/ContaminantsDetected-small.webp" >}}
 
 We’ve put together a buying guide to assist you along the process. Our goal is to help you decide which system works best for your local area, considering the contaminants you want to eliminate as well as the ease of installation and cost.
 
