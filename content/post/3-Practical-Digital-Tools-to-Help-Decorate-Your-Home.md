@@ -2,7 +2,7 @@
 title: "3 Practical Digital Tools"
 subtitle: "to Help Decorate Your Home"
 date: 2020-01-29
-image: /img/3Tools/ember-radiant-panel-placed-using-houzz-app-445459.jpg
+image: /img/3Tools/ember-radiant-panel-placed-using-houzz-app-445459.webp
 author: "Kitchen Remodel Ideas"
 tags:
 - Essentials
@@ -21,7 +21,7 @@ To use the feature, users simply need to open the Houzz app, click the Shop butt
 
 The Houzz Shop includes more than 1.8 million home décor items, including furniture, lighting, artwork and even radiant heating products like [towel warmers](https://www.warmlyyours.com/en-US/towel-warmer?referral_code=KRICOM) and [radiant panels](https://www.warmlyyours.com/en-US/radiant-panel?referral_code=KRICOM).
 
-{{< postImage "Elements Towel Warmer" "/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.jpeg" "/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.jpeg" >}}
+{{< postImage "Elements Towel Warmer" "/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.webp" "/img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac-small.webp" >}}
 
 ## Digital Tools #2: Sketch
 
@@ -33,6 +33,6 @@ The second new tool within the Houzz app is called Sketch. Essentially, it’s a
 
 The last new tool is available on both the Houzz app and [Houzz.com](https://www.houzz.com/). If you’ve ever spotted an item that you love but realized it’s way more than you intended to spend, this tool is a must-have for you. Simply by clicking on the items that you like in a photo, this tool will pull up similar products that are available in the [Houzz Shop](https://www.houzz.com/products). The products may or may not be less expensive than the original, but you’re left with a variety of options from which to choose, so it’s very likely you’ll find something that you love that’s in your budget.
 
-{{< postImage "Home Design Image" "/img/3Tools/home-design-3.jpeg" "/img/3Tools/home-design-3.jpeg" >}}
+{{< postImage "Home Design Image" "/img/3Tools/home-design-3.webp" "/img/3Tools/home-design-3-small.webp" >}}
 
 For more information about these tools, visit [www.houzz.com](https://www.houzz.com/).

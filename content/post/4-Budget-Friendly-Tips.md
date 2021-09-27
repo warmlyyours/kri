@@ -9,7 +9,7 @@ tags:
 - Furniture
 ---
 
-{{< postImage "Hammer smashing open a jar of money" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp" >}}
+{{< postImage "Hammer smashing open a jar of money" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX-small.webp" >}}
 
 The housing market has seen a positive change due to the Coronavirus Pandemic. A surprisingly adverse outcome occurred when middle and upper-income housing prices were appreciated by 5% this quarter. As a result of increased home values combined with high unemployment, a large number of homeowners are opting to list their homes on the market in the hopes of getting a maximum return on their investment. And, with interest rates at an all-time low, a perfect storm has resulted in potential new homeowners entering the market...
 
@@ -19,7 +19,7 @@ Whether you are upgrading in the hopes of placing your home on the market or sim
 
 It makes sense that many homeowners are turning their attention to what can be done to improve the kitchen. However, the only issue is that kitchen remodels can be very expensive. With a tight or limited budget top-of-mind, we’ve sourced a multitude of creative ways to remodel or upgrade your kitchen remodel on a budget.
 
-{{< postImage "Choosing Color" "/img/4Tips/choosing-color-UMNWC78.JPG" "/img/4Tips/choosing-color-UMNWC78.JPG" >}}
+{{< postImage "Choosing Color" "/img/4Tips/choosing-color-UMNWC78.webp" "/img/4Tips/choosing-color-UMNWC78-small.webp" >}}
 
 1. *Paint your kitchen a new color*
 
@@ -29,7 +29,7 @@ It makes sense that many homeowners are turning their attention to what can be d
 
 - “Most Ace Hardware stores have a shelf of mismatched paint that customers didn’t want. They sell for only $5 a quart of $10 a gallon.” (Mann) Another person’s painter's remorse can be your gain if you have some flexibility in the color selection. Need more than a gallon? Choose more than one color. For example, one color for cabinet bottoms and another for the tops showcases your creativity and allows you to capitalize on the cost savings.
 
-{{< postImage "Cabinet Molding" "/img/4Tips/CABINETMOLDING.jpg" "/img/4Tips/CABINETMOLDING.jpg" >}}
+{{< postImage "Cabinet Molding" "/img/4Tips/CABINETMOLDING.webp" "/img/4Tips/CABINETMOLDING-small.webp" >}}
 
 2. *Create a custom cabinet look*
 
