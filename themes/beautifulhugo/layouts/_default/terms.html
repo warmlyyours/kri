@@ -8,7 +8,7 @@
       <div class="panel-group" id="accordion">
         {{ range $key, $value := .Data.Terms.ByCount }}
           <div class="panel panel-default">
-            <a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $value.Name }}" data-parent="#accordion">
+            <a class="collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $value.Name | replaceRE "/$" ""}}" data-parent="#accordion">
                 <div class="panel-heading" id="header{{ $value.Name }}">
                   <h4 class="panel-title">
                       {{ $value.Name }}
@@ -18,11 +18,11 @@
             </a>
             <div id="collapse{{ $value.Name }}" class="panel-collapse collapse">
               <div class="panel-body">
-                <a href="{{ $.Site.LanguagePrefix | absURL }}/{{ $data.Plural }}/{{ $value.Name | urlize }}/" class="list-group-item view-all">
+                <a href="{{ $.Site.LanguagePrefix | absURL }}/{{ $data.Plural }}/{{ $value.Name | urlize | replaceRE "/$" "" }}" class="list-group-item view-all">
                 View all</a>
                 <div class="list-group">
                   {{ range $item := $value.WeightedPages }}
-                    <a href="{{$item.Permalink}}" class="list-group-item">{{ $item.Title }}</a>
+                    <a href="{{$item.Permalink | replaceRE "/$" ""}}" class="list-group-item">{{ $item.Title }}</a>
                   {{ end }}
                 </div>
               </div>
