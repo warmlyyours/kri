@@ -16,7 +16,7 @@ Laminate tile is not waterproof, however widely believed that may be. [The Floor
 
 Laminate flooring is a synthetic flooring type and it was first made as an alternative to natural hardwood. At first, it made a splash on the flooring market as the trend grew in popularity throughout the 1970's. Manufacturers increasingly installed it because of its realistic look that could pass as real hardwood flooring, which easily overtook its alternative.
 
-However at this time, may contractors tended to stay away from laminate. Opting out because vinyl flooring was more commercially available. For homeowners who preferred laminate or were looking to replace their laminate floor, laminate flooring offered both pros and cons.
+However at this time, many contractors tended to stay away from laminate. Opting out because vinyl flooring was more commercially available. For homeowners who preferred laminate or were looking to replace their laminate floor, laminate flooring offered both pros and cons.
 
 Laminate still stands as the alternative to go-to-wood flooring because people hope for lower costs. But a drawback has been that laminate was never promised as a water resistant material. That is until recently. A technological breakthrough has led to advancements in technology that led to waterproofed laminate options to be a game-changer.
 
@@ -27,7 +27,7 @@ If you feel that hardwood is not a good option for an area due to water or humid
 >>
 >> Dumaplast: Another European-based company, [Dumaplast](https://www.dumaplast.com/en/applications/water-resistant-flooring-bathroom-wet-rooms) makes 100 percent PVC flooring that is similar to Parcolys, but with an additional feature: the underlayment is built into the planks. Here, too, availability in the U.S. is limited.
 >>
->> Aquastep: Originally ap roduct line within Parcolys, [Aquastep](https://www.aquastepus.com) is now its own brand, offering a waterproof and extremely strong laminate flooring theype that can even be used in garage installations. Aquastep uses a honeycomb PVC core and offers a good selection of wood-look, stone-look, and ship-deck styles. It is currently available through only one U.S. distributon in Massachusetts.
+>> Aquastep: Originally a product line within Parcolys, [Aquastep](https://www.aquastepus.com) is now its own brand, offering a waterproof and extremely strong laminate flooring type that can even be used in garage installations. Aquastep uses a honeycomb PVC core and offers a good selection of wood-look, stone-look, and ship-deck styles. It is currently available through only one U.S. distribution in Massachusetts.
 >>
 >Lee Wallender
 

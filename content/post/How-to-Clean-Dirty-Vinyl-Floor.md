@@ -4,10 +4,10 @@ date: "2020-01-24"
 author: Kitchen Remodel Ideas
 tags:
 - Flooring
-image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor-PWKBYX9_H.jpg
+image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.jpeg
 ---
 
-{{< figure src="/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor-PWKBYX9_H.jpg" >}}
+{{< postImage "Concentrated Woman Polishing Wooden Floor" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.jpeg" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.jpeg" >}}
 
 # Strive To Be Chemical Free
 

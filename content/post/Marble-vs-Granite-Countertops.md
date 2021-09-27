@@ -34,7 +34,7 @@ Granite is an igneous rock composed mostly of quartz and feldspar, along with tr
 
 For millions of years of volcanic activity, granite is formed beneath the earth’s surface as magma slowly cools and solidifies to form deposits of granite. During the cooling process, the magma also forms with other minerals which then give granite its crystal-like appearance. 
 {{< column >}}
-## ![Amazon Gold](/img/marbleVs/34839507732_03ee757555_b.jpg)
+{{< postImage "Amazon Gold" "/img/marbleVs/34839507732_03ee757555_b.jpeg" "/img/marbleVs/34839507732_03ee757555_b.jpeg" >}}
 {{< endcolumns >}}
 
 Even if granite is durable, it isn’t completely impervious to damage. Some types of harm are more common than others, but they can all be the result of a mishap or error. First and foremost, granite can be stained from liquids i.e. lemon juice, vinegar, and wine if you allow it to soak. Wipe up stains right away or they might lead to etching.
@@ -43,19 +43,18 @@ Even if granite is durable, it isn’t completely impervious to damage. Some typ
 
 The etching is caused by acidic solutions eating away the surface. The same kind of damage can be done to marble and other types of natural stone such as travertine and slate if you don't take care of it properly. The good news is that a homemade paste made of baking soda and acetone can clean oil stains, and organic stains can be extracted by soaking a paper towel in bleach and rubbing it on the affected area.
 
-## ![Marble Kitchen Countertops](/img/marbleVs/37518821020_168509e295_b.jpg)
+{{< postImage "Marble Kitchen Countertops" "/img/marbleVs/37518821020_168509e295_b.jpeg" "/img/marbleVs/37518821020_168509e295_b.jpeg" >}}
+{{< endcolumns >}}
 ## Marble
 
 People who entertain dinner guests often get together, and marble countertops are impressive and welcoming to any invitees that visit the kitchen. Compared to granite, marble has a symbolic meaning of luxury and distinction. Marble is also very durable and is the reason why famous structures from antiquity like The Pantheon and Michelangelo’s David have withstood the test of time to this very day.
 
 ## What's it Made Out of?
 
-{{< columns >}}
-{{< column >}}
+
 {{< postImage "White Marble Quarry" "/img/marbleVs/white-marble-quarry-and-excavators-carrara-italy-PV3DLD2-crop-scaled.jpg" "/img/marbleVs/white-marble-quarry-and-excavators-carrara-italy-PV3DLD2-crop-scaled.jpg" >}}
-{{< column >}}
+{{< break >}}
 Marble slabs first begin their journey from a limestone quarry where the slabs are cut from a larger stone. The recognizable characteristics of streaks and swirls of many types of marble varieties are usually due to mineral impurities such as silt, clay, iron oxides, sand, and chert which were present during the limestone’s formation millions of years ago. And so geologists classify marble as a metamorphic rock when limestone experiences immense heat and pressure over a long time. Marble is made from the carbonate crystals forming the limestone, most commonly dolomite and calcite. Marble forms under such conditions when the calcite recrystallizes and forms a denser rock made out of the newly formed calcite crystals.
-{{< endcolumns >}}
 
 ## Prefabricated Countertop Vs. Full Slab
 
@@ -71,12 +70,13 @@ Here’s a table about marble countertops and granite countertops. We compare th
 
 {{< columns >}}
 {{< column >}}
-## ![Granite Pros and Cons](/img/marbleVs/marble_vs_granite_tables-02.jpg)
+{{< postImage "Granite Pros and Cons" "/img/marbleVs/marble_vs_granite_tables-02.jpeg" "/img/marbleVs/marble_vs_granite_tables-02.jpeg" >}}
 {{< column >}}
-## ![Marble Pros and Cons](/img/marbleVs/marble_vs_granite_tables-03.jpg)
+{{< break >}}
+{{< postImage "Marble Pros and Cons" "/img/marbleVs/marble_vs_granite_tables-03.jpeg" "/img/marbleVs/marble_vs_granite_tables-03.jpeg" >}}
 {{< endcolumns >}}
 
-![Marble vs Granite](/img/marbleVs/marble_vs_granite_tables-01.jpg)
+{{< postImage "Marble vs Granite" "/img/marbleVs/marble_vs_granite_tables-01.jpeg" "/img/marbleVs/marble_vs_granite_tables-01.jpeg" >}}
 
 ## Porosity, Stain Resistance, and Heat Sink
 

@@ -17,12 +17,11 @@ A running concept of a traditional kitchen emboldens one with a return to normal
 {{< postImage "Aged Woman in White Cutting Yellow Pumpkin Again" "/img/32Dazzling/aged-woman-in-white-apron-cut-yellow-pumpkin-again-H5PPSVA.jpg" "/img/32Dazzling/aged-woman-in-white-apron-cut-yellow-pumpkin-again-H5PPSVA.jpg" >}}
 An elderly woman attends to her meal preparation. A sleek black hood range rests atop a modernized retro oven.
 
-
-{{< postImage "Attractive Smiling Woman" "/img/32Dazzling/attractive-smiling-woman-with-curly-hair-in-plaid--ZKQT7YF.jpg" "/img/32Dazzling/attractive-smiling-woman-with-curly-hair-in-plaid--ZKQT7YF.jpg" >}}
+{{< postImage "Attractive Smiling Woman" "/img/32Dazzling/attractive-smiling-woman-with-curly-hair.webp" "/img/32Dazzling/attractive-smiling-woman-with-curly-hair.webp" >}}
 
 Turkish coffee on the kitchen range with a clear workspace natural kitchen countertop. Glass framed cabinets pair well with white country cabinets.
 
-{{< postImage "Christmas Table Decoration in the Kitchen Banquet" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet--XSDHH4J.jpg" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet--XSDHH4J.jpg" >}}
+{{< postImage "Christmas Table Decoration in the Kitchen Banquet" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet.jpg" "/img/32Dazzling/christmas-table-decoration-in-the-kitchen-banquet.jpg" >}}
 
 Beautiful hexagonal tiles back up this kitchen’s backsplash with vertical diagonal accent pieces. Open shelved cabinets hold assortments of kitchenware and canned goods.
 

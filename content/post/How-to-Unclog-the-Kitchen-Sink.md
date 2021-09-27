@@ -14,14 +14,13 @@ Understanding how to unclog the kitchen sink plays an integral part in sink main
 
 # What Causes Clogging
 
-{{< columns >}}
-{{< column >}}
-![Woman Celaring Clogged Drain](/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.jpg)
-{{< column >}}
+
+{{< postImage "Woman Clearing Clogged Drain" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.jpeg" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.jpeg" >}}
+
 Begin by identifying the common causes of clogged sinks. Decide what you should and shouldn’t be throwing down the sink drain. Potato peels and other food waste will plug up kitchen sinks.
 
 Hair can clog the bathroom sink very easily. Regardless of the obstruction, you use the same technique to unclog both kinds of sinks.
-{{< endcolumns >}}
+
 ## Mad Scientist Method
 
 {{< postImage "Mad Scientist Method" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.jpg" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.jpg" >}}
@@ -64,8 +63,7 @@ These cleaners work much like compost ferments food scraps into high-density fer
 
 ## Plunging the Drain
 
-## ![Toilet Plunger](/img/unclogSink/plunger-PL4JFTS-scaled.jpg)
-
+{{< postImage "Toilet Plunger" "/img/unclogSink/plunger-PL4JFTS-scaled.jpeg" "/img/unclogSink/plunger-PL4JFTS-scaled.jpeg" >}}
 Place a plunger over the obstructed drain. Pour luke-warm water into the basin. Add enough water to cover the lip of the plunger to create a seal. Fully immerse the plunger into the water with at least 2” to 3” of buffer between the head and the surface. 
 
 Plunge several times straight up and down, then "kick" the plunger forward. Follow the procedure many times to clear the clog. Plunging is a sure-fire way of clearing a drain clog.
@@ -78,7 +76,7 @@ Then run hot water down the drain for 10 minutes to be sure they’re fully clea
 
 ## Unclogging the P-Trap
 
-## ![Photo of cabinet under sink](/img/unclogSink/pTrap.jpg)
+{{< postImage "Photo of cabinet under sink" "/img/unclogSink/pTrap.jpeg" "/img/unclogSink/pTrap.jpeg" >}}
 
 Now we will address how to unclog the kitchen sink garbage disposal and clear out the p-trap. If plunging doesn’t work, put a bucket underneath the trap of the drain. Draw off each end of the trap and drain the water into the seal. 
 

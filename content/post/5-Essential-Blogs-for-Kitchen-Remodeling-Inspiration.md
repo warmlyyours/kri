@@ -2,14 +2,13 @@
 title: "5 Essential Blogs"
 subtitle: "for Kitchen Remodeling Inspiration"
 date: 2020-02-28
-image: /img/5Blogs/inspirational-blogs-for-remodeling-ideas-38f9f3.jpg
+image: /img/5Blogs/inspirational-blogs-for-remodeling-ideas.jpeg
 author: "Kitchen Remodel Ideas"
 tags:
 - Essentials
 ---
 
-## ![Inspiration blogs for Remodeling](/img/5Blogs/inspirational-blogs-for-remodeling-ideas-38f9f3.jpg)
-
+{{< postImage "Inspiration blogs for Remodeling" "/img/5Blogs/inspirational-blogs-for-remodeling-ideas.jpeg" "/img/5Blogs/inspirational-blogs-for-remodeling-ideas.jpeg" >}}
 As the freeze begins to thaw the frozen tundra we call winter, now has never been a more opportune time to start a remodeling project. Spring is coming soon and the days are growing longer, if you have kids during the springtime, you can muster a small army of volunteers over the weekend to help you out. Millions of people across the world take the opportunity to begin organizing and decluttering from their hibernate states as the snow begins to melt. 
 
 Traditionally, this big cleaning spree has been known as ‘Spring Cleaning’ and it comes naturally during this time of the year. Spring can also be the most practical seasonal time to undergo an outdoor project, like installing a snow melting system in a new driveway or walkway. 
@@ -32,8 +31,7 @@ We will continue exploring her blog as we completely fell in love with her work.
 
 ## It's Great to be Home: Adventures of a Serial Home Improver
 
-## ![Bedroom Over Garage](/img/5Blogs/bedroom-over-garage-in-a-house-1-6d89ff.jpg)
-
+{{< postImage "Bedroom Over Garage" "/img/5Blogs/bedroom-over-garage-in-a-house-1.jpeg" "/img/5Blogs/bedroom-over-garage-in-a-house-1.jpeg" >}}
 Liz and her husband are fantastic practitioners of the ‘fix-and-flip’ scenario where an investor who sees what a dilapidated home’s potential could be will then purchase the property at a discounted price. The couple has been bravely investing with a mindset of fixing up houses and renovating them to increase the market valuation. 
 
 In addition to information about selling properties, you can also find good project content on this blog. Liz has garnered a few helpful home improvement skills. 
@@ -48,8 +46,7 @@ What’s shocking is that all ten houses have been sold which is deserving of ou
 
 Our grandmothers and great grandmothers grew up with American eagles made out of cast iron above the fireplace. If you feel your house should have a vintage look to it and you want to recreate the look built during the post-World War II boom, check out this blog. You’ll learn how to incorporate design inspirations from different time periods and how to borrow the styles from retro suburban homes.  
 
-## ![Houzz Homepage Screenshot](/img/5Blogs/houzz-homepage-screenshot-4da31b.jpg)
-
+{{< postImage "Houzz Homepage Screenshot" "/img/5Blogs/houzz-homepage-screenshot-4da31b.jpeg" "/img/5Blogs/houzz-homepage-screenshot-4da31b.jpeg" >}}
 ## Houzz
 
 This blog is a staff-favorite of ours because you can find everything you need in the same place. Houzz’s online collection of informative articles will teach you all about remodeling trends, as well as innovative solutions to the pesky problems you may face when you’re remodeling an old room feel or replacing kitchen cabinets that have fallen apart. 

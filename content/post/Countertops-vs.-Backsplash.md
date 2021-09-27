@@ -14,7 +14,7 @@ Your kitchen wouldn’t be complete without countertops and wall tiles. When arr
 
 You’re not going to love your kitchen backsplash tiles if they do not suit the color of your countertops. Ideally, colors complement, harmonize, and enhance cohesion across the room's visual plane.
 
-{{< figure src="/img/corbPairingOptions/functional-kitchen-with-long-countertop-P3M3EGR.jpg" >}}
+{{< postImage "Functional Kitchen with Long Countertop" "/img/corbPairingOptions/functional-kitchen-with-long-countertop.jpg" "/img/corbPairingOptions/functional-kitchen-with-long-countertop.jpg" >}}
 
 ## Contrasting Color Theme
 
@@ -22,7 +22,7 @@ Use backsplash tiles with colors that visually clash against your countertops. W
 
 For starters, you may want to install a stainless steel backsplash with slate countertops and stainless steel appliances, you may go for pale blue tiles with engineered hardwood countertops and wedgewood blue-opal window treatments. The options are entirely yours to choose. But overtime, you ultimately want to fixate on warm and inviting spaces that bolster well-coordinated environments.
 
-{{< figure src="/img/corbPairingOptions/cake-herbs-and-fruits-on-kitchen-counter-in-927E8MC.jpg" >}}
+{{< postImage "Cake Herbs and Fruits on Kitchen Counter" "/img/corbPairingOptions/cake-herbs-and-fruits-on-kitchen-counter.jpg" "/img/corbPairingOptions/cake-herbs-and-fruits-on-kitchen-counter.jpg" >}}
 
 ## Coordinating Colors
 
@@ -38,14 +38,13 @@ When choosing countertops and backsplashes, do not lose sight of the fact that t
 
 There are a few things to consider when it comes to granite, quartz, or laminate. Granite is a natural material, so that the pattern is unique to a stone's veins and mineral deposits. This is also the most attractive to some people. Whilst granite is the hardest, most durable and least scratch-able natural stone, it can still be stained. Quartz is a man-made material available in many different forms.
 
-## ![banana on shiny countertop](/img/corbPairingOptions/bananacountertop.jpg)
-
+{{< postImage "banana on shiny countertop" "/img/corbPairingOptions/bananacountertop.jpg" "/img/corbPairingOptions/bananacountertop.jpg" >}}
 
 Quartz countertops consist of quartz chips that bond with resin, giving quartz a generally more uniform feel. Quartz is an extremely hard and robust product that's become a poplar choice for kitchen countertops. They need less upkeep and care than granite and do not need to be covered.
 
 Laminate countertops have come a long way. If you're looking for a lower price point or something for use in a bathroom or laundry room, it's a head of the game. Here's an example of a laminate countertop that looks just like granite, it's really tough to spot the different.. there's really no way of spotting the difference at a glance. Consult with a professional and ask them to tell which one's which.
 
-{{< figure src="/img/corbPairingOptions/5096634725_1b393667c5_b.jpg" >}}
+{{< postImage "Lifestyle Photo of Kitchen" "/img/corbPairingOptions/5096634725_1b393667c5_b.jpg" "/img/corbPairingOptions/5096634725_1b393667c5_b.jpg" >}}
 
 When you begin the process of choosing your countertop surface, be aware of the thermal conductivity of the natural stone being applied. Often times, when speaking of design with a professional designer, they're making the decision on behalf of the client. One of the many complaints of the clients they say is that their countertops are **always** cold. There is a product on the market that can be retrofitted right to the underside of a kitchen counter. It is designed to bring heat to a kitchen countertop surface with a radiant heating cable wired and embedded in a heating mat.
 
@@ -57,7 +56,7 @@ No more suffering from cold countertops! The following video showcases a Feelswa
 
 Answering the age old dilemma of the countertop or the backsplash. Which one goes first? You might not be sure whether to install a countertop or backsplash first. You might even be adjusting your design to a new layout. You may determine how busy or plain the kitchen backsplash and countertop ought to be. Incorporating a complex granite shouldn't be too bland, or even marble or quartzite, a discrete neutral choice that keeps the region from being too much.
 
-## ![Home pairing options](/img/corbPairingOptions/home-design.jpg)
+{{< postImage "Home pairing options" "/img/corbPairingOptions/home-design.jpg" "/img/corbPairingOptions/home-design.jpg" >}}
 
 For example, the kitchen above has Fantasy Black Quartz countertops with a white subway tile backsplash and black grout. Backsplash is a good choice for a couple of reasons. First, it accentuates and contrasts the accent color of the countertop. Second, it feigns as a dirty subway wall when actually, it's a clean kitchen backsplash.
 
@@ -65,7 +64,7 @@ For example, the kitchen above has Fantasy Black Quartz countertops with a white
 
 Beginning with a backsplash isn't a bad idea. More often than not, the backsplash will be noticed before a countertop since it is at eye level. First impressions are important. Honing in on a backsplash option also narrows down countertop selections. Granite and marble are a safe choice. Absolute Black Granite and White Calcutta Marble tiles have been seeing a big reemergence this year.
 
-## ![Modern Kitchenette with Wooden Furniture](/img/corbPairingOptions/modern-kitchenette-with-wooden-furniture.jpg)
+{{< postImage "Modern Kitchenette with Wooden Furniture" "/img/corbPairingOptions/modern-kitchenette-with-wooden-furniture.jpg" "/img/corbPairingOptions/modern-kitchenette-with-wooden-furniture.jpg" >}}
 
 Countertops materials and backsplash tiles often proovide a visual lead. Your visual lead sets the tone for the rest of the kitchen experience. That doesn't mean you're not supposed to play around with colors and layout placements. You're going to want to have a theme that works with both a countertop and a backsplash, even mildly so.
 
