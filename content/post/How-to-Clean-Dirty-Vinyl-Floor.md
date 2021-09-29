@@ -9,7 +9,7 @@ image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp
 
 {{< postImage "Concentrated Woman Polishing Wooden Floor" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor-small.webp" >}}
 
-# Strive To Be Chemical Free
+## Strive To Be Chemical Free
 
 We live in a society that’s well-informed and each day we learn and continue to learn about the ways in which we can live cleanly. By now you're aware of the harmful effects that chemicals like pesticides, preservatives, and additives have on the body.
 

@@ -16,7 +16,7 @@ Traditionally, this big cleaning spree has been known as ‘Spring Cleaning’ a
 
 With so many options to choose from and so much inspiration out there, we’ve rounded up a bunch of amazing blogs that will inspire you to start and, more importantly, finish your spring remodeling ideas. No matter what kind of project you have in mind or the limitations you have to work with, these five blogs will give you the crucial kitchen remodeling inspiration you need. Here is our list:
 
-# The Ugly Duckling House
+## The Ugly Duckling House
 
 ‘The Ugly Duckling House’ presents Sarah, a talented restorator with the greatest key tips to build and revive any old home and bring it back from the brink of disintegration. One would even go so far as to describe Sarah as a dreamer who made her dream reality. 
 

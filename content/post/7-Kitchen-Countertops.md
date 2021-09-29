@@ -11,7 +11,7 @@ What happens to the glass bottle of marinara sauce you just threw out? Or that b
 
 Modern-day recycling has the potential to restore glass bottles and porcelain to its former beauty. Post-consumer glass can be converted back into the supply chain. Incredible slabs of recycled glass can be used in new construction projects, sculpted into exquisite countertops and flooring.
 
-# What Really Happens to Recycled Glass
+## What Really Happens to Recycled Glass
 
 American utility companies have thousands of recycling centers around the United States. Each one adhering to the rules and regulations of the recycling industry helps to standardize practices. To begin with, glass is collected from the recycling bin at a home or residence. This is called the collection stage and it constitutes the beginnings of the recycling process.
 

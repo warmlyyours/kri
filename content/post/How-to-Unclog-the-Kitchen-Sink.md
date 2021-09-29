@@ -12,7 +12,7 @@ We’re going to be talking about an all-too-common issue that many homeowners f
 
 Understanding how to unclog the kitchen sink plays an integral part in sink maintenance and upkeep. If you can figure out how to unclog the kitchen sink on your own, then you’ll be saving money. Especially if you’re someone like me who doesn’t know much about working pipes.
 
-# What Causes Clogging
+## What Causes Clogging
 
 
 {{< postImage "Woman Clearing Clogged Drain" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.webp" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled-small.webp" >}}

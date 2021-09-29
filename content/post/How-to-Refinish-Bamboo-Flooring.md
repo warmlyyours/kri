@@ -11,7 +11,7 @@ Bamboo flooring is an absolutely gorgeous and unique alternative to a hardwood f
 
 However, professional maintenance workers and homeowners with reasonable do-it-yourself skills can fire up the sander to undergo the process of refinishing bamboo floors. Now while a polyurethane finish is applied to clean bamboo flooring much like how you’d cover other flooring types, there are a few extra steps you don’t want to skip, and additional equipment required to complete the repairs in time. 
 
-# Equipment Required
+## Equipment Required
 
 * 36 grit sandpaper
 * 80 grit sandpaper

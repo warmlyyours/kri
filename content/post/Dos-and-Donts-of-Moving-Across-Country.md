@@ -29,7 +29,7 @@ Make time to go to your local Goodwill and donate. Use online resources such as 
 >> - Donate an item without checking the market value
 >> - Keep things you don't need
 
-# Research the Area
+## Research the Area
 
 You should research the new area you’re moving into, for any move. Checking the crime reports, finding good schools, and going on Google street view to get an idea of your neighborhood’s walkability is all part of doing your due diligence. One savvy mover who shared his story online actually hired someone on [TaskRabbit](https://www.taskrabbit.com/services/moving) to survey the neighborhood ahead of time. Task rabbit and Fivver are great examples of the gig economy co-opting some responsibilities of the moving process.
 

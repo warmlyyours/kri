@@ -9,7 +9,7 @@ image: /img/bestWallTiles/herringbone_white_gallery_kitchen.webp
 
 Picture yourself finding a charming mid-century modern with three bedrooms and two baths. The real estate agent guides you through a spacious living room with high ceilings and plenty of room over the hooded range and sink. You glide through some of the coolest rooms you’ve ever been in and you can’t wait to call the owner to put in an offer. Everything is perfect until you get to the kitchen and all of a sudden it’s “Hello 70’s”! Nobody likes an outdated kitchen design. It’s one of the parts of the house you’ll be spending the majority of your time in - cooking, cleaning, and entertaining guests. But you wouldn’t want to entertain anyone in a “That’s 70’s Kitchen”. Well, this happens to a lot of new homeowners and we’ve based our blog to answer the question: “How to select the best wall tiles?” to turn that 70’s look into modern day. If you are going at this alone or you are working with an interior designer whose job it is to give you quality design concepts, this blog will surely help you along your way to a beautiful, updated kitchen.
 
-# Wall Tile Real Estate
+## Wall Tile Real Estate
 
 The golden rule of real estate is “Location, location, location” and this same rule applies to your kitchen’s wall tiles. Where do you bring your guests to entertain them during a dinner party? Imagine your giving a home tour to a friend who just dropped by to say ‘Hello’. Nine out of ten times, your kitchen will be the feature show. Decorative wall tiles take up a lot of visual space. A good or bad kitchen backsplash idea is one of the first things we notice when seeing a kitchen space for the first time. That’s why it’s so important that you choose the right wall tiles for your kitchen.
 

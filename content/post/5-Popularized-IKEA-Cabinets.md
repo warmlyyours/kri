@@ -18,7 +18,7 @@ The organizational arrangement of your kitchenware tells a great deal about your
 
 To start your journey, our team investigated IKEA’s kitchen cabinet offering.  We studied their website during the making of our ‘10 Best Kitchen Cabinet Styles’ blog post to discover the best of the best.  The top 5 cabinets based on customer ratings - which begs the question: Can people really fall in love with a kitchen cabinet system? Clearly, these folks did, so yes you can!
 
-# SEKTION: IKEA Kitchen Cabinet Code SE BS2G
+## SEKTION: IKEA Kitchen Cabinet Code SE BS2G
 
 {{< postImage "SE BS2G" "/img/5IKEA/sektion1.webp" "/img/5IKEA/sektion1-small.webp" >}}
 

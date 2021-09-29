@@ -14,7 +14,7 @@ What happens to the glass bottle of marinara sauce you just threw out? Or that b
 
 We will be going over marble and granite countertops thoroughly and diving deep into the specifics to review both across a variety of categories. The countertop materials we’ll be covering aren’t that different all things considered, this blog will help you decide why one’s better for your specific situation nonetheless. Decision-making factors such as visual appeal, heat resistance, and much more will be included. With the help of this comprehensive write up, we believe that you will have everything you need to begin your kitchen remodeling project
 
-# Where's it from? Where does it go?
+## Where's it from? Where does it go?
 
 Let’s not forget that each slab of marble and granite are deposited from quarries all over the world. Sourcing natural stones from these locations will be more expensive than man-made countertops which can be engineered to resemble granite or marble. Marble from one part of the world may have different properties than say marble sourced from somewhere else. For example, it’s well known that Carrara marble is very dense and non-porous, giving it a natural resistance to stains and scratches quite excellently. The northernmost point of this region is home to some of the finest marble in the world. Positively put, marble and/or granite won’t vary too much depending on where it’s sourced from, and yet won’t always be identical to what you know and love. 
 

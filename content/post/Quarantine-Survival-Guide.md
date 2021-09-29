@@ -10,7 +10,7 @@ It’s time to hunker down due to the Stay-at-Home orders and social distancing 
 
 The CDCl is the authority on how to sanitize your household. We’ve taken that information and created a checklist to make it easy for you to ensure you clean thoroughly each day - sometimes multiple times a day for high traffic areas like the kitchen. We suggest printing out our checklist, laminating it, and posting it in a visible place as a constant reminder.
 
-# Remove Debris
+## Remove Debris
 
 Per the CDC’s page on [Household Cleaning & Sanitizing](https://www.cdc.gov/healthywater/emergency/cleaning-sanitizing/household-cleaning-sanitizing.html), the first step of cleaning kitchen surfaces easily is to wash the countertops with soap and water to remove any debris.
 

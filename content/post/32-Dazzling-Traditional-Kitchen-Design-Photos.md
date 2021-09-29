@@ -11,7 +11,7 @@ tags:
 
 {{< postImage "Banner over Lifestyle Photo" "/img/32Dazzling/32-Dazzling-Traditional-Kitchen-Design-Photos.webp" "/img/32Dazzling/32-Dazzling-Traditional-Kitchen-Design-Photos.webp" >}}
 
-# Better Kitchen Atmosphere
+## Better Kitchen Atmosphere
 
 A running concept of a traditional kitchen emboldens one with a return to normalcy. Traditional kitchens are not of course subject to modern styles, as we’re sure you’re aware. They’re the building of time accumulations, half bewitching inhabitants to another time in through the keeping of the tried and true. We better understand how far we’re going, how to modernize a traditional kitchen, and what makes a kitchen traditional? We don’t offer you trends, but lessons. Lessons that continue to espouse strong family values.
 

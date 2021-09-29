@@ -20,8 +20,8 @@
               <li class="previous d-flex align-items-center justify-content-start">
                 <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
               </li>
+              </ul>
             </div>
-          </ul>
             {{ end }}
             <div class="col p-3">
             {{ if .Paginator.HasNext }}
@@ -30,8 +30,8 @@
                 <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}">{{ i18n "olderPosts" }} &rarr;</a>
               </li>
             {{ end }}
-            </div>
           </ul>
+          </div>
           </div>
         {{ end }}
       </div>

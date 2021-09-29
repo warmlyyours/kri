@@ -10,7 +10,7 @@ tags:
 
 Your kitchen wouldn’t be complete without countertops and wall tiles. When arranging the design elements and architectural features, the colors don't have to match, but they ought to be balanced. 
 
-# Complimentary Color Theme
+## Complimentary Color Theme
 
 You’re not going to love your kitchen backsplash tiles if they do not suit the color of your countertops. Ideally, colors complement, harmonize, and enhance cohesion across the room's visual plane.
 

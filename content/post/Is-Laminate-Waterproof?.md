@@ -12,7 +12,7 @@ Flooring is very very important and when winter rolls around, homeowners ought  
 
 Laminate tile is not waterproof, however widely believed that may be. [The Flooring Girl](https://theflooringgirl.com/blog/is-laminate-flooring-waterproof/), a flooring expert, believes that this misperception is due to the fact that many customers mistakenly confuse vinyl with laminate flooring(Debbie.gartner 2018).
 
-# What is Laminate Flooring?
+## What is Laminate Flooring?
 
 Laminate flooring is a synthetic flooring type and it was first made as an alternative to natural hardwood. At first, it made a splash on the flooring market as the trend grew in popularity throughout the 1970's. Manufacturers increasingly installed it because of its realistic look that could pass as real hardwood flooring, which easily overtook its alternative.
 

@@ -8,7 +8,7 @@ tags:
 ---
 Remodeling a somewhat dated kitchen with a new style keeps the magic going, right? Adding a more modern touch to your kitchen can reinvigorate your family gathering area and even you! Take charge and with a few simple changes you can refresh your kitchen, and catch up with the most recent trends in home design. Consider including the following modern kitchen style trends to your home:
 
-# Aesthetic Style
+## Aesthetic Style
 
 {{< postImage "Remodelista" "/img/modernStyle/Remodelista.webp" "/img/modernStyle/Remodelista-small.webp" >}}
 Contemporary kitchens feature minimalist design with monochromatic colors and elements that are flush against walls and countertops. In today’s modern kitchen design, everything is streamlined, and clean lines are featured throughout the room.

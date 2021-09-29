@@ -15,7 +15,7 @@ Read on as we find out - "what is the best type of flooring for dogs?". Let's di
 
 {{< postImage "Shih-tzu on the floor" "/img/pups/shih-tzu-sitting-on-the-floor-2623968.webp" "/img/pups/shih-tzu-sitting-on-the-floor-2623968-small.webp" >}}
 
-# Cork Flooring
+## Cork Flooring
 
 Cork is an excellent flooring type that's scratch-resistant which mimics the look of natural hardwood. This type of flooring is both stai nand water resistant. If your dog forgets all about its house training and has an accident, make sure to clean up the mess right away as water exposure can damage and alter the shape if left for an extended period of time.
 
