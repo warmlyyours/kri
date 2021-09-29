@@ -11,6 +11,8 @@ tags:
 
 {{< postImage "Hammer smashing open a jar of money" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX-small.webp" >}}
 
+# Cheap Remodeling and Renovation
+
 The housing market has seen a positive change due to the Coronavirus Pandemic. A surprisingly adverse outcome occurred when middle and upper-income housing prices were appreciated by 5% this quarter. As a result of increased home values combined with high unemployment, a large number of homeowners are opting to list their homes on the market in the hopes of getting a maximum return on their investment. And, with interest rates at an all-time low, a perfect storm has resulted in potential new homeowners entering the market...
 
 Not only is home resale up ticking, but with the travel bans that have been instated both state-wide and internationally, there is less travel and many Americans are sheltering in place, with people working from home now more than ever before. With all those hours at home rather than the office, homeowners are turning a critical eye on what are the benefits of kitchen remodeling but with one important catch. Higgins for the New York Times stated, “...they find ways to improve their homes without breaking the bank.” (Higgins).  
