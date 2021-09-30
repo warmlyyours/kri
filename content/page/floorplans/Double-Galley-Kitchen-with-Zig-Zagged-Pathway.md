@@ -1,12 +1,11 @@
 ---
-title: Double Galley Kitchen with Zig-Zagged Pathway
+title: Double Galley Zig-Zagged Path
 date: "2020-08-19"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1512223-1200x899-1.jpg
 floorplans:
 - Double Galley
 ---
-# Double Galley Kitchen with Zig-Zagged Pathway
 
 >> **Kitchen Shape:** Double Galley
 >

@@ -1,12 +1,11 @@
 ---
-title: Large Kitchen Floor Plan with Kitchen Nook
+title: Large Kitchen Floor Plan and Nook
 date: "2021-01-22"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1519480-R2.jpg
 floorplans:
 - Double Galley
 ---
-# Large Kitchen Floor Plan with Kitchen Nook
 
 >> **Kitchen Shape:** Double Galley
 >
@@ -18,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-![Large Kitchen Floor Plan with Kitchen Nook](/img/floorPlans/IP1519480-R2.jpg)
+![Large Kitchen Floor Plan and Nook](/img/floorPlans/IP1519480-R2.jpg)
 
 ## Installation Options:
 

@@ -1,12 +1,11 @@
 ---
-title: Single Galley One Wall Kitchen Floor Plan
+title: Single Galley One Wall Kitchen
 date: "2020-08-27"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529383.jpg
 floorplans:
 - Single Galley
 ---
-# Single Galley One Wall Kitchen Floor Plan
 
 >> **Kitchen Shape:** Single Galley
 >

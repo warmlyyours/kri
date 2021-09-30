@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1510986.jpg
 floorplans:
 - L Shaped
 ---
-# Cozy L Shaped Kitchen
 
 >> **Kitchen Shape:** L Shaped
 >

@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1512353-1200x899-1.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped Kitchen with Island
 
 >> **Kitchen Shape:** U Shaped
 >

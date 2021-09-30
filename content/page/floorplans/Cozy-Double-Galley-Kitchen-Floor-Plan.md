@@ -1,12 +1,11 @@
 ---
-title: Cozy Double Galley Kitchen Floor Plan
+title: Cozy Double Galley Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530670.jpg
 floorplans:
 - Double Galley
 ---
-# Cozy Double Galley Kitchen Floor Plan
 
 >> **Kitchen Shape:** Double Galley
 >

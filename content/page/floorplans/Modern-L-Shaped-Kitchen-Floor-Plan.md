@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1520368-R1-1200x1000-1.jpg
 floorplans:
 - L Shaped
 ---
-# Modern L Shaped Kitchen Floor Plan
 
 >> **Kitchen Shape:** L Shaped
 >

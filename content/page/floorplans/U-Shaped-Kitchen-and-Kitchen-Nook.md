@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1513684-R4-1200x899-1.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped Kitchen and Kitchen Nook
 
 >> **Kitchen Shape:** U Shaped
 >

@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1529812.jpg
 floorplans:
 - Double Galley
 ---
-# 10x10 Double Galley Shaped Kitchen
 
 >> **Kitchen Shape:** Double Galley
 >

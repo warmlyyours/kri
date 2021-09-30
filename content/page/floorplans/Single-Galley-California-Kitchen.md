@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1511082-1200x899-1.jpg
 floorplans:
 - Single Galley
 ---
-# Single Galley California Kitchen
 
 >> **Kitchen Shape:** Single Galley
 >

@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1520259-1200x1043-1.jpg
 floorplans:
 - U Shaped
 ---
-# Modern U Shaped Kitchen Floor Plan
 
 >> **Kitchen Shape:** U Shaped
 >

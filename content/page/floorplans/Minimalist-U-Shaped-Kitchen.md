@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1513946-1200x899-1.jpg
 floorplans:
 - U Shaped
 ---
-# Minimalist U Shaped Kitchen
 
 >> **Kitchen Shape:** U Shaped
 >

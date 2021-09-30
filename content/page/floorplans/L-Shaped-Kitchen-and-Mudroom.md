@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1510306_X2-scaled.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Kitchen and Mudroom
 
 >> **Kitchen Shape:** L Shaped
 >

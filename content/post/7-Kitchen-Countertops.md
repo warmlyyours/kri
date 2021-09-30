@@ -1,5 +1,5 @@
 ---
-title: "7 Kitchen Countertops made with Recycled Glass"
+title: 7 Recycled Glass Countertops
 date: 2020-08-07
 author: "Kitchen Remodel Ideas"
 image: /img/7Countertops/7_countertops_blog.jpg

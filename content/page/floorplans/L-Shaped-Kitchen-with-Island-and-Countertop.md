@@ -1,12 +1,11 @@
 ---
-title: L Shaped Kitchen with Island and Countertop
+title: L Shaped Kitchen and Countertop
 date: "2021-08-06"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529582.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Kitchen with Island and Countertop
 
 >> **Kitchen Shape:** L Shaped
 >

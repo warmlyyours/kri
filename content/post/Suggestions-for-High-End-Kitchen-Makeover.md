@@ -1,5 +1,5 @@
 ---
-title: Suggestions For A High-End Kitchen Makeover
+title: Suggestions For Kitchen Makeovers
 subtitle: On a Budget
 date: 2020-09-15
 author: Kitchen Remodel Ideas

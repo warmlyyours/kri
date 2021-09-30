@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1529421.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Open Kitchen Floor Plan
 
 >> **Kitchen Shape:** L Shaped
 >

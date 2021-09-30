@@ -1,12 +1,11 @@
 ---
-title: New Hampton Kitchen Floor Plan with Island
+title: New Hampton Island Floor Plan
 date: "2020-08-28"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1514150-R1-1200x899-1.jpg
 floorplans:
 - Single Galley
 ---
-# New Hampton Kitchen Floor Plan with Island
 
 >> **Kitchen Shape:** Single Galley
 >

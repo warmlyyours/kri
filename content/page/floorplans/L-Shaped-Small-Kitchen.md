@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1510620.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Small Kitchen
 
 >> **Kitchen Shape:** L Shaped
 >

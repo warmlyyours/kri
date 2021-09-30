@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1510604.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped First Floor Kitchen
 
 >> **Kitchen Shape:** U Shaped
 >

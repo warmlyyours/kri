@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1530123.jpg
 floorplans:
 - U Shaped
 ---
-# Eat-In U Shaped Kitchen
 
 >> **Kitchen Shape:** U Shaped
 >

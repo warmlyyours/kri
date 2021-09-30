@@ -1,12 +1,11 @@
 ---
-title: L Shaped Kitchen Floor Plan with a Concrete Subfloor
+title: L Shaped Concrete Subfloor
 date: "2020-09-02"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1514505-1200x899-1.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Kitchen Floor Plan with a Concrete Subfloor
 
 >> **Kitchen Shape:** L Shaped
 >

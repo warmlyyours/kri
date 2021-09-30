@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1530301.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Kitchen Design
 
 >> **Kitchen Shape:** L Shaped
 >

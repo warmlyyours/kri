@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1530297.jpg
 floorplans:
 - Double Galley
 ---
-# Mobile Home Kitchen Floor Plan
 
 >> **Kitchen Shape:** Double Galley
 >

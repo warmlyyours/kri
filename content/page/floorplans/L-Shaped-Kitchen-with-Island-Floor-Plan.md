@@ -1,12 +1,11 @@
 ---
-title: L Shaped Kitchen with Island Floor Plan
+title: L Shaped Kitchen Floor Plan
 date: "2021-03-05"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529457.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Kitchen with Island Floor Plan
 
 >> **Kitchen Shape:** L Shaped
 >

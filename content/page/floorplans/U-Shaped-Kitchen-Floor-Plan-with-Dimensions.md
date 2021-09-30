@@ -1,12 +1,11 @@
 ---
-title: U Shaped Kitchen Floor Plan with Dimensions
+title: U Shaped Kitchen Dimensions
 date: "2021-01-15"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1514745.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped Kitchen Floor Plan with Dimensions
 
 >> **Kitchen Shape:** U Shaped
 >

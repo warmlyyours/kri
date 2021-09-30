@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1510607.jpg
 floorplans:
 - Double Galley
 ---
-# Double Galley Kitchen and Island
 
 >> **Kitchen Shape:** Double Galley
 >

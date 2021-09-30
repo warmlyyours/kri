@@ -1,12 +1,11 @@
 ---
-title: Double Galley Style Kitchen Floor Plan
+title: Double Galley Style Floor Plan
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1519619-R1.jpg
 floorplans:
 - Double Galley
 ---
-# Double Galley Style Kitchen Floor Plan
 
 >> **Kitchen Shape:** Double Galley
 >

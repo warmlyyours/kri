@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1529279-R1.jpg
 floorplans:
 - U shaped
 ---
-# U Shaped Kitchen Design with Island
 
 >> **Kitchen Shape:** Double Galley
 >

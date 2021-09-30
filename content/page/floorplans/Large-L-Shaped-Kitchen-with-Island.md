@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1511950-1200x899-1.jpg
 floorplans:
 - L Shaped
 ---
-# Large L Shaped Kitchen with Island
 
 >> **Kitchen Shape:** L Shaped
 >

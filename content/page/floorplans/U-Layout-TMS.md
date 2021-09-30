@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1510374.jpg
 floorplans:
 - U Shaped
 ---
-# U Layout Tile, Marble, Stone
 
 >> **Kitchen Shape:** U Shaped
 >

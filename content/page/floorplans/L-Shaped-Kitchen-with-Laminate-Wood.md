@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1512364-1200x899-2.jpg
 floorplans:
 - L Shaped
 ---
-# L Shaped Kitchen with Laminate Wood
 
 >> **Kitchen Shape:** L Shaped
 >

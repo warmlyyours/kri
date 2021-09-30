@@ -1,12 +1,11 @@
 ---
-title: First Floor Single Galley with Kitchen
+title: First Floor Single Galley Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1510607-2.jpg
 floorplans:
 - Single Galley
 ---
-# First Floor Single Galley with Kitchen
 
 >> **Kitchen Shape:** Single Galley
 >

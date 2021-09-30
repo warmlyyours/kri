@@ -7,7 +7,6 @@ author: Kitchen Remodel Ideas
 floorplans:
 - L Shaped
 ---
-# L Shaped Compact Kitchen Floor Plan
 
 >> **Kitchen Shape:** L Shaped
 >

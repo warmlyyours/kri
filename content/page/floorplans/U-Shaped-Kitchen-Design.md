@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1530543.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped Kitchen Design
 
 >> **Kitchen Shape:** U Shaped
 >

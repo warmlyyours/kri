@@ -1,5 +1,5 @@
 ---
-title: How to Add Modern Style to the Kitchen
+title: How to Add Modern Style
 date: "2020-03-26"
 author: Samantha Velez
 tags:

@@ -1,12 +1,11 @@
 ---
-title: U Shaped Lake House Kitchen Floor Plan Design
+title: U Shaped Lake House Kitchen
 date: "2021-01-08"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1518769.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped Lake House Kitchen Floor Plan Design
 
 >> **Kitchen Shape:** U Shaped
 >

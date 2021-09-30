@@ -1,12 +1,11 @@
 ---
-title: U Shaped Kitchen with Counter-Depth Fridge
+title: U Shaped Kitchen Style
 date: "2021-04-16"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530164.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped Kitchen Counter-Depth Fridge
 
 >> **Kitchen Shape:** U Shaped
 >
@@ -18,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-![U Shaped Kitchen with Counter-Depth Fridge](/img/floorPlans/IP1530164.jpg)
+![U Shaped Kitchen Style](/img/floorPlans/IP1530164.jpg)
 
 ## Installation Options:
 

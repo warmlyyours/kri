@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1510109-R1-1.jpg
 floorplans:
 - U Shaped
 ---
-# U Layout Hardwood Flooring
 
 >> **Kitchen Shape:** U Shaped
 >

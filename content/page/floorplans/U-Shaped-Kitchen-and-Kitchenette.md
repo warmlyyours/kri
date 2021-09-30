@@ -6,7 +6,6 @@ image:  /img/floorPlans/IP1511048-scaled.jpg
 floorplans:
 - U Shaped
 ---
-# U Shaped Kitchen and Kitchenette
 
 >> **Kitchen Shape:** U Shaped
 >
