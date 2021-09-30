@@ -17,21 +17,21 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-![Single Galley One Wall Kitchen Floor Plan](/img/floorPlans/IP1529383.jpg)
+{{< postImage "Single Galley One Wall Kitchen Floor Plan" "/img/floorPlans/IP1529383.jpg" "/img/floorPlans/IP1529383.jpg" >}}
 
 ## Installation Options:
 
 ***
 
-### [Tempzone Floor Heating Cable:](https://www.warmlyyours.com/en-CA/products/line/floor-heating-tempzone-cable?referral_code=KRICOM)
+## [Tempzone Floor Heating Cable:](https://www.warmlyyours.com/en-CA/products/line/floor-heating-tempzone-cable?referral_code=KRICOM)
 
-![Tempzone Floor Heating Cable](/img/installationOptions/warmlyYours/tempzone-cable-29c541.jpeg)
+{{< postImage "Tempzone Floor Heating Cable" "/img/installationOptions/warmlyYours/tempzone-cable-29c541.jpeg" "/img/installationOptions/warmlyYours/tempzone-cable-29c541.jpeg" >}}
 
 "The WarmlyYours TempZone™ 3.7-Watt Floor Heating Cable allows you to bring radiant warmth to any room. TempZone™ Floor Heating Cable (Twin) is ultra-low EMF by design. It features a twin conductor with a 15’ cold lead and is available in two voltage options and a range of lengths to meet the requirements of any installation. In 120V, we offer lengths ranging from 30 to 432 linear feet . For 240V, our lengths range from 55 to 864 linear feet."
 
-### [Cecilia Fiberstone Planters:](https://www.westelm.com/products/cecilia-fiberstone-planters-d7947/?pkey=ccecilia%20fiberstone%20planters)
+## [Cecilia Fiberstone Planters:](https://www.westelm.com/products/cecilia-fiberstone-planters-d7947/?pkey=ccecilia%20fiberstone%20planters)
 
-![Cecilia Fiberstone Planters](/img/installationOptions/IP1529383/cecilia-indoor-outdoor-planters-o.jpg)
+{{< postImage "Cecilia Fiberstone Planters" "/img/installationOptions/IP1529383/cecilia-indoor-outdoor-planters-o.jpg" "/img/installationOptions/IP1529383/cecilia-indoor-outdoor-planters-o.jpg" >}}
 
 * Fiberstone
 * No liner included
@@ -42,13 +42,13 @@ floorplans:
 
 ### [Bosch NET8068SUC:](https://www.appliancesconnection.com/bosch-net8068suc.html)
 
-![Bosch NET8068SUC](/img/installationOptions/IP1529383/NET8068SUC.jpg)
+{{< postImage "Bosch NET8068SUC" "/img/installationOptions/IP1529383/NET8068SUC.jpg" "/img/installationOptions/IP1529383/NET8068SUC.jpg" >}}
 
 "800 Series 30 Inch Electric Smoothtop Style Cooktop with 4 Elements, Hot Surface Indicator, ADA Compliant, PreciseSelect, SpeedBoost, CountDown Timer, Child Lock, CSA Certified, Stainless Steel Frame in Black."
 
 ### [TRUSTMI 2-Handle 8-16 Inch Bathroom Sink Faucet with Pop Up Drain Assembly:](https://www.amazon.com/gp/product/B07MZ5S1V7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MZ5S1V7&linkCode=as2&tag=kri0eb-20&linkId=c71c9875f89275b0d950e16f8fe45758)
 
-![TRUSTMI 2-Handle 8-16 Inch Bathroom Sink Faucet with Pop Up Drain Assembly](/img/installationOptions/IP1529383/61m+ElT1iAL._AC_SL1500_.jpg)
+{{< postImage "TRUSTMI 2-Handle 8-16 Inch Bathroom Sink Faucet with Pop Up Drain Assembly" "/img/installationOptions/IP1529383/61m+ElT1iAL._AC_SL1500_.jpg" "/img/installationOptions/IP1529383/61m+ElT1iAL._AC_SL1500_.jpg" >}}
 
 * Brushed Gold finish, which is Warm and Luxurious Colour, Splendid Surface Treatment
 * Solid Brass Body Construction with Ceramic Cartridge, Full Use of Materials, Longevity and Drip-Free. Upgraded overflow pop up drain with Built-In stopper

@@ -17,27 +17,27 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-![Double Galley Kitchen Ideas](/img/floorPlans/IP1529659.jpg)
+{{< postImage "Double Galley Kitchen Ideas" "/img/floorPlans/IP1529659.jpg" "/img/floorPlans/IP1529659.jpg" >}}
 
 ## Installation Options:
 
 ***
 
-### [Tempzone Floor Heating Cables:](https://www.warmlyyours.com/en-US/products/line/floor-heating-tempzone-cable?referral_code=KRICOM)
+## [Tempzone Floor Heating Cables:](https://www.warmlyyours.com/en-US/products/line/floor-heating-tempzone-cable?referral_code=KRICOM)
 
-![Tempzone Floor Heating Cables](/img/installationOptions/warmlyYours/tempzone-cable-29c541.jpeg)
+{{< postImage "Tempzone Floor Heating Cables" "/img/installationOptions/warmlyYours/tempzone-cable-29c541.jpeg" "/img/installationOptions/warmlyYours/tempzone-cable-29c541.jpeg" >}}
 
 "The WarmlyYours TempZone™ 3.7-Watt Floor Heating Cable allows you to bring radiant warmth to any room. TempZone™ Floor Heating Cable (Twin) is ultra-low EMF by design. It features a twin conductor with a 15’ cold lead and is available in two voltage options and a range of lengths to meet the requirements of any installation. In 120V, we offer lengths ranging from 30 to 432 linear feet . For 240V, our lengths range from 55 to 864 linear feet."
 
-### [VALSPAR RESERVE® INTERIOR PAINT + PRIMER](https://www.valspar.com/en/products/interior-paints-primers/reserve-interior-paint-primer/)
+## [VALSPAR RESERVE® INTERIOR PAINT + PRIMER](https://www.valspar.com/en/products/interior-paints-primers/reserve-interior-paint-primer/)
 
-![VALSPAR RESERVE® INTERIOR PAINT + PRIMER](/img/installationOptions/IP1529659/Valspare-Reserve-Interior-Paint-Primer.jpg)
+{{< postImage "VALSPAR RESERVE® INTERIOR PAINT + PRIMER" "/img/installationOptions/IP1529659/Valspare-Reserve-Interior-Paint-Primer.jpg" "/img/installationOptions/IP1529659/Valspare-Reserve-Interior-Paint-Primer.jpg" >}}
 
 "Valspar® Reserve® Paint + Primer is our most advanced protection with one-coat coverage for ultra-rich, fade-resistant color in a 100% acrylic formula. Enjoy a luxurious finish that provides remarkable hide and coverage, backed by a lifetime limited warranty. This Valspar product is made with our premium stain-blocking formula and has outstanding resistance against scratches, scuffs and scrubs to ensure your hard work lasts. Ideal for properly prepared interior walls, trim and ceilings or previously painted or bare drywall, plaster, masonry, wood and primed metal."
 
 ### [LG - 28" Class LED HD TV:](https://www.bestbuy.com/site/lg-28-class-led-hd-tv/6337625.p?skuId=6337625)
 
-![LG - 28" Class LED HD TV](/img/installationOptions/IP1529659/6337625_sd.jpg;maxHeight=640;maxWidth=550.jpeg)
+{{< postImage "LG - 28 Class LED HD TV" "/img/installationOptions/IP1529659/6337625_sd.jpg;maxHeight=640;maxWidth=550.jpeg" "/img/installationOptions/IP1529659/6337625_sd.jpg;maxHeight=640;maxWidth=550.jpeg" >}}
 
 * HD Display
 * HDMI
@@ -45,7 +45,7 @@ floorplans:
 
 ### [Shark Robotic Vacuum, 0.45 Quarts, Smoke:](https://www.amazon.com/gp/product/B075JRB2Z9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JRB2Z9&linkCode=as2&tag=kri05-20&linkId=de5972daa6ea76d160add9512c6e27ad)
 
-![Shark Robotic Vacuum, 0.45 Quarts, Smoke](/img/installationOptions/IP1529659/71sLIDOroVL._AC_SL1500_.jpg)
+{{< postImage "Shark Robotic Vacuum, 0.45 Quarts, Smoke" "/img/installationOptions/IP1529659/71sLIDOroVL._AC_SL1500_.jpg" "/img/installationOptions/IP1529659/71sLIDOroVL._AC_SL1500_.jpg" >}}
 
 * THREE BRUSH TYPES. ONE POWERFUL CLEAN: Tri-Brush System combines side brushes, channel brushes, and a multi-surface brushroll to handle debris on all surfaces.
 
