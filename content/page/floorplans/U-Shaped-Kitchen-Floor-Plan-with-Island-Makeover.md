@@ -37,8 +37,8 @@ floorplans:
 
 ## [Wayfair Basics® Sliding Pot Organizer Pull Out Drawer:](https://www.wayfair.com/kitchen-tabletop/pdp/wayfair-basics-sliding-pot-organizer-pull-out-drawer-w004531050.html)
 
-![Wayfair Basics® Sliding Pot Organizer Pull Out Drawer](/img/installationOptions/IP1521044-1200x774-1/Wayfair+Basics®+Sliding+Pot+Organizer+Pull+Out+Drawer.jpg)
-{{< postImage "Wayfair Basics® Sliding Pot Organizer Pull Out Drawer" "/img/installationOptions/IP1521044-1200x774-1/Wayfair+Basics®+Sliding+Pot+Organizer+Pull+Out+Drawer.jpg" "/img/installationOptions/IP1521044-1200x774-1/Wayfair+Basics®+Sliding+Pot+Organizer+Pull+Out+Drawer.jpg" >}}
+{{< postImage "Wayfair Basics® Sliding Pot Organizer Pull Out Drawer" "/img/installationOptions/IP1521044-1200x774-1/Sliding-Pot-Organizer-Pull-Out-Drawer.jpeg" "/img/installationOptions/IP1521044-1200x774-1/Sliding-Pot-Organizer-Pull-Out-Drawer.jpeg" >}}
+
 "This sliding pot organizer prevents the clutter of stacked pots, missing lids, or pots and pans being pushed to the back of your cabinet. It features steel wire dividers to customize the distance between each pot and pan, ensuring that there's enough space to hold items of all shapes and sizes. Its heavy-duty slide system rolls out on ball-bearing glides for full extension and accessibility in the kitchen, pantry, or storage area. Best of all, this organizer comes with one pair of slides and all hardware for mounting in a cabinet or on a wire shelf."
 
 ## [Kitchen Cabinets in Alabaster:](https://www.paintedbykaylapayne.com/kitchen-cabinets-in-alabaster/)

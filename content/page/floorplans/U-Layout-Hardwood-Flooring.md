@@ -31,18 +31,18 @@ floorplans:
 
 ## [Napoleon S20 Wood Burning Stove:](https://www.woodlanddirect.com/napoleon-s20-wood-burning-stove/625456.html)
 
-{{< postImage "Napoleon S20 Wood Burning Stove" "/img/installationOptions/IP1510109-R1-1/Napoleon-S20-Wood-Burnibg-Stove.jpg" "/img/installationOptions/IP1510109-R1-1/Napoleon-S20-Wood-Burnibg-Stove.jpg" >}}
+{{< postImage "Napoleon S20 Wood Burning Stove" "/img/installationOptions/IP1510109-R1-1/Napoleon-S20-Wood-Burning-Stove.jpeg" "/img/installationOptions/IP1510109-R1-1/Napoleon-S20-Wood-Burning-Stove.jpeg" >}}
 
 "A beautiful reminder of the rustic and prodigious ovens that predated modern appliances. "The Vermont Bun Baker XL Wood Cook Stove provides the answer by going beyond traditional functionality - it's also a bake oven, broiler, and cooktop, crafted using only the finest cast-iron and steel materials."
 
-## [Hickory Shaker Cabinets:](https://www.greatbuycabinets.com/rta-cabinets/kitchen-cabinets/hickory-shaker?gclid=Cj0KCQiAsbrxBRDpARIsAAnnz_OQqZY6qpS2enm5MVaBZqCkkrDeDJq-LxtGYDE28BRKBr1feZpEkcYaAnQ-EALw_wcB)
+## [Hickory Shaker Cabinets:](https://www.greatbuycabinets.com/rta-cabinets/kitchen-cabinets/hickory-shaker)
 
 {{< postImage "Hickory Shaker Cabinets" "/img/installationOptions/IP1510109-R1-1/Hickory_Shaker.jpg" "/img/installationOptions/IP1510109-R1-1/Hickory_Shaker.jpg" >}}
 
 "Simple, clean, and practical shaker style cabinets."
 
-## [Retro Mini Refrigerator:](https://www.homedepot.com/p/Galanz-7-6-cu-ft-Retro-Mini-Refrigerator-with-Dual-Door-and-True-Freezer-in-Red-BCD-215V-62H/302754338?mtc=Shopping-VF-F_Vendor-G-D29A-Multi-Multi-NA-Feed-PLA-NA-NA-MinorAppl_Minor_Appliances_Special_Buys&cm_mmc=Shopping-VF-F_Vendor-G-D29A-Multi-Multi-NA-Feed-PLA-NA-NA-MinorAppl_Minor_Appliances_Special_Buys-71700000042813121-58700005464629311-92700049831878432&gclid=Cj0KCQiAsbrxBRDpARIsAAnnz_MCKG4mnKYosv7FXApzuQlX-NIcXo96QnNKEdSA4cNxupoPV2rQqMsaAv4-EALw_wcB&gclsrc=aw.ds)
+## [Retro Mini Refrigerator:](https://www.homedepot.com/p/Galanz-7-6-cu-ft-Retro-Mini-Refrigerator-with-Dual-Door-and-True-Freezer-in-Red-BCD-215V-62H/302754338)
 
-{{< postImage "Retro Mini Refrigerator" "/img/installationOptions/IP1510109-R1-1/Retro-Mini-Refrigerator-with-dual-Door-and-True-Freezer-in-Red.jpg" "/img/installationOptions/IP1510109-R1-1/Retro-Mini-Refrigerator-with-dual-Door-and-True-Freezer-in-Red.jpg" >}}
+{{< postImage "Retro Mini Refrigerator" "/img/installationOptions/IP1510109-R1-1/Retro-Mini-Refrigerator-with-Dual-Door-and-True-Freezer-in-Red.jpeg" "/img/installationOptions/IP1510109-R1-1/Retro-Mini-Refrigerator-with-Dual-Door-and-True-Freezer-in-Red.jpeg" >}}
 
 "Galanz 7.6 cu. ft. Retro style top freezer refrigerator in red can store and keep cool snacks, beverages and more. Best of all, this mini refrigerator-freezer has the look and feel of a fabulous old days diner, but has the appeal of a modern appliance. Featuring an adjustable thermostat, separate freezer compartment, bright interior lighting and spacious, clear fruit and vegetable crisper, the unit also has removable shelf and door shelves. It is a fun and stylish addition to any kitchen, rec room or home office."

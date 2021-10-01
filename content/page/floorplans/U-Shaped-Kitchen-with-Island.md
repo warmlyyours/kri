@@ -40,9 +40,9 @@ floorplans:
 
 "Range hood cabinet, with shelf, knee bracket (Style A or B), and upright divider between doors. Cabinet acts as true storage or can be prepared for blower (not supplied). Cabinet comes with hinges. Roman arch design is standard, no options available."
 
-## [Restored Wood 8.7 in. W x 47.6 in. L Luxury Vinyl Plank Flooring:](https://www.homedepot.com/p/Lifeproof-Restored-Wood-8-7-in-W-x-47-6-in-L-Luxury-Vinyl-Plank-Flooring-20-06-sq-ft-case-I106515L/300461618?mtc=Shopping-VF-F_D23-G-D23-Multi-NA-NA-NA-PLA-NA-NA-PrioritySKUs&cm_mmc=Shopping-VF-F_D23-G-D23-Multi-NA-NA-NA-PLA-NA-NA-PrioritySKUs-71700000068271636-58700006037846793-92700054676186600&gclid=Cj0KCQjw4f35BRDBARIsAPePBHwdTo6fvSE60QCkxmPvNs8o9AHSIlzOEyRxhT-dFi_vgx5TrRD4UX4aAgi6EALw_wcB&gclsrc=aw.ds#overlay)
+## [Restored Wood 8.7 in. W x 47.6 in. L Luxury Vinyl Plank Flooring:](https://www.homedepot.com/p/Lifeproof-Restored-Wood-8-7-in-W-x-47-6-in-L-Luxury-Vinyl-Plank-Flooring-20-06-sq-ft-case-I106515L/300461618)
 
-{{< postImage "Restored Wood 8.7 in. W x 47.6 in. L Luxury Vinyl Plank Flooring" "/img/installationOptions/IP1512353-1200x899-1/restored-wood-lifeproof-vinyl-plank-flooring-i106515l-64_100.jpg" "/img/installationOptions/IP1512353-1200x899-1/restored-wood-lifeproof-vinyl-plank-flooring-i106515l-64_100.jpg" >}}
+{{< postImage "Restored Wood 8.7 in. W x 47.6 in. L Luxury Vinyl Plank Flooring" "/img/installationOptions/IP1512353-1200x899-1/Restored-Wood-8.7-in-Luxury-Vinyl-Plank.png" "/img/installationOptions/IP1512353-1200x899-1/Restored-Wood-8.7-in-Luxury-Vinyl-Plank.png" >}}
 
 - Ultra-Fresh resists the growth of mold and mildew on the flooring
 - Easy to clean - stays cleaner longer

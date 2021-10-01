@@ -29,19 +29,19 @@ floorplans:
 
 "Hard flooring surfaces can be cold underfoot any time of year, but are especially so when the weather gets cooler. Who wouldn't enjoy the comfort of a WarmlyYours radiant in-floor heating system in their home?"
 
-## [28" Top Freezer 15.6 cu. ft. Refrigerator:](https://www.wayfair.com/appliances/pdp/hotpoint-28-top-freezer-156-cu-ft-refrigerator-htpt1051.html?piid=50817318%2C50817321)
+## [28" Top Freezer 15.6 cu. ft. Refrigerator:](https://www.wayfair.com/appliances/pdp/hotpoint-28-top-freezer-156-cu-ft-refrigerator-htpt1051.html)
 
-{{< postImage "28 Top Freezer 15.6 cu. ft. Refrigerator" "/img/installationOptions/IP1529279-R1/Dash-Chef-Series-7-in-1-Convection-Toaster-Oven-Cooker.jpg" "/img/installationOptions/IP1529279-R1/Dash-Chef-Series-7-in-1-Convection-Toaster-Oven-Cooker.jpg" >}}
+{{< postImage "28 Top Freezer 15.6 cu. ft. Refrigerator" "/img/installationOptions/IP1529279-R1/28-Top-Freezer-15.6-cu-ft-Refrigerator.jpg" "/img/installationOptions/IP1529279-R1/28-Top-Freezer-15.6-cu-ft-Refrigerator.jpg" >}}
 
 "Combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand prides itself on value and never compromising on reliability."
 
-## [Dash Toaster Oven:](https://www.amazon.com/DASH-DAFT2350GBGT01-Chef-Oven-Graphite/dp/B07Y2LLMZD?ref_=ast_sto_dp&th=1&psc=1)
+## [Dash Toaster Oven:](https://amzn.to/2WwmP5I)
 
 {{< postImage "Dash Toaster Oven" "/img/installationOptions/IP1529279-R1/Dash-Chef-Series-7-in-1-Convection-Toaster-Oven-Cooker.jpg" "/img/installationOptions/IP1529279-R1/Dash-Chef-Series-7-in-1-Convection-Toaster-Oven-Cooker.jpg" >}}
 
 "7 in 1 APPLIANCE: Air Fry, Bake, Broil, Toast with browning levels from light to dark, Warm (up to 450°), Convection Bake, and Rotisserie, all in a single appliance, making mealtime more efficient and taking up less space on your countertop or cupboards."
 
-## [Whirlpool 0.5 cu. ft. Countertop Microwave in White:](https://www.homedepot.com/p/Whirlpool-0-5-cu-ft-Countertop-Microwave-in-White-WMC20005YW/203624141?mtc=Shopping-B-F_Brand-G-Multi-NA-Multi-NA-Feed-PLA-NA-NA-Catchall_PLA&cm_mmc=Shopping-B-F_Brand-G-Multi-NA-Multi-NA-Feed-PLA-NA-NA-Catchall_PLA-71700000014585962-58700001236285396-92700052972852941&gclid=CjwKCAjw4MP5BRBtEiwASfwAL83SwLIzWmCjMIXGGzUfOUOSe15La2312yDevpade4mQOPs2lso9EhoCVPMQAvD_BwE&gclsrc=aw.ds&=&irgwc=1&cm_mmc=afl-ir-490947-456723-HGTV&clickid=QPA0JbXKjxyLRVzXvhRCNXxOUkBUz4yYeQsdyM0)
+## [Whirlpool 0.5 cu. ft. Countertop Microwave in White:](https://www.homedepot.com/p/Whirlpool-0-5-cu-ft-Countertop-Microwave-in-White-WMC20005YW/203624141)
 
 {{< postImage "Whirlpool 0.5 cu. ft. Countertop Microwave in White" "/img/installationOptions/IP1529279-R1/Whirlpool-0.5-cu.-ft.-Countertop-Microwave-in-White.png" "/img/installationOptions/IP1529279-R1/Whirlpool-0.5-cu.-ft.-Countertop-Microwave-in-White.png" >}}
 

@@ -35,13 +35,13 @@ floorplans:
 
 "The Rotunda Suite hardware line is inspired by the The Rotunda, the iconic cylindrical high-rise building in Birmingham, England. Machined of solid brass, these Rotunda pulls are available in 7 finishes and come supplied with all fasteners needed for installation."
 
-## [Alena Nailhead Extendable Dining Table:](https://www.wayfair.com/furniture/pdp/one-allium-way-alena-nailhead-extendable-dining-table-onaw6124.html)
+## [Tiphaine Extendable Dining Table:](https://www.wayfair.com/furniture/pdp/kelly-clarkson-home-tiphaine-extendable-dining-table-w003400294.html)
 
-{{< postImage "Alena Nailhead Extendable Dining Table" "/img/installationOptions/IP1513684-R4-1200x899-1/Alena+Extendable+Dining+Table.jpg" "/img/installationOptions/IP1513684-R4-1200x899-1/Alena+Extendable+Dining+Table.jpg" >}}
+{{< postImage "Tiphaine Extendable Dining Table" "/img/installationOptions/IP1513684-R4-1200x899-1/Tiphaine-Extendable-Dining-Table.jpeg" "/img/installationOptions/IP1513684-R4-1200x899-1/Tiphaine-Extendable-Dining-Table.jpeg" >}}
 
-"This Nailhead Extendable Dining Table brings a rustic-yet-refined charm to all your meals. The rubberwood construction will not expand and contract with varying temperatures and provides superior strength and durability. The curved sturdy base gives the table strong support and made it a long-lasting piece. Driftwood-finished accents and nailhead trim add a rustic touch and the table comes complete with 18" wide extension leaf which makes room for 8 people."
+"This Tiphaine Extendable Dining Table is just the anchor that your dining room needs. Equipped with a leaf, it's the perfect pick for a cozy family gathering, and can be extended to accommodate friends for a dinner party. Perched atop four legs with fluted and turned detailing, this rectangular table brings traditional appeal to your dining room. It's made from a blend of solid and engineered wood and features a two-tone antiqued white and nutmeg finish for cottage appeal. Hand-curated by Kelly Clarkson."
 
-## [Modular Banquette Set (3 Benches Set, 1 Corner), Small, Weathered Gray:](https://www.potterybarn.com/products/modular-banquette-set-gray/?catalogId=84&sku=3758013&cm_ven=PLA&cm_cat=Google&cm_pla=Furniture%20%3E%20Dining%20Benches%20%26%20Banquettes&cm_ite=3758013&gclid=Cj0KCQjw4f35BRDBARIsAPePBHzSgQHy_oWxGEVfgG06SvKUldrmyzDvtzvUugJKFO06yAxFLFwz2FAaAiuBEALw_wcB&cm_sp=isNotBestSeller)
+## [Modular Banquette Set (3 Benches Set, 1 Corner), Small, Weathered Gray:](https://www.potterybarn.com/products/modular-banquette-set-gray/)
 
 {{< postImage "Modular Banquette Set (3 Benches Set, 1 Corner), Small, Weathered Gray" "/img/installationOptions/IP1513684-R4-1200x899-1/img11z.jpg" "/img/installationOptions/IP1513684-R4-1200x899-1/img11z.jpg" >}}
 

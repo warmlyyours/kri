@@ -29,7 +29,7 @@ floorplans:
 
 "Add radiant warmth to your tile and stone floors with WarmlyYours TempZone™ Flex Rolls. These 240 VAC floor heating rolls feature a 1/8" TempZone™ heating cable, affixed to a mesh fabric backing in a serpentine pattern to evenly distribute heat across the floor." 
 
-## [Contempra KitchenCraft Cabinetry:](https://www.kitchencraft.com/products/contempra?prod={535C1A5A-C76D-473A-9FED-2E7207373282})
+## [Contempra KitchenCraft Cabinetry:](https://www.kitchencraft.com/products/contempra)
 
 {{< postImage "Contempra KitchenCraft Cabinetry" "/img/installationOptions/IP1529457/contempra_melamine_cabinet_door_white.jpg" "/img/installationOptions/IP1529457/contempra_melamine_cabinet_door_white.jpg" >}}
 
@@ -41,8 +41,8 @@ floorplans:
 
 "This 29-inch Wide Amana® Bottom-Freezer Refrigerator features an EasyFreezer™ Pull-Out Drawer that opens and closes smoothly, even when fully loaded. Store meats and cheeses in the Deli Drawer to make your favorite go-to sandwich. And you'll know where all your frozen treats are at a glance with our Glide-Out Lower Freezer Basket and Quick Split™ Organizer."
 
-## [Moen S75005EVC Nio U by Moen Smart Pulldown Kitchen Faucet with Voice Control and MotionSense, Chrome:](https://www.amazon.com/Moen-S75005EVC-Pulldown-Kitchen-MotionSense/dp/B083XM3YBX/ref=sr_1_4_sspa?dchild=1&keywords=Pull-Out+Faucets&qid=1614641497&sr=8-4-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYSEJXR0hBRDczT1omZW5jcnlwdGVkSWQ9QTAzMDE1NDcxS0VNNUo3QUlTTklLJmVuY3J5cHRlZEFkSWQ9QTA4NTE0NzFRMUtEVzVQM0JDNjYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+## [Moen S75005EVC Nio U by Moen Smart Pulldown Kitchen Faucet with Voice Control and MotionSense, Chrome:](https://amzn.to/3A1incW)
 
-{{< postImage "Moen S75005EVC Nio U by Moen Smart Pulldown Kitchen Faucet with Voice Control and MotionSense, Chrome" "/img/installationOptions/IP1529457/61GOZQzIWsL._AC_SL1500_.jpg" "/img/installationOptions/IP1529457/61GOZQzIWsL._AC_SL1500_.jpg" >}}
+{{< postImage "Moen S75005EVC Nio U by Moen Smart Pulldown Kitchen Faucet with Voice Control and MotionSense" "/img/installationOptions/IP1529457/Moen-Smart-Pulldown-Kitchen-Faucet-with-Voice-Control-and-MotionSense.jpg" "/img/installationOptions/IP1529457/Moen-Smart-Pulldown-Kitchen-Faucet-with-Voice-Control-and-MotionSense.jpg" >}}
 
 "The U by Moen Smart Faucet technology is made to make everyday interactions in the kitchen more convenient. From precise temperature and exact measurement to faucet operation from any one of four controls, Moen has taken the kitchen faucet to the next level. The U by Moen Smart Faucet is the only voice-activated kitchen faucet on the commercial market to offer voice-and hands-free activation regardless of the faucet’s manual handle position. The Nio faucet features an architectural stature that balances perfectly with a soft modern style. For customization, a secondary finish handle option is included in the box."

@@ -31,7 +31,7 @@ floorplans:
 
 ## [48 Inch Built-in Side by Side Refrigerator with Plasmacluster Air Purifier, ProChill Management:](https://www.ajmadison.com/cgi-bin/ajmadison/FDSB5483.html)
 
-{{< postImage "48 Inch Built-in Side by Side Refrigerator with Plasmacluster Air Purifier, ProChill Management" "/img/installationOptions/IP1520259-1200x1043-1/vcsb5483_panel_front_view.jpg" "/img/installationOptions/IP1520259-1200x1043-1/vcsb5483_panel_front_view.jpg" >}}
+{{< postImage "48 Inch Built-in Side by Side Refrigerator with Plasmacluster Air Purifier, ProChill Management" "/img/installationOptions/IP1520259-1200x1043-1/vcsb5483_panel_front_view.jpeg" "/img/installationOptions/IP1520259-1200x1043-1/vcsb5483_panel_front_view.jpeg" >}}
 
 "Keep your food fresher longer with this professional-quality refrigerator from Viking. Spillproof Plus shelves with Nano technology create an invisible barrier to contain spills. Adjustable Humidity Zone drawers allow you to independently control humidity so that your produce stays fresh and delicious. The PlasmaCluster Ion Air Purifier actively eliminates airborne bacteria and mold spores and removes odors to prevent odor transfer. The ProChill Temperature Management System includes the Variable Speed DC Overdrive Compressor, one of the quietest and most technologically advanced compressors available - with normal use it will never need replacing."
 

@@ -29,9 +29,9 @@ floorplans:
 
 "WarmlyYours TempZone™ Floor Heating Cable (Twin) brings radiant warmth and comfort to any room. This free-form cable provides the ultimate in flexibility, making it easy to customize installation for rooms of any size and shape. While ideally suited to provide complete floor heating coverage of rooms with unusual dimensions, the TempZone™ Floor Heating Cable (Twin) can be used in any room, providing an alternative for installers who prefer the flexibility and freedom of working with loose cable. TempZone™ Floor Heating Cable (Twin) is ultra-low EMF by design. It features a twin conductor with a 15’ cold lead and is available in two voltage options and a range of lengths to meet the requirements of any installation. WarmlyYours TempZone™ Floor Heating Cable (Twin) can be installed at 3” or 4” intervals." 
 
-## [270-KTHPTF003-BN Zenvida Pot Filler:](https://www.wayfair.com/home-improvement/pdp/zenvida-pot-filler-zzyz1062.html?piid=)
+## [D205058 Parma Wall Mount Pot Filler:](https://www.wayfair.com/home-improvement/pdp/gerber-parma-wall-mount-pot-filler-dnz3655.html)
 
-{{< postImage "270-KTHPTF003-BN Zenvida Pot Filler" "/img/installationOptions/IP1511048-scaled/Zenvida+Pot+Filler.jpg" "/img/installationOptions/IP1511048-scaled/Zenvida+Pot+Filler.jpg" >}}
+{{< postImage "D205058 Parma Wall Mount Pot Filler" "/img/installationOptions/IP1511048-scaled/Parma-Wall-Mount-Pot-Filler.jpeg" "/img/installationOptions/IP1511048-scaled/Parma-Wall-Mount-Pot-Filler.jpeg" >}}
 
 "This pot filler will instantly upgrade your kitchen. Its design combines form and all-in-one function in a traditional style package. The faucet's retractable arm is the perfect height to quickly fill pots. Comfortable ergonomic design with two convenient on-off handles for easy control and operation over sink or stove. Regulate the flow volume with just your fingertip. Both swivel joints rotate 360 degrees and supply a full range of water access. The finish is beautiful and simple to keep clean and stain-free. Space-saving modern design folds when not in use. The single hole set up for easy installation, the cover plate is included. Stylish and functional products for the modern home and garden."
 

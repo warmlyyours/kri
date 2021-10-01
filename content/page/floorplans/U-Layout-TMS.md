@@ -29,20 +29,20 @@ floorplans:
 
 "Hard flooring surfaces can be cold underfoot any time of year, but are especially so when the weather gets cooler. Who wouldn't enjoy the comfort of a WarmlyYours radiant in-floor heating system in their home?""
 
-## [Kirsten Bar & Counter Swivel Stool:](https://www.wayfair.com/furniture/pdp/union-rustic-kirsten-bar-counter-swivel-stool-unrs5007.html?piid=24542865%2C35937953%2C41723327)
+## [Ikeda Swivel Counter & Bar Stool:](https://www.wayfair.com/furniture/pdp/lark-manor-ikeda-swivel-counter-bar-stool-w001194848.html)
 
-{{< postImage "Kirsten Bar & Counter Swivel Stool" "/img/installationOptions/IP1510374/Kirsten+Swivel+Bar+&+Counter+Stool.jpg" "/img/installationOptions/IP1510374/Kirsten+Swivel+Bar+&+Counter+Stool.jpg" >}}
+{{< postImage "Ikeda Swivel Counter & Bar Stool" "/img/installationOptions/IP1510374/Ikeda-Swivel-Counter-Bar-Stool.jpeg" "/img/installationOptions/IP1510374/Ikeda-Swivel-Counter-Bar-Stool.jpeg" >}}
 
-"Industrial design is all about reclaiming the past, but adding a bohemian flair to a contemporary style. This stool captures the design trend with exposed screws and a worn-in look, putting unfinished metal, aged wood, and natural materials on display and playing with them in a fresh new way."
+"The padded round seat and built-in footrest provide comfort and support, and the slightly-curved four-point frame offers sturdy dependability. You can place this round faux-leather barstool anywhere from your kitchen to your den — wherever you use it, you'll appreciate the refined comfort you've added to your home."
 
 ## [Perrin and Rowe Bridge Kitchen Faucet in Polished Chrome:](https://www.houzz.com/products/perrin-and-rowe-bridge-kitchen-faucet-in-polished-chrome-prvw-vr~68244843)
 
-{{< postImage "Perrin and Rowe Bridge Kitchen Faucet in Polished Chrome" "/img/installationOptions/IP1510374/Perrin-and-Rowe-Bridge-Kitchen-Faucet-in-Polished-Chrome.jpg" "/img/installationOptions/IP1510374/Perrin-and-Rowe-Bridge-Kitchen-Faucet-in-Polished-Chrome.jpg" >}}
+{{< postImage "Perrin and Rowe Bridge Kitchen Faucet in Polished Chrome" "/img/installationOptions/IP1510374/Perrin-and-Rowe-Bridge-Kitchen-Faucet-Polished-Chrome.png" "/img/installationOptions/IP1510374/Perrin-and-Rowe-Bridge-Kitchen-Faucet-Polished-Chrome.png" >}}
 
 "Rohl's Perrin and Rowe collection provides the opportunity to showcase the Victorian theme throughout the home. Design elements like ample scrolling and generously arced spouts define the Victorian theme, augmented by solid brass construction and a wide variety of finish options. Rohl's Perrin and Rowe collection features stylish and high-quality faucets for the kitchen and bathroom, allowing you to carry the theme from room to room."
 
 ## [White Mystery Marble Countertops:](https://www.msisurfaces.com/marble/mystery-white/)
 
-{{< postImage "White Mystery Marble Countertops" "/img/installationOptions/IP1510374/White-Mystery-Marble-Countertops.jpg" "/img/installationOptions/IP1510374/White-Mystery-Marble-Countertops.jpg" >}}
+{{< postImage "White Mystery Marble Countertops" "/img/installationOptions/IP1510374/White-Myster-Marble-Countertops.png" "/img/installationOptions/IP1510374/White-Myster-Marble-Countertops.png" >}}
 
 "Mystery White marble form Namibia is a solid white elegant polished slab marble available in both 2CM and 3CM thicknesses. Use this beautiful natural stone to create stunning marble countertops, kitchen islands, accent walls, marble tile floors, and backsplashes throughout commercial and residential properties where a subtle elegance is desired."

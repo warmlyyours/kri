@@ -37,7 +37,7 @@ floorplans:
 
 ## [Kaitlynn 2-Light Kitchen Island Geometric LED Pendant:](https://www.allmodern.com/lighting/pdp/kaitlynn-2-light-kitchen-island-geometric-led-pendant-a000808604.html)
 
-{{< postImage "Kaitlynn 2-Light Kitchen Island Geometric LED Pendant" "/img/installationOptions/IP1514745/Fenn+3+-+Light+Kitchen+Island+Geometric+Pendant.jpg" "/img/installationOptions/IP1514745/Fenn+3+-+Light+Kitchen+Island+Geometric+Pendant.jpg" >}}
+{{< postImage "Kaitlynn 2-Light Kitchen Island Geometric LED Pendant" "/img/installationOptions/IP1514745/Fenn3-Light-Kitchen-Island-Geometric-Pendant.jpeg" "/img/installationOptions/IP1514745/Fenn3-Light-Kitchen-Island-Geometric-Pendant.jpeg" >}}
 
 "Introduce some mid-century modern vibes above your kitchen island (or literally wherever) with this pendant light. Two open rectangles decorate and support the long horizontal integrated LED light that hangs from adjustable downrods. Made from metal, this light can be installed on a sloped ceiling and is damp-listed, so you can add it to your bathroom decor. Plus it's compatible with a dimmer switch, so you'll have the right amount of light for any time of day."
 

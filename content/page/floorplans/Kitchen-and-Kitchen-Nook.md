@@ -31,18 +31,18 @@ floorplans:
 
 ## [Sylvan Extendable Dining Table:](https://www.wayfair.com/furniture/pdp/kelly-clarkson-home-sylvan-extendable-dining-table-w002844616.html)
 
-{{< postImage "Sylvan Extendable Dining Table" "/img/installationOptions/IP1494186/Sylvan+Extendable+Dining+Table.jpg" "/img/installationOptions/IP1494186/Sylvan+Extendable+Dining+Table.jpg" >}}
+{{< postImage "Sylvan Extendable Dining Table" "/img/installationOptions/IP1494186/Sylvan-Dining-Table.jpeg" "/img/installationOptions/IP1494186/Sylvan-Dining-Table.jpeg" >}}
 
 "Dining tables are the focal point in every home, giving you a place to gather with your friends and family to enjoy a home-cooked meal (or, let’s be real, pizza). This rectangular dining table is crafted from a blend of solid poplar wood and veneers, and showcases a distressed white finish for a rustic touch. Paired with turned legs, this table is perfect for adding French country appeal to your dining room. A removable leaf extends this 66'' W table to 84'' W, so it can comfortably seat up to eight."
 
 ## [Endeavors Wall Tile:](https://www.daltile.com/product/Endeavors)
 
-{{< postImage "Endeavors Wall Tile" "/img/installationOptions/IP1494186/Endeavors-Wall-Tile.jpg" "/img/installationOptions/IP1494186/Endeavors-Wall-Tile.jpg" >}}
+{{< postImage "Endeavors Wall Tile" "/img/installationOptions/IP1494186/Endeavors-Backsplash.png" "/img/installationOptions/IP1494186/Endeavors-Backsplash.png" >}}
 
 "Beautiful blends in linear mosaics define the Endeavors series. Backsplashes and feature walls make a statements when covered with this contemporary look. 5/8 inch random mosaic comes on sheets that allow for easy, interlocking installation."
 
 ## [Countertop Heaters:](https://www.warmlyyours.com/en-US/countertop-heater)
 
-{{< postImage "Countertop Heaters" "/img/installationOptions/warmlyYours/WarmlyYours-Countertop-Heating.jpg" "/img/installationOptions/warmlyYours/WarmlyYours-Countertop-Heating.jpg" >}}
+{{< postImage "Countertop Heaters" "/img/installationOptions/warmlyYours/countertop-heaters.png" "/img/installationOptions/warmlyYours/countertop-heaters.png" >}}
 
 "Cozy up to the bar with WarmlyYours FeelsWarm® Countertop Heaters. These versatile radiant heating elements adhere to the underside of the countertop, gently raising the temperature of the heated area an additional 20-25 degrees Fahrenheit, taking the chilly edge off of granite, marble, quartz, and other stone surfaces wherever you gather for work or play. The ultra-slim profile of our electric radiant countertop heaters makes them virtually invisible, discreetly adding a new level of luxuriant comfort to your home or business."
