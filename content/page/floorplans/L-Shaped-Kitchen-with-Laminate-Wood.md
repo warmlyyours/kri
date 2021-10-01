@@ -39,9 +39,8 @@ floorplans:
 
 - Get automatically adjusted cook times with sensor cooking
 
-## [Waterhog™ Carpet Mat - 3 x 8', Charcoal:](https://www.amazon.com/Waterhog-Classic-Entrance-Mats-Charcoal/dp/B001UYY1B4)
+## [Waterhog™ Carpet Mat - 3 x 8', Charcoal:](https://amzn.to/3kXmen4)
 
-![Waterhog™ Carpet Mat - 3 x 8', Charcoal](/img/installationOptions/IP1512364-1200x899-2/Waterhog-Carpet-Mat-3-X-8-Charcoal.jpg)
 {{< postImage "Waterhog™ Carpet Mat - 3 x 8, Charcoal" "/img/installationOptions/IP1512364-1200x899-2/Waterhog-Carpet-Mat-3-X-8-Charcoal.jpg" "/img/installationOptions/IP1512364-1200x899-2/Waterhog-Carpet-Mat-3-X-8-Charcoal.jpg" >}}
 "Soak up snow, water and ice quickly. End wet, slippery floors."
 

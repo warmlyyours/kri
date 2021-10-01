@@ -43,9 +43,9 @@ floorplans:
 * HDMI
 * LED Backlighting
 
-### [Shark Robotic Vacuum, 0.45 Quarts, Smoke:](https://www.amazon.com/gp/product/B075JRB2Z9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JRB2Z9&linkCode=as2&tag=kri05-20&linkId=de5972daa6ea76d160add9512c6e27ad)
+### [Shark Robotic Vacuum, 0.45 Quarts, Smoke:](https://amzn.to/3imECUQ)
 
-{{< postImage "Shark Robotic Vacuum, 0.45 Quarts, Smoke" "/img/installationOptions/IP1529659/71sLIDOroVL._AC_SL1500_.jpg" "/img/installationOptions/IP1529659/71sLIDOroVL._AC_SL1500_.jpg" >}}
+{{< postImage "Shark Robotic Vacuum, 0.45 Quarts, Smoke" "/img/installationOptions/IP1529659/Shark-Robotic-Vacuum.jpg" "/img/installationOptions/IP1529659/Shark-Robotic-Vacuum.jpg" >}}
 
 * THREE BRUSH TYPES. ONE POWERFUL CLEAN: Tri-Brush System combines side brushes, channel brushes, and a multi-surface brushroll to handle debris on all surfaces.
 

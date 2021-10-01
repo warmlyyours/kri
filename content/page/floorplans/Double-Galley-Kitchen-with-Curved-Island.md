@@ -29,7 +29,7 @@ floorplans:
 
 "Hard flooring surfaces can be cold underfoot any time of year, but are especially so when the weather gets cooler. Who wouldn't enjoy the comfort of a WarmlyYours radiant in-floor heating system in their home?"
 
-## [Nexpo 8-Light Brushed Nickel Chandelier with Clear Glass Shade:](https://www.amazon.com/Kovacs-P1365-619-Pendant-8-Light-Brushed/dp/B07BB71FTK)
+## [Nexpo 8-Light Brushed Nickel Chandelier with Clear Glass Shade:](https://amzn.to/3Fc6lkQ)
 
 {{< postImage "Nexpo 8-Light Brushed Nickel Chandelier with Clear Glass Shade" "/img/installationOptions/IP1512218-R2-1200x899-1/brushed-nickel-george-kovacs-chandeliers-p1368-619-64_600.jpg" "/img/installationOptions/IP1512218-R2-1200x899-1/brushed-nickel-george-kovacs-chandeliers-p1368-619-64_600.jpg" >}}
 
@@ -37,7 +37,7 @@ floorplans:
 
 ## [AMEROCK ABP54025SS "BAR PULLS" APPLIANCE PULL:](https://www.fergusonshowrooms.com/product/Amerock--Stainless-Steel-681940?Ns=AvailabilitySort%7C0%7C%7CPrimary_Finish%7C1%7C%7CSort_Order%7C1&N=101+74+3000728)
 
-{{< postImage "AMEROCK ABP54025SS BAR PULLS APPLIANCE PULL" "/img/installationOptions/IP1512218-R2-1200x899-1/AMEROCK-ABP54025SS-"BAR-PULLS"-APPLIANCE-PULL.jpg" "/img/installationOptions/IP1512218-R2-1200x899-1/AMEROCK-ABP54025SS-"BAR-PULLS"-APPLIANCE-PULL.jpg" >}}
+{{< postImage "AMEROCK ABP54025SS BAR PULLS APPLIANCE PULL" "/img/installationOptions/IP1512218-R2-1200x899-1/Amerock-Bar-Pulls-18-Inch-Center-to-Center-Appliance-Pull.png" "/img/installationOptions/IP1512218-R2-1200x899-1/Amerock-Bar-Pulls-18-Inch-Center-to-Center-Appliance-Pull.png" >}}
 
 - Constructed of high quality steel for lasting durability
 - Coordinates with other items from the Bar Pulls series

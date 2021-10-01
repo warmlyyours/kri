@@ -31,9 +31,9 @@ floorplans:
 
 Now this classic floor heating product is even more versatile because you can pair it with the Prodeso Cable Installation Membrane, an uncoupling and crack isolation membrane with rounded square-shaped reliefs. The membrane’s unique design allows quick and easy installation – in and out in one day, flexibility to adjust to any room size and requires no waiting. This polypropylene membrane also allows you to waterproof your subfloor when you use ProBand accessories, available from WarmlyYours.”
 
-## [Sauder 419188 Storage Cabinet:](https://www.amazon.com/Sauder-Storage-Cabinet-Highland-Finish/dp/B01M0EW6RB?ref_=Oct_s9_apbd_otopr_hd_bw_bk62Ud&pf_rd_r=19SYGFYJM2TWRYRJ5BYJ&pf_rd_p=4bb4f601-a5d9-5f54-b685-b693cffe7905&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=681151011)
+## [Sauder 419188 Storage Cabinet:](https://amzn.to/3B7qohO)
 
-{{< postImage "Sauder Storage Cabinet" "/img/installationOptions/IP1519351/71+E3208P1L._AC_SY879_.jpg" "/img/installationOptions/IP1519351/71+E3208P1L._AC_SY879_.jpg" >}}
+{{< postImage "Sauder Storage Cabinet" "/img/installationOptions/IP1519351/Sauder-Storage-Cabinet.jpg" "/img/installationOptions/IP1519351/Sauder-Storage-Cabinet.jpg" >}}
 
 - Your purchase includes One Sauder Miscellaneous Storage Cabinet in Highland Oak color | 419496 model
 - Cabinet dimensions: 16.02” W x 29.61″ D x 71.5″ H | Cartons – 1 | Carton dimensions – 77” L x 18” W x 6” H | Top/bottom shelves weight limit – 50 lbs. | Adjustable shelves weight limit – 25 lbs. | Please refer to product pictures for an overview of this product’s dimensions

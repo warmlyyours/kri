@@ -47,9 +47,9 @@ floorplans:
 
 - Bright LED Lighting makes it easy to see what’s inside
 
-## [Cuisinart DCC-T20 14-Cup Programmable Coffeemaker Touchscreen, Black:](https://www.amazon.com/dp/B084F42G2X?tag=dprmdexapli-20&linkCode=osi&th=1&psc=1)
+## [Cuisinart DCC-T20 14-Cup Programmable Coffeemaker Touchscreen, Black:](https://amzn.to/2WB9IAm)
 
-{{< postImage "Cuisinart DCC-T20 14-Cup Programmable Coffeemaker Touchscreen, Black" "/img/installationOptions/IP1530670/71EujC6L0uL._AC_SL1500_.jpg" "/img/installationOptions/IP1530670/71EujC6L0uL._AC_SL1500_.jpg" >}}
+{{< postImage "Cuisinart DCC-T20 14-Cup Programmable Coffeemaker Touchscreen, Black" "/img/installationOptions/IP1530670/Cuisiniart-DCC-T20-14-Cup-Programmable-Coffeemaker-Touchscreen.jpg" "/img/installationOptions/IP1530670/Cuisiniart-DCC-T20-14-Cup-Programmable-Coffeemaker-Touchscreen.jpg" >}}
 
 "Cuisinart launches its new T Series line with a coffeemaker that is going to change the dynamic of today’s kitchen. Intuitive touchscreen controls let coffee lovers tap icons to choose start time, shutoff time, number of cups, and strength settings. When the coffeemaker is not in use, the LCD screen goes to sleep – creating an ultra-sleek look in your kitchen. Simply touch the power icon to wake up the screen when you are ready to brew! With PerfecTemp Technology,This premium coffeemaker even brews hotter, and has two filters that protect the rich coffee flavor. Its superb coffee and a brand new look kitchens are going to love!"
 

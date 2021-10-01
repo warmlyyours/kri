@@ -29,9 +29,9 @@ floorplans:
 
 "Hard flooring surfaces can be cold underfoot any time of year, but are especially so when the weather gets cooler. Who wouldn't enjoy the comfort of a WarmlyYours radiant in-floor heating system in their home?"
 
-## [Kunmai Single Handle Brass Kitchen Sink Faucet:](https://www.amazon.com/Swirling-Dual-Mode-Pull-Down-Kitchen-Porcelain/dp/B0771QJKVN?th=1)
+## [Kunmai Single Handle Brass Kitchen Sink Faucet:](https://amzn.to/39ZxM2J)
 
-{{< postImage "Kunmai Single Handle Brass Kitchen Sink Faucet" "/img/installationOptions/IP1510607-2/716vpZF2oeL._AC_SL1000_.jpg" "/img/installationOptions/IP1510607-2/716vpZF2oeL._AC_SL1000_.jpg" >}}
+{{< postImage "Kunmai Single Handle Brass Kitchen Sink Faucet" "/img/installationOptions/IP1510607-2/Kunmai-Single-Handle-Brass-Kitchen-Sink-Faucet.jpg" "/img/installationOptions/IP1510607-2/Kunmai-Single-Handle-Brass-Kitchen-Sink-Faucet.jpg" >}}
 
 - Dual-Function Sprayer: Two spray modes allow you easily switch between powerful pre-rinse spray and splash-free aerated stream at the switch button on the side of the nozzle.
 - Gooseneck Design: High-arc,360-degree swiveling spout design allows enough room and greater access for different tasks.

@@ -25,8 +25,7 @@ floorplans:
 
 ## [Tempzone Flex Rolls:](https://www.warmlyyours.com/en-US/products/line/floor-heating-tempzone-flex-roll?referral_code=KRICOM)
 
-![Tempzone Flex Rolls](/img/installationOptions/warmlyYours/tempzone-flex-roll-f1fd46.jpeg)
-{{< postImage "Large Kitchen Floor Plan and Nook" "/img/floorPlans/IP1519480-R2.jpg" "/img/floorPlans/IP1519480-R2.jpg" >}}
+{{< postImage "Tempzone Flex Rolls" "/img/installationOptions/warmlyYours/tempzone-flex-roll-f1fd46.jpeg" "/img/installationOptions/warmlyYours/tempzone-flex-roll-f1fd46.jpeg" >}}
 "Hard flooring surfaces can be cold underfoot any time of year, but are especially so when the weather gets cooler. Who wouldn't enjoy the comfort of a WarmlyYours radiant in-floor heating system in their home?"
 
 ## [Insignia™ - 22" Class - LED - 1080p - HDTV:](https://www.bestbuy.com/site/insignia-22-class-led-1080p-hdtv/6260936.p?skuId=6260936)
@@ -35,7 +34,7 @@ floorplans:
 
 "Enjoy increased clarity when watching your favorite shows on this 22-inch Insignia TV. The LED screen boosts color accuracy while providing a crisp HD viewing experience, and the 60Hz refresh rate maintains consistent frames to keep you immersed in scenes. This Insignia TV has two HDMI slots and a USB port for gaming consoles, DVD players and streaming devices."
 
-## [CARF Series 25W 4-Light LED Fixed Rail Light in Satin Nickel:](https://www.amazon.com/AFX-Lighting-4-Light-Fixed-Nickel/dp/B08CZ57MBP)
+## [CARF Series 25W 4-Light LED Fixed Rail Light in Satin Nickel:](https://www.ferguson.com/product/afx-carf-series-25w-4-light-led-fixed-rail-light-in-satin-nickel-acarf4400l30sn/_/R-7376973)
 
 {{< postImage "CARF Series 25W 4-Light LED Fixed Rail Light in Satin Nickel" "/img/installationOptions/IP1511950-1200x899-1/CARF-Series-25W-4-Light-LED-Fixed-Rail-Light-in-Satin-Nickel.jpg" "/img/installationOptions/IP1511950-1200x899-1/CARF-Series-25W-4-Light-LED-Fixed-Rail-Light-in-Satin-Nickel.jpg" >}}
 

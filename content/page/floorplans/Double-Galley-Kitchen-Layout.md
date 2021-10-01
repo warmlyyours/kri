@@ -30,9 +30,9 @@ floorplans:
 
 "Hard flooring surfaces can be cold underfoot any time of year, but are especially so when the weather gets cooler. Who wouldn't enjoy the comfort of a WarmlyYours radiant in-floor heating system in their home?"
 
-## [BCM8450UC 24 UL Listed Built-In Coffee Machine with 12 Modes Adjustable Cup Sizes:](https://www.amazon.com/dp/B01LXS2WTU?tag=espressomachinesite-20&linkCode=ogi&th=1&psc=1)
+## [BCM8450UC 24 UL Listed Built-In Coffee Machine with 12 Modes Adjustable Cup Sizes:](https://amzn.to/3mgcpju)
 
-{{< postImage "BCM8450UC 24 UL Listed Built-In Coffee Machine with 12 Modes Adjustable Cup Sizes" "/img/installationOptions/IP1515306-1200x899-1/61OJN4XJUCL._AC_SL1100_.jpg" "/img/installationOptions/IP1515306-1200x899-1/61OJN4XJUCL._AC_SL1100_.jpg" >}}
+{{< postImage "BCM8450UC 24 UL Listed Built-In Coffee Machine with 12 Modes Adjustable Cup Sizes" "/img/installationOptions/IP1515306-1200x899-1/UL-Listed-Built-In-Coffee-Machine.jpg" "/img/installationOptions/IP1515306-1200x899-1/UL-Listed-Built-In-Coffee-Machine.jpg" >}}
 
 "The 24 UL Listed Built-In Coffee Machinefrom Bosch will be the best addition to your kitchen The coffee machine features 12 Modes Adjustable Cup Sizes Consistent Brewing Temperature Personalized Beverages Home Connect Child-Proof Lock and Milk Container."
 

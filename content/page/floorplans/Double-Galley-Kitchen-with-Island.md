@@ -29,15 +29,15 @@ floorplans:
 
 "The WarmlyYours TempZone™ 3.7-Watt Floor Heating Cable allows you to bring radiant warmth to any room. TempZone™ Floor Heating Cable (Twin) is ultra-low EMF by design. It features a twin conductor with a 15’ cold lead and is available in two voltage options and a range of lengths to meet the requirements of any installation. In 120V, we offer lengths ranging from 30 to 432 linear feet . For 240V, our lengths range from 55 to 864 linear feet."
 
-## [Delta Faucet Trinsic Single-Handle Bar-Prep Kitchen Sink Faucet with Pull Down Sprayer and Magnetic Docking Spray Head, Arctic Stainless 9959-AR-DST:](https://www.amazon.com/9959-AR-DST-Single-Handle-Pull-Down-Stainless/dp/B0050EN94K/ref=sr_1_9?dchild=1&keywords=Single-Handle+Faucets&qid=1625760179&sr=8-9)
+## [Delta Faucet Trinsic Single-Handle Bar-Prep Kitchen Sink Faucet with Pull Down Sprayer and Magnetic Docking Spray Head, Arctic Stainless 9959-AR-DST:](https://amzn.to/3uyZLjb)
 
-{{< postImage "Delta Faucet Trinsic Single-Handle Bar-Prep Kitchen Sink Faucet with Pull Down Sprayer and Magnetic Docking Spray Head, Arctic Stainless 9959-AR-DST" "/img/installationOptions/IP1529868-R1/61mlu8vwcKL._AC_SL1500_.jpg" "/img/installationOptions/IP1529868-R1/61mlu8vwcKL._AC_SL1500_.jpg" >}}
+{{< postImage "Delta Faucet Trinsic Single-Handle Bar-Prep Kitchen Sink Faucet with Pull Down Sprayer and Magnetic Docking Spray Head, Arctic Stainless 9959-AR-DST" "/img/installationOptions/IP1529868-R1/Delta-Faucet-Trinsic-Single-Handle-Bar-Prep.jpg" "/img/installationOptions/IP1529868-R1/Delta-Faucet-Trinsic-Single-Handle-Bar-Prep.jpg" >}}
 
 "Delta MagnaTite Docking uses a powerful integrated magnet to set your pull down sprayer precisely into place and hold it there so it stays docked when not in use. Delta kitchen faucets with DIAMOND Seal Technology perform like new for life with a patented design which reduces leak points, is less hassle to install and lasts twice as long as the industry standard*. Kitchen sink faucets with Touch-Clean Spray Holes allow you to easily wipe away calcium and lime build-up with the touch of a finger. You can install with confidence, knowing that Delta kitchen faucets are backed by our Lifetime Limited Warranty. *Industry standard is based on ASME A112.18.1 of 500,000 cycles."
 
-## [Multipure MP750 Inline Drinking Water System:](https://www.amazon.com/Multipure-MP750-Inline-Drinking-System/dp/B0017I746W/ref=sr_1_4?dchild=1&keywords=multipure&qid=1625760312&s=hi&sr=1-4)
+## [Multipure MP750 Inline Drinking Water System:](https://amzn.to/2WvqJM8)
 
-{{< postImage "Multipure MP750 Inline Drinking Water System" "/img/installationOptions/IP1529868-R1/41LAALWOIaL._AC_.jpg" "/img/installationOptions/IP1529868-R1/41LAALWOIaL._AC_.jpg" >}}
+{{< postImage "Multipure MP750 Inline Drinking Water System" "/img/installationOptions/IP1529868-R1/multipure.jpg" "/img/installationOptions/IP1529868-R1/multipure.jpg" >}}
 
 "An NSF Certified water filter that sits under your sink - this model is for people who already have tubing in place for hooking up to refrigerator ice maker or coffee maker etc. - can be used for faucet but you supply tubing and faucet etc. as in an existing installation."
 
