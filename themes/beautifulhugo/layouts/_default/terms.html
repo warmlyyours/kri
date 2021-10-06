@@ -22,7 +22,7 @@
                 View all</a>
                 <div class="list-group">
                   {{ range $item := $value.WeightedPages }}
-                    <a rel="follow" href="{{$item.Permalink | replaceRE "/$" ""}}" class="list-group-item">{{ $item.Title }}</a>
+                    <a href="{{$item.Permalink | replaceRE "/$" ""}}" class="list-group-item">{{ $item.Title }}</a>
                   {{ end }}
                 </div>
               </div>
