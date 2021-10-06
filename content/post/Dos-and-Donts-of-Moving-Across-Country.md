@@ -6,10 +6,11 @@ image: /img/movingAcross/the-dos-and-donts-of-moving-across-country-featured-ima
 tags:
   - Essentials
 ---
+A big move can feel really overwhelming at times. Especially if you’ve decided to move hundreds of miles across the country and embrace a new community. Moving across the country can be a wonderfully stressful circus of loops and hurdles to navigate through and we’ve written this piece to try and tame it down a bit. We’ll be covering the do’s and don’ts of relocating long distances to your new home.
 
 {{< postImage "Couple Moving" "/img/movingAcross/the-dos-and-donts-of-moving-across-country-featured-image.webp" "/img/movingAcross/the-dos-and-donts-of-moving-across-country-featured-image-small.webp" >}}
 
-A big move can feel really overwhelming at times. Especially if you’ve decided to move hundreds of miles across the country and embrace a new community. Moving across the country can be a wonderfully stressful circus of loops and hurdles to navigate through and we’ve written this piece to try and tame it down a bit. We’ll be covering the do’s and don’ts of relocating long distances to your new home.
+
 
 **Sell, give away, or donate all your stuff**
 

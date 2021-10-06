@@ -7,10 +7,9 @@ image: /img/kitchenMakeover/pastedimage1.webp
 tags:
   - Essentials
 ---
+Budgeting is often a major priority when dealing with any home renovation, and kitchens are no exception but the rule. Out of the thousands of kitchen remodeling renovations done this past year, the average cost for materials, plumbing, lighting fixtures, and more, ranged from $13,000 to $40,000 according to [HomeAdvisor](https://www.homeadvisor.com/cost/kitchens/remodel-a-kitchen/).
 
 {{< postImage "Woman checking oven" "/img/kitchenMakeover/pastedimage1.webp" "/img/kitchenMakeover/pastedimage1-small.webp" >}}
-
-Budgeting is often a major priority when dealing with any home renovation, and kitchens are no exception but the rule. Out of the thousands of kitchen remodeling renovations done this past year, the average cost for materials, plumbing, lighting fixtures, and more, ranged from $13,000 to $40,000 according to [HomeAdvisor](https://www.homeadvisor.com/cost/kitchens/remodel-a-kitchen/).
 
 Defining the breadth of your budget is important when planning a major kitchen makeover. This factor alone determines whether your new tiles are travertine or ceramic, as well as the type of appliances you purchase and install.
 However, if you're fortunate enough to afford a kitchen makeover at upwards of $50,000, then you have a substantial amount of disposable income to put towards your kitchen makeover. Your possibilities are all but endless and you have a lot more leeway to expand your kitchen’s installation options.

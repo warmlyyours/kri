@@ -6,12 +6,12 @@ tags:
 - Flooring
 image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp
 ---
-
-{{< postImage "Concentrated Woman Polishing Wooden Floor" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor-small.webp" >}}
-
 ## Strive To Be Chemical Free
 
 We live in a society that’s well-informed and each day we learn and continue to learn about the ways in which we can live cleanly. By now you're aware of the harmful effects that chemicals like pesticides, preservatives, and additives have on the body.
+
+{{< postImage "Concentrated Woman Polishing Wooden Floor" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor-small.webp" >}}
+
 
 Even so, we’re conscious of the negative effects and yet how many of us keep the Windex ready to go during clean up time? It’s true that the heart of the issue is the high-impact that toxic chemicals have caused on the environment. So, don’t let this day go by without thinking about making the switch over to a chemical-free, non-toxic solution.
 

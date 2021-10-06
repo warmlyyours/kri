@@ -6,9 +6,9 @@ author: Kitchen Remodel Ideas
 tags:
   - Countertops
 ---
+What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers - in recent history - sent glass bottles of all kinds to the landfill where they would sit for several lifetimes.  With the environmental movement of the 70ies, people started to wise up. The pollution of our planet stirred the oceans of change.
 
 {{< postImage "Marble Vs Granite" "/img/marbleVs/gvm-1-scaled.webp" "/img/marbleVs/gvm-1-scaled-small.webp" >}}
-What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers - in recent history - sent glass bottles of all kinds to the landfill where they would sit for several lifetimes.  With the environmental movement of the 70ies, people started to wise up. The pollution of our planet stirred the oceans of change.
 
 ***
 

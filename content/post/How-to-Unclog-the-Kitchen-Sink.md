@@ -6,11 +6,12 @@ author: Kitchen Remodel Ideas
 tags:
   - Faucets
 ---
-
-{{< postImage "Woman fixing kitchen sink" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled-small.webp" >}}
 We’re going to be talking about an all-too-common issue that many homeowners face. Kitchen sinks with clogged pipes and how to unclog them. 
 
 Understanding how to unclog the kitchen sink plays an integral part in sink maintenance and upkeep. If you can figure out how to unclog the kitchen sink on your own, then you’ll be saving money. Especially if you’re someone like me who doesn’t know much about working pipes.
+
+{{< postImage "Woman fixing kitchen sink" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled-small.webp" >}}
+
 
 ## What Causes Clogging
 

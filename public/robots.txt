@@ -1,50 +1,5 @@
-# Group 1
-User-agent: Googlebot
+User-agent: *
 Allow: /
-
-# Group 2
-User-agent: Adsbot-Google
-Allow: /
-
-# Group 3
-User-agent: Googlebot
-Allow: /tags/faucets
-
-# Group 4
-User-agent: Googlebot
-Allow: /tags/furniture
-
-# Group 5
-User-agent: Googlebot
-Allow: /tags/cabinets
-
-# Group 6
-User-agent: Googlebot
-Allow: /tags/flooring
-
-# Group 7
-User-agent: Googlebot
-Allow: /tags/essentials
-
-# Group 8
-User-agent: Googlebot
-Allow: /tags/wall-tiles
-
-# Group 9
-User-agent: Googlebot
-Allow: /page/about
-
-# Group 10
-User-agent: Googlebot
-Allow: /page/contact
-
-# Group 11
-User-agent: Googlebot
-Allow: /page/designgallery
-
-# Group 12
-User-agent: Googlebot
-Allow: /floorplans
 
 
 Sitemap: https://www.kitchenremodelideas.com/sitemap.xml

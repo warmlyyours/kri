@@ -1,8 +1,23 @@
 {{ define "main" }}
 
 {{ $data := .Data }}
-
+<style>
+  .ppTitle {
+    font-size: 25px;
+    font-weight: 200;
+    color: #bd8201;
+    margin-top: -80px;
+  }
+  .ppTitle:hover {
+    color: #654601;
+    cursor: pointer;
+  }
+</style>
 <div class="container" role="main" style="text-align: center;">
+  <div class="row" role="main" style="text-align: center">
+    <p class="ppTitle" onclick="appear()">Don't Know Where to Begin? (click to expand)</p>
+    <p id="hiddenPp" style="display: none;border: 3px solid #70ADD7;padding: 20px;">Dive deep into your next exciting blog post! The ultimate blog post guide displays a complete list of tags. We broke it down by category for you literally to set you up with a convenient cheat-sheet. We've nailed down exactly the types of kitchen remodeling topics to quick-start your journey to the gargantuan world of kitchen remodeling and renovation.</p>
+  </div>
   <div class="col">
     <article class="post-preview">
       <div class="panel-group" id="accordion">
@@ -33,6 +48,11 @@
     </article>
   </div>
 </div>
-
+<script>
+  function appear() {
+    var pp = document.getElementById('hiddenPp');
+    pp.style.display = 'inline';
+  }
+  </script>
 
 {{ end }}

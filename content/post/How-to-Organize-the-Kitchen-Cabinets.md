@@ -6,12 +6,11 @@ image: /img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.jp
 tags:
 - Cabinets
 ---
+People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus. Social distancing has given us tons of new found time on our hands. Cleaning out the kitchen cabinets and reorganizing the kitchenware sounds like a great project to kill some time and stay productive during social isolation...don’it?
 
 {{< postImage "Architecture Cabinets" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.webp" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648-small.webp" >}}
 
 ## Step-by-Step Cabinet Organization
-
-People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus. Social distancing has given us tons of new found time on our hands. Cleaning out the kitchen cabinets and reorganizing the kitchenware sounds like a great project to kill some time and stay productive during social isolation...don’it?
 
 ***
 
