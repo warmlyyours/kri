@@ -143,6 +143,13 @@ summaryLength = 50
     url = "tags/wall-tiles"
     weight = 7
 
+    [[menu.main]]
+    parent = "Blog"
+    name = "All Posts"
+    identifier = "All Posts"
+    url = "/post"
+    weight = 8
+
 [[menu.main]]
     name = "About"
     identifier = "About"
