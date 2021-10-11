@@ -17,14 +17,14 @@
               <a class="nav-item dropdown-toggle mx-lg-2" href="https://www.kitchenremodelideas.com" id="parentDropdown-{{ .Name }}" aria-labelledby="parentDropdown-{{ .Name }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}</a>
               <ul class="dropdown-menu navlinks-children" aria-labelledby="nestedMenu" id="nestedMenu">
                 <li>{{ range .Children }}
-                  <a class="dropdown-item" href="{{ .URL | relLangURL }}">{{ .Identifier }}</a>
+                  <a class="dropdown-item" rel="dofollow" href="{{ .URL | relLangURL }}">{{ .Identifier }}</a>
                 {{ end }}
                 </li>
               </ul>
             </li>
           {{ else }}
             <li class="nav-item mx-lg-2">
-              <a title="{{ .Identifier }}" href="{{ .URL  | relLangURL }}">{{ .Identifier }}</a>
+              <a title="{{ .Identifier }}" rel="dofollow" href="{{ .URL  | relLangURL }}">{{ .Identifier }}</a>
             </li>
           {{ end }}
         {{ end }}
