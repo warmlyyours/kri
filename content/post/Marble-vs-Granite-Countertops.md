@@ -30,6 +30,7 @@ The rock's high density causes the countertop to be naturally scratch-resistant 
 
 {{< columns >}}
 {{< column >}}
+
 Granite is an igneous rock composed mostly of quartz and feldspar, along with trace amounts of various other minerals. Present compositions of granite also include mica, amphiboles, and other minerals that usually lead to a red, pink, gray, or white color with closely pact mineral grains present across the length of the slab. 
 
 For millions of years of volcanic activity, granite is formed beneath the earth’s surface as magma slowly cools and solidifies to form deposits of granite. During the cooling process, the magma also forms with other minerals which then give granite its crystal-like appearance. 
@@ -54,6 +55,7 @@ People who entertain dinner guests often get together, and marble countertops ar
 
 {{< postImage "White Marble Quarry" "/img/marbleVs/white-marble-quarry-and-excavators-carrara-italy-PV3DLD2-crop-scaled.webp" "/img/marbleVs/white-marble-quarry-and-excavators-carrara-italy-PV3DLD2-crop-scaled-small.webp" >}}
 {{< break >}}
+
 Marble slabs first begin their journey from a limestone quarry where the slabs are cut from a larger stone. The recognizable characteristics of streaks and swirls of many types of marble varieties are usually due to mineral impurities such as silt, clay, iron oxides, sand, and chert which were present during the limestone’s formation millions of years ago. And so geologists classify marble as a metamorphic rock when limestone experiences immense heat and pressure over a long time. Marble is made from the carbonate crystals forming the limestone, most commonly dolomite and calcite. Marble forms under such conditions when the calcite recrystallizes and forms a denser rock made out of the newly formed calcite crystals.
 
 ## Prefabricated Countertop Vs. Full Slab
@@ -78,9 +80,13 @@ Here’s a table about marble countertops and granite countertops. We compare th
 
 {{< postImage "Marble vs Granite" "/img/marbleVs/marble_vs_granite_tables-01.webp" "/img/marbleVs/marble_vs_granite_tables-01-small.webp" >}}
 
+{{< break >}}
+
 ## Porosity, Stain Resistance, and Heat Sink
 
 An interesting correlation exists between the factors mentioned above. What we mean is that by changing the degree of one of these factors, another one changes inversely and thus shows a causal and sometimes inverse relationship. Granite and marble are both typically cooler than air temperatures because their heat conductivity is much larger than air. In other words, such stones do not hold heat as well as water molecules responsible for humidity levels or other natural stones like gypsum, which acts more like an insulator than a conductor of heat. Therefore, a slab with greater porosity results in a decrease in thermal conductivity because a porous material gives the ability for heat to flow. Decreasing the porosity results in heat retention and also increased stain resistance.  
+
+{{< break >}}
 
 ## How Noticeable are Countertop Seams?​
 
@@ -88,6 +94,9 @@ If the production manager tells you that your countertop is going to need a seam
 
 ## Countertop Heating
 
-Marble countertops are excellent heat conductors as we mentioned previously. The surface temp of a marble countertop generally comes in at slightly below room temperature. A chilled countertop can be great for pastry chefs, yet still, a cold countertop can be inconvenient when you want your kitchen island bar to feel cozy. Even more so for people who like to elbow up to the countertop, a cold surface can ruin a well-needed coffee break. [WarmlyYours FeelsWarm® Countertop Heaters](https://www.warmlyyours.com/en-US/countertop-heater) can send heat to your kitchen countertop when you really need it. This heating mat gives you and your family the added comfort of radiant heat. Such mats can be retrofitted right underneath the cantilevered end of a countertop and turned on at appropriate times, and the best part is it doesn't need much care or attention. It’s super easy to install and safe from mishaps or accidents. The local application of heat will not damage the small fractures of polyester resin in the countertop and the gentle warmth won’t cause cracks or chips over time.
+Marble countertops are excellent heat conductors as we mentioned previously. The surface temp of a marble countertop generally comes in at slightly below room temperature. A chilled countertop can be great for pastry chefs, yet still, a cold countertop can be inconvenient when you want your kitchen island bar to feel cozy. Even more so for people who like to elbow up to the countertop, a cold surface can ruin a well-needed coffee break.
+
+ ### [WarmlyYours FeelsWarm® Countertop Heaters](https://www.warmlyyours.com/en-US/countertop-heater)
+  can send heat to your kitchen countertop when you really need it. This heating mat gives you and your family the added comfort of radiant heat. Such mats can be retrofitted right underneath the cantilevered end of a countertop and turned on at appropriate times, and the best part is it doesn't need much care or attention. It’s super easy to install and safe from mishaps or accidents. The local application of heat will not damage the small fractures of polyester resin in the countertop and the gentle warmth won’t cause cracks or chips over time.
 
 Thank you for following up with us for this week’s blog regarding kitchen countertops and the materials that they’re made out of. We want to be the number one destination for kitchen remodeling projects and by writing about the topic every week, we are on our way to achieving this milestone. Be sure to share this page if you liked our comprehensive guide to Marble and Granite Countertops.

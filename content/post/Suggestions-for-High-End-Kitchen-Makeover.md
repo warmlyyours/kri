@@ -23,6 +23,7 @@ With an open floorplan, "cooking becomes part of your entertainment when you hos
 According to HGTV, when you have a budget in the tens of thousands, you can choose period styles like Spanish Colonial or authentic Queen Anne for your cabinets and cupboards, proverbially broadening your horizon of kitchen appliances to add to your home.
 When designing traditional kitchens, consider adding a corbels to the bottom of your overhang. Not only are corbel wall decorations elegant but structurally supportive as well.
 {{< postImage "Corbels" "/img/kitchenMakeover/pastedimage2.webp" "/img/kitchenMakeover/pastedimage2-small.webp" >}}
+
 Conversely, you could go the opposite route and adopt a slick modern style with all the latest high-end features. You can even have multiple appliances - perhaps you want a freezer the size of a refrigerator to have more space in your actual fridge. Determining how much of the renovation can be done by yourself, leaving everything else up for professional help, keeps the costs of hiring a repairman down and makes this a more budget possible option.
 ##Make a Kitchen Island that can Multitask
 Kitchen islands are in and of themselves a luxury item - they've been popular in kitchen design since the 1970s. If your budget can accommodate it, you can design a kitchen island to be something truly special.

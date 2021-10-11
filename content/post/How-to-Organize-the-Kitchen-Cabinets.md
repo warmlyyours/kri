@@ -10,6 +10,8 @@ People across the nation have decided to stay at home to do their part to help d
 
 {{< postImage "Architecture Cabinets" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.webp" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648-small.webp" >}}
 
+{{< break >}}
+
 ## Step-by-Step Cabinet Organization
 
 ***
@@ -25,33 +27,42 @@ We rarely have a chance to see our cabinets sit vacantly without any items occup
 
 This first step gives you the capacity to see if there are any duplicates, see if there are any perishables which expired, and what you want to keep. Removing things you don’t really use definitely saves space by keeping it down to the bare essentials. The trick is optimizing the space while also making sure that your kitchenware is still easily accessible.
 
-2. **Nest Pots with Pans**
+{{< break >}}
+
+### 2. **Nest Pots with Pans**
 
 What we mean by ‘nesting’ pots and pans is, put them together to form the entire kitchenware set. You want all your best kitchen equipment in one place where you can see them and drum up a plan for how you want to store them. To save time, I’d recommend keeping pots and pans in a deep pull out drawer instead of squatting down to pull out your kitchenware.
 
 Additionally, if you have the storage space then you can use pegs to keep a handle on your pot lids. No pun intended! Situating the pots and pans with their corresponding lids is a great way to organize everything. Obviously it would be wise to keep all of these things in close proximity to the stovetop.
 
+{{< break >}}
 
-
-3. **Store "likes with likes"**
+### 3. **Store "likes with likes"**
 
 {{< postImage "Kitchenware in the Cabinets" "/img/organizeCabinets/kitchenware-in-the-cabinets-KTXMDP7.webp" "/img/organizeCabinets/kitchenware-in-the-cabinets-KTXMDP7-small.webp" >}}
 If you’re like me and you meal prep on Sundays or you live with an insatiable foodie then it’s best to organize your pots and pans to prep food. A like is used to describe the set of all of the pots that are gonna be stacked together or at least on the same shelf. All of the pans are going to be stacked together as well because all of them can be nested inside of one another to give you extra storage space.
 
-4. **Invest in a Handful of Organizational Products**
+{{< break >}}
+
+### 4. **Invest in a Handful of Organizational Products**
 
 We all fall into the trap of trying to make everything perfect and it’s really a false pretense because nothing is ever going to be Instagram perfect. Don’t let the desire to make it perfect hold you back from getting organized. Think about products that can be repurposed and really go the extra mile when organizing the kitchen cabinets.
 
 I have a lazy susan installed in my small kitchen because it’s a godsend and helps present your essentials swiftly and thoroughly. Also clear bins are awesome because you can see what’s inside of them. You can also try putting a towel bar behind the front panel of a kitchen cabinet with hooks to hang your kitchen towels, providing easy access during clean up.
 
-5. **Store Dinnerware in Upper Cabinets**
+{{< break >}}
+
+### 5. **Store Dinnerware in Upper Cabinets**
 
 {{< postImage "Opening Kitchen Cabinet" "/img/organizeCabinets/opening-kitchen-cabinet-door-woman-putting-plates-GVZT5XZ.webp" "/img/organizeCabinets/opening-kitchen-cabinet-door-woman-putting-plates-GVZT5XZ-small.webp" >}}
+
 Storing dinnerware in the upper cabinet doors really goes the extra mile to ensure that you know where you stored your plates, cups, and bowls at all times. Upper cabinets only help in keeping your dinnerware at eye-level. One of my best tips is to keep your expendable dinnerware in cabinets with high foot traffic and section off the more expensive dinnerware for when you’re expecting important guests.
 
 Either way, try and make a plan that suits your needs. Don’t go running around the kitchen searching for something that’s gone missing. Keep everything you need in one place so that one, you are  absolutely sure that you can find what you’re looking for and two, ready to entertain friends and family at any time in your kitchen.
 
-6. **Label with Discretion**
+{{< break >}}
+
+### 6. **Label with Discretion**
 
 Labels truly ensure that everyone is held accountable. Every member of the family knows where everything is. Needless to say that you don’t want to go overboard when it comes to labeling things.
 

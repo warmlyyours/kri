@@ -32,6 +32,7 @@ When choosing the best wall tile, it is imperative to select a design element yo
 Ceramic wall tiles and stone wall tiles can be arranged into beautiful design patterns. What’s amazing about a wall tile pattern is that they’re visually stunning and a conversation starter when entertaining guests. When selecting wall tiles, there are many different types of patterns to choose from. The most common pattern used across the board is a linear grid consisting of a square or rectangular tiles. Herringbone (see below) is another widely used mosaic kitchen backsplash pattern which aligns square or rectangular wall tiles 45 or 90 degrees to form a diamond-like shape. Consider that herringbone layouts use more material than linear layouts so it will add time and cost to the project. Even a wall tile can be a fantastic work of art. Patterns that do not repeat are also visually interesting.  Have some fun! Consider adding bling with design accents like gemstones or soapstone peppered around to make a kitchen design that represents your unique personality.
 
 {{< postImage "Herringbone White Gallery Backsplash" "/img/bestWallTiles/herringbone_white_gallery_kitchen.webp" "/img/bestWallTiles/herringbone_white_gallery_kitchen-small.webp" >}}
+
 Herringbone White Wood Wall Tiles in Kitchen by [Urban Evolutions](https://urbanevolutions.com/?attachment_id=13746)
 
 ## Bringing It All Together
@@ -56,6 +57,7 @@ Wall tiles come in many shapes and sizes so you won’t have to worry about your
 Both contemporary and traditional backsplash design for your wall can coordinate mosaics or wall tile patterns framed above the kitchen range. As a vertical art piece, you won’t have to be concerned about standing water or slip resistance. You can choose from virtually any size, style, and shape to achieve your desired result. Here is an example that plays very well in a modern kitchen.
 
 {{< postImage "Clark Renovations" "/img/bestWallTiles/clarkrenovationsstovez_full.webp" "/img/bestWallTiles/clarkrenovationsstovez_full-small.webp" >}}
+
 Kitchen backsplash tile ideas for any space by [housetrends.com](https://www.housetrends.com/articles/kitchen-backsplash-tile-ideas/)
 
 Such a beautiful framed wall tile as this combines marble, ceramic, and metallic wall tiles into one. Wall tile designs are a matter of personal preference, but we recommend working with a professional tile installer/designer to allow for customization of the wall tile that works best. Depending on how much space you have to work with, frames can take up varying degrees of space to accommodate a customized elegant tile pattern or mosaic.

@@ -22,7 +22,7 @@ It makes sense that many homeowners are turning their attention to what can be d
 
 {{< postImage "Choosing Color" "/img/4Tips/choosing-color-UMNWC78.webp" "/img/4Tips/choosing-color-UMNWC78-small.webp" >}}
 
-1. *Paint your kitchen a new color*
+### 1. *Paint your kitchen a new color*
 
 - One of the least expensive ways to update your home is with paint. Consider using a primer/paint combination to save on the cost of two cans vs one and the labor of doing it twice. The third time is not a charm...
 
@@ -32,7 +32,9 @@ It makes sense that many homeowners are turning their attention to what can be d
 
 {{< postImage "Cabinet Molding" "/img/4Tips/CABINETMOLDING.webp" "/img/4Tips/CABINETMOLDING-small.webp" >}}
 
-2. *Create a custom cabinet look*
+{{< break >}}
+
+### 2. *Create a custom cabinet look*
 
 - The best thing about this design trend is that basically anyone can do it efficiently and affordably. If you want to cover the space between the cabinets and the ceiling, install decorative molding along the tops of the cabinets to give it a customized look. “Measure to see how much molding is required,” says Cheryl Ferreira, project manager with the National Kitchen Remodel Program for The Home Depot in Tampa, Fla. (Schaub)
 
@@ -43,13 +45,13 @@ It makes sense that many homeowners are turning their attention to what can be d
 
 - To finish the look. purchase new drawer pulls and doorknobs. This can change the look and feel for next to nothing. Styles change so an easy way to update the style of your cabinets is to replace the old finish with a new one.
 
-3. *Don't move major appliances around*
+### 3. *Don't move major appliances around*
 
 - “Relocating the sink or range may necessitate new plumbing or gas lines, which are especially burdensome (and costly) when there’s no basement and water pipes and gas lines are embedded in the foundation,” Katz says, vice president of operations and customer service at Katz Builders in Austin, Texas. We’ve all seen remodeling shows on TV where the host-pro recommends knocking down a wall or two shifting workspaces. However, this usually brings up unexpected costs and issues.  
 
 - Rather than move appliances, consider upgrading to enhance and update the look of your kitchen. While it’s tempting to strive for greater efficiency, if it means relocation - it might not be within budget. Keep the footprint and put the money into upgrading your appliances from a simple fix such as a stainless steel toaster to larger purchase items like a stainless steel refrigerator. Many known brands have warehouses for dented and returned items. Check there first.
 
-4. *Use your space wisely*
+### 4. *Use your space wisely*
 
 - Some low-cost organizational opportunities may be possible or even presently available in coordination with your renovation plans. Before you start any remodeling project, take a trip to your local Ikea. Ikea has cornered the market on how to utilize every square inch with style. Visit their vignettes or even look at the Ikea inspiration galleries on their website for inspiration. Take note of ideas or photos if you are in-store and see what you can do to duplicate them from items you may already have in your home.  
 

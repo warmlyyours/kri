@@ -10,17 +10,23 @@ It’s time to hunker down due to the Stay-at-Home orders and social distancing 
 
 The CDCl is the authority on how to sanitize your household. We’ve taken that information and created a checklist to make it easy for you to ensure you clean thoroughly each day - sometimes multiple times a day for high traffic areas like the kitchen. We suggest printing out our checklist, laminating it, and posting it in a visible place as a constant reminder.
 
+{{< break >}}
+
 ## Remove Debris
 
 Per the CDC’s page on [Household Cleaning & Sanitizing](https://www.cdc.gov/healthywater/emergency/cleaning-sanitizing/household-cleaning-sanitizing.html), the first step of cleaning kitchen surfaces easily is to wash the countertops with soap and water to remove any debris.
 
 You can use a wash cloth or disposable paper towels at this stage to wash your countertops, either is fine. At this point we’re not focused on getting rid of surface bacteria, we’re simply moving any loose contaminants off the kitchen countertops and into the garbage disposal.
 
+{{< break >}}
+
 ## Protect Yourself
 
 First of all, avoid touching your face because it is possible to self-inoculate by touching a surface that has the virus and then touching your eyes, your inner nose, and/or into your mouth. Once you’re ready to begin sanitizing, start with clean hands. Wash your hands with soap and water for 20 seconds and be sure to suit yourself up with disposable gloves. If caring for a sick person in your home we suggest that you consider taking the extra precaution of wearing non-porous rubber boots and eye protection as the virus can linger on flooring and is spread in the air.
 
 When cleaning with potentially toxic chemicals, open doors and windows for proper ventilation so that chemicals are fumigated and fresh air is allowed to enter. Be careful to not directly breathe in any chemicals as you clean. If you wish to clean without chemicals, studies have shown that temperatures over 80 degrees can kill the virus. Try cleaning with boiling water or use a ‘natural’ all-surface cleaner.
+
+{{< break >}}
 
 ### Sanitizing
 
@@ -33,6 +39,7 @@ Next, you want to create a solution of bleach and water. Use a combination of on
 
 If you are concerned about the use of bleach, then swap the bleach out for white vinegar. An acidic solution can kill bacteria, mold, and mildew. Give your surfaces some time to air dry and then move on to your electronics
 
+{{< break >}}
 
 #### Cleaning Electronics
 

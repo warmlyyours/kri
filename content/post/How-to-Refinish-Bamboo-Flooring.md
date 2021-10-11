@@ -7,7 +7,7 @@ tags:
   - Flooring
 ---
 
-Bamboo flooring is an absolutely gorgeous and unique alternative to a hardwood floor, giving an interesting feeling to the floor for modern, spacially aware kitchens. Even though this widely celebrated type of flooring is sourced from undoubtedly strong and light bamboo plants, scuff marks and surface scratches may still present themselves over time. 
+Bamboo flooring is an absolutely gorgeous and unique alternative to a hardwood floor, giving an interesting feeling to the floor for modern, spatially aware kitchens. Even though this widely celebrated type of flooring is sourced from undoubtedly strong and light bamboo plants, scuff marks and surface scratches may still present themselves over time. 
 
 However, professional maintenance workers and homeowners with reasonable do-it-yourself skills can fire up the sander to undergo the process of refinishing bamboo floors. Now while a polyurethane finish is applied to clean bamboo flooring much like how you’d cover other flooring types, there are a few extra steps you don’t want to skip, and additional equipment required to complete the repairs in time. 
 
@@ -18,7 +18,7 @@ However, professional maintenance workers and homeowners with reasonable do-it-y
 * Uv-cured urethane finished
 * B2 or Clark Edger
 * 2" Scraper
-
+---
 ## Step One
 
 Sand the floor using the 36 grit sandpaper diagonally, moving from grain to grain.

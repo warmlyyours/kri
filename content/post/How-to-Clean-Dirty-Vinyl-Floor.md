@@ -10,12 +10,17 @@ image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp
 
 We live in a society that’s well-informed and each day we learn and continue to learn about the ways in which we can live cleanly. By now you're aware of the harmful effects that chemicals like pesticides, preservatives, and additives have on the body.
 
+{{< break >}}
+
 {{< postImage "Concentrated Woman Polishing Wooden Floor" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor-small.webp" >}}
 
+{{< break >}}
 
 Even so, we’re conscious of the negative effects and yet how many of us keep the Windex ready to go during clean up time? It’s true that the heart of the issue is the high-impact that toxic chemicals have caused on the environment. So, don’t let this day go by without thinking about making the switch over to a chemical-free, non-toxic solution.
 
 You wouldn’t go wrong with an all-purpose cleaner and we have found some great non-toxic cleaning solutions out there. [Seventh Generation’s](https://www.amazon.com/gp/product/B00MUE2OHG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MUE2OHG&linkCode=as2&tag=kri0eb-20&linkId=9682e0bce08a12f481846e18c3b89b8e) got an excellent cleaner on the market that works superbly on all kinds of surfaces. If that’s not enough, you want more options, head over to your health food store and find a chemical-free solution that works to suit your needs and tackle the tough stains that buildup.
+
+{{< break >}}
 
 ## Leave Your Shoes at the Door
 
@@ -25,7 +30,9 @@ But over time, you may begin to notice mud prints and dirt trails building up al
 
 Doormats are a wonderful tool you place at the perimeter of your house and even more so if you live in a dog-friendly home. Keep a towel near the doors where you let the dogs out and gently brush their paws when they return from doing their business. This ensures they won’t bring in mud all the time.
 
-## Consider Dog Boots
+{{< break >}}
+
+## Try Dog Boots
 
 My mother and I live with three dogs and I am cleaning up after them every day. Dog ownership is a full-time job that’s also extremely rewarding. As we learn to coexist with our animal friends, we have changed parts of our house and made compromises that fit better for a life with a dog.
 
@@ -35,9 +42,13 @@ Furthermore, If you’ve got a dog door installed at home, then you won’t alwa
 
 Dogs’ paws claw into the dirt and were made to run on grass. Not only do boots give extra padding under the paw, but also they reduce the amount of dirt and debris that the dog drags in from outside.
 
+{{< break >}}
+
 ## Sweep Often
 
 Keep a dustpan and broom ready when it comes time to do your house chores. A thorough floor cleaning is done in two parts: one dry run and one wet run. What we mean by that is your first flyby of each room you take a broom and sweep up any loose dust and dirt, then run through each room with a damp mop and clean the floor again to remove contaminants from your home.
+
+{{< break >}}
 
 ## Save Money With House-Hold Products
 
@@ -45,6 +56,7 @@ If you’re a woman, share a bathroom with a woman, then I suspect that you’ve
 
 For really tough buildups, apply a little bit of rubbing alcohol directly on the floor. Working in small sets as the hair spray begins to dissolve.
 
+{{< break >}}
 
 ## Clean Spills Right Away
 
@@ -52,6 +64,7 @@ I’m sure you’re aware by now that a vinyl floor isn’t made out of hardwood
 
 In case of a spill, clean up spills as soon as they happen and stop the likelihood of a vinyl floor becoming damaged from a neglected puddle of water. Possible warping and cupping might happen to the floor if spills are left unattended. Vinyl flooring can be floated, meaning that the floor isn’t nailed or glued down to the subfloor. On the off chance some serious damage absolutely devastates your vinyl sheets then a contractor can more easily rip up and replace the floor.
 
+{{< break >}}
 
 ## Rinse Well to Remove All Soap
 
@@ -63,6 +76,8 @@ I shouldn’t have to shout it from the hilltops that based on what I know from 
 
 If any soap is left after cleaning, that’s like a venus-fly-trap of dirt and god knows what else floats in the air that may land and stick to your cleaning supplies.
 
+{{< break >}}
+
 ## Choose the Best Cleaning Solution
 
 Here we’re talking about the cleanser that works for you. Not against you, but for you and what you’re trying to accomplish when it comes time to clean the floor. Commercial products work really great and always deliver on their promises, but it’s much cheaper to make a cleaning product yourself right at home.
@@ -72,6 +87,8 @@ Most stains and dirt spots can be removed with a vinegar and water solution. I f
 That gives the water enough acidity to break through the mess. You can add a small amount of dishwashing soap, again, if you wish.
 
 The problem I face at times is definitely the film of slippery grease left behind after I clean the floor with either soap or a greased up cleaning solution like Pine-Sol. If that’s the case then just come back and hit it again with a baking soda paste and that should solve the issue.
+
+{{< break >}}
 
 ## Clean Stains According to Impact
 

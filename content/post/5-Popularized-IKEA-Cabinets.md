@@ -18,6 +18,8 @@ The organizational arrangement of your kitchenware tells a great deal about your
 
 To start your journey, our team investigated IKEA’s kitchen cabinet offering.  We studied their website during the making of our ‘10 Best Kitchen Cabinet Styles’ blog post to discover the best of the best.  The top 5 cabinets based on customer ratings - which begs the question: Can people really fall in love with a kitchen cabinet system? Clearly, these folks did, so yes you can!
 
+{{< break >}}
+
 ## SEKTION: IKEA Kitchen Cabinet Code SE BS2G
 
 {{< postImage "SE BS2G" "/img/5IKEA/sektion1.webp" "/img/5IKEA/sektion1-small.webp" >}}
@@ -46,6 +48,8 @@ And here’s where function steps in. For cleaning the glass, there are snap-on 
 
 30 "
 
+{{< break >}}
+
 ## SEKTION: IKEA Kitchen Cabinet Code SE HS2D2E2I
 
 {{< postImage "SE HS2D2E2I" "/img/5IKEA/sektion2.webp" "/img/5IKEA/sektion2-small.webp" >}}
@@ -68,6 +72,8 @@ The door damper catches a moving door and gently closes it silently. and you can
 **Frame, height:**
 80 "
 
+{{< break >}}
+
 ## SEKTION: Cabinet code SE WR1H
 
 {{< postImage "SE WR1H" "/img/5IKEA/sektion3.webp" "/img/5IKEA/sektion3-small.webp" >}}
@@ -86,6 +92,8 @@ Hinges are adjustable and a knob or a handle is required to open the hatch.
 24 3/4 "
 **Frame, height:**
 15 "
+
+{{< break >}}
 
 ## SEKTION: Cabinet code SE HM2D2E
 
@@ -108,6 +116,8 @@ PRO TIP:   If you do incorporate a microwave, leave ample room on the top and bo
 24 3/4 "
 **Frame, height:**
 90 "
+
+{{< break >}}
 
 ## SEKTION: Cabinet code SE H2D3EE2I
 

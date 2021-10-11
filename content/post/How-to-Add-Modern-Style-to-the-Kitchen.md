@@ -8,12 +8,16 @@ tags:
 ---
 Remodeling a somewhat dated kitchen with a new style keeps the magic going, right? Adding a more modern touch to your kitchen can reinvigorate your family gathering area and even you! Take charge and with a few simple changes you can refresh your kitchen, and catch up with the most recent trends in home design. Consider including the following modern kitchen style trends to your home:
 
+{{< break >}}
+
 ## Aesthetic Style
 
 {{< postImage "Remodelista" "/img/modernStyle/Remodelista.webp" "/img/modernStyle/Remodelista-small.webp" >}}
 Contemporary kitchens feature minimalist design with monochromatic colors and elements that are flush against walls and countertops. In today’s modern kitchen design, everything is streamlined, and clean lines are featured throughout the room.
 
 Note that the popular materials used in modern kitchens today include metals, glass and stainless steel for an industrial feel. The color schemes are often dominated by slate, gray and black. Hardware is usually chrome; otherwise, sometimes no hardware is used at all on kitchen cabinets.
+
+{{< break >}}
 
 ## Modern Kitchen Features
 
@@ -25,6 +29,8 @@ Electric floor heating systems are a luxury feature that will ensure your feet w
 Stainless-steel kitchen range hoods reduce indoor air pollution. Range hoods remove smells, heat, smoke and grease from the kitchen and help create and maintain a pleasant atmosphere while cooking. Furthermore, the range hood will capture grease that would otherwise fall on kitchen cabinetry; this can possibly damage the wood and will make the kitchen look dirty. Keep your kitchen clean and ventilated with a contemporary kitchen range hood.
 3. **Hidden Storage:**
 Pull out storage in kitchen cabinets and the kitchen island makes the room feel less cluttered and more organized. Opt for pull-out shelves that are installed inside kitchen cabinets and below the kitchen sink. These will make grabbing items much easier and faster as you go through your daily routine. Lastly, don’t forget how helpful rolling carts can be. Sometimes, these can be hidden under the kitchen island.
+
+{{< break >}}
 
 ### Other Kitchen Trends
 

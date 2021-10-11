@@ -16,6 +16,8 @@ Traditionally, this big cleaning spree has been known as ‘Spring Cleaning’ a
 
 With so many options to choose from and so much inspiration out there, we’ve rounded up a bunch of amazing blogs that will inspire you to start and, more importantly, finish your spring remodeling ideas. No matter what kind of project you have in mind or the limitations you have to work with, these five blogs will give you the crucial kitchen remodeling inspiration you need. Here is our list:
 
+{{< break >}}
+
 ## The Ugly Duckling House
 
 ‘The Ugly Duckling House’ presents Sarah, a talented restorator with the greatest key tips to build and revive any old home and bring it back from the brink of disintegration. One would even go so far as to describe Sarah as a dreamer who made her dream reality. 
@@ -30,6 +32,8 @@ Sarah has a great house now after years of renovation efforts. The vintage house
 
 We will continue exploring her blog as we completely fell in love with her work. 
 
+{{< break >}}
+
 ## It's Great to be Home: Adventures of a Serial Home Improver
 
 {{< postImage "Bedroom Over Garage" "/img/5Blogs/bedroom-over-garage-in-a-house-1.webp" "/img/5Blogs/bedroom-over-garage-in-a-house-1-small.webp" >}}
@@ -41,6 +45,8 @@ She shares excellent remodeling tips for homeowners and people interested in fli
 
 What’s shocking is that all ten houses have been sold which is deserving of our respect and recognition. The pointers and how-to’s uploaded to her platform are a valuable resource for any remodeler, professional or DIY.  
 
+{{< break >}}
+
 ## Retro Renovation
 
 ‘Retro Renovation’ is a blog that was designed for anyone who yearns for the bygone days. The main style that can be found here is called ‘Mid-Century Modest’ and is characterized by the mainstream - main street designs once prevailing American homes during the 1950s. Lace shaded windows and maplewood bed frames comprised hundreds of thousands of middle-class bedrooms. 
@@ -48,6 +54,9 @@ What’s shocking is that all ten houses have been sold which is deserving of ou
 Our grandmothers and great grandmothers grew up with American eagles made out of cast iron above the fireplace. If you feel your house should have a vintage look to it and you want to recreate the look built during the post-World War II boom, check out this blog. You’ll learn how to incorporate design inspirations from different time periods and how to borrow the styles from retro suburban homes.  
 
 {{< postImage "Houzz Homepage Screenshot" "/img/5Blogs/houzz-homepage-screenshot-4da31b.webp" "/img/5Blogs/houzz-homepage-screenshot-4da31b-small.webp" >}}
+
+{{< break >}}
+
 ## Houzz
 
 This blog is a staff-favorite of ours because you can find everything you need in the same place. Houzz’s online collection of informative articles will teach you all about remodeling trends, as well as innovative solutions to the pesky problems you may face when you’re remodeling an old room feel or replacing kitchen cabinets that have fallen apart. 
@@ -55,6 +64,8 @@ This blog is a staff-favorite of ours because you can find everything you need i
 The site also hosts a social network for remodelers to connect and share comments, questions, and opinions. You can log on at any time and see what hundreds of people like you have done before. 
 
 There’s nothing more inspirational than this. And if you like something you saw, you can purchase the product immediately. You don’t have to search anywhere else. Houzz has everything you need to build your dream home. 
+
+{{< break >}}
 
 ## Young House Love
 

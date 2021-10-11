@@ -12,6 +12,7 @@ Understanding how to unclog the kitchen sink plays an integral part in sink main
 
 {{< postImage "Woman fixing kitchen sink" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled-small.webp" >}}
 
+{{< break >}}
 
 ## What Causes Clogging
 
@@ -21,6 +22,8 @@ Understanding how to unclog the kitchen sink plays an integral part in sink main
 Begin by identifying the common causes of clogged sinks. Decide what you should and shouldn’t be throwing down the sink drain. Potato peels and other food waste will plug up kitchen sinks.
 
 Hair can clog the bathroom sink very easily. Regardless of the obstruction, you use the same technique to unclog both kinds of sinks.
+
+{{< break >}}
 
 ## Mad Scientist Method
 
@@ -33,9 +36,14 @@ Let the vinegar and baking soda sit overnight. Refrain from running the faucet o
 
 The combination of vinegar and baking soda immediately begins to release grease-fighting carbon dioxide gases. That’s what you will see bubbling up to the drain opening. Sometimes this DIY remedy resolves the issue of a clogged drain. If the foreign object doesn’t clear from the chemical reaction, the next step is to resort to a drain cleaner.
 
+{{< break >}}
+
 ## Drain Cleaners
 
 {{< postImage "Toilet Bowl Flushing" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled.webp" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled-small.webp" >}}
+
+{{< break >}}
+
 ## Chemical Drain Cleaners
 
 Drain cleaners containing chemical substances are usually sold as liquids, however, powders and gels are also available. Chemical drain cleaners work by mixing different chemical compounds to trigger a reaction. There are three general kinds of chemical drain openers/cleaners:
@@ -56,15 +64,20 @@ Contain bleach, peroxide, and nitrates. Upon use of these kinds of drain cleaner
 
 As I’m sure you’re aware, handling these products increase the chance of skin contact and exposure to harmful chemicals. It’s very important to wear protective clothing when using them. 
 
+{{< break >}}
+
 ## Enzymatic Drain Cleaners
 
 Enzymatic drain cleaners are much more forgiving than harsh chemical drain cleaners. What is great about enzymatic drain cleaners is that they contain some kind of bacteria culture and concentrated enzymes that obliterate organic material. It’s about as trustworthy as the vinegar and baking soda technique.
 
 These cleaners work much like compost ferments food scraps into high-density fertilizer. Amazingly, the enzymes and living cultures respond extremely well to any mold and mildew clinging on to the pipes. That is to say, the minute probiotics vigorously digest these waste substances and through the repetition of mitosis, the cells reproduce, thereby spreading “good” bacteria through the drainage system. After proper use, we suggest running hot water immediately after an enzymatic cleaner session to clear out the pipes of any debris. And work with protective clothing to avoid skin or eye damage. 
 
+{{< break >}}
+
 ## Plunging the Drain
 
 {{< postImage "Toilet Plunger" "/img/unclogSink/plunger-PL4JFTS-scaled.webp" "/img/unclogSink/plunger-PL4JFTS-scaled-small.webp" >}}
+
 Place a plunger over the obstructed drain. Pour luke-warm water into the basin. Add enough water to cover the lip of the plunger to create a seal. Fully immerse the plunger into the water with at least 2” to 3” of buffer between the head and the surface. 
 
 Plunge several times straight up and down, then "kick" the plunger forward. Follow the procedure many times to clear the clog. Plunging is a sure-fire way of clearing a drain clog.
@@ -74,6 +87,8 @@ If you have a double sink, try identifying which side is plugged. The side of th
 Keep the plunger upright and firmly grasped with your hands and pump hard 20 to 25 times. Any food that remains in the sink should now be cleared. 
 
 Then run hot water down the drain for 10 minutes to be sure they’re fully cleared. If they fill up with water, hit both sides with the plunger again. If the problem persists, the clog’s likely too far down the mainline for plunging to work. 
+
+{{< break >}}
 
 ## Unclogging the P-Trap
 

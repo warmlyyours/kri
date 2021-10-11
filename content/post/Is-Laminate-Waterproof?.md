@@ -31,6 +31,8 @@ If you feel that hardwood is not a good option for an area due to water or humid
 >>
 >Lee Wallender
 
+{{< break >}}
+
 You can check out a write up of Plastic Laminate Flooring. Floor Critics has a review (Marino 2019) that you can read [here](https://floorcritics.com/waterproof-laminate-reviews/).
 
 ## Waterproof and Water Resistance: How to Spot the Difference.
