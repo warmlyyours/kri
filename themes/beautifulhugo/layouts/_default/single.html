@@ -8,7 +8,7 @@
         {{ if .Params.tags }}
           <div class="blog-tags">
             {{ range .Params.tags }}
-              <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+              <a rel="dofollow" href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
             {{ end }}
           </div>
         {{ end }}
@@ -46,7 +46,7 @@
         <ul class="pager blog-pager" style="list-style-type: none;margin: 0;padding: 0;">
           {{ if .PrevInSection }}
             <li class="previous d-flex justify-content-start align-items-center">
-              <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
+              <a rel="dofollow" href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
             </li>
             </div>
           </ul>
@@ -55,7 +55,7 @@
           {{ if .NextInSection }}
           <ul class="pager blog-pager" style="list-style-type: none;margin: 0;padding: 0;">
             <li class="next d-flex justify-content-end align-items-center">
-              <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+              <a rel="dofollow" href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
             </li>
           {{ end }}
           </div>

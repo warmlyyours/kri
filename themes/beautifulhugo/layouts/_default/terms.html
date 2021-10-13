@@ -33,11 +33,11 @@
             </a>
             <div id="collapse{{ $value.Name }}" class="panel-collapse collapse">
               <div class="panel-body">
-                <a href="{{ $.Site.LanguagePrefix | absURL }}/{{ $data.Plural }}/{{ $value.Name | urlize | replaceRE "/$" "" }}" class="list-group-item view-all rel="dofollow" ">
+                <a rel="dofollow" href="{{ $.Site.LanguagePrefix | absURL }}/{{ $data.Plural }}/{{ $value.Name | urlize | replaceRE "/$" "" }}" class="list-group-item view-all">
                 View all</a>
                 <div class="list-group">
                   {{ range $item := $value.WeightedPages }}
-                    <a href="{{$item.Permalink | replaceRE "/$" ""}} rel="dofollow" " class="list-group-item">{{ $item.Title }}</a>
+                    <a href="{{$item.Permalink | replaceRE "/$" ""}}" rel="dofollow" class="list-group-item">{{ $item.Title }}</a>
                   {{ end }}
                 </div>
               </div>
