@@ -8,7 +8,7 @@ tags:
 ---
 ## Essential Tips for Quick Selling
 
-Whether you’re in a buyer’s or seller’s market, selling a home can be challenging. Not only can it be difficult to sell for the price you want, but you never really know how long your home will sit on the market. One thing you can do, however, is to get your home in the best shape possible for impressing buyers. Along with checking out sites like [Kitchen Remodel Ideas](https://kitchenremodelideas.com), considering the advice and resources below can help you get started:
+Whether you’re in a buyer’s or seller’s market, selling a home can be challenging. Not only can it be difficult to sell for the price you want, but you never really know how long your home will sit on the market. One thing you can do, however, is to get your home in the best shape possible for impressing buyers. Along with checking out sites like Kitchen Remodel Ideas, considering the advice and resources below can help you get started:
 
 {{< postImage "Essential Home Improvement Tips Featured Image" "/img/essentialHITips/essentialhometipsfeaturedimage.webp" "/img/essentialHITips/essentialhometipsfeaturedimage-small.webp" >}}
 Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-209274/)
