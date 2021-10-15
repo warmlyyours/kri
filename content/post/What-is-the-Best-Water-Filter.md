@@ -31,8 +31,11 @@ Countertop filters get rid of unwanted contaminants with ease of use. Whilst oth
 Countertop filters have different levels of filtration, starting from simple charcoal carbon filters to more complex ionizing diffusion systems.
 
 
-## [Amazon Basics Filtration System](https://www.amazon.com/gp/product/B07QHNJQLJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07QHNJQLJ&linkCode=as2&tag=kri0eb-20&linkId=ea68562fa5179fc579f931a6487d80ba)
+## [Amazon Basics Filtration System](https://amzn.to/3DQZ74l)
+
 **Price: $46.73**
+
+{{< postImage "Amazon Basics Filtration System" "/img/bestFilter/amazon-basics-water-filter.jpg" "/img/bestFilter/amazon-basics-water-filter.jpg" >}}
 
 The Amazon Basics system is excellent at reducing chlorine and volatile organic compound (VOC) particles. This kitchen sink filtration system perfectly filters out chlorine and unpleasant odors that can be associated with unfiltered tap water.
 
@@ -40,8 +43,10 @@ It has a 5-stage filter that is placed conveniently on a kitchen countertop. Ama
 
 This filtration system does not need replacement of the inner filter cartridge. The longevity of this kitchen tap water filter is better than the guaranteed amount of water for all competing product offerings. Competitors fall short of the 30,000 gallons of fresh drinking and cooking water guaranteed by this system.
 
-## [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://www.amazon.com/gp/product/B07GBNB7VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GBNB7VG&linkCode=as2&tag=kri0eb-20&linkId=2bd000021c07ab740e50dce9e974908d)
+## [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://amzn.to/3plSvXJ)
 **Price: $114.95**
+
+{{< postImage "APEX EXPRT MR-2050" "/img/bestFilter/APEX-EXPRT-MR-2050.jpg" "/img/bestFilter/APEX-EXPRT-MR-2050.jpg" >}}
 
 APEX has envisioned a unique and easy kitchen countertop water filter with fast-acting activated charcoal filters. One of the 5 filtering stages actually adds alkaline back into the water line using alkaline beads. This increases the total dissolved solids (TDS) while improving taste by removing chemicals in the amount of water. Customers praise this kitchen faucet filter quality as the closest thing to bottled water.
 
@@ -49,8 +54,10 @@ Many water filter systems claim reverse diffusion to be the best recommendation 
 
 The flow rate is pretty fast, and always able to fill up a glass in a matter of seconds. Replacement filters are reasonably priced and based on customer experience, your filter will last a couple of months. APEX truly offers a fine water filter system at an affordable price.
 
-## [H2O+ Cypress Countertop Water Filtration System](https://www.amazon.com/gp/product/B00EEDJSES/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EEDJSES&linkCode=as2&tag=kri0eb-20&linkId=2f989073431f9c5d861448800e763215)
+## [H2O+ Cypress Countertop Water Filtration System](https://amzn.to/3j8t0F7)
 **Price: $146.00**
+
+{{< postImage "APEX EXPRT MR-2050" "/img/bestFilter/Brondell-H630-H20+.jpg" "/img/bestFilter/Brondell-H630-H20+.jpg" >}}
 
 A major selling point of the H20+ Cypress is that it is both versatile and convenient, able to fit 99% of home faucets with appropriate adapters.
 
@@ -70,6 +77,8 @@ Filters of this kind are good quality at a higher price point. An undersink filt
 ### [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
 **Price: $142.85**
 
+{{< postImage "Aquasan 3-stage under counter" "/img/bestFilter/AQ-5300-BrNickel.png" "/img/bestFilter/AQ-5300-BrNickel.png" >}}
+
 Aquasana is a great water filter with charcoal filtering technology. We like the 3-stage under counter filter because it amazingly transforms dirty pipe water back into pristine condition.
 
 Herbicides, pesticides, and VOCs are stopped from tainting the drinking water and also chlorine resistant cysts like giardia. The filter has a lifespan of up to 800 gallons which is less than the Amazon Basics filtration system. Additionally, an alert system tells you when it’s time to swap out the old filter cartridge.
@@ -77,7 +86,10 @@ Herbicides, pesticides, and VOCs are stopped from tainting the drinking water an
 Aquasan delivers strong results, showing a 99% reduction of 77 known contaminants. This filter also gets rid of lead mercury if you live in an older home with outdated plumbing. On the downside, reviews showed that the under kitchen sink water filter may be prone to leaking. However, by carefully following the installation instructions, you can be sure that the product works as directed.  
 
 ### [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
+
 **Price: $125.99**
+
+{{< postImage "Frizzlife SK99 3-Stage Under Sink Water Filter" "/img/bestFilter/FrizzLife-SK99-3-Stage-Under-Sink-Water-Filter.jpeg" "/img/bestFilter/FrizzLife-SK99-3-Stage-Under-Sink-Water-Filter.jpeg" >}}
 
 We all have a high standard when it comes to our drinking water. Frizzlife’s SK99 3-stage undersink certainly meets expectations and exceeds them in some categories. Right off the bat, we’re promised a 99.99% reduction of harmful contaminants.
 
@@ -87,7 +99,10 @@ Minerals with immune system boosting properties are not filtered out and it comp
 
 
 ### [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
+
 **Price: $815.98**
+
+{{< postImage "EZ-Connect" "/img/bestFilter/white-and-blue-pentair-whole-house-water-filters-pse500-p-64_100.jpg" "/img/bestFilter/white-and-blue-pentair-whole-house-water-filters-pse500-p-64_100.jpg" >}}
 
 Featuring a 2-in-one Compact Combo Series from The Pelican Company. The product offering is very positive to the extent of claiming to be of better quality and taste than bottled water.
 
@@ -98,15 +113,21 @@ A good reason to select this undersink filter is its removal of chlorine and chl
 
 We just had to include faucet filters. A faucet filter is a kitchen faucet with a mounted attachment that connects to your kitchen sink. This past year, new technologies of faucet filters have been a major trend. Outfitting a sink to a kitchen faucet provides great-tasting and clean faucet water.
 
-### [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/gp/product/B000EOOQPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOOQPW&linkCode=as2&tag=kri0eb-20&linkId=51cec17a3cf44714ca60d14df9d1ebdb)
+### [Brita Tap Water Filter System, Water Faucet Filtration System](https://amzn.to/3j6PKoY)
+
 **Price: $16.88**
+
+{{< postImage "Brita Tap Water Filter System" "/img/bestFilter/Brita-Tap-Water-FilterSystem.jpg" "/img/bestFilter/Brita-Tap-Water-FilterSystem.jpg" >}}
 
 Keep clean and great tasting water at your disposal with the critically acclaimed #1 Brand of water filtration in the world. Brita faucet mount filters 50 contaminants out of your tap, making your glass of water a sterile environment. With the addition of a one-click filter replacement, it’s simple to replace the water filter every 4 months. You’re no longer contributing to plastic bottle pollution and you’re saving money.
 
 Brita’s kitchen faucet water filter rarely ever leaks. The life span of a basic Brita filter guarantees 100 gallons of filtered tap water.
 
-### [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/gp/product/B01GABXWCK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GABXWCK&linkCode=as2&tag=kri0eb-20&linkId=29b057289585eebf1b35a4f9997b1ce7)
+### [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://amzn.to/3mX7Zyf)
+
 **Price: $19.88**
+
+{{< postImage "Waterdrop WD-FC-01" "/img/bestFilter/Waterdrop.jpg" "/img/bestFilter/Waterdrop.jpg" >}}
 
 Upgrade your kitchen faucet to a brand new water faucet filtration system. A standard faucet mount can be fitted to your nozzle with the right adapters. This certified kitchen sink water faucet filter removes fluoride, lead, and other contaminants.
 
