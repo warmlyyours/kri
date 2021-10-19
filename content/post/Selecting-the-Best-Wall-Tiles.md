@@ -33,7 +33,7 @@ Ceramic wall tiles and stone wall tiles can be arranged into beautiful design pa
 
 {{< postImage "Herringbone White Gallery Backsplash" "/img/bestWallTiles/herringbone_white_gallery_kitchen.webp" "/img/bestWallTiles/herringbone_white_gallery_kitchen-small.webp" >}}
 
-Herringbone White Wood Wall Tiles in Kitchen by [Urban Evolutions](https://urbanevolutions.com/?attachment_id=13746)
+Herringbone White Wood Wall Tiles in Kitchen by [Urban Evolutions](https://urbanevolutions.com/)
 
 ## Bringing It All Together
 

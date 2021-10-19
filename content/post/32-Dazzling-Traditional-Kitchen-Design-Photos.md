@@ -114,9 +114,9 @@ For any kitchen, installing trimmed crown molding where the wall meets the ceili
 
 Here’s a kitchen that houses a mix of the old and new, the traditional and modern, and the kitchen design does find a nice balance. A brass chandelier, checkered kitchen floor, mosaic kitchen range backsplash, and yellowed cabinets definitely herald the Victorian age.
 
-{{< postImage "Charlotte May" "/img/32Dazzling/pexels-charlotte-may-582448.webp" "/img/32Dazzling/pexels-charlotte-may-5824488-small.webp" >}}
+{{< postImage "Charlotte May" "/img/32Dazzling/pexels-charlotte-may-5824488.webp" "/img/32Dazzling/pexels-charlotte-may-5824488-small.webp" >}}
 
-This kitchen is the epitome of the ‘everyman’s kitchen as it’s highly optimized for efficiency. Hanging wall shelves and wall hooks make for practical countertop storage.
+This kitchen is the epitome of the 'everyman’s kitchen' as it’s highly optimized for efficiency. Hanging wall shelves and wall hooks make for practical countertop storage.
 
 {{< postImage "Ksenia Chernaya" "/img/32Dazzling/pexels-ksenia-chernaya-4740486.webp" "/img/32Dazzling/pexels-ksenia-chernaya-4740486-small.webp" >}}
 

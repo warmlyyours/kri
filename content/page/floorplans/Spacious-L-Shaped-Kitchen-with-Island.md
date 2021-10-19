@@ -39,8 +39,8 @@ floorplans:
 
 "A classic geometric Arts & Crafts piece with handcrafted art glass in shades of sapphire blue warm honey amber and cream."
 
-### [Wheeling Sale Barn - Antique Luncheon Plates:](https://www.ebay.com/itm/373437796770?hash=item56f2a091a2:g:ipgAAOSwvc9gDHX8)
+### [Wheeling Sale Barn:](http://www.wheelingsalebarn.com/gallery.html)
 
 {{< postImage "Wheeling Sale Barn - Antique Luncheon Plates" "/img/installationOptions/IP1529848-1/s-l1600.jpg" "/img/installationOptions/IP1529848-1/s-l1600.jpg" >}}
 
-"Set of 4 Vintage Spode 9 1/2" inch Scalloped Luncheon Copeland Rosebud Chintz."
+"We are a dealer-friendly business.  Our clientele consistently relies upon our efficient, responsive, and knowledgeable staff.  Our success is measured by our repeat business, reputation for integrity and excellence in customer service."

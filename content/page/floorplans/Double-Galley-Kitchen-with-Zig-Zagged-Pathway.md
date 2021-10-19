@@ -35,7 +35,7 @@ floorplans:
 
 "Black Soapstone is elegant, durable, and subtle in its beauty. Create exquisite black soapstone countertops, waterfall islands, floors, backsplashes, and accent walls throughout homes and commercial properties. Soapstone is durable, and easy to maintain, and its natural patina just adds to its character over time. These soapstone slabs are also suitable for exterior design projects."
 
-## [Luxury Vinyl Cork:](https://www.harriscork.com/luxury-vinyl-cork-collection/)
+## [Luxury Vinyl Cork:](https://www.harriscork.com/corkadvantage/)
 
 {{< postImage "Luxury Vinyl Cork" "/img/installationOptions/IP1512223-1200x899-1/vinyl-collection.jpg" "/img/installationOptions/IP1512223-1200x899-1/vinyl-collection.jpg" >}}
 

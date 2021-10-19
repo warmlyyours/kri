@@ -34,11 +34,13 @@ floorplans:
 
 "Fully assembled, brand new kitchen island without countertop. Has both side cabinets, including a trash/recycling disposal and two double-door cabinets with rollout tray for."
 
-## [22 Cu. Ft. Counter Depth Side by Side Refrigerator All-Around Cooling with Wi-Fi and Energy Star:](https://www.build.com/samsung-rs22t5201/s1713847?uid=4049666&searchId=CostLbsI5K)
+## [35-7/8 in. 22 cu. ft. Counter Depth, Side-By-Side, Full Refrigerator in Fingerprint Resistant Stainless Steel:](https://www.ferguson.com/product/samsung-35-78-in-22-cu-ft-counter-depth-side-by-side-full-refrigerator-in-fingerprint-resistant-stainless-steel-srs22t5201sraa/_/R-8326032)
 
-{{< postImage "22 Cu. Ft. Counter Depth Side by Side Refrigerator All-Around Cooling with Wi-Fi and Energy Star" "/img/installationOptions/IP1510607/22-Cu-Ft-Counter-Depth-Side-by-Side-Refrigerator-ALL-Around-Cooling-with-Wi-Fi-and-Energy-Star.jpg" "/img/installationOptions/IP1510607/22-Cu-Ft-Counter-Depth-Side-by-Side-Refrigerator-ALL-Around-Cooling-with-Wi-Fi-and-Energy-Star.jpg" >}}
+{{< postImage "22 Cu. Ft. Counter Depth Side by Side Refrigerator All-Around Cooling with Wi-Fi and Energy Star" "/img/installationOptions/IP1510607/Samsung-22-c-ft-Counter-Depth.webp" "/img/installationOptions/IP1510607/Samsung-22-c-ft-Counter-Depth.webp" >}}
 
-"22 Cu. Ft. Counter Depth Side by Side Refrigerator All-Around Cooling with Wi-Fi and Energy Star."
+* Built in Look with Counter Depth: Modern built-in look, that blends beautifully into your cabinetry
+* Fingerprint Resistant Finish: A finish that withstands everyday smudges, so you spend less time cleaning
+* All-Around Cooling: Multi-Air vents keep every item on every shelf evenly cooled
 
 ## [Sede Thunder Gray Walnut Swivel Counter Stool:](https://www.article.com/product/12917/sede-thunder-gray-walnut-swivel-counter-stool)
 

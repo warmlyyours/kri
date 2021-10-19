@@ -45,7 +45,7 @@ floorplans:
 - Covered by a limited lifetime warranty
 - Includes 1 pull
 
-## [Frigidaire® 4 Piece Stainless Steel Kitchen Package:](https://www.grandappliance.com/product/frigidaire-4-piece-stainless-steel-kitchen-package-fftr1821tsfcre3052asffmv1846vsffcd2413us-691409)
+## [Frigidaire® 4 Piece Stainless Steel Kitchen Package:](https://www.grandappliance.com/product/lg-4-piece-stainless-steel-kitchen-package-lrfvc2406sltg4715stlmv2031stldt7808ss-691441)
 
 {{< postImage "Frigidaire® 4 Piece Stainless Steel Kitchen Package" "/img/installationOptions/IP1512218-R2-1200x899-1/b6284bf2-34ab-4093-8f66-77584e79be5f.jpg" "/img/installationOptions/IP1512218-R2-1200x899-1/b6284bf2-34ab-4093-8f66-77584e79be5f.jpg" >}}
 

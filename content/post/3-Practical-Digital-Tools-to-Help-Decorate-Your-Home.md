@@ -2,7 +2,7 @@
 title: "3 Practical Digital Tools"
 subtitle: "to Help Decorate Your Home"
 date: 2020-01-29
-image: /img/3Tools/ember-radiant-panel-placed-using-houzz-app-445459.webp
+image: /img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.webp
 author: "Kitchen Remodel Ideas"
 tags:
 - Essentials
