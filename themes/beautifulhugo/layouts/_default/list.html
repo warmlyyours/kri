@@ -13,26 +13,36 @@
             {{ partial "post_preview.html" .}}
           {{ end }}
         </div>
-        <div class="row my-auto">
-          <div class="col p-3">
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-          <ul class="pager main-pager p-3" style="list-style-type: none;margin: 0;padding: 0;">
-            {{ if .Paginator.HasPrev }}
+        <div class="row my-auto">
+            {{ if eq .Paginator.PageNumber 2 }}
+            <div class="col p-3">
+            <ul class="pager main-pager p-3" style="list-style-type: none;margin: 0;padding: 0;">
+            <li class="previous d-flex align-items-center justify-content-start">
+              <a href="{{ .Permalink }}">&larr; {{ i18n "newerPosts" }}</a>
+            </li>
+          </ul>
+          </div>
+            {{ end }}
+            {{ if and (.Paginator.HasPrev) (ge .Paginator.PageNumber 3) }}
+            <div class="col my-auto p-3">
+            <ul class="pager main-pager p-3" style="list-style-type: none;margin: 0;padding: 0;">
               <li class="previous d-flex align-items-center justify-content-start">
                 <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
               </li>
               </ul>
             </div>
             {{ end }}
-            <div class="col p-3">
             {{ if .Paginator.HasNext }}
+            <div class="col my-auto p-3">
             <ul class="pager blog-pager p-3" style="list-style-type: none;margin: 0; padding: 0">
               <li class="next d-flex align-items-center justify-content-end">
                 <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}">{{ i18n "olderPosts" }} &rarr;</a>
               </li>
-            {{ end }}
+
           </ul>
           </div>
+        {{ end }}  
           </div>
         {{ end }}
       </div>
