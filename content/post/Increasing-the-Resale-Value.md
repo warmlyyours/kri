@@ -25,7 +25,7 @@ Now that you’ve made the big decision to put your house on the market, there a
 
 *Electrically heated, energy-efficient, quiet, and flexible:*
 
-- Electric [resistance cables](c) produce heat; Most people prefer cables embedded in a mat that ensures and even distribution of the heating cable in a serpentine loop.
+- Electric resistance cables produce heat; Most people prefer cables embedded in a mat that ensures and even distribution of the heating cable in a serpentine loop.
 - Can be installed with a [huge variety](https://www.warmup.com/blog/what-is-the-best-flooring-for-underfloor-heating) of finish flooring, including tile, marble, granite, and natural stone floors.
 - Heats the floor directly with nominal amounts of thermal radiation, rather than heat the air that can be less energy efficient because of heat-sinks, allowing the body to [retain heat](https://www.fcimag.com/articles/95136-the-ins-and-outs-of-electric-radiant-floor-heating) longer.
 - [Scheduled](https://www.warmlyyours.com/en-US/posts/How-to-Set-Up-your-nSpire-Touch-Thermostat-2733) to turn on and off to help save on energy costs.

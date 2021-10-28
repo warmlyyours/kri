@@ -26,13 +26,14 @@ floorplans:
 ## [Tempzone Flex Rolls:](https://www.warmlyyours.com/en-US/products/line/floor-heating-tempzone-flex-roll?referral_code=KRICOM)
 
 {{< postImage "Tempzone Flex Rolls" "/img/installationOptions/warmlyYours/tempzone-flex-roll-f1fd46.jpeg" "/img/installationOptions/warmlyYours/tempzone-flex-roll-f1fd46.jpeg" >}}
+
 "Hard flooring surfaces can be cold underfoot any time of year, but are especially so when the weather gets cooler. Who wouldn't enjoy the comfort of a WarmlyYours radiant in-floor heating system in their home?"
 
-## [Small Single Basin Kitchen Island With Sink(Faucet Include):](http://www.savingfaucet.com/small-single-basin-kitchen-island-with-sinkfaucet-include-p-58.html)
+## [Kohler Vault 15 Drop In or Undermount Single Basin Stainless Steel Bar Sink:](https://www.build.com/product/summary/561266)
 
-{{< postImage "Small Single Basin Kitchen Island With Sink(Faucet Include)" "/img/installationOptions/IP1512353-1200x899-1/Small-Single-Basin-Kitchen-Island-With-SinkFaucet-Include-SVF16312-1.jpg" "/img/installationOptions/IP1512353-1200x899-1/Small-Single-Basin-Kitchen-Island-With-SinkFaucet-Include-SVF16312-1.jpg" >}}
+{{< postImage "Kohler Vault 15 Drop In or Undermount Single Basin Stainless Steel Bar Sink with Sink Rack and Three Faucet Holes" "/img/installationOptions/IP1512353-1200x899-1/kohler-Vault-15-Drop-In-or-Undermount-Sink.jpg" "/img/installationOptions/IP1512353-1200x899-1/kohler-Vault-15-Drop-In-or-Undermount-Sink.jpg" >}}
 
-"Single basin kitchen sink used stainless steel material and has a kitchen faucet, opening size is 53*39cm."
+"Entertain in style with the new Vault entertainment sink. This innovative dual-mount sink can be installed as either a self-rimming (above the countertop) or undercounter sink. When installed in a self-rimming application, the Vault fabricated entertainment sink features a low-profile 1.25mm rim, which provides a flush-mount functionality and makes it easier to wipe debris from the countertop directly into the sink basin than a typical self-rimming sink.9" deep basins and tight corner radii maximize usable basin space, offering plenty of room to place glassware or rinse vegetables. The clean, modern lines coordinate beautifully with the Vault line of kitchen sinks or a wide variety of other Kohler kitchen sink designs."
 
 ## [Range Hood Cabinet w/Center Stile:](https://www.cabinetjoint.com/rta-cabinets/wall-cabinets/#)
 
