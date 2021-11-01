@@ -76,7 +76,7 @@ Paneling your fridge to house a modern energy-saving refrigerator creates a fric
 
 {{< break >}}
 
-## [Radiant panels ](https://www.warmlyyours.com/en-US/radiant-panel) for your kitchen floors
+## [Radiant panels for your kitchen floors](https://www.warmlyyours.com/en-US/radiant-panel)
 
 {{< break >}}
 
