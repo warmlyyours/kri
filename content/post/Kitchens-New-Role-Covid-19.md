@@ -44,7 +44,7 @@ A puzzle table can provide a surface for working but you will still need a place
 
 When we talk about card tables, we aren’t talking about the ones at the casino. If you live in a house where at any given time the kitchen is packed, a card table is a perfect solution for a functional temporary work or learning space. Since it may become a semi-permanent fixture, we recommend something that’s functional and beautiful. There are many options to fit your kitchen style. For a more upscale look, we recommend the Meco Stakmore [card table](https://www.amazon.com/gp/product/B0007IIJQM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0007IIJQM&linkCode=as2&tag=kri0eb-20&linkId=c25e4b526955457c62192839d04df510). It's durable and lightly brushed with a stunning cherry finish. It quickly folds up at the end of the day so that you can reclaim your kitchen space for mealtime, entertaining, almost anything!
 
-# Work, Eat and Play Comfortably
+## Work, Eat and Play Comfortably
 
 Now that the national consensus is to stay at home and wait out the coronavirus, ideally, your kitchen is a warm and welcoming place from all the uncertainty and potential stress that comes with the changes we’ve all had to make to keep our families safe. If you find yourself dreading the time you are spending in your kitchen due to uncomfortable temperatures, go for the option of adding a wall-mounted radiant panel to bathe your kitchen in radiant warmth. You could go for that during the fall and winter seasons.
 

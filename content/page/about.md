@@ -2,7 +2,7 @@
 title: About Us
 date: 2021-05-13
 ---
-# Earnesty Guaranteed
+## Earnesty Guaranteed
 
 {{< break >}}
 

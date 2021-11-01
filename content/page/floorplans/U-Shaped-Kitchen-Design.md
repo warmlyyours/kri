@@ -31,7 +31,7 @@ floorplans:
 
 ## [Viking - Professional 5 Series Quiet Cool 29.1 Cu. Ft. Side-by-Side Built-In Refrigerator - Stainless steel:](https://www.bestbuy.com/site/viking-professional-5-series-quiet-cool-29-1-cu-ft-side-by-side-built-in-refrigerator-stainless-steel/7742069.p?skuId=7742069)
 
-{{< postImage "Viking - Professional 5 Series Quiet Cool 29.1 Cu. Ft. Side-by-Side Built-In Refrigerator - Stainless steel" "/img/installationOptions/IP1530543/7742069_sd.jpg;maxHeight=640;maxWidth=550.jpeg" "/img/installationOptions/IP1530543/7742069_sd.jpg;maxHeight=640;maxWidth=550.jpeg" >}}
+{{< postImage "Viking - Professional 5 Series Quiet Cool 29.1 Cu. Ft. Side-by-Side Built-In Refrigerator - Stainless steel" "/img/installationOptions/IP1530543/7742069.jpeg" "/img/installationOptions/IP1530543/7742069.jpeg" >}}
 
 "Store food consistently with the even temperatures in this Viking side-by-side refrigerator. Electronic controls ensure precise temperatures and a digital readout lets you monitor performance.
 

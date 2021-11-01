@@ -37,7 +37,7 @@ floorplans:
 
 ### [LG - 28" Class LED HD TV:](https://www.bestbuy.com/site/lg-28-class-led-hd-tv/6337625.p?skuId=6337625)
 
-{{< postImage "LG - 28 Class LED HD TV" "/img/installationOptions/IP1529659/6337625_sd.jpg;maxHeight=640;maxWidth=550.jpeg" "/img/installationOptions/IP1529659/6337625_sd.jpg;maxHeight=640;maxWidth=550.jpeg" >}}
+{{< postImage "LG - 28 Class LED HD TV" "/img/installationOptions/IP1529659/6337625.jpeg" "/img/installationOptions/IP1529659/6337625.jpeg" >}}
 
 * HD Display
 * HDMI

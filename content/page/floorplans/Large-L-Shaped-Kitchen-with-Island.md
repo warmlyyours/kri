@@ -30,7 +30,7 @@ floorplans:
 
 ## [Insignia™ - 22" Class - LED - 1080p - HDTV:](https://www.bestbuy.com/site/insignia-22-class-led-1080p-hdtv/6260936.p?skuId=6260936)
 
-{{< postImage "Insignia™ - 22 Class - LED - 1080p - HDTV" "/img/installationOptions/IP1511950-1200x899-1/6260936_sd.jpg;maxHeight=640;maxWidth=550.jpeg" "/img/installationOptions/IP1511950-1200x899-1/6260936_sd.jpg;maxHeight=640;maxWidth=550.jpeg" >}}
+{{< postImage "Insignia™ - 22 Class - LED - 1080p - HDTV" "/img/installationOptions/IP1511950-1200x899-1/6260936.jpeg" "/img/installationOptions/IP1511950-1200x899-1/6260936.jpeg" >}}
 
 "Enjoy increased clarity when watching your favorite shows on this 22-inch Insignia TV. The LED screen boosts color accuracy while providing a crisp HD viewing experience, and the 60Hz refresh rate maintains consistent frames to keep you immersed in scenes. This Insignia TV has two HDMI slots and a USB port for gaming consoles, DVD players and streaming devices."
 
