@@ -85,11 +85,6 @@ summaryLength = 50
   #slack = "username"
 
 [[menu.main]]
-    url = "kitchen-design-gallery/"
-    name = "Design Gallery Redirect"
-    weight = 4
-
-[[menu.main]]
     identifier = "Blog"
     name = "Blog"
     weight = 1
