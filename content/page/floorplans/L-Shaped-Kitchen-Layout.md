@@ -2,7 +2,7 @@
 title: L Shaped Kitchen Layout
 date: "2021-03-05"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1520651_R1-1200x1263-1.jpg
+image:  /img/floorPlans/IP1520651_R1-1200x1263-1.jpg
 floorplans:
 - L Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "L Shaped Kitchen Layout" "img/floorPlans/IP1520651_R1-1200x1263-1.jpg" "img/floorPlans/IP1520651_R1-1200x1263-1.jpg" >}}
+{{< postImage "L Shaped Kitchen Layout" "/img/floorPlans/IP1520651_R1-1200x1263-1.jpg" "/img/floorPlans/IP1520651_R1-1200x1263-1.jpg" >}}
 
 ## Installation Options:
 

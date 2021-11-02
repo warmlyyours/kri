@@ -2,7 +2,7 @@
 title: "L Shaped Compact Kitchen Floor Plan"
 date: 2021-08-20T12:44:53-05:00
 draft: false
-image: img/floorPlans/IP1529839.jpg
+image: /img/floorPlans/IP1529839.jpg
 author: Kitchen Remodel Ideas
 floorplans:
 - L Shaped
@@ -18,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "L Shaped Compact Kitchen Floor Plan" "img/floorPlans/IP1529839.jpg" "img/floorPlans/IP1529839.jpg" >}}
+{{< postImage "L Shaped Compact Kitchen Floor Plan" "/img/floorPlans/IP1529839.jpg" "/img/floorPlans/IP1529839.jpg" >}}
 
 ## Installation Options:
 

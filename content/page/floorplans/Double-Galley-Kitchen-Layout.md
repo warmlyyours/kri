@@ -2,7 +2,7 @@
 title: Double Galley Kitchen Layout
 date: "2020-10-02"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1515306-1200x899-1.jpg
+image:  /img/floorPlans/IP1515306-1200x899-1.jpg
 floorplans:
 - Double Galley
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Double Galley Kitchen Layout" "img/floorPlans/IP1515306-1200x899-1.jpg" "img/floorPlans/IP1515306-1200x899-1.jpg" >}}
+{{< postImage "Double Galley Kitchen Layout" "/img/floorPlans/IP1515306-1200x899-1.jpg" "/img/floorPlans/IP1515306-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

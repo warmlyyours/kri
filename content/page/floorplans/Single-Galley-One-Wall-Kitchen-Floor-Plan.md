@@ -2,7 +2,7 @@
 title: Single Galley One Wall Kitchen
 date: "2020-08-27"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1529383.jpg
+image:  /img/floorPlans/IP1529383.jpg
 floorplans:
 - Single Galley
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Single Galley One Wall Kitchen Floor Plan" "img/floorPlans/IP1529383.jpg" "img/floorPlans/IP1529383.jpg" >}}
+{{< postImage "Single Galley One Wall Kitchen Floor Plan" "/img/floorPlans/IP1529383.jpg" "/img/floorPlans/IP1529383.jpg" >}}
 
 ## Installation Options:
 

@@ -2,7 +2,7 @@
 title: U Shaped Kitchen and Kitchenette
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1511048-scaled.jpg
+image:  /img/floorPlans/IP1511048-scaled.jpg
 floorplans:
 - U Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "U Shaped Kitchen and Kitchenette" "img/floorPlans/IP1511048-scaled.jpg" "img/floorPlans/IP1511048-scaled.jpg" >}}
+{{< postImage "U Shaped Kitchen and Kitchenette" "/img/floorPlans/IP1511048-scaled.jpg" "/img/floorPlans/IP1511048-scaled.jpg" >}}
 
 ## Installation Options:
 

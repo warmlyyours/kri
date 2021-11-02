@@ -2,7 +2,7 @@
 title: L Shaped Concrete Subfloor
 date: "2020-09-02"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1514505-1200x899-1.jpg
+image:  /img/floorPlans/IP1514505-1200x899-1.jpg
 floorplans:
 - L Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "L Shaped Concrete Subfloor" "img/floorPlans/IP1514505-1200x899-1.jpg" "img/floorPlans/IP1514505-1200x899-1.jpg" >}}
+{{< postImage "L Shaped Concrete Subfloor" "/img/floorPlans/IP1514505-1200x899-1.jpg" "/img/floorPlans/IP1514505-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

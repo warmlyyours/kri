@@ -2,7 +2,7 @@
 title: New Hampton Island Floor Plan
 date: "2020-08-28"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1514150-R1-1200x899-1.jpg
+image:  /img/floorPlans/IP1514150-R1-1200x899-1.jpg
 floorplans:
 - Single Galley
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "New Hampton Kitchen Floor Plan with Island" "img/floorPlans/IP1514150-R1-1200x899-1.jpg" "img/floorPlans/IP1514150-R1-1200x899-1.jpg" >}}
+{{< postImage "New Hampton Kitchen Floor Plan with Island" "/img/floorPlans/IP1514150-R1-1200x899-1.jpg" "/img/floorPlans/IP1514150-R1-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

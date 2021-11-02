@@ -2,7 +2,7 @@
 title: Single Galley California Kitchen
 date: "2020-08-03"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1511082-1200x899-1.jpg
+image:  /img/floorPlans/IP1511082-1200x899-1.jpg
 floorplans:
 - Single Galley
 ---
@@ -18,7 +18,7 @@ floorplans:
 >> **Voltage:** 120 V
 
 
-{{< postImage "Single Galley California Kitchen" "img/floorPlans/IP1511082-1200x899-1.jpg" "img/floorPlans/IP1511082-1200x899-1.jpg" >}}
+{{< postImage "Single Galley California Kitchen" "/img/floorPlans/IP1511082-1200x899-1.jpg" "/img/floorPlans/IP1511082-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

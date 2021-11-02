@@ -2,7 +2,7 @@
 title: U Shaped Kitchen Island Makeover
 date: "2020-09-09"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1521044-1200x774-1.jpg
+image:  /img/floorPlans/IP1521044-1200x774-1.jpg
 floorplans:
 - U Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "U Shaped Kitchen Island Makeover" "img/floorPlans/IP1521044-1200x774-1.jpg" "img/floorPlans/IP1521044-1200x774-1.jpg" >}}
+{{< postImage "U Shaped Kitchen Island Makeover" "/img/floorPlans/IP1521044-1200x774-1.jpg" "/img/floorPlans/IP1521044-1200x774-1.jpg" >}}
 
 ## Installation Options:
 

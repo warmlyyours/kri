@@ -2,7 +2,7 @@
 title: Large L Shaped Kitchen with Island
 date: "2020-08-06"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1511950-1200x899-1.jpg
+image:  /img/floorPlans/IP1511950-1200x899-1.jpg
 floorplans:
 - L Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Large L Shaped Kitchen with Island" "img/floorPlans/IP1511950-1200x899-1.jpg" "img/floorPlans/IP1511950-1200x899-1.jpg" >}}
+{{< postImage "Large L Shaped Kitchen with Island" "/img/floorPlans/IP1511950-1200x899-1.jpg" "/img/floorPlans/IP1511950-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

@@ -2,7 +2,7 @@
 title: Double Galley Zig-Zagged Path
 date: "2020-08-19"
 author: Kitchen Remodel Ideas
-image:  img/floorPlans/IP1512223-1200x899-1.jpg
+image:  /img/floorPlans/IP1512223-1200x899-1.jpg
 floorplans:
 - Double Galley
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Double Galley Zig-Zagged Path" "img/floorPlans/IP1512223-1200x899-1.jpg" "img/floorPlans/IP1512223-1200x899-1.jpg" >}}
+{{< postImage "Double Galley Zig-Zagged Path" "/img/floorPlans/IP1512223-1200x899-1.jpg" "/img/floorPlans/IP1512223-1200x899-1.jpg" >}}
 
 ## Installation Options:
 
