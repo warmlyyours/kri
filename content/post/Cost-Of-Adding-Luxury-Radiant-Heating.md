@@ -3,6 +3,7 @@ title: Cost of Luxury Radiant Heating
 date: 2020-11-12
 author: Kitchen Remodel Ideas
 image: /img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp
+description: "What is the cost of adding luxury radiant heating in a kitchen? Before we discuss the average cost of radiantly heating a home, let’s first discuss what exactly is radiant heating? Think of it as an electric heating blanket for your floor. It’s a heating cable sewn onto a fiberglass mesh that spans the area to cover from wall to wall. The heating element is installed over the subfloor. Then, flooring, like tile, is placed on top of the heating system. This technology results in better room temperatures, better home relaxation, and better energy efficiency. It just makes everything better."
 tags:
   - Countertops
   - Flooring

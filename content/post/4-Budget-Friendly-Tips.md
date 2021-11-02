@@ -3,6 +3,7 @@ title: 4 Budget Friendly Remodeling Ideas
 date: 2020-10-12
 author: "Kitchen Remodel Ideas"
 image: /img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp
+description: "The housing market has seen a positive change due to the Coronavirus Pandemic. A surprisingly adverse outcome occurred when middle and upper-income housing prices were appreciated by 5% this quarter. As a result of increased home values combined with high unemployment, a large number of homeowners are opting to list their homes on the market in the hopes of getting a maximum return on their investment. And, with interest rates at an all-time low, a perfect storm has resulted in potential new homeowners entering the market..."
 tags:
 - Essentials
 - Cabinets

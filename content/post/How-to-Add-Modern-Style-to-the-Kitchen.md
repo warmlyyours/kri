@@ -2,6 +2,7 @@
 title: How to Add Modern Style
 date: "2020-03-26"
 author: Samantha Velez
+description: "Remodeling a somewhat dated kitchen with a new style keeps the magic going, right? Adding a more modern touch to your kitchen can reinvigorate your family gathering area and even you! Take charge and with a few simple changes you can refresh your kitchen, and catch up with the most recent trends in home design. Consider including the following modern kitchen style trends to your home:"
 tags:
 - Flooring
 - Essentials

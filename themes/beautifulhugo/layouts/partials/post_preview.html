@@ -22,7 +22,7 @@
     </p>
     <div class="post-entry">
         {{ if .Truncated }}
-        {{ .Summary }}
+        {{ .Description }}
         <a href="{{ .Permalink | absURL }}" style="margin-top: 20px;" class="post-read-more">[{{ i18n "readMore" }}]</a>
         {{ else }}
         {{ .Content }}
@@ -30,9 +30,9 @@
     </div>
 
     {{ if .Params.tags }}
-    <div class="blog-tags" style="color: #333">
+    <div class="blog-tags">
         {{ range .Params.tags }}
-        <a style="color: #112b3c" href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+        <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
         {{ end }}
     </div>
     {{ end }}

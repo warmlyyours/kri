@@ -3,6 +3,7 @@ title: How to Refinish Bamboo Flooring
 date: 2020-02-07
 image: /img/bambooFlooring/537394176_3e0cbfec31_b.jpg
 author: Kitchen Remodel Ideas
+description: "Bamboo flooring is an absolutely gorgeous and unique alternative to a hardwood floor, giving an interesting feeling to the floor for modern, spatially aware kitchens. Even though this widely celebrated type of flooring is sourced from undoubtedly strong and light bamboo plants, scuff marks and surface scratches may still present themselves over time."
 tags:
   - Flooring
 ---

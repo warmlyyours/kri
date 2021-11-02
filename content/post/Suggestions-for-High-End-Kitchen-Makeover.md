@@ -4,6 +4,7 @@ subtitle: On a Budget
 date: 2020-09-15
 author: Kitchen Remodel Ideas
 image: /img/kitchenMakeover/pastedimage1.webp
+description: "Budgeting is often a major priority when dealing with any home renovation, and kitchens are no exception but the rule. Out of the thousands of kitchen remodeling renovations done this past year, the average cost for materials, plumbing, lighting fixtures, and more, ranged from $13,000 to $40,000 according to HomeAdvisor."
 tags:
   - Essentials
 ---

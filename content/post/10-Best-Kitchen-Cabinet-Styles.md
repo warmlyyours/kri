@@ -2,6 +2,7 @@
 title: "10 Best Kitchen Cabinet Styles"
 date: 2019-11-21
 author: "Kitchen Remodel Ideas"
+description: "There's more than one way to update your kitchen's style than by setting up a couple decorations. Here we will share 10 kitchen cabinet styles to integrate to within your home. Once the options are clearer, you want to make sure to reach out about a specific cabinet design at a local home improvement store."
 tags:
 - Cabinets
 - Furniture

@@ -3,6 +3,7 @@ title: Increasing Your Resale Value
 date: 2020-10-02
 author: Kitchen Remodel Ideas
 image: /img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp
+description: "Now that you’ve made the big decision to put your house on the market, there are a variety of ways you could increase your home’s resale value, this blog begins our in-depth tour of radiant floor heating systems. We’ll begin with the basics: what is floor heating, how does it work, and where can I find floor heating products. All throughout, you will learn both how to substantially boost your home’s value, and how to provide comfortable supplemental heat with radiant energy."
 tags:
   - Flooring
 ---

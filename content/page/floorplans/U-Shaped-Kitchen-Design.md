@@ -3,6 +3,7 @@ title: U Shaped Kitchen Design
 date: "2020-02-05"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530543.jpg
+description: "Kitchen Shape: U Shaped - Flooring: Resilients, Vinyl and Luxury Vinyl Tile (LVT) - Subfloor: Existing Concrete Slab - Insulation Surface: 207 sq. ft. - Voltage: 240 V"
 floorplans:
 - U Shaped
 ---

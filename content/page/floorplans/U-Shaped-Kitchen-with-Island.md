@@ -3,6 +3,7 @@ title: U Shaped Kitchen with Island
 date: "2021-01-08"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1512353-1200x899-1.jpg
+description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 196 sq. ft. - Voltage: 120 V"
 floorplans:
 - U Shaped
 ---

@@ -3,6 +3,7 @@ title: Is Laminate Waterproof?
 subtitle: What you seriously need to know.
 date: 2019-12-04
 author: Kitchen Remodel Ideas
+description: "Flooring is very very important and when winter rolls around, homeowners ought  to be concerned about spills and even the occasional leak. Naturally, waterproof options are the most durable choice. The big question on everyone's mind is Can laminate be waterproof? and to be honest 'cause that's our job the answer is no."
 tags:
   - Flooring
   - Essentials

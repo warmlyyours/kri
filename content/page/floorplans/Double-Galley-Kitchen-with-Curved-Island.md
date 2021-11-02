@@ -3,6 +3,7 @@ title: Double Galley Curved Island
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1512218-R2-1200x899-1.jpg
+description: "Kitchen Shape: Double Galley - Flooring: Resilients, Vinyl and Luxury Vinyl Tile (LVT) - Subfloor: Wood - Insulation Surface: 303 sq. ft. - Voltage: 240 V"
 floorplans:
 - Double Galley
 ---
