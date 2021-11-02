@@ -2,7 +2,7 @@
 title: U Shaped Kitchen with Island
 date: "2021-01-08"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1512353-1200x899-1.jpg
+image:  img/floorPlans/IP1512353-1200x899-1.jpg
 floorplans:
 - U Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "U Shaped Kitchen with Island" "/img/floorPlans/IP1512353-1200x899-1.jpg" "/img/floorPlans/IP1512353-1200x899-1.jpg" >}}
+{{< postImage "U Shaped Kitchen with Island" "img/floorPlans/IP1512353-1200x899-1.jpg" "img/floorPlans/IP1512353-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

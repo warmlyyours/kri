@@ -2,7 +2,7 @@
 title: Modern U Shaped Kitchen Floor Plan
 date: "2020-09-18"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1520259-1200x1043-1.jpg
+image:  img/floorPlans/IP1520259-1200x1043-1.jpg
 floorplans:
 - U Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Modern U Shaped Kitchen Floor Plan" "/img/floorPlans/IP1520259-1200x1043-1.jpg" "/img/floorPlans/IP1520259-1200x1043-1.jpg" >}}
+{{< postImage "Modern U Shaped Kitchen Floor Plan" "img/floorPlans/IP1520259-1200x1043-1.jpg" "img/floorPlans/IP1520259-1200x1043-1.jpg" >}}
 
 ## Installation Options:
 

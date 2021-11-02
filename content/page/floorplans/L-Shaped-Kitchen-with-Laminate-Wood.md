@@ -2,7 +2,7 @@
 title: L Shaped Kitchen with Laminate Wood
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1512364-1200x899-2.jpg
+image:  img/floorPlans/IP1512364-1200x899-2.jpg
 floorplans:
 - L Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "L Shaped Kitchen with Laminate Wood" "/img/floorPlans/IP1512364-1200x899-2.jpg" "/img/floorPlans/IP1512364-1200x899-2.jpg" >}}
+{{< postImage "L Shaped Kitchen with Laminate Wood" "img/floorPlans/IP1512364-1200x899-2.jpg" "img/floorPlans/IP1512364-1200x899-2.jpg" >}}
 
 ## Installation Options:
 

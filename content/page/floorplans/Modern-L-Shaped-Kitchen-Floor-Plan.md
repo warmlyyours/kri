@@ -2,7 +2,7 @@
 title: Modern L Shaped Kitchen Floor Plan
 date: "2020-09-15"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1520368-R1-1200x1000-1.jpg
+image:  img/floorPlans/IP1520368-R1-1200x1000-1.jpg
 floorplans:
 - L Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "Modern L Shaped Kitchen Floor Plan" "/img/floorPlans/IP1520368-R1-1200x1000-1.jpg" "/img/floorPlans/IP1520368-R1-1200x1000-1.jpg" >}}
+{{< postImage "Modern L Shaped Kitchen Floor Plan" "img/floorPlans/IP1520368-R1-1200x1000-1.jpg" "img/floorPlans/IP1520368-R1-1200x1000-1.jpg" >}}
 
 ## Installation Options:
 

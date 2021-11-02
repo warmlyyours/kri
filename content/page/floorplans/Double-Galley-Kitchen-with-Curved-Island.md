@@ -2,7 +2,7 @@
 title: Double Galley Curved Island
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1512218-R2-1200x899-1.jpg
+image:  img/floorPlans/IP1512218-R2-1200x899-1.jpg
 floorplans:
 - Double Galley
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Double Galley Kitchen with Curved Island" "/img/floorPlans/IP1512218-R2-1200x899-1.jpg" "/img/floorPlans/IP1512218-R2-1200x899-1.jpg" >}}
+{{< postImage "Double Galley Kitchen with Curved Island" "img/floorPlans/IP1512218-R2-1200x899-1.jpg" "img/floorPlans/IP1512218-R2-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

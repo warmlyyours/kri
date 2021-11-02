@@ -2,7 +2,7 @@
 title: Minimalist U Shaped Kitchen
 date: "2020-08-25"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1513946-1200x899-1.jpg
+image:  img/floorPlans/IP1513946-1200x899-1.jpg
 floorplans:
 - U Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "Minimalist U Shaped Kitchen" "/img/floorPlans/IP1513946-1200x899-1.jpg" "/img/floorPlans/IP1513946-1200x899-1.jpg" >}}
+{{< postImage "Minimalist U Shaped Kitchen" "img/floorPlans/IP1513946-1200x899-1.jpg" "img/floorPlans/IP1513946-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

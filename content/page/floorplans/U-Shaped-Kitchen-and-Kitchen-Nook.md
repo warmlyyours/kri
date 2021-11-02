@@ -2,7 +2,7 @@
 title: U Shaped Kitchen and Kitchen Nook
 date: "2020-08-21"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1513684-R4-1200x899-1.jpg
+image:  img/floorPlans/IP1513684-R4-1200x899-1.jpg
 floorplans:
 - U Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "U Shaped Kitchen and Kitchen Nook" "/img/floorPlans/IP1513684-R4-1200x899-1.jpg" "/img/floorPlans/IP1513684-R4-1200x899-1.jpg" >}}
+{{< postImage "U Shaped Kitchen and Kitchen Nook" "img/floorPlans/IP1513684-R4-1200x899-1.jpg" "img/floorPlans/IP1513684-R4-1200x899-1.jpg" >}}
 
 ## Installation Options:
 

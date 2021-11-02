@@ -2,7 +2,7 @@
 title: L Shaped Kitchen and Mudroom
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1510306_X2-scaled.jpg
+image:  img/floorPlans/IP1510306_X2-scaled.jpg
 floorplans:
 - L Shaped
 ---
@@ -17,7 +17,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "L Shaped Kitchen and Mudroom" "/img/floorPlans/IP1510306_X2-scaled.jpg" "/img/floorPlans/IP1510306_X2-scaled.jpg" >}}
+{{< postImage "L Shaped Kitchen and Mudroom" "img/floorPlans/IP1510306_X2-scaled.jpg" "img/floorPlans/IP1510306_X2-scaled.jpg" >}}
 
 ## Installation Options:
 
