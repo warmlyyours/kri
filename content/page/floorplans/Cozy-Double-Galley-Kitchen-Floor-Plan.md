@@ -3,7 +3,7 @@ title: Cozy Double Galley Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 165 sq. ft. - Voltage: 120 V"
-image:  /img/floorPlans/IP1530670.jpg
+image:  /img/floorPlans/IP1530670-v2.jpg
 floorplans:
 - Double Galley
 ---
@@ -18,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "Cozy Double Galley Kitchen Floor Plan" "/img/floorPlans/IP1530670.jpg" "/img/floorPlans/IP1530670.jpg" >}}
+{{< postImage "Cozy Double Galley Kitchen Floor Plan" "/img/floorPlans/IP1530670-v2.jpg" "/img/floorPlans/IP1530670-v2.jpg" >}}
 
 ## Installation Options:
 

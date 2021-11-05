@@ -2,7 +2,7 @@
 title: Small L Shaped Kitchen
 date: "2021-06-04"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1519351.jpg
+image:  /img/floorPlans/IP1519351-R1-v2.jpg
 description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 86 sq. ft. - Voltage: 120 V"
 floorplans:
 - L Shaped
@@ -18,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "Small 11X7 L Shaped Kitchen Floor Plan" "/img/floorPlans/IP1519351.jpg" "/img/floorPlans/IP1519351.jpg" >}}
+{{< postImage "Small 11X7 L Shaped Kitchen Floor Plan" "/img/floorPlans/IP1519351-R1-v2.jpg" "/img/floorPlans/IP1519351-R1-v2.jpg" >}}
 
 ## Installation Options:
 

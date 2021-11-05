@@ -2,7 +2,7 @@
 title: U Shaped Kitchen Design
 date: "2020-02-05"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1530543.jpg
+image:  /img/floorPlans/IP1530543-v2.jpg
 description: "Kitchen Shape: U Shaped - Flooring: Resilients, Vinyl and Luxury Vinyl Tile (LVT) - Subfloor: Existing Concrete Slab - Insulation Surface: 207 sq. ft. - Voltage: 240 V"
 floorplans:
 - U Shaped
@@ -18,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "U Shaped Kitchen Design" "/img/floorPlans/IP1530543.jpg" "/img/floorPlans/IP1530543.jpg" >}}
+{{< postImage "U Shaped Kitchen Design" "/img/floorPlans/IP1530543-v2.jpg" "/img/floorPlans/IP1530543-v2.jpg" >}}
 
 ## Installation Options:
 
@@ -46,7 +46,7 @@ Bright LED lights make it easy to see ingredients in this unit, and ramp-on thea
 
 ### [1-1/2"x 25" x 8' American Walnut Countertop:](https://www.llflooring.com/p/williamsburg-butcher-block-co.-1-1-2-inchx-25-inch-x-8-foot-american-walnut-countertop-10024193.html?ogmap=PLA%7CACQ%7CGOOG%7CSTND%7Cc%7CBUTCHERBLOCK%7C%7C%7Bcampaign_name%7D%7C%7Badgroup%7D%7C%7C8739323165%7C85415238662&gclsrc=aw.ds&gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxNQ8Mc00qRr1KE24gKqy4Qg3jSKsHiKNjkLzlxXB1rsX7XFioymCYaAmR_EALw_wcB&gclsrc=aw.ds)
 
-{{< postImage "1-1/2x 25 x 8 American Walnut Countertop" "/img/installationOptions/IP1530543/10024193_sw.jpg" "/img/installationOptions/IP1530543/10024193_sw.jpg" >}}
+{{< postImage "1-1/2x 25 x 8 American Walnut Countertop" "/img/installationOptions/IP1530543/10024193-v2.jpg" "/img/installationOptions/IP1530543/10024193-v2.jpg" >}}
 "Form meets function in kitchens that have butcher block countertops by Williamsburg Butcher Block Company.  The close grain provides a smooth surface, easily cleaned and cared for.
 Williamsburg Butcher Blocks are sold unfinished. 
 

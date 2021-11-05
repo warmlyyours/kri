@@ -2,7 +2,7 @@
 title: Spacious L Shaped Kitchen
 date: "2021-04-23"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1529848-1.jpg
+image:  /img/floorPlans/IP1529848-v2.jpg
 description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 215 sq. ft. - Voltage: 240 V"
 floorplans:
 - L Shaped
@@ -18,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Spacious L Shaped Kitchen with Island" "/img/floorPlans/IP1529848-1.jpg" "/img/floorPlans/IP1529848-1.jpg" >}}
+{{< postImage "Spacious L Shaped Kitchen with Island" "/img/floorPlans/IP1529848-v2.jpg" "/img/floorPlans/IP1529848-v2.jpg" >}}
 
 ## Installation Options:
 

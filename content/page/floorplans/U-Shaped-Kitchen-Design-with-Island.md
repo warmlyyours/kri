@@ -2,7 +2,7 @@
 title: U-Shaped Kitchen Design with Island
 date: "2021-07-23"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1529279-R1.jpg
+image:  /img/floorPlans/IP1529279-R1-v2.jpg
 description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 298 sq. ft. - Voltage: 240 V"
 floorplans:
 - U shaped
@@ -18,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "U Shaped Kitchen Design with Island" "/img/floorPlans/IP1529279-R1.jpg" "/img/floorPlans/IP1529279-R1.jpg" >}}
+{{< postImage "U Shaped Kitchen Design with Island" "/img/floorPlans/IP1529279-R1-v2.jpg" "/img/floorPlans/IP1529279-R1-v2.jpg" >}}
 
 ## Installation Options:
 
