@@ -4,7 +4,7 @@ subtitle: "for Kitchen Remodeling Inspiration"
 date: 2020-02-28
 image: /img/5Blogs/inspirational-blogs-for-remodeling-ideas.webp
 author: "Kitchen Remodel Ideas"
-description: "As the freeze begins to thaw the frozen tundra we call winter, now has never been a more opportune time to start a remodeling project. Spring is coming soon and the days are growing longer, if you have kids during the springtime, you can muster a small army of volunteers over the weekend to help you out. Millions of people across the world take the opportunity to begin organizing and decluttering from their hibernate states as the snow begins to melt."
+description: "As the freeze begins to thaw the frozen tundra we call winter, now has never been a more opportune time to start a remodeling project."
 tags:
 - Essentials
 ---

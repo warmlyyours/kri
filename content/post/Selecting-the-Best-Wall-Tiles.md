@@ -2,7 +2,7 @@
 title: Selecting the Best Wall Tiles
 date: 2020-06-24
 author: Kitchen Remodel Ideas
-description: "Picture yourself finding a charming mid-century modern with three bedrooms and two baths. The real estate agent guides you through a spacious living room with high ceilings and plenty of room over the hooded range and sink. You glide through some of the coolest rooms you’ve ever been in and you can’t wait to call the owner to put in an offer. Everything is perfect until you get to the kitchen and all of a sudden it’s “Hello 70’s”! Nobody likes an outdated kitchen design."
+description: "Picture yourself finding a charming mid-century modern with three bedrooms and two baths. The real estate agent guides you through a spacious..."
 tags:
   - Wall Tiles
 image: /img/bestWallTiles/herringbone_white_gallery_kitchen.webp

@@ -1,6 +1,7 @@
 ---
 title: About Us
 date: 2021-05-13
+description: "Detailed support documentation explaining the genuine subjective and objective KRI exclusive confession taking a closer look at the complete package."
 ---
 ## Earnesty Guaranteed
 

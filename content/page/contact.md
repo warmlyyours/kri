@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 date: 2021-05-13
+description: "Don't waste any time feeling like an idiot. Now is the time to contact us for unbeatable kitchen inspiration along every step."
 ---
 
 We'd love to hear from you! **Our site** is meant to be a guide for new products and innovative ideas.
