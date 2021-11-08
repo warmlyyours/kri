@@ -1,5 +1,5 @@
 ---
-title: Kitchen's Role During Quarantine - Kitchen Remodel Ideas
+title: Kitchen's Role During Quarantine
 date: 2020-10-12
 author: Kitchen Remodel Ideas
 image: /img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp
