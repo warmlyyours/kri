@@ -2,7 +2,8 @@
 title: Large Kitchen Floor Plan and Nook
 date: "2021-01-22"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1519480-R2.jpg
+image:  /img/floorPlans/IP1519480-R2-v2.jpg
+description: "Kitchen Shape: Double Galley - Flooring: Tle, Marble, or Stone - Subfloor: Wood - Insulation Surface: 238 sq. ft. - Voltage: 240 V"
 floorplans:
 - Double Galley
 ---
@@ -17,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "Large Kitchen Floor Plan and Nook" "/img/floorPlans/IP1519480-R2.jpg" "/img/floorPlans/IP1519480-R2.jpg" >}}
+{{< postImage "Large Kitchen Floor Plan and Nook" "/img/floorPlans/IP1519480-R2-v2.jpg" "/img/floorPlans/IP1519480-R2-v2.jpg" >}}
 
 ## Installation Options:
 

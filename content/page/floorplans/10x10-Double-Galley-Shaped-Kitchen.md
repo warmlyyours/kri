@@ -2,7 +2,8 @@
 title: 10x10 Double Galley Shaped Kitchen
 date: "2020-05-07"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1529812.jpg
+image:  /img/floorPlans/IP1529812-v2.jpg
+description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Existing Concrete Slab - Insulation Surface: 148 sq. ft. - Voltae: 120 V"
 floorplans:
 - Double Galley
 ---
@@ -17,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "10x10 Double Galley Shaped Kitchen" "/img/floorPlans/IP1529812.jpg" "/img/floorPlans/IP1529812.jpg" >}}
+{{< postImage "10x10 Double Galley Shaped Kitchen" "/img/floorPlans/IP1529812-v2.jpg" "/img/floorPlans/IP1529812-v2.jpg" >}}
 
 ## Installation Options:
 

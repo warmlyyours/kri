@@ -3,6 +3,7 @@ title: 4 Budget Friendly Remodeling Ideas
 date: 2020-10-12
 author: "Kitchen Remodel Ideas"
 image: /img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp
+description: "The housing market has seen a positive change due to the Coronavirus Pandemic. A surprisingly adverse outcome occurred when middle and upper-income housing prices..."
 tags:
 - Essentials
 - Cabinets
@@ -55,7 +56,7 @@ It makes sense that many homeowners are turning their attention to what can be d
 
 - Some low-cost organizational opportunities may be possible or even presently available in coordination with your renovation plans. Before you start any remodeling project, take a trip to your local Ikea. Ikea has cornered the market on how to utilize every square inch with style. Visit their vignettes or even look at the Ikea inspiration galleries on their website for inspiration. Take note of ideas or photos if you are in-store and see what you can do to duplicate them from items you may already have in your home.  
 
-- “If you have an extra space that isn’t being used for anything you could always turn it into your pantry. With everyone spending more time at home, space for dry goods is in high demand. All you need to do is grab two metal shelves and stack them together and tada you have a shelf ready for all your food. - [Restaurateur Connection](http://restaurateurconnection.com/)” (Cahill)
+- “If you have an extra space that isn’t being used for anything you could always turn it into your pantry. With everyone spending more time at home, space for dry goods is in high demand. All you need to do is grab two metal shelves and stack them together and tada you have a shelf ready for all your food. - [Restaurateur Connection](https://restaurateurconnection.com/)” (Cahill)
 
 Any of these remodeling tips will boost the resale value of your home or make time spent there more pleasant during the Covid lockdown. Painting cabinets and adding decorative molding gives your kitchen a new element. Not moving around large appliances like the kitchen sink will reduce your renovation costs and keep overhead costs down. Finally, consider finding creative ways to repurpose your space without spending a dime.
 

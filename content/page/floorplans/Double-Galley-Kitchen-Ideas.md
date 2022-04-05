@@ -2,7 +2,8 @@
 title: Double Galley Kitchen Ideas
 date: "2021-08-13"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1529659.jpg
+image:  /img/floorPlans/IP1529659-v2.jpg
+description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 148 sq. ft. - Voltage: 120 V"
 floorplans:
 - Double Galley
 ---
@@ -17,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "Double Galley Kitchen Ideas" "/img/floorPlans/IP1529659.jpg" "/img/floorPlans/IP1529659.jpg" >}}
+{{< postImage "Double Galley Kitchen Ideas" "/img/floorPlans/IP1529659-v2.jpg" "/img/floorPlans/IP1529659-v2.jpg" >}}
 
 ## Installation Options:
 
@@ -37,7 +38,7 @@ floorplans:
 
 ### [LG - 28" Class LED HD TV:](https://www.bestbuy.com/site/lg-28-class-led-hd-tv/6337625.p?skuId=6337625)
 
-{{< postImage "LG - 28 Class LED HD TV" "/img/installationOptions/IP1529659/6337625_sd.jpg;maxHeight=640;maxWidth=550.jpeg" "/img/installationOptions/IP1529659/6337625_sd.jpg;maxHeight=640;maxWidth=550.jpeg" >}}
+{{< postImage "LG - 28 Class LED HD TV" "/img/installationOptions/IP1529659/6337625.jpeg" "/img/installationOptions/IP1529659/6337625.jpeg" >}}
 
 * HD Display
 * HDMI

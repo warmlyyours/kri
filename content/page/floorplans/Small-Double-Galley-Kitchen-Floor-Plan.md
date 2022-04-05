@@ -2,7 +2,8 @@
 title: Small Double Galley Kitchen
 date: "2021-02-12"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1530302-R1.jpg
+image:  /img/floorPlans/IP1530302-R1-v2.jpg
+description: "Kitchen Shape: Double Galley - Flooring: Resilients, Vinyl and Luxury Vinyl Tile (LVT) - Subfloor: Existing Concrete Slab - Insulation Surface: 136 sq. ft. - Voltage: 120 V"
 floorplans:
 - Double Galley
 ---
@@ -17,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "Small Double Galley Kitchen Floor Plan" "/img/floorPlans/IP1530302-R1.jpg" "/img/floorPlans/IP1530302-R1.jpg" >}}
+{{< postImage "Small Double Galley Kitchen Floor Plan" "/img/floorPlans/IP1530302-R1-v2.jpg" "/img/floorPlans/IP1530302-R1-v2.jpg" >}}
 
 ## Installation Options:
 

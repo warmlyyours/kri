@@ -3,6 +3,7 @@ title: Cost of Luxury Radiant Heating
 date: 2020-11-12
 author: Kitchen Remodel Ideas
 image: /img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp
+description: "What is the cost of adding luxury radiant heating in a kitchen? Before we discuss the average cost of radiantly heating a home..."
 tags:
   - Countertops
   - Flooring
@@ -18,7 +19,7 @@ So why is the awareness of what radiant heating is not greater? For many people 
 The beauty of radiant heating is that it is installed directly underneath the floor and heats the floor, the room, and its objects from the ground up. This gives homeowners a unique opportunity to use radiant heating as a subthermal heating bank which has been known to retain heat longer and save energy costs as a result. The cost-effectiveness of a floor heating system is greater as opposed to an air ventilation system because it cuts heat loss by 10 to 15 percent over the other heating methods.
 Now that we know what radiant heating is and some of its benefits, let’s look at the cost of floor heating based on the cost of product, installation, and operation.
 
-# #Floor Heating Products are Affordable Luxury
+## Floor Heating Products are Affordable Luxury
 
 The cost of floor heating is typically calculated per square foot. It’s important to know that the heating element is only installed in the footprint of the room. Heating cables are not installed under cabinets, an island, or any furniture with a base. Finalize your kitchen layout so you can truly understand the cost of the floor heating product.
 

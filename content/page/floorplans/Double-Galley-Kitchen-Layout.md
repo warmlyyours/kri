@@ -3,6 +3,7 @@ title: Double Galley Kitchen Layout
 date: "2020-10-02"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1515306-1200x899-1.jpg
+description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 245 sq. ft. - Voltage: 240 V"
 floorplans:
 - Double Galley
 ---

@@ -3,6 +3,7 @@ title: Essential Tips for a Quick Sale
 date: 2020-09-29
 author: Kitchen Remodel Ideas
 image: /img/essentialHITips/essentialhometipsfeaturedimage.jpg
+description: "Whether you’re in a buyer’s or seller’s market, selling a home can be challenging. Not only can it be difficult to sell for the price you want..."
 tags:
   - Essentials
 ---

@@ -4,6 +4,7 @@ subtitle: "for Kitchen Remodeling Inspiration"
 date: 2020-02-28
 image: /img/5Blogs/inspirational-blogs-for-remodeling-ideas.webp
 author: "Kitchen Remodel Ideas"
+description: "As the freeze begins to thaw the frozen tundra we call winter, now has never been a more opportune time to start a remodeling project."
 tags:
 - Essentials
 ---

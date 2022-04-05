@@ -3,6 +3,7 @@ title: 32 Traditional Design Photos
 date: 2021-02-18
 author: Kitchen Remodel Ideas
 image: /img/32Dazzling/32-Dazzling-Traditional-Kitchen-Design-Photos.webp
+description: "A running concept of a traditional kitchen emboldens one with a return to normalcy. Traditional kitchens are not of course subject..."
 tags:
   - Cabinets
   - Furniture
@@ -122,7 +123,7 @@ This kitchen is the epitome of the 'everyman’s kitchen' as it’s highly optim
 
 At the turn of the century, many homeowners were seeking out smaller kitchens and compact designs. Smaller kitchens were considered better back then as many interior designers crafted minimalist kitchens.
 
-{{< postImage "Lara Santos" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149.webp" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149-small.webp" >}}
+{{< postImage "Lara Santos" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149.jpg" "/img/32Dazzling/pexels-ｌａｒａ-ｓａｎｔｏｓ-3741149-small.jpg" >}}
 
 At the heyday of the 50’s, cooking and eating at home was a growing trend for a lot of people. This walk up kitchen bar demonstrates a streamlined eat-at-home experience.
 

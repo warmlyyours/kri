@@ -4,6 +4,7 @@ subtitle: "to Help Decorate Your Home"
 date: 2020-01-29
 image: /img/3Tools/elements-towel-warmer-placed-using-houzz-app-e3eeac.webp
 author: "Kitchen Remodel Ideas"
+description: "Seeing is believing. Until you you've gotten the product in front of you, you won’t know for sure if it’s a good fit. Generally speaking..."
 tags:
 - Essentials
 - Furniture

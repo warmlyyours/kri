@@ -2,7 +2,8 @@
 title: L Shaped Kitchen and Countertop
 date: "2021-08-06"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1529582.jpg
+image:  /img/floorPlans/IP1529582-v2.jpg
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 244 sq. ft. - Voltage: 240 V"
 floorplans:
 - L Shaped
 ---
@@ -17,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 240 V
 
-{{< postImage "L Shaped Kitchen with Island and Countertop" "/img/floorPlans/IP1529582.jpg" "/img/floorPlans/IP1529582.jpg" >}}
+{{< postImage "L Shaped Kitchen with Island and Countertop" "/img/floorPlans/IP1529582-v2.jpg" "/img/floorPlans/IP1529582-v2.jpg" >}}
 
 ## Installation Options:
 

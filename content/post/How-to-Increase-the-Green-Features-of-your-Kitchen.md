@@ -3,6 +3,7 @@ title: How to Increase Green Features
 date: 2020-08-24
 author: Kitchen Remodel Ideas
 image: /img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.webp
+description: "The kitchen is one of the busiest rooms in the home and, consequently, one of the greatest energy users. So it's not surprising that..."
 tags:
   - Essentials
   - Furniture
@@ -12,7 +13,7 @@ tags:
 
 The kitchen is one of the busiest rooms in the home and, consequently, one of the greatest energy users. So it's not surprising that the kitchen offers ample opportunities to be energy efficient, enabling both the homeowner and the environment to reap the benefits. This year, there’s been a handful of products designed to minimize economic disruption. You’re going to be seeing these products on display as well as a brief description of its energy-saving benefits.
 
-{{< postImage "How to Increase the Green Features of your Kitchen" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.webp" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen-small.webp" >}} 
+{{< postImage "How to Increase the Green Features of your Kitchen" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.webp" "/img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen-small.webp" >}}
 
 ***
 

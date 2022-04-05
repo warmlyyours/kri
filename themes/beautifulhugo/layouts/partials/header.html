@@ -37,7 +37,7 @@
         {{ $subtitle := $.Scratch.Get "subtitle" }}
         {{ $title := $.Scratch.Get "title" }}
               <div class="{{ .Type }}-heading">
-                <h1>{{ .Site.Title }}<br/>{{ end }}</h1>
+                <h2 style="font-size: 50px">{{ .Site.Title }}<br/>{{ end }}</h2>
                   <!-- {{ if $subtitle }}
                     {{ if eq .Type "page" }}
                       <hr class="small" style="color: #bd8201;min-height: 5px">

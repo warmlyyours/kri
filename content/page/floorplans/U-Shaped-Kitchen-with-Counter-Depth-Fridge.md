@@ -2,7 +2,8 @@
 title: U Shaped Kitchen Style
 date: "2021-04-16"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1530164.jpg
+image:  /img/floorPlans/IP1530164-v2.jpg
+description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 74 sq. ft. - Voltage: 120 V"
 floorplans:
 - U Shaped
 ---
@@ -17,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "U Shaped Kitchen Style" "/img/floorPlans/IP1530164.jpg" "/img/floorPlans/IP1530164.jpg" >}}
+{{< postImage "U Shaped Kitchen Style" "/img/floorPlans/IP1530164-v2.jpg" "/img/floorPlans/IP1530164-v2.jpg" >}}
 
 ## Installation Options:
 

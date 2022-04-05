@@ -3,6 +3,7 @@ title: 7 Recycled Glass Countertops
 date: 2020-08-07
 author: "Kitchen Remodel Ideas"
 image: /img/7Countertops/7_countertops_blog.jpg
+description: "What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers in recent history..."
 tags:
 - Countertops
 ---

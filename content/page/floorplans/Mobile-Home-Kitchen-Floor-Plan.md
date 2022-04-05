@@ -2,7 +2,8 @@
 title: Mobile Home Kitchen Floor Plan
 date: "2021-02-26"
 author: Kitchen Remodel Ideas
-image:  /img/floorPlans/IP1530297.jpg
+image:  /img/floorPlans/IP1530297-v2.jpg
+description: "Kitchen Shape: Double Galley - Flooring: Engineered Wood (Glued) - Subfloor: Wood - Insulation Surface: 165 sq. t. - Voltage: 120 V"
 floorplans:
 - Double Galley
 ---
@@ -17,7 +18,7 @@ floorplans:
 >
 >> **Voltage:** 120 V
 
-{{< postImage "Mobile Home Kitchen Floor Plan" "/img/floorPlans/IP1530297.jpg" "/img/floorPlans/IP1530297.jpg" >}}
+{{< postImage "Mobile Home Kitchen Floor Plan" "/img/floorPlans/IP1530297-v2.jpg" "/img/floorPlans/IP1530297-v2.jpg" >}}
 
 ## Installation Options:
 

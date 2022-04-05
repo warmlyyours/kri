@@ -48,8 +48,8 @@
             <li class="previous d-flex justify-content-start align-items-center">
               <a rel="dofollow" href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
             </li>
+            </ul>
             </div>
-          </ul>
           {{ end }}
           <div class="col p-3">
           {{ if .NextInSection }}
@@ -58,8 +58,8 @@
               <a rel="dofollow" href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
             </li>
           {{ end }}
+          </ul>
           </div>
-        </ul>
       </div>
     {{ end }}
     </div>

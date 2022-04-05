@@ -2,6 +2,7 @@
 title: Cozy L Shaped Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 146 sq. ft. - 120 V"
 image:  /img/floorPlans/IP1510986.jpg
 floorplans:
 - L Shaped
