@@ -19,7 +19,7 @@
           <ul class="pager main-pager p-3" style="list-style-type: none;margin: 0;padding: 0;">
             {{ if .Paginator.HasPrev }}
               <li class="previous d-flex align-items-center justify-content-start">
-                <a rel="dofollow, index" href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
+                <a rel="dofollow" href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
               </li>
               </ul>
             </div>
@@ -28,7 +28,7 @@
             {{ if .Paginator.HasNext }}
             <ul class="pager blog-pager p-3" style="list-style-type: none;margin: 0; padding: 0">
               <li class="next d-flex align-items-center justify-content-end">
-                <a rel="dofollow, index" href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}">{{ i18n "olderPosts" }} &rarr;</a>
+                <a rel="dofollow" href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}">{{ i18n "olderPosts" }} &rarr;</a>
               </li>
             {{ end }}
           </ul>
