@@ -3,7 +3,7 @@ title: Small L Shaped Kitchen
 date: "2021-06-04"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1519351-R1-v2.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - L Shaped
 ---

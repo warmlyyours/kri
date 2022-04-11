@@ -3,7 +3,7 @@ title: Double Galley Style Floor Plan
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1519619-R1.jpg
-description: "Kitchen Shape: Double Galley - Flooring: Hard Wood (Nailed)"
+description: "Kitchen Shape: Double Galley - Flooring: Hard Wood (Nailed) - Subfloor: Wood"
 floorplans:
 - Double Galley
 ---

@@ -3,7 +3,7 @@ title: Kitchen and Kitchen Nook
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1494186.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Glued Hardwood"
+description: "Kitchen Shape: U Shaped - Flooring: Glued Hardwood - Subfloor: Wood"
 floorplans:
 - U Shaped
 ---

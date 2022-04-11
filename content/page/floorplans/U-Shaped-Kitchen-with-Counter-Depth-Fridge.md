@@ -3,7 +3,7 @@ title: U Shaped Kitchen Style
 date: "2021-04-16"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530164-v2.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - U Shaped
 ---

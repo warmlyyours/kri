@@ -3,7 +3,7 @@ title: L Shaped Concrete Subfloor
 date: "2020-09-02"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1514505-1200x899-1.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble or Stone"
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble or Stone - Subfloor: Existing Concrete Slab"
 floorplans:
 - L Shaped
 ---

@@ -3,7 +3,7 @@ title: Mobile Home Kitchen Floor Plan
 date: "2021-02-26"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530297-v2.jpg
-description: "Kitchen Shape: Double Galley - Flooring: Engineered Wood"
+description: "Kitchen Shape: Double Galley - Flooring: Engineered Wood - Subfloor: Wood"
 floorplans:
 - Double Galley
 ---

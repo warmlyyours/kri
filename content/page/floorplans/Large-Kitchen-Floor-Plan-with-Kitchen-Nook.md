@@ -3,7 +3,7 @@ title: Large Kitchen Floor Plan and Nook
 date: "2021-01-22"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1519480-R2-v2.jpg
-description: "Kitchen Shape: Double Galley - Flooring: Tle, Marble, or Stone"
+description: "Kitchen Shape: Double Galley - Flooring: Tle, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - Double Galley
 ---

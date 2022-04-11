@@ -3,7 +3,7 @@ title: Modern L Shaped Kitchen Floor Plan
 date: "2020-09-15"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1520368-R1-1200x1000-1.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - L Shaped
 ---

@@ -3,7 +3,7 @@ title: U Shaped Lake House Kitchen
 date: "2021-01-08"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1518769-v2.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Engineered Wood"
+description: "Kitchen Shape: U Shaped - Flooring: Engineered Wood - Subfloor: Existing Concrete Slab"
 floorplans:
 - U Shaped
 ---

@@ -3,7 +3,7 @@ title: Single Galley California Kitchen
 date: "2020-08-03"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1511082-1200x899-1.jpg
-description: "Kitchen Shape: Single Galley - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: Single Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - Single Galley
 ---

@@ -3,7 +3,7 @@ title: Large L Shaped Kitchen with Island
 date: "2020-08-06"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1511950-1200x899-1.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - L Shaped
 ---

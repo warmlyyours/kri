@@ -3,7 +3,7 @@ title: L Shaped Kitchen and Mudroom
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1510306_X2-scaled.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Existing Concrete Slab"
 floorplans:
 - L Shaped
 ---

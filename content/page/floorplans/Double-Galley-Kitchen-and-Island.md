@@ -2,7 +2,7 @@
 title: Double Galley Kitchen and Island
 date: "2020-10-02"
 author: Kitchen Remodel Ideas
-description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 image:  /img/floorPlans/IP1510607.jpg
 floorplans:
 - Double Galley
