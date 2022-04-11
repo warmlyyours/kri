@@ -3,7 +3,7 @@ title: Pet Friendly Flooring
 subtitle: What is the Best Flooring for Dogs?
 date: 2020-01-08
 author: Kitchen Remodel Ideas
-description: "For those of us who chose to adopt a friendly canine companion, whether it's a new puppy or an older dog, perhaps even a rescue."
+description: "For those of us who chose to adopt a friendly canine companion..."
 tags:
   - Flooring
   - Essentials

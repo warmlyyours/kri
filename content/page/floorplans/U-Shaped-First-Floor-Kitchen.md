@@ -3,7 +3,7 @@ title: U Shaped First Floor Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1510604.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 158 sq. ft. - Voltage: 120 V"
+description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone"
 floorplans:
 - U Shaped
 ---

@@ -3,7 +3,7 @@ title: How to Increase Green Features
 date: 2020-08-24
 author: Kitchen Remodel Ideas
 image: /img/greenFeatures/how-to-increase-the-green-features-of-your-kitchen.webp
-description: "The kitchen is one of the busiest rooms in the home and, consequently, one of the greatest energy users. So it's not surprising that..."
+description: "The kitchen is one of the busiest rooms in the home and, consequently..."
 tags:
   - Essentials
   - Furniture

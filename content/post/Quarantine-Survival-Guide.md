@@ -3,7 +3,7 @@ title: Quarantine Survival Guide
 subtitle: The Sanitation Checklist
 date: 2020-04-15
 author: Kitchen Remodel Ideas
-description: "It’s time to hunker down due to the Stay-at-Home orders and social distancing currently in place so that we all do our part to help reduce the number..."
+description: "It’s time to hunker down due to the Stay-at-Home orders and social distancing currently..."
 tags:
   - Essentials
 ---

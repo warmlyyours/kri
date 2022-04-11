@@ -4,7 +4,7 @@ subtitle: On a Budget
 date: 2020-09-15
 author: Kitchen Remodel Ideas
 image: /img/kitchenMakeover/pastedimage1.webp
-description: "Budgeting is often a major priority when dealing with any home renovation, and kitchens are no exception but the rule. Out of the thousands of kitchen..."
+description: "Budgeting is often a major priority when dealing with any home renovation..."
 tags:
   - Essentials
 ---

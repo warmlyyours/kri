@@ -3,7 +3,7 @@ title: Modern U Shaped Kitchen Floor Plan
 date: "2020-09-18"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1520259-1200x1043-1.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 234 sq. ft. - Voltage: 240 V"
+description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone"
 floorplans:
 - U Shaped
 ---

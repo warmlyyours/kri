@@ -3,7 +3,7 @@ title: Eat-In U Shaped Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530123-v2.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 306 sq. ft. - Voltage: 240 V"
+description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone"
 floorplans:
 - U Shaped
 ---

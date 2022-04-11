@@ -3,7 +3,7 @@ title: Double Galley Zig-Zagged Path
 date: "2020-08-19"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1512223-1200x899-1.jpg
-description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 236 sq. ft. - Voltage: 240 V"
+description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone"
 floorplans:
 - Double Galley
 ---

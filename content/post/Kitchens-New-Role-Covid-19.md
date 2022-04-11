@@ -3,7 +3,7 @@ title: Kitchen's Role During Quarantine
 date: 2020-10-12
 author: Kitchen Remodel Ideas
 image: /img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp
-description: "Now more than ever, the kitchen is more than just an area to gather around the dinner table. It's become a multipurpose area transforming the heart of the home to command central. The coronavirus lockdown has reconnected us with our homes but in ways, we are unaccustomed."
+description: "Now more than ever, the kitchen is more than just an area to gather around the dinner table."
 tags:
   - Essentials
   - Furniture

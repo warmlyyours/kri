@@ -3,7 +3,7 @@ title: How to Organize the Kitchen Cabinets
 date: "2020-03-18"
 author: Kitchen Remodel Ideas
 image: /img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.jpg
-description: "People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus. Social distancing..."
+description: "People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus."
 tags:
 - Cabinets
 ---

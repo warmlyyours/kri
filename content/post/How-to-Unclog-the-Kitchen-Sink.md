@@ -3,7 +3,7 @@ title: How to Unclog the Kitchen Sink
 date: 2020-03-04
 image: /img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp
 author: Kitchen Remodel Ideas
-description: "We’re going to be talking about an all-too-common issue that many homeowners face. Kitchen sinks with clogged pipes and how to unclog them. "
+description: "We’re going to be talking about an all-too-common issue that many homeowners face."
 tags:
   - Faucets
 ---

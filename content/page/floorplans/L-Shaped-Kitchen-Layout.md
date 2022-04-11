@@ -3,7 +3,7 @@ title: L Shaped Kitchen Layout
 date: "2021-03-05"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1520651_R1-1200x1263-1.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 335 q. ft. - Voltage: 240 V"
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone"
 floorplans:
 - L Shaped
 ---

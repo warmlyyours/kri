@@ -3,7 +3,7 @@ title: U Shaped Lake House Kitchen
 date: "2021-01-08"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1518769-v2.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Engineered Wood - Subfloor: Existing Concrete Slab - Insulation Surface: 208 sq. ft. - Voltage: 120 V"
+description: "Kitchen Shape: U Shaped - Flooring: Engineered Wood"
 floorplans:
 - U Shaped
 ---

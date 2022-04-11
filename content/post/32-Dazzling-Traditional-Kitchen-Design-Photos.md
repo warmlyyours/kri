@@ -3,7 +3,7 @@ title: 32 Traditional Design Photos
 date: 2021-02-18
 author: Kitchen Remodel Ideas
 image: /img/32Dazzling/32-Dazzling-Traditional-Kitchen-Design-Photos.webp
-description: "A running concept of a traditional kitchen emboldens one with a return to normalcy. Traditional kitchens are not of course subject..."
+description: "A running concept of a traditional kitchen emboldens one with a return to normalcy."
 tags:
   - Cabinets
   - Furniture

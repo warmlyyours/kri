@@ -3,7 +3,7 @@ title: Do's and Don'ts of Moving
 date: 2020-09-22
 author: Kitchen Remodel Ideas
 image: /img/movingAcross/the-dos-and-donts-of-moving-across-country-featured-image.webp
-description: "A big move can feel really overwhelming at times. Especially if you’ve decided to move hundreds of miles across the country and embrace a new community."
+description: "A big move can feel really overwhelming at times."
 tags:
   - Essentials
 ---

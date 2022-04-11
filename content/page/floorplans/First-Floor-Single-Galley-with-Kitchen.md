@@ -3,7 +3,7 @@ title: First Floor Single Galley Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1510607-2.jpg
-description: "Kitchen Shape: Single Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 201 sq. ft. - Voltage: 240 V"
+description: "Kitchen Shape: Single Galley - Flooring: Tile, Marble, or Stone"
 floorplans:
 - Single Galley
 ---

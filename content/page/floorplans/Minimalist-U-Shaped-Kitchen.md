@@ -3,7 +3,7 @@ title: Minimalist U Shaped Kitchen
 date: "2020-08-25"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1513946-1200x899-1.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 118 sq. ft. - Voltage: 120 V"
+description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone"
 floorplans:
 - U Shaped
 ---

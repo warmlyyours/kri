@@ -3,7 +3,7 @@ title: New Hampton Island Floor Plan
 date: "2020-08-28"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1514150-R1-1200x899-1.jpg
-description: "Kitchen Shape: Single Galley - Flooring: Laminate Flooring (Click Together Flooring) - Subfloor: Wood - Insulation Surface: 156 sq. ft. - Voltage: 120 V"
+description: "Kitchen Shape: Single Galley - Flooring: Laminate Flooring (Click Together Flooring)"
 floorplans:
 - Single Galley
 ---
