@@ -3,7 +3,7 @@ title: U Shaped Kitchen and Kitchenette
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1511048-scaled.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Hard Wood - Subfloor: Wood"
+description: "Kitchen Shape: U Shaped - Flooring: Hard Wood - Subfloor: Wood - Insulation Surface: 300 sq. ft."
 floorplans:
 - U Shaped
 ---

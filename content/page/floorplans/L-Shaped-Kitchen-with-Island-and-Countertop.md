@@ -3,7 +3,7 @@ title: L Shaped Kitchen and Countertop
 date: "2021-08-06"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529582-v2.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone"
+description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 344 sq. ft."
 floorplans:
 - L Shaped
 ---

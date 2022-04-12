@@ -3,7 +3,7 @@ title: U Shaped Kitchen and Kitchen Nook
 date: "2020-08-21"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1513684-R4-1200x899-1.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Hard Wood - Subfloor: Wood"
+description: "Kitchen Shape: U Shaped - Flooring: Hard Wood - Subfloor: Wood - Insulation Surface: 300 sq. ft."
 floorplans:
 - U Shaped
 ---
