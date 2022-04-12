@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 
+User-agent: *
+Disallow: /page
 
 Sitemap: https://www.kitchenremodelideas.com/sitemap.xml
