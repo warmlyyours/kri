@@ -3,7 +3,6 @@ title: First Floor Single Galley Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1510607-2.jpg
-description: "Kitchen Shape: Single Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - Single Galley
 ---

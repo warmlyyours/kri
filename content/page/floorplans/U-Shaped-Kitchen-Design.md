@@ -3,7 +3,6 @@ title: U Shaped Kitchen Design
 date: "2020-02-05"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530543-v2.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Resilients, Vinyl and Luxury Vinyl Tile (LVT)"
 floorplans:
 - U Shaped
 ---

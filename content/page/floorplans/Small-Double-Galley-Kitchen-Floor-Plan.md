@@ -3,7 +3,6 @@ title: Small Double Galley Kitchen
 date: "2021-02-12"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530302-R1-v2.jpg
-description: "Kitchen Shape: Double Galley - Flooring: Resilients, Vinyl and Luxury Vinyl Tile (LVT)"
 floorplans:
 - Double Galley
 ---

@@ -3,7 +3,6 @@ title: Increasing Your Resale Value
 date: 2020-10-02
 author: Kitchen Remodel Ideas
 image: /img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp
-description: "Now that you’ve made the big decision to put your house on the market..."
 tags:
   - Flooring
 ---

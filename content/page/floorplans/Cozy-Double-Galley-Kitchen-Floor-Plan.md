@@ -2,7 +2,6 @@
 title: Cozy Double Galley Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
-description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 image:  /img/floorPlans/IP1530670-v2.jpg
 floorplans:
 - Double Galley

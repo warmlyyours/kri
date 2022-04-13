@@ -3,7 +3,6 @@ title: "5 Popularized IKEA Cabinets"
 subtitle: "and Here's Why!"
 date: 2020-01-20
 author: "Kitchen Remodel Ideas"
-description: "IKEA kitchen cabinets, found at the furniture megastore, may seem impersonal at times compared to your local furniture store."
 tags:
 - Furniture
 - Cabinets

@@ -3,7 +3,6 @@ title: L Shaped Kitchen with Laminate Wood
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1512364-1200x899-2.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Laminate Wood (Click-Together Flooring)"
 floorplans:
 - L Shaped
 ---

@@ -3,7 +3,6 @@ title: U Shaped First Floor Kitchen
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1510604.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - U Shaped
 ---

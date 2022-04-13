@@ -3,7 +3,6 @@ title: Marble Vs. Granite Countertops
 date: 2020-05-15
 image: /img/marbleVs/gvm-1-scaled.webp
 author: Kitchen Remodel Ideas
-description: "What happens to the glass bottle of marinara sauce you just threw out?"
 tags:
   - Countertops
 ---

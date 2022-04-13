@@ -3,7 +3,6 @@ title: "24 Incredible Examples of Luxury Faucets"
 date: 2019-12-18
 author: "Kitchen Remodel Ideas"
 image: /img/24sinks/1328040093-kitchen_pr_gourmet_2.jpeg
-description: "The kitchen sink has a very important job to do. A good kitchen sink must be durable enough to hold up to rigorous choring."
 tags:
 - Faucets
 draft: true

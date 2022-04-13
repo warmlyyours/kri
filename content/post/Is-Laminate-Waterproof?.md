@@ -3,7 +3,6 @@ title: Is Laminate Waterproof?
 subtitle: What you seriously need to know.
 date: 2019-12-04
 author: Kitchen Remodel Ideas
-description: "Flooring is very very important and when winter rolls around, homeowners ought to be concerned..."
 tags:
   - Flooring
   - Essentials

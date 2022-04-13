@@ -3,7 +3,6 @@ title: Double Galley Kitchen Ideas
 date: "2021-08-13"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529659-v2.jpg
-description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood"
 floorplans:
 - Double Galley
 ---

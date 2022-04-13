@@ -3,7 +3,6 @@ title: Kitchen's Role During Quarantine
 date: 2020-10-12
 author: Kitchen Remodel Ideas
 image: /img/newRole/mom-spending-time-with-baby-in-cozy-kitchen-at-hom-VNBC7PN.webp
-description: "Now more than ever, the kitchen is more than just an area to gather around the dinner table."
 tags:
   - Essentials
   - Furniture

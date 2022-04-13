@@ -3,7 +3,6 @@ title: L Shaped Kitchen Floor Plan
 date: "2021-03-05"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529457-v2.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Tile, Marble, or Stone - Insulation Surface: 266 sq. ft."
 floorplans:
 - L Shaped
 ---

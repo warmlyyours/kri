@@ -2,7 +2,6 @@
 title: How to Clean Dirty Vinyl Floor
 date: "2020-01-24"
 author: Kitchen Remodel Ideas
-description: "We live in a society that’s well-informed and each day we learn and continue to learn about the ways in which we can live..."
 tags:
 - Flooring
 image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp

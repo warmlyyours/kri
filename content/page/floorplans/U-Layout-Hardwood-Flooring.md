@@ -3,7 +3,6 @@ title: U Layout Hardwood Flooring
 date: "2020-07-01"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1510109-R1-1.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Hardwood - Subfloor: Wood - Insulation Surface: 374 sq. ft."
 floorplans:
 - U Shaped
 ---

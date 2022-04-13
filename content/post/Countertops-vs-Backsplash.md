@@ -3,7 +3,6 @@ title: Countertops vs. Backsplash
 subtitle: Reliable Pairing Options
 date: 2019-12-11
 author: Kitchen Remodel Ideas
-description: "Your kitchen wouldn’t be complete without countertops and wall tiles. When arranging the design elements and architectural..."
 tags:
   - Wall tiles
   - Countertops

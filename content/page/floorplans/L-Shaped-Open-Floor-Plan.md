@@ -3,7 +3,6 @@ title: L Shaped Open Kitchen Floor Plan
 date: "2021-06-25"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529421-v2.jpg
-description: "Kitchen Shape: L Shaped - Flooring: Exposed Concrete Floor (New Pour)"
 floorplans:
 - L Shaped
 ---

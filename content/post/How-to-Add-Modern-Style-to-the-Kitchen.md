@@ -2,7 +2,6 @@
 title: How to Add Modern Style
 date: "2020-03-26"
 author: Samantha Velez
-description: "Remodeling a somewhat dated kitchen with a new style keeps the magic going, right?"
 tags:
 - Flooring
 - Essentials

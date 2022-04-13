@@ -3,7 +3,6 @@ title: U Shaped Kitchen Dimensions
 date: "2021-01-15"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1514745.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Existing Concrete Slab"
 floorplans:
 - U Shaped
 ---

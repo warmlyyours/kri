@@ -3,7 +3,6 @@ title: U Shaped Kitchen Plan
 date: "2021-04-16"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1530123-v2.jpg
-description: "Kitchen Shape: U Shaped - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 306 sq. ft."
 floorplans:
 - U Shaped
 ---

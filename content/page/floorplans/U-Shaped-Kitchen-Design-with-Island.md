@@ -3,7 +3,6 @@ title: U-Shaped Kitchen Design with Island
 date: "2021-07-23"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529279-R1-v2.jpg
-description: "Kitchen Shape: Double Galley - Flooring: Tile, Marble, or Stone - Subfloor: Wood - Insulation Surface: 298 sq. ft."
 floorplans:
 - U shaped
 ---

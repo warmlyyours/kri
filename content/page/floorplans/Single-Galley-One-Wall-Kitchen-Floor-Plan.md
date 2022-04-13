@@ -3,7 +3,6 @@ title: Single Galley One Wall Kitchen
 date: "2020-08-27"
 author: Kitchen Remodel Ideas
 image:  /img/floorPlans/IP1529383.jpg
-description: "Kitchen Shape: Single Galley - Flooring: Resilients, Vinyl an Luxury Vinyl Tile (LVT)"
 floorplans:
 - Single Galley
 ---
