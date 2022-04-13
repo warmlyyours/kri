@@ -19,7 +19,7 @@
   {{- $title := printf "Overview of pages with %s #%s" .Data.Singular $.Title }}
   {{- $.Scratch.Set "Title" $title }}
 {{- else }}
-  {{- $.Scratch.Set "Description" ( .Description | default .Params.subtitle | default .Summary | truncate 130 ) }}
+  {{- $.Scratch.Set "Description" ( .Description | default .Params.subtitle | default .Summary | truncate 120 ) }}
   {{- $.Scratch.Set "Title" ( .Title | default .Site.Title ) }}
 {{- end }}
 
@@ -31,7 +31,7 @@
   <title>{{ . }} - {{ $.Site.Title }}</title>
 {{- end }}
 {{- with ($.Scratch.Get "Description") }}
-  <meta name="description" content="{{- $.Title -}}{{" "}}{{- $.Page.Description -}} {{ $.Scratch.Get "Description" }}">
+  <meta name="description" content="{{- $.Page.Description -}} {{ $.Scratch.Get "Description" }}">
 {{- end }}
 {{- with .Site.Author.name }}
   <meta name="author" content="{{ . }}"/>
