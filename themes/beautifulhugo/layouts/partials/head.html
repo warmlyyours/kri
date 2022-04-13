@@ -13,10 +13,10 @@
   {{- $title := printf "Overview of all pages with %s, ordered by %s" .Data.Plural .Data.Singular }}
   {{- $.Scratch.Set "Title" $title }}
 {{- else if eq .Kind "taxonomy" }}
-  {{- $description := printf "Incredible overview of pages and intriguing topics focusing on fascinating and extraordinary discoveries for an inspiring sneak-peek with %s #%s, such as: %s" .Data.Singular $.Title ( index .Pages 0).Title | truncate 160 }}
+  {{- $description := printf "Incredible overview of pages and intriguing topics focing on facintaing and extraordinary discoveries for an inspiring sneak-peek with %s #%s, such as: %s" .Data.Singular $.Title ( index .Pages 0).Title | truncate 160 }}
   {{- $.Scratch.Set "Description" $description }}
 
-  {{- $title := printf "Incredible overview of pages and intriguing topics focusing on fascinating and extraordinary discoveries for an inspiring sneak-peek with %s #%s" .Data.Singular $.Title }}
+  {{- $title := printf "Overview of pages with %s #%s" .Data.Singular $.Title }}
   {{- $.Scratch.Set "Title" $title }}
 {{- else }}
   {{- $.Scratch.Set "Description" ( .Description | default .Params.subtitle | default .Summary | truncate 40 ) }}
