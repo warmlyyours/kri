@@ -16,7 +16,7 @@ enableRobotsTXT = true
 canonifyURLS = false
 uglyURLS = false
 paginate = 5
-description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything AND the kitchen sink's covered by favor of our informative kitchen remodeling blogs."
+description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything AND the kitchen sink's covered."
 summaryLength = 50
 [Params]
   #homeTitle = "" # Set a different text for the header on the home page
