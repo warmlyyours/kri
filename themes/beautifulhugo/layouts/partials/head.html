@@ -31,7 +31,7 @@
   <title>{{ . }} - {{ $.Site.Title }}</title>
 {{- end }}
 {{- with ($.Scratch.Get "Description") }}
-  <meta name="description" content="{{ $.Title }} {{$.Page.Description}}">
+  <meta name="description" content="{{ $.Title }} {{$.Page.Description}} {{$.Description}}">
 {{- end }}
 {{- with .Site.Author.name }}
   <meta name="author" content="{{ . }}"/>
