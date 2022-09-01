@@ -51,7 +51,7 @@ floorplans:
 
 {{< postImage "Cuisinart DCC-T20 14-Cup Programmable Coffeemaker Touchscreen, Black" "/img/installationOptions/IP1530670/Cuisiniart-DCC-T20-14-Cup-Programmable-Coffeemaker-Touchscreen.jpg" "/img/installationOptions/IP1530670/Cuisiniart-DCC-T20-14-Cup-Programmable-Coffeemaker-Touchscreen.jpg" >}}
 
-"Cuisinart launches its new T Series line with a coffeemaker that is going to change the dynamic of today’s kitchen. Intuitive touchscreen controls let coffee lovers tap icons to choose start time, shutoff time, number of cups, and strength settings. When the coffeemaker is not in use, the LCD screen goes to sleep – creating an ultra-sleek look in your kitchen. Simply touch the power icon to wake up the screen when you are ready to brew! With PerfecTemp Technology,This premium coffeemaker even brews hotter, and has two filters that protect the rich coffee flavor. Its superb coffee and a brand new look kitchens are going to love!"
+"Cuisinart launches its new T Series line with a coffeemaker that is going to change the dynamic of today’s kitchen. Intuitive touchscreen controls let coffee lovers tap icons to choose start time, shutoff time, number of cups, and strength settings. When the coffeemaker is not in use, the LCD screen goes to sleep – creating an ultra-sleek look in your kitchen. Simply touch the power icon to wake up the screen when you are ready to brew! With PerfecTemp Technology,This premium coffeemaker even brews hotter, and has two filters that protect the rich coffee flavor. Its superb coffee and a brand new looj kitchens are going to love!"
 
 ## [3/4 in. x 3.25 in. Character Red Oak Solid Hardwood Flooring:](https://www.llflooring.com/p/bellawood-3-4-in.-x-3-1-4-in.-character-red-oak-solid-hardwood-flooring-10047316.html)
 
