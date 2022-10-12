@@ -2,7 +2,7 @@
 title: Essential Tips for a Quick Sale
 date: 2020-09-29
 author: Kitchen Remodel Ideas
-image: /img/essentialHITips/essentialhometipsfeaturedimage.jpg
+image: /img/essentialHITips/essentialhometipsfeaturedimage.webp
 tags:
   - Essentials
 ---

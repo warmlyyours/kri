@@ -1,7 +1,7 @@
 ---
 title: How to Refinish Bamboo Flooring
 date: 2020-02-07
-image: /img/bambooFlooring/537394176_3e0cbfec31_b.jpg
+image: /img/bambooFlooring/refinish-bamboo-flooring.jpg
 author: Kitchen Remodel Ideas
 tags:
   - Flooring
