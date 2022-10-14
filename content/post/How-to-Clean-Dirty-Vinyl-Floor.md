@@ -16,7 +16,7 @@ We live in a society that’s well-informed and each day we learn and continue t
 
 {{< break >}}
 
-Even so, we’re conscious of the negative effects and yet how many of us keep the Windex ready to go during clean up time? It’s true that the heart of the issue is the high-impact that toxic chemicals have caused on the environment. So, don’t let this day go by without thinking about making the switch over to a chemical-free, non-toxic solution.
+Even so, we’re conscious of the negative effects and yet how many of us keep the Windex ready to go during clean up time? How many of us know the creeping dangers of manual home labor? It is true that the heart of the issue is the high-impact that toxic chemicals have caused on the environment. It is true you ought not let another day go by without thinking about making the switch over to a chemical-free, non-toxic solution.
 
 You wouldn’t go wrong with an all-purpose cleaner and we have found some great non-toxic cleaning solutions out there. [Seventh Generation’s](https://www.amazon.com/gp/product/B00MUE2OHG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MUE2OHG&linkCode=as2&tag=kri0eb-20&linkId=9682e0bce08a12f481846e18c3b89b8e) got an excellent cleaner on the market that works superbly on all kinds of surfaces. If that’s not enough, you want more options, head over to your health food store and find a chemical-free solution that works to suit your needs and tackle the tough stains that buildup.
 

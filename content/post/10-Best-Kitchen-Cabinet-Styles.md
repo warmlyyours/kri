@@ -25,7 +25,7 @@ Traditional kitchen cabinets are detailed, sometimes in the form of raised-panel
 
 {{< break >}}
 
-Shaker cabinets are built to be simple and practical. The cabinet style includes flat-paneled doors with rail bases and inset frames. There's light tones across the selection but commercially you're going to mostly see pale white and natural wood stains. Also, shaker cabinets are very popular these days due to their classic and cuasual look - pairing well with traditional, to contemporary, to practically any style.
+Shaker cabinets are built to be simple and practical. The cabinet style includes flat-paneled doors with rail bases and inset frames. There are light tones across the selection and commercially you're going to be seeing pale white and natural wood stains. Also, shaker cabinets are very popular these days due to their classic and casual look. Pairing well with traditional - contemporary - practically any style.
 
 3. Rustic cabinets
 
@@ -33,7 +33,7 @@ Shaker cabinets are built to be simple and practical. The cabinet style includes
 
 {{< break >}}
 
-Rustic cabinet styles often have warm colors and lots of vibrant hues and themes inspired by the great outdoors such as tree knots and imperfections with interesting detail and character.
+Rustic cabinet styles often have warm colors and lots of vibrant hues and themes inspired by the great outdoors such as tree knots and imperfections of interesting detail and character.
 
 4. Contemporary Cabinets
 
@@ -49,7 +49,7 @@ In general, contemporary cabinets feature flat surfaces, minimal ornamentation, 
 
 {{< break >}}
 
-Slab cabinets often go hand-in-hand with contemporary designs, since both can be easily mistaken by their similar appearance, but they're more modern look and feel is a true tell-tale sign. This type of cabinet, sometimes called a flat-panel-cabinets, is distinguished by its flat face panel. Slab kitchen cabinets are relatively inexpensive as they need fewer materials and energy. Part of the appeal of slab cabinets are that they are simple to clean due to the lack of nooks and crannies where dust might settle.
+Slab cabinets often go hand-in-hand with contemporary designs, since both can be easily mistaken by their countless similar appearances, but they're more modern look and feel is a true tell-tale sign. This type of cabinet, sometimes called a flat-panel-cabinet, is distinguished by its flat face panel. Slab kitchen cabinets are relatively inexpensive as they need fewer materials and energy. Part of the appeal of slab cabinets are that they are simple to clean due to the lack of nooks and crannies where dust might settle.
 
 6. Country Cabinets
 

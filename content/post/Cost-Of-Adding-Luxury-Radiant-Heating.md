@@ -7,7 +7,7 @@ tags:
   - Countertops
   - Flooring
 ---
-What is the cost of adding luxury radiant heating in a kitchen? Before we discuss the average cost of radiantly heating a home, let’s first discuss what exactly is radiant heating? Think of it as an electric heating blanket for your floor. It’s a heating cable sewn onto a fiberglass mesh that spans the area to cover from wall to wall. The heating element is installed over the subfloor. Then, flooring, like tile, is placed on top of the heating system. This technology results in better room temperatures, better home relaxation, and better energy efficiency. It just makes everything better.
+What is the cost of adding luxury radiant heating in a kitchen? Before we discuss the average cost of radiantly heating a home, let us first discuss what exactly is radiant heating? Think of it as an electric heating blanket for your floor. Be it tile marble or stone, a heating cable is sown onto a fiberglass mesh to go underneath the floor surface. The heating element is installed over the subfloor. Then, flooring, like tile, is placed on top of the heating system. This technology results in better room temperatures, better home relaxation, and better energy efficiency. It just makes everything better.
 
 {{< postImage "Cost of Adding Luxury Radiant Heating in a Kitchen" "/img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp" "/img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp" >}}
 
@@ -16,19 +16,19 @@ What is the cost of adding luxury radiant heating in a kitchen? Before we discus
 So why is the awareness of what radiant heating is not greater? For many people when you think of heating systems, what comes to mind is an HVAC system - plumbing and air conditioning installations. Electric radiant heating doesn’t force air through ventilation ducts, it relies on the thermal energy produced from electric heating cables, similar to how the sun works.
 
 The beauty of radiant heating is that it is installed directly underneath the floor and heats the floor, the room, and its objects from the ground up. This gives homeowners a unique opportunity to use radiant heating as a subthermal heating bank which has been known to retain heat longer and save energy costs as a result. The cost-effectiveness of a floor heating system is greater as opposed to an air ventilation system because it cuts heat loss by 10 to 15 percent over the other heating methods.
-Now that we know what radiant heating is and some of its benefits, let’s look at the cost of floor heating based on the cost of product, installation, and operation.
+Now that we know what radiant heating is and some of its benefits, let us look at the cost of floor heating based on the cost of product, installation, and operation.
 
 ## Floor Heating Products are Affordable Luxury
 
-The cost of floor heating is typically calculated per square foot. It’s important to know that the heating element is only installed in the footprint of the room. Heating cables are not installed under cabinets, an island, or any furniture with a base. Finalize your kitchen layout so you can truly understand the cost of the floor heating product.
+The cost of floor heating is typically calculated per square foot. Know that the heating element is only installed underneath the walkable parts of the room. Heating cables are not installed under cabinets, an island, or any furniture with a base. Finalize your kitchen layout so you can truly understand the cost of the floor heating product.
 
 The radiant heating system consists of the heating element, thermostatic control and a circuit check.  The circuit check is a handy device used during the installation of the heating element to ensure that the heating cable is not damaged during installation.
 
-There are online tools that help with estimating the cost of the floor heating product. You will need some information to get started. Take note of your room dimensions, the intended square footage you want to warm, and you are ready to get started.
+There are online tools that help with estimating the cost of the floor heating product. You will need some information to get started. Take note of your room dimensions, the intended square footage you want to warm, and you, are ready to get started.
 
 Check out [WarmlyYours’ Instant Quote tool](https://www.warmlyyours.com/en-US/floor-heating/quote-builder?share_key=eb2218eaf9a937cae1ddd2a2778d1a7a). It will report out precisely how much it will cost to add radiant heating to your kitchen. What’s great about this quote tool is that it gives you a fully customized quote that gives you the costs of the heating systems that work with your space and application, showing you control options and accessories. As you go through the huge selection of heating systems, controls, and accessories, the tool gives real-time updates of pricing options. Not only is the tool offering precise cost estimates, but it’s also responsively updating the totals as changes are made.
 
-Below is an example of a kitchen floor plan with the heating element designed in the foot print of the room. In this example, the areas next to the walls or underneath permanent fixtures do not need to get heated. This is what WarmlyYours calls a SmartPlan. The space between the cabinets is the area that is actually heated.
+Below is an example of a kitchen floor plan with the heating element designed in the foot print of the room. In this example, the areas next to the walls and underneath permanent fixtures do not need to get heated. This is what WarmlyYours calls a SmartPlan. The space between the cabinets is the area that is actually heated.
 
 {{< postImage "Smart Guide" "/img/luxuryHeating/IP1519351-R1-(2)-(1).webp" "/img/luxuryHeating/IP1519351-R1-(2)-(1)-small.webp" >}}
 

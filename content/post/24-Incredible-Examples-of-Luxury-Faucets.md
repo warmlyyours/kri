@@ -18,7 +18,7 @@ For each and every kitchen, dishes must be done and cookware products ought to b
 2. [Effe EF129](https://www.houzz.com/products/effe-ef-179-kitchen-faucet-with-swivel-spout-polished-chrome-prvw-vr~85446899)
 {{< postImage "Effe EF179" "/img/24sinks/Effe-EF-179-Kitchen-Faucet-with-Swivel-Spout.jpg" "/img/24sinks/Effe-EF-179-Kitchen-Faucet-with-Swivel-Spout.jpg" >}}
 
-Constantly cleaning up after yourself and others can be monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
+Constantly cleaning up after yourself and others can be monotonous and tiresome. This single handle swivel spout makes the toils of daily tasks less. Its' efficient design takes up less space than a dual handle faucet. One downside being you won't be able to set and adjust the actual water temperature as accurately as you would with a double handle kitchen faucet.
 
 3. [BESy Commercial Kitchen Faucet with Pull Down Sprayer](https://amzn.to/3EbguO6)
 
@@ -35,7 +35,7 @@ Lenovasinks are luxurious and market-ready faucets. But don't take it from us, w
 5. [KSTB-4422 Triple Bowl](https://swanstone.com/en/product/kstb-4422-22%22-x-44%22-triple-bowl_sw000166)
 {{< postImage "KSTB-4422 Triple Bowl" "/img/24sinks/Swan-SW000166-010.jpg" "/img/24sinks/Swan-SW000166-010.jpg" >}}
 
-A straight spout faucet such as this one here is small and lightweight enough and designed very well to fit perfectly for a compact kitchen. Three bowls inlayed next to each other gives maximum efficiency. The basins are shallow so if you say spring a leak then there's enough workspace under the counter to seal up your line, but you may need to wash large cookware separately. Not a lot of faucets are made with the quality of craftsmanship seen in this design.
+A straight spout faucet such as this one here is small and lightweight enough and designed very well to fit perfectly for a compact kitchen. Three bowls inlayed next to each other for maximum efficiency. The basins are shallow so if you say spring a leak then there's enough workspace under the counter to seal up your line, but you may need to wash large cookware separately. Not a lot of faucets are made with the quality of craftsmanship seen in this design.
 
 6. [Delta 4380-DST](https://amzn.to/3k8xrAK)
 {{< postImage "Delta 4380-DST" "/img/24sinks/716EU51Zn6L._AC_SL1500_.jpg" "/img/24sinks/716EU51Zn6L._AC_SL1500_.jpg" >}}
@@ -55,7 +55,7 @@ Brilliantly designed top-notch kitchen hardware for serious chefs. Pot fillers a
 9. [Waterstone Traditional Wheel Faucet](https://waterstoneco.com/wheel-pulldown-faucet-5100/)
 {{< postImage "Waterstone Traditional Wheel Faucet" "/img/24sinks/5100-PN.jpeg" "/img/24sinks/5100-PN.jpeg" >}}
 
-Waterstone's traditional wheel faucet gives an amazing performance difference apart from the market. We'd like to highlight the luxurious style that bestows a beautiful pull-out spray head. It can be extended out 20" and swivel 360° for flexibility and convenience. You won't find another kitchen faucet made with this attention to quality craftsmanship anywhere else.
+Waterstone's traditional wheel faucet gives an amazing performance difference apart from the market. We'd like to highlight the luxurious style that bestows a beautiful pull-out spray head. The spout can be extended out 20" and swivel 360° for flexibility and convenience. You won't find another kitchen faucet made with this attention to quality craftsmanship anywhere else.
 
 10. [Carlton Kitchen Bridge Faucet](https://www.barclayproducts.com/collections/kitchen-faucets/products/carlton-kitchen-bridge-faucet-with-metal-cross-handles)
 {{< postImage "Carlton Kitchen Bridge Faucet" "/img/24sinks/download_2700605d-504c-47e0-9727-6be31bb61045_448x448.jpeg" "/img/24sinks/download_2700605d-504c-47e0-9727-6be31bb61045_448x448.jpeg" >}}

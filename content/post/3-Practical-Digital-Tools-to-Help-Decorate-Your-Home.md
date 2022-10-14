@@ -31,7 +31,7 @@ The Houzz Shop includes more than 1.8 million home décor items, including furni
 
 ## Digital Tools #2: Sketch
 
-The second new tool within the Houzz app is called Sketch. Essentially, it’s a virtual idea board for your room. Instead of collecting pictures of rooms and products that you like from a variety of sources, you can do so all in the Houzz app and share your ideas with your family, friends, or designer for feedback. By tapping the Sketch icon on any Houzz photo and selecting the chair icon, you can begin placing items from the Houzz store in the photo. The Sketch feature even allows you to mark up Houzz photos and your own photos to show what you like, what you don’t like, and what you want someone else’s’ opinion on. When you’re finished, green price tags will appear to show the products that are available for purchase on Houzz. For a brief example, check out the video below.
+The second new tool within the Houzz app is called Sketch. Essentially, it’s a virtual idea board for your room. Instead of collecting pictures of rooms and products that you like from a variety of sources, you can do so all in the Houzz app and share your ideas with your family, friends, or designer for feedback. By tapping the Sketch icon on any Houzz photo and selecting the chair icon, you can begin placing items from the Houzz store in the photo. The Sketch feature even allows you to mark up Houzz photos and your own photos to show what you like, what you don’t like, and what you want someone else’s opinion on. When you’re finished, green price tags will appear to show the products that are available for purchase on Houzz. For a brief example, check out the video below.
 
 {{< break >}}
 

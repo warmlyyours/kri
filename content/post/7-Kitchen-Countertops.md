@@ -54,7 +54,7 @@ Trend Transformations award-winning products are made here in the U.S. Post-cons
 {{< postImage "Eco by Consentino" "/img/7Countertops/default.webp" "/img/7Countertops/default-small.webp" >}}
 6. [Eco by Consentino®](http://ecobycosentino.com/usa/what-is-eco/)
 
-Eco by Consentino began when a multinational Spanish company gave a large charitable contribution to bootstrap a team of visionaries’ products which led to the formation of a recycled surface. Slabs and precuts are available to adapt to project requirements. Eco’s countertops can be ordered in three varying degrees of thickness. Every slab comes in at a hardness of 5 to 7 on the Mohs scale to give the countertop a natural flexibility and durability.
+Eco by Consentino began when a multinational Spanish company asserted a large charitable contribution to bootstrap a team of visionaries’ products which led to the formation of a recycled surface. Slabs and precuts are available to adapt to project requirements. Eco’s countertops can be ordered in three varying degrees of thickness. Every slab comes in at a hardness of 5 to 7 on the Mohs scale to give the countertop a natural flexibility and durability.
 
 {{< postImage "Curava" "/img/7Countertops/image.webp" "/img/7Countertops/image-small.webp" >}}
 7. [Curava](https://curava.com/)
