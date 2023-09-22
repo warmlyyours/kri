@@ -10,7 +10,7 @@ Welcome to our expert blog, where we explore the fascinating and ever-changing w
 
 {{< break >}}
 
-{{< postImage "Basement Floor Heating" "/img/popularVinyl/image2.jpg" >}}
+{{< postImage "Basement Floor Heating" "/img/popularVinyl/image2.jpg" "/img/popularVinyl/image2.jpg" >}}
 
 {{< break >}}
 
@@ -24,7 +24,7 @@ Something you may not know about luxury vinyl planks is the potential to accesso
 
 {{< break >}}
 
-{{< postImage "Shaw Floorte LVT Plank" "/img/popularVinyl/image7.jpg" >}}
+{{< postImage "Shaw Floorte LVT Plank" "/img/popularVinyl/image7.jpg" "/img/popularVinyl/image7.jpg" >}}
 
 {{< break >}}
 
@@ -34,7 +34,7 @@ Homeowners prefer vinyl flooring with realistic grain patterns and textures that
 
 {{< break >}}
 
-{{< postImage "Carpet One-Luxury Vinyl Tiles" "/img/popularVinyl/image6.jpg" >}}
+{{< postImage "Carpet One-Luxury Vinyl Tiles" "/img/popularVinyl/image6.jpg" "/img/popularVinyl/image6.jpg" >}}
 *"Carpet One-Luxury Vinyl Tiles" by Towne Post Network is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.*
 
 {{< break >}}
@@ -45,7 +45,7 @@ There was a desire for vinyl tiles that looked like ceramic, porcelain, or stone
 
 {{< break >}}
 
-{{< postImage "Lake Overholser | 2424 E Overholser Dr OKC" "/img/popularVinyl/image8.jpg" >}}
+{{< postImage "Lake Overholser | 2424 E Overholser Dr OKC" "/img/popularVinyl/image8.jpg" "/img/popularVinyl/image8.jpg" >}}
 *"Lake Overholser | 2424 E Overholser Dr OKC" by okchomeseller is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.*
 
 {{< break >}}
@@ -72,7 +72,7 @@ Compared to regular tiles, distinguishing long tiles is achieved by their increa
 
 {{< break >}}
 
-{{< postImage "Epoxy Flake Garage" "/img/popularVinyl/image1.jpg" >}}
+{{< postImage "Epoxy Flake Garage" "/img/popularVinyl/image1.jpg" "/img/popularVinyl/image1.jpg" >}}
 *"Epoxy Flake Garage" by Decorative Concrete Kingdom is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.*
 
 {{< break >}}
@@ -83,7 +83,7 @@ Waterproof vinyl holds up against water intrusion. In contrast to regular vinyl 
 
 {{< break >}}
 
-{{< postImage "New SBF Showroom Floor - Vinyl Planks in Herringbone Pattern" "/img/popularVinyl/image4.png" >}}
+{{< postImage "New SBF Showroom Floor - Vinyl Planks in Herringbone Pattern" "/img/popularVinyl/image4.png" "/img/popularVinyl/image4.png" >}}
 *"New SBF Showroom Floor - Vinyl Planks in Herringbone Pattern" by slaughterbeckfloors is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.*
 
 {{< break >}}
@@ -94,7 +94,7 @@ Several homeowners opt for vinyl with solid patterns or geometric motifs to add 
 
 {{< break >}}
 
-{{< postImage "Matte Finishes" "/img/popularVinyl/image5.png" >}}
+{{< postImage "Matte Finishes" "/img/popularVinyl/image5.png" "/img/popularVinyl/image5.png" >}}
 
 {{< break >}}
 
@@ -104,7 +104,7 @@ Matte coatings have minimal to no gloss or luster. They don't reflect as much li
 
 {{< break >}}
 
-{{< postImage "Brown Wood Abstract Texture and Weave Pattern" "/img/popularVinyl/image10.png" >}}
+{{< postImage "Brown Wood Abstract Texture and Weave Pattern" "/img/popularVinyl/image10.png" "/img/popularVinyl/image10.png" >}}
 
 {{< break >}}
 
@@ -140,7 +140,7 @@ Layered or overlapping pieces provide a three-dimensional look in some 3D effect
 
 Layered and 3D effects are often used in residential and commercial spaces to elevate the visual impact of the flooring. These impacts can add to a room's overall aesthetics and ambiance, making it more visually exciting and distinctive. Depending on a place's design goals and intended mood, designers and homeowners can select flooring solutions that include these effects to achieve the ideal appearance and feel.
 
-{{< postImage "Ease of Installation" "/img/popularVinyl/image9.png" >}}
+{{< postImage "Ease of Installation" "/img/popularVinyl/image9.png" "/img/popularVinyl/image9.png" >}}
 
 {{< break >}}
 
