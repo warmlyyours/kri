@@ -18,7 +18,7 @@ So why is the awareness of what radiant heating is not greater? For many people 
 The beauty of radiant heating is that it is installed directly underneath the floor and heats the floor, the room, and its objects from the ground up. This gives homeowners a unique opportunity to use radiant heating as a subthermal heating bank which has been known to retain heat longer and save energy costs as a result. The cost-effectiveness of a floor heating system is greater as opposed to an air ventilation system because it cuts heat loss by 10 to 15 percent over the other heating methods.
 Now that we know what radiant heating is and some of its benefits, let us look at the cost of floor heating based on the cost of product, installation, and operation.
 
-## Floor Heating Products are Affordable Luxury
+{{< postH2 "floor-heating-products-are-affordable-luxury" "Floor Heating Products are Affordable Luxury" >}}
 
 The cost of floor heating is typically calculated per square foot. Know that the heating element is only installed underneath the walkable parts of the room. Heating cables are not installed under cabinets, an island, or any furniture with a base. Finalize your kitchen layout so you can truly understand the cost of the floor heating product.
 
@@ -52,7 +52,7 @@ Controllers are priced from $139.00 and can go up to $295.00 dependent upon the 
 
 The top-of-the-line control option is a [Wifi Programmable Thermostat](https://www.warmlyyours.com/en-US/products/code/UWG4-4999). If you want a simpler and more affordable means of heating control, then a [Non-Programmable Thermostat](https://www.warmlyyours.com/en-US/products/code/UTN4-4999) may be your best option.
 
-## Cost of Installation of a Floor Heating System
+{{< postH2 "cost-of-installation-of-a-floor-heating-system" "Cost of Installation of a Floor Heating System" >}}
 
 There’s an all new suite of services from WarmlyYours that can help with every part of the installation process -  either onsite or remotely. Their [SmartGuide Service](https://www.warmlyyours.com/en-US/services) takes out all the trip-ups of installing radiant heating. There are four services available.
 
@@ -76,7 +76,7 @@ As the installer masterfully installs the 45 sq ft of kitchen flooring with temp
 
 {{< postImage "Energy Use Calculator" "/img/luxuryHeating/energy-use-calculator-9d6312.webp" "/img/luxuryHeating/energy-use-calculator-9d6312-small.webp" >}}
 
-### Operating Costs
+{{< postH2 "operating-costs" "Operating Costs" >}}
 
 Trying to calculate the cost to run an electric floor heating system can be confusing, for anyone. Time and temperature for one thing go into the equation, but we’re pleased to say that due to  WarmlyYours’ Energy Use Calculator, crunching the numbers won’t be troublesome any longer. We ran a test run with the specifications of the cozy kitchen floor plan. The [average monthly kWh cost](https://www.electricitylocal.com/states/illinois/lake-zurich/) of a 45 sq foot heating area in Lake Zurich, IL is $10.44. According to [WarmlyYours’ Energy Use Calculator](https://www.warmlyyours.com/en-US/floor-heating/cost-calculator), it only costs 25 cents a day to heat this kitchen for eight consecutive hours.
 

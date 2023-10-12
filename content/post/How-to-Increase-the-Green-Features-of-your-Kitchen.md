@@ -8,7 +8,8 @@ tags:
   - Furniture
   - Flooring
 ---
-## Energy Effects Everyone
+
+{{< postH2 "energy-matters" "Energy Matters" >}}
 
 The kitchen is one of the busiest rooms in the home and, consequently, one of the greatest energy users. So it's not surprising that the kitchen offers ample opportunities to be energy efficient, enabling both the homeowner and the environment to reap the benefits. This year, there’s been a handful of products designed to minimize economic disruption. You’re going to be seeing these products on display as well as a brief description of its energy-saving benefits.
 
@@ -20,7 +21,7 @@ Whether you're a conscientious cook, a committed conservationist, or maybe just 
 
 **Here are a few suggestions to help you achieve your green goals.**
 
-## 1. Equip your kitchen with energy-efficient appliances
+{{< postH2 "equip-your-kitchen-with-energy-efficient-appliances" "1. Equip your kitchen with energy-efficient appliances" >}}
 
 {{< postImage "Energy Star Appliances" "/img/greenFeatures/pastedimage0.webp" "/img/greenFeatures/pastedimage0-small.webp" >}}
 
@@ -28,7 +29,7 @@ A wide variety of new appliances can be utilized to minimize wasted power, from 
 
 The Energy Star label has certified products that lead the field in energy efficiency. Energy Star’s website has user-friendly cost estimators for many products and you can visit to see just how much you will save by buying appliances that aren't 'power drains'. Check out energy star certified appliances at [energystar.gov](https://www.energystar.gov/).
 
-## 2. Consider adding radiant heating
+{{< postH2 "consider-adding-radiant-heating" "2. Consider adding radiant heating" >}}
 
 {{< postImage "Radiant floor heating thermostat and lifestyle photo" "/img/greenFeatures/nspire-touch-wifi-floor-heating-thermostat-lifestyle-3a9620.webp" "/img/greenFeatures/nspire-touch-wifi-floor-heating-thermostat-lifestyle-3a9620-small.webp" >}}
 
@@ -40,7 +41,7 @@ Radiant heating systems gradually send warmth beneath the floor over the span of
 
 In addition, you can keep track of your energy consumption and change the temperature from an easy-to-use mobile application, conveniently making your thermostat both elegant and functional.
 
-## 3. Use LED or CFL lighting
+{{< postH2 "use-led-or-cfl-lighting" "3. Use LED or CFL lighting" >}}
 
 {{< postImage "Lifestyle of a Kitchen with Electric Radiant Countertop Heating" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912.webp" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912-small.webp" >}}
 photo courtesy of [Feelswarm](https://feelswarm.com/about-us/)

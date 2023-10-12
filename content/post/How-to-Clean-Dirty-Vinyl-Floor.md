@@ -6,7 +6,8 @@ tags:
 - Flooring
 image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp
 ---
-## Strive To Be Chemical Free
+
+{{< postH2 "strive-to-be-chemical-free" "Strive To Be Chemical Free" >}}
 
 We live in a society that’s well-informed and each day we learn and continue to learn about the ways in which we can live cleanly. By now you're aware of the harmful effects that chemicals like pesticides, preservatives, and additives have on the body.
 
@@ -22,7 +23,7 @@ You wouldn’t go wrong with an all-purpose cleaner and we have found some great
 
 {{< break >}}
 
-## Leave Your Shoes at the Door
+{{< postH2 "leave-your-shoes-at-the-door" "Leave Your Shoes at the Door" >}}
 
 Everyone prefers a clean resilient floor over a dirty floor. Your home’s floor functions as the main raceway for guests, family, and friends to traverse about the house. In the short term, the dirt and residues dragged in from the outside aren’t noticeably present near the foyers and doors.
 
@@ -32,7 +33,7 @@ Doormats are a wonderful tool you place at the perimeter of your house and even 
 
 {{< break >}}
 
-## Try Dog Boots
+{{< postH2 "try-dog-boots" "Try Dog Boots" >}}
 
 My mother and I live with three dogs and I am cleaning up after them every day. Dog ownership is a full-time job that’s also extremely rewarding. As we learn to coexist with our animal friends, we have changed parts of our house and made compromises that fit better for a life with a dog.
 
@@ -44,13 +45,13 @@ Dogs’ paws claw into the dirt and were made to run on grass. Not only do boots
 
 {{< break >}}
 
-## Sweep Often
+{{< postH2 "sweep-often" "Sweep Often" >}}
 
 Keep a dustpan and broom ready when it comes time to do your house chores. A thorough floor cleaning is done in two parts: one dry run and one wet run. What we mean by that is your first flyby of each room you take a broom and sweep up any loose dust and dirt, then run through each room with a damp mop and clean the floor again to remove contaminants from your home.
 
 {{< break >}}
 
-## Save Money With House-Hold Products
+{{< postH2 "save-money-with-house-hold-products" "Save Money With House-Hold Products" >}}
 
 If you’re a woman, share a bathroom with a woman, then I suspect that you’ve got an idea how to clean hairspray off vinyl floor. To clean up hair spray from the bathroom floor, whip up a vinegar and water solution. You can add a small amount of shampoo if you want.
 
@@ -58,7 +59,7 @@ For really tough buildups, apply a little bit of rubbing alcohol directly on the
 
 {{< break >}}
 
-## Clean Spills Right Away
+{{< postH2 "clean-spills-right-away" "Clean Spills Right Away" >}}
 
 I’m sure you’re aware by now that a vinyl floor isn’t made out of hardwood. Even though it does look like hardwood sheets or plywood planks, a luxury vinyl floor is actually made with layers. Its primary component is PVC vinyl, which makes vinyl flooring both stable and flexible. Laminate flooring tends to hold up well to liquids but water damage can still occur.
 
@@ -66,7 +67,7 @@ In case of a spill, clean up spills as soon as they happen and stop the likeliho
 
 {{< break >}}
 
-## Rinse Well to Remove All Soap
+{{< postH2 "rinse-well-to-remove-all-soap" "Rinse Well to Remove All Soap" >}}
 
 Now during the second half of this post, we’d just like to brush up on different lines of soap, analyze the lines, and lay it all out for you. Soap is an excellent abrasive cleaner to a home-made cleaning solution. Mixing this up with your vinegar-water solution helps to cut up the dirt and residue that congregates over the course of your floor’s natural life.
 
@@ -78,7 +79,7 @@ If any soap is left after cleaning, that’s like a venus-fly-trap of dirt and g
 
 {{< break >}}
 
-## Choose the Best Cleaning Solution
+{{< postH2 "choose-the-best-cleaning-solution" "Choose the Best Cleaning Solution" >}}
 
 Here we’re talking about the cleanser that works for you. Not against you, but for you and what you’re trying to accomplish when it comes time to clean the floor. Commercial products work really great and always deliver on their promises, but it’s much cheaper to make a cleaning product yourself right at home.
 
@@ -90,7 +91,7 @@ The problem I face at times is definitely the film of slippery grease left behin
 
 {{< break >}}
 
-## Clean Stains According to Impact
+{{< postH2 "clean-stains-according-to-impact" "Clean Stains According to Impact" >}}
 
 All stains are equally important to clean up right away. But, it’s smart to differentiate stains based on the strength and impact of contamination. I personally don’t let a minute go by because that’s a minute that invites the possibility of a distraction, and no one likes it when someone else leaves a mess for you.
 

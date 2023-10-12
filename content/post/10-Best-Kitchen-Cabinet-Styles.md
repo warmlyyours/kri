@@ -7,7 +7,7 @@ tags:
 - Furniture
 ---
 
-## Designs
+{{< postH2 "designs" "Designs" >}}
 
 There's more than one way to update your kitchen's style than by setting up a couple decorations. Here we will share 10 kitchen cabinet styles to integrate to within your home. Once the options are clearer, you want to make sure to reach out about a specific cabinet design at a local home improvement store.
 

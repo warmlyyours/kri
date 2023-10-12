@@ -30,7 +30,7 @@ Make time to go to your local Goodwill and donate. Use online resources such as 
 >> - Donate an item without checking the market value
 >> - Keep things you don't need
 
-## Research the Area
+{{< postH2 "research-the-area" "Research the Area" >}}
 
 You should research the new area you’re moving into, for any move. Checking the crime reports, finding good schools, and going on Google street view to get an idea of your neighborhood’s walkability is all part of doing your due diligence. One savvy mover who shared his story online actually hired someone on [TaskRabbit](https://www.taskrabbit.com/services/moving) to survey the neighborhood ahead of time. Task rabbit and Fivver are great examples of the gig economy co-opting some responsibilities of the moving process.
 
@@ -46,7 +46,7 @@ You should research the new area you’re moving into, for any move. Checking th
 >> - Be quick to judge
 >> - Live in a hotspot of crime
 
-## Determine the scale of your move
+{{< postH2 "determine-the-scale-of-your-move" "Determine the scale of your move" >}}
 
 If you can only afford to just take the bare minimum with you, getting rid of the stuff you no longer need and driving to your new home is undoubtedly the cheapest way to move. This would be ideal to move across the country cheaply.
 
@@ -69,7 +69,7 @@ Large households might want to upgrade to a semi-truck seeing how there’d be s
 >> - Pack fragile items precariously
 >> - Forget to stage items on moving day
 
-### Work with the best
+{{< postH2 "work-with-the-best" "Work with the best" >}}
 
 Working with only the best realtors can really go a long way in getting the best deals possible. Ask everyone you know for referrals. You should have no problem finding a realtor to work with even if you don’t have recommendations.
 
@@ -91,7 +91,7 @@ Seek out designers that have years of experience but have also kept up with curr
 >> - Work with a poorly rated realtor
 >> - Miss out on smart home technologies
 
-### Survive the first month
+{{< postH2 "survive-the-first-month" "Survive the First Month" >}}
 
 After the challenges of cross country moving, the first couple of months in a new city are tough. Not only are you dedicating the next few months to unpacking your belongings, but you’re also discovering a new way of life as you go about exploring your new area.
 

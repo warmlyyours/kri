@@ -12,7 +12,7 @@ The CDCl is the authority on how to sanitize your household. We’ve taken that 
 
 {{< break >}}
 
-## Remove Debris
+{{< postH2 "remove-debris" "Remove Debris" >}}
 
 Per the CDC’s page on [Household Cleaning & Sanitizing](https://www.cdc.gov/healthywater/emergency/cleaning-sanitizing/household-cleaning-sanitizing.html), the first step of cleaning kitchen surfaces easily is to wash the countertops with soap and water to remove any debris.
 
@@ -20,7 +20,7 @@ You can use a wash cloth or disposable paper towels at this stage to wash your c
 
 {{< break >}}
 
-## Protect Yourself
+{{< postH2 "protect-yourself" "Protect Yourself" >}}
 
 First of all, avoid touching your face because it is possible to self-inoculate by touching a surface that has the virus and then touching your eyes, your inner nose, and/or into your mouth. Once you’re ready to begin sanitizing, start with clean hands. Wash your hands with soap and water for 20 seconds and be sure to suit yourself up with disposable gloves. If caring for a sick person in your home we suggest that you consider taking the extra precaution of wearing non-porous rubber boots and eye protection as the virus can linger on flooring and is spread in the air.
 
@@ -28,7 +28,7 @@ When cleaning with potentially toxic chemicals, open doors and windows for prope
 
 {{< break >}}
 
-### Sanitizing
+{{< postH2 "sanitizing" "Sanitizing" >}}
 
 It’s good to have a structured cleaning and sanitizing procedure. We recommend the following:
 
@@ -41,13 +41,13 @@ If you are concerned about the use of bleach, then swap the bleach out for white
 
 {{< break >}}
 
-#### Cleaning Electronics
+{{< postH2 "cleaning-electronics" "Cleaning Electronics" >}}
 
 Our technological gadgets are one of the things we touch like often throughout the day. Tablets, phones, and touch screens have an oleophobic (fingerprint-resistant) coating that may dissolve with the use of harsh chemicals. Manufacturers recommend that you gently wipe these devices down with distilled water and a microfiber cloth. Then use cotton swabs to clean the buttons, corners, and edges. If you don’t have cotton swabs, here’s a tip: you could use dryer lint.
 
 Although the manufacturer’s guidelines should always be followed. Look for updates specific to the COVID-19 virus. Apple has revised it’s “How to Clean Your Apple Products” guidelines in response to the COVID-19 pandemic. They now endorse using 70 percent isopropyl alcohol or Clorox disinfectant. This recommendation is optional, of course. You mustn’t mix chemicals. Do not mix the alcohol with other chemicals as you clean electronics and other accessories. Take precaution when using damp wipes or alcohol-soaked cloth which could lead to water damage if over saturated.
 
-##### The Checklist
+{{< postH2 "the-checklist" "The Checklist" >}}
 
 Here is the cleaning checklist we at Kitchen Remodel Ideas created for you. We’ve left a few of the lines blank so that you can personalize the list for your needs. Once you print it out, you can laminate it and stick it to your fridge or notice board. Please don’t hesitate to reach out to us if you have any questions or have ideas or recommendations for cleaning and sanitizing a kitchen.
 

@@ -14,8 +14,7 @@ Understanding how to unclog the kitchen sink plays an integral part in sink main
 
 {{< break >}}
 
-## What Causes Clogging
-
+{{< postH2 "what-causes-clogging" "What Causes Clogging" >}}
 
 {{< postImage "Woman Clearing Clogged Drain" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled.webp" "/img/unclogSink/woman-clearing-clogged-drains-with-plunger-TZ82V9L-scaled-small.webp" >}}
 
@@ -25,7 +24,7 @@ Hair can clog the bathroom sink very easily. Regardless of the obstruction, you 
 
 {{< break >}}
 
-## Mad Scientist Method
+{{< postH2 "mad-scientist-method" "Mad Scientist Method" >}}
 
 {{< postImage "Mad Scientist Method" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.webp" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled-small.webp" >}}
 We’ll be addressing how to unclog a grease clog in the kitchen sink. This method also works in bathroom plumbing systems. Grease clogs happen if someone unknowingly poured bacon grease down the kitchen sink. Don’t do this, as it might solidify in the line and potentially cause [major issues](https://www.nationalgeographic.com/news/2017/08/fatbergs-fat-cities-sewers-wet-wipes-science/).  
@@ -38,13 +37,13 @@ The combination of vinegar and baking soda immediately begins to release grease-
 
 {{< break >}}
 
-## Drain Cleaners
+{{< postH2 "drain-cleaners" "Drain Cleaners" >}}
 
 {{< postImage "Toilet Bowl Flushing" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled.webp" "/img/unclogSink/toilet-bowl-flushing-PAF9CH6-scaled-small.webp" >}}
 
 {{< break >}}
 
-## Chemical Drain Cleaners
+{{< postH2 "chemical-drain-cleaners" "Chemical Drain Cleaners" >}}
 
 Drain cleaners containing chemical substances are usually sold as liquids, however, powders and gels are also available. Chemical drain cleaners work by mixing different chemical compounds to trigger a reaction. There are three general kinds of chemical drain openers/cleaners:
 
@@ -66,7 +65,7 @@ As I’m sure you’re aware, handling these products increase the chance of ski
 
 {{< break >}}
 
-## Enzymatic Drain Cleaners
+{{< postH2 "enzymatic-drain-clearners" "Enzymatic Drain Cleaners" >}}
 
 Enzymatic drain cleaners are much more forgiving than harsh chemical drain cleaners. What is great about enzymatic drain cleaners is that they contain some kind of bacteria culture and concentrated enzymes that obliterate organic material. It’s about as trustworthy as the vinegar and baking soda technique.
 
@@ -74,7 +73,7 @@ These cleaners work much like compost ferments food scraps into high-density fer
 
 {{< break >}}
 
-## Plunging the Drain
+{{< postH2 "plunging-the-drain" "Plunging the Drain" >}}
 
 {{< postImage "Toilet Plunger" "/img/unclogSink/plunger-PL4JFTS-scaled.webp" "/img/unclogSink/plunger-PL4JFTS-scaled-small.webp" >}}
 
@@ -90,7 +89,7 @@ Then run hot water down the drain for 10 minutes to be sure they’re fully clea
 
 {{< break >}}
 
-## Unclogging the P-Trap
+{{< postH2 "unclogging-the-p-trap" "Unclogging the P-Trap" >}}
 
 {{< postImage "Photo of cabinet under sink" "/img/unclogSink/pTrap.webp" "/img/unclogSink/pTrap-small.webp" >}}
 

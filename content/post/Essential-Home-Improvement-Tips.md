@@ -6,14 +6,15 @@ image: /img/essentialHITips/essentialhometipsfeaturedimage.webp
 tags:
   - Essentials
 ---
-## Essential Tips for Quick Selling
+
+{{< postH2 "essential-tips-for-quick-selling" "Essential Tips for Quick Selling" >}}
 
 Whether you’re in a buyer’s or seller’s market, selling a home can be challenging. Not only can it be difficult to sell for the price you want, but you never really know how long your home will sit on the market. One thing you can do, I think, is get your home in the best shape possible for impressing buyers. Along with checking out sites like Kitchen Remodel Ideas, considering the advice and resources below can help you get started:
 
 {{< postImage "Essential Home Improvement Tips Featured Image" "/img/essentialHITips/essentialhometipsfeaturedimage.webp" "/img/essentialHITips/essentialhometipsfeaturedimage-small.webp" >}}
 Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-209274/)
 
-## At a Glance
+{{< postH2 "at-a-glance" "At a Glance">}}
 *When it comes down to it, making improvements to your home can be summarized in a few simple steps:*
 
 - Research the [recently sold](https://www.nerdwallet.com/blog/mortgages/find-your-homes-value-do-your-own-comps-in-4-steps/) homes in your area to get an idea of what projects could benefit your home.
@@ -21,7 +22,7 @@ Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-20
 - [Learn about](https://www.redfin.com/resources/how-to-increase-your-home-appraisal-value-now) how improvements can add value to your home.
 - Focus on both your home's interior and exterior when planning improvement [projects](https://www.homes.com/blog/2018/08/how-to-prioritize-home-repair-projects-before-selling-your-home/).
 
-## Interior Projects
+{{< postH2 "interior-projects" "Interior Projects" >}}
 *The inside of your home is a good place to start.*
 
 - Invest in a kitchen renovation for maximum ROI even freshening up the [kitchen cabinets](https://toolreviewlab.com/4-quick-and-easy-diy-home-improvement-projects/) yourself can make a big difference.
@@ -29,7 +30,7 @@ Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-20
 - If you have any areas of your home with bad or old paint jobs, throw on a fresh [coat of paint](https://www.homeadvisor.com/r/room-colors-and-moods/) which'll quickly and easily apply.
 - Embrace [home staging](https://northof.nyc/archive/21-home-staging-tips/) to bring out your home's best qualities.
 
-## Exterior Projects
+{{< postH2 "exterior-projects" "Exterior Projects" >}}
 *It's important not to forget about your home's exterior when making improvements.*
 
 - If you have a garage, install a [new door](http://thedoorworks.com/5-reasons-you-might-need-a-new-garage-door/) for a high ROI and a significant boost in curb appeal.

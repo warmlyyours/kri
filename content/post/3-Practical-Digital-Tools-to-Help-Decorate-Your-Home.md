@@ -11,7 +11,7 @@ tags:
 
 Seeing is believing. Until you you've gotten the product in front of you, you won’t know for sure if it’s a good fit. Generally speaking, Internet retailers have gotten really good at providing product photos, dimensions, and more to show the customer exactly what they’re getting - but it’s still challenging for people to envision what the product will look like once it’s delivered. That’s why Houzz fortified its app with new digital tools to get homeowners as close to seeing a product in their own home as possible. 
 
-## Digital Tools #1: View in My Room
+{{< postH2 "digital-rools-1-view-in-my-room" "Digital Tools #1: View in My Room" >}}
 
 The first tool is called “View in My Room” and enables shoppers to virtually place items from the Houzz Shop in their home (see video below).
 
@@ -29,7 +29,7 @@ The Houzz Shop includes more than 1.8 million home décor items, including furni
 
 {{< break >}}
 
-## Digital Tools #2: Sketch
+{{< postH2 "digital-tools-2-sketch" "Digital Tools #2: Sketch" >}}
 
 The second new tool within the Houzz app is called Sketch. Essentially, it’s a virtual idea board for your room. Instead of collecting pictures of rooms and products that you like from a variety of sources, you can do so all in the Houzz app and share your ideas with your family, friends, or designer for feedback. By tapping the Sketch icon on any Houzz photo and selecting the chair icon, you can begin placing items from the Houzz store in the photo. The Sketch feature even allows you to mark up Houzz photos and your own photos to show what you like, what you don’t like, and what you want someone else’s opinion on. When you’re finished, green price tags will appear to show the products that are available for purchase on Houzz. For a brief example, check out the video below.
 
@@ -39,7 +39,7 @@ The second new tool within the Houzz app is called Sketch. Essentially, it’s a
 
 {{< break >}}
 
-## Digital Tools #3: Match
+{{< postH2 "digital-tools-3-match" "Digital Tools #3: Match" >}}
 
 The last new tool is available on both the Houzz app and [Houzz.com](https://www.houzz.com/). If you’ve ever spotted an item that you love but realized it’s way more than you intended to spend, this tool is a must-have for you. Simply by clicking on the items that you like in a photo, this tool will pull up similar products that are available in the [Houzz Shop](https://www.houzz.com/products). The products may or may not be less expensive than the original, but you’re left with a variety of options from which to choose, so it’s very likely you’ll find something that you love that’s in your budget.
 

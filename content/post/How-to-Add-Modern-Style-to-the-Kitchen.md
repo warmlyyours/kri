@@ -10,7 +10,7 @@ Remodeling a somewhat dated kitchen with a new style keeps the magic going, righ
 
 {{< break >}}
 
-## Aesthetic Style
+{{< postH2 "aesthetic-style" "Aesthetic Style" >}}
 
 {{< postImage "Remodelista" "/img/modernStyle/Remodelista.webp" "/img/modernStyle/Remodelista-small.webp" >}}
 Contemporary kitchens feature minimalist design with monochromatic colors and elements that are flush against walls and countertops. In today’s modern kitchen design, everything is streamlined, and clean lines are featured throughout the room.
@@ -19,7 +19,7 @@ Note that the popular materials used in modern kitchens today include metals, gl
 
 {{< break >}}
 
-## Modern Kitchen Features
+{{< postH2 "modern-kitchen-features" "Modern Kitchen Features" >}}
 
 While you’re remodeling your kitchen, don’t forget to add some modern features that will elevate your kitchen into the future and make life more convenient. The following are three kitchen features that we recommend adding to your kitchen:
 
@@ -32,7 +32,7 @@ Pull out storage in kitchen cabinets and the kitchen island makes the room feel 
 
 {{< break >}}
 
-### Other Kitchen Trends
+{{< postH2 "other-kitchen-trends" "Other Kitchen Trends" >}}
 
 In addition to the features above, you can add modern style to your kitchen with some or all of the following kitchen trends. These trends will make your kitchen feel unique and add layers of personality to the room.
 

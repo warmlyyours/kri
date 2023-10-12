@@ -11,17 +11,17 @@ What happens to the glass bottle of marinara sauce you just threw out? Or that b
 
 Modern-day recycling has the potential to restore glass bottles and porcelain to its former beauty. Post-consumer glass can be converted back into the supply chain. Incredible slabs of recycled glass can be used in new construction projects, sculpted into exquisite countertops and flooring.
 
-## What Really Happens to Recycled Glass
+{{< postH2 "what-really-happens-to-recycled-glass" "What Really Happens to Recycled Glass" >}}
 
 American utility companies have thousands of recycling centers around the United States. Each one adhering to the rules and regulations of the recycling industry helps to standardize practices. To begin with, glass is collected from the recycling bin at a home or residence. This is called the collection stage and it constitutes the beginnings of the recycling process.
 
 The glass is taken to a treatment plant for processing. To remove any impurities, the glass is first sorted by color and then thoroughly cleaned. After that, the glass is melted down to be molded into something new like bottles, jars, and even kitchen countertops.
 
-## Environmental Impact
+{{< postH2 "environmental-impact" "Environmental Impact" >}}
 
 According to Compactor Management Company, “Recycled glass reduces the amount of water and air pollution emissions by around 20% to 40% respectfully. Reducing industrial pollution benefits not only the environment but also the entire ecosystem.” Swapping out an old scratched up countertop for a recycled glass one assures oneself of contributing to a healthier world, makes for a great focal point for a kitchen, and all with the knowledge that you are contributing to a greener world.
 
-## Recycled Glass Manufacturers and Distributors
+{{< postH2 "recycled-glass-manufacturers-and-distributors" "Recycled Glass Manufacturers and Distributors" >}}
 
 Ready to run the gamut? We’ve picked out seven companies who’ve incorporated recycled glass materials into all or part of available products. From one to seven, and in no particular order, these companies were showcased on the basis of their eco-friendly construction, materials and developed at a less harmful cost to the environment.
 
@@ -61,11 +61,11 @@ Eco by Consentino began when a multinational Spanish company asserted a large ch
 
 Curava is a family owned and operated manufacturer and distributor of resin-based recycled glass material. It’s waterproof, mold, mildew resistant, and you can cut your vegetables on it because it’s been treated with a see-thru protective coating - no cutting boards required. Their countertops are heat resistant. You can get a customized edge, ranging from eased, full bullnose, ogee, ¼” bevel and half bullnose. Curava promises its customers a countertop to match well with any design, and every product's made out of 100% recycled materials.
 
-## Recycled Glass and Countertop Heating
+{{< postH2 "recycled-glass-and-countertop-heating" "Recycled Glass and Countertop Heating" >}}
 
 The one objection to a glass countertop, especially when combined with stone is that in colder climates the countertop may be uncomfortable to the touch which does not make for an inviting eating area.  Consider eliminating this problem by adding a touch of warmth with [Feelswarm Countertop Heating](https://www.warmlyyours.com/en-US/products/code/CTHS-009-11x24-KIT). It’s basically a heating element that can be used to warm up most countertops.   Check out [WarmlyYours Radiant Heating](https://www.warmlyyours.com/en-US/floor-heating/tile-marble-or-stone?referral_code=KRICOM). They are a manufacturer and distributor of quality-grade radiant heating products with an outstanding reputation for customer service.
 
-## Recycled Glass Considerations
+{{< postH2 "recycled-glass-considerations" "Recycled Glass Considerations" >}}
 
 Countertops made from recycled glass, in a traditional sense are usually particulates mixed with natural resources. Recycled glass formed with either cement or a non-porous resin provides a frictionless, durable, and maintenance-free finish. The glass may stain from acidic liquids like mustard, wine, and other chemicals which may cause discoloration (resin and cement) so know your glass and heed any precautions.
 

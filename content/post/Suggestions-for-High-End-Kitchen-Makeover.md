@@ -25,7 +25,7 @@ As you draw your attention to the plan you want to address, consider some of the
 
 {{< break >}}
 
-## Add Molding to your Kitchen Cabinets
+{{< postH2 "add-molding-to-your-kitchen-cabinets" "Add Molding to your Kitchen Cabinets" >}}
 
 {{< break >}}
 
@@ -33,7 +33,7 @@ As you set out to maximize the high-end elements of your kitchen, molding is ina
 
 {{< break >}}
 
-## Open Floor Plan
+{{< postH2 "open-floor-plan" "Open Floor Plan" >}}
 
 {{< break >}}
 
@@ -52,7 +52,7 @@ Conversely, you could go the opposite route and adopt a slick modern style with 
 
 {{< break >}}
 
-## Make a Kitchen Island that can Multitask
+{{< postH2 "make-a-kitchen-island-that-can-multitask" "Make a Kitchen Island that can Multitask" >}}
 
 {{< break >}}
 
@@ -68,7 +68,7 @@ Often, islands will have space built-in for extra storage of pots, pans, larger 
 
 {{< break >}}
 
-## Frame your Fridge
+{{< postH2 "frame-your-fridge" "Frame your Fridge" >}}
 
 {{< break >}}
 
@@ -88,7 +88,7 @@ With radiant wall heaters, you can easily turn your now-luxurious kitchen into a
 
 {{< break >}}
 
-## Paint your Kitchen Cabinets
+{{< postH2 "paint-your-kitchen-cabinets" "Paint your Kitchen Cabinets" >}}
 
 {{< break >}}
 

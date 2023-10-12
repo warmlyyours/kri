@@ -12,7 +12,7 @@ Flooring is very very important and when winter rolls around, homeowners ought  
 
 Laminate tile is not waterproof, however widely believed that may be. [The Flooring Girl](https://theflooringgirl.com/blog/is-laminate-flooring-waterproof/), a flooring expert, believes that this misperception is due to the fact that many customers mistakenly confuse vinyl with laminate flooring(Debbie.gartner 2018).
 
-## What is Laminate Flooring?
+{{< postH2 "what-is-laminate-flooring" "What is Laminate Flooring?" >}}
 
 Laminate flooring is a synthetic flooring type and it was first made as an alternative to natural hardwood. At first, it made a splash on the flooring market as the trend grew in popularity throughout the 1970's. Manufacturers increasingly installed it because of its realistic look that could pass as real hardwood flooring, which easily overtook its alternative.
 
@@ -35,7 +35,7 @@ If you feel that hardwood is not a good option for an area due to water or humid
 
 You can check out a write up of Plastic Laminate Flooring. Floor Critics has a review (Marino 2019) that you can read [here](https://floorcritics.com/waterproof-laminate-reviews/).
 
-## Waterproof and Water Resistance: How to Spot the Difference.
+{{< postH2 "wateproof-and-water-resistance-how-to-spot-the-difference" "Waterproof and Water Resistance: How to Spot the Difference" >}}
 
 The term water resistance and waterproof are not the same. Differentiating for each can help prevent mistakes when selecting the right flooring type. Especially if you live in a normal household with kids and pets where dropping a glass of juice happens every so often.
 
@@ -45,7 +45,7 @@ If you've unintentionally left a spill on kitchen laminate flooring unattended, 
 
 In areas where there is a high risk of exposure to moisture, such as a bathroom, laundry room, stairs or kitchen, it is recommended that the corner joints be glued for every board run. It sounds like a lot of work because it truly is, as this solution normally involved a [glue for laminate flooring](https://www.flooringinc.com/blog/waterproof-flooring/#Waterproof_Laminate_Flooring) i.e. laminate floor sealer. (2019) but the extra effort is well worth the time.
 
-### Closing Remarks
+{{< postH2 "closing-remarks" "Closing Remarks" >}}
 
 Easy to maintain plastic laminate appears to be a very common remodeling practice across the pond, though a good idea in theory, not so much locally. That means that customers in the U.S. are going to have to wait a while to get excited about using these products at home.
 

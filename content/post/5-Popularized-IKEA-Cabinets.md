@@ -20,7 +20,7 @@ To start your journey, our team investigated IKEAâ€™s kitchen cabinet offering.Â
 
 {{< break >}}
 
-## SEKTION: IKEA Kitchen Cabinet Code SE BS2G
+{{< postH2 "ikea-kitchen-cabinet-code-SE-BS2G" "SEKTION: IKEA Kitchen Cabinet Code SE BS2G" >}}
 
 {{< postImage "SE BS2G" "/img/5IKEA/sektion1.webp" "/img/5IKEA/sektion1-small.webp" >}}
 
@@ -50,7 +50,7 @@ And for us, here is where function steps in. For cleaning the glass, there are s
 
 {{< break >}}
 
-## SEKTION: IKEA Kitchen Cabinet Code SE HS2D2E2I
+{{< postH2 "ikea-kitchen-cabinet-code-SE-HS2DE2I" "SEKTION: IKEA Kitchen Cabinet Code SE HS2D2E2I" >}}
 
 {{< postImage "SE HS2D2E2I" "/img/5IKEA/sektion2.webp" "/img/5IKEA/sektion2-small.webp" >}}
 
@@ -74,7 +74,7 @@ The door damper catches a moving door and gently closes it silently. Effortlessl
 
 {{< break >}}
 
-## SEKTION: Cabinet code SE WR1H
+{{< postH2 "cabinet-code-SE-WR1H" "SEKTION: Cabinet code SE WR1H" >}}
 
 {{< postImage "SE WR1H" "/img/5IKEA/sektion3.webp" "/img/5IKEA/sektion3-small.webp" >}}
 
@@ -95,7 +95,7 @@ Hinges are adjustable and a knob or a handle is required to open the hatch.
 
 {{< break >}}
 
-## SEKTION: Cabinet code SE HM2D2E
+{{< postH2 "cabinet-code-SE-HM2D2E" "SEKTION: Cabinet code SE HM2D2E" >}}
 
 {{< postImage "SE HM2D2E" "/img/5IKEA/sektion4.webp" "/img/5IKEA/sektion4-small.webp" >}}
 
@@ -119,7 +119,7 @@ PRO TIP: On the condition you do incorporate a microwave, leave ample room above
 
 {{< break >}}
 
-## SEKTION: Cabinet code SE H2D3EE2I
+{{< postH2 "cabinet-code-SE-H2D3EE2I" "SEKTION: Cabinet code SE H2D3EE2I" >}}
 
 {{< postImage "SE H2D3EE2I" "/img/5IKEA/sektion5.webp" "/img/5IKEA/sektion5-small.webp" >}}
 

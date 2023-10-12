@@ -12,7 +12,7 @@ People across the nation have decided to stay at home to do their part to help d
 
 {{< break >}}
 
-## Step-by-Step Cabinet Organization
+{{< postH2 "step-by-step-cabinet-organization" "Step-by-Step Cabinet Organization" >}}
 
 ***
 
