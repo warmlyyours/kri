@@ -1,0 +1,11 @@
+<style>
+    h2 {
+        font-family: "Tahoma"!important;
+        line-height: 1!important;
+        font-weight: 600!important;
+    }
+</style>
+
+<div>
+    <h2 id="{{ .Get 0 | markdownify }}">{{ .Get 1 | markdownify }}</h2>
+</div>

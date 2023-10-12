@@ -7,7 +7,7 @@ tags:
 - Faucets
 ---
 
-## What Scientists Don't Want you to Know
+{{< postH2 "what-scientists-dont-want-you-to-know" "What Scientists Don't Want you to Know" >}}
 
 Water is an essential building block of life which makes up more than 80% of our bodies. The quality of the water we drink and share with our family and house guests is dependent upon so many factors.
 
@@ -31,7 +31,7 @@ We’ve put together a buying guide to assist you along the process. Our goal is
 
 {{< break >}}
 
-## Countertop Filters
+{{< postH2 "countertop-filters" "Contertop Filters" >}}
 
 {{< break >}}
 
@@ -107,7 +107,7 @@ We’re pleased to see that this filter is tested and approved by the Water Qual
 
 {{< break >}}
 
-## Undersink Filters
+{{< postH2 "undersink-filters" "Undersink Filters" >}}
 
 Undersink filters are another popular in-house water filter solution that delivers mineral-spring quality water without watersheds, tanks, and electricity. The most frequently chosen options are a one-channel design, requiring less maintenance.
 
@@ -117,7 +117,7 @@ Filters of this kind are good quality at a higher price point. An undersink filt
 
 {{< break >}}
 
-### [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
+## [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
 **Price: $142.85**
 
 {{< postImage "Aquasan 3-stage under counter" "/img/bestFilter/AQ-5300-BrNickel.png" "/img/bestFilter/AQ-5300-BrNickel.png" >}}
@@ -134,7 +134,7 @@ Aquasan delivers strong results, showing a 99% reduction of 77 known contaminant
 
 {{< break >}}
 
-### [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
+## [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
 
 **Price: $125.99**
 
@@ -152,7 +152,7 @@ Minerals with immune system boosting properties are not filtered out and it comp
 
 {{< break >}}
 
-### [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
+## [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
 
 **Price: $815.98**
 
@@ -166,13 +166,13 @@ A good reason to select this undersink filter is its removal of chlorine and chl
 
 {{< break >}}
 
-## Faucet Filters
+{{< postH2 "faucet-filters" "Faucet Filters" >}}
 
 We just had to include faucet filters. A faucet filter is a kitchen faucet with a mounted attachment that connects to your kitchen sink. This past year, new technologies of faucet filters have been a major trend. Outfitting a sink to a kitchen faucet provides great-tasting and clean faucet water.
 
 {{< break >}}
 
-### [Brita Tap Water Filter System, Water Faucet Filtration System](https://amzn.to/3j6PKoY)
+## [Brita Tap Water Filter System, Water Faucet Filtration System](https://amzn.to/3j6PKoY)
 
 **Price: $16.88**
 
@@ -188,7 +188,7 @@ Brita’s kitchen faucet water filter rarely ever leaks. The life span of a basi
 
 {{< break >}}
 
-### [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://amzn.to/3mX7Zyf)
+## [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://amzn.to/3mX7Zyf)
 
 **Price: $19.88**
 
@@ -206,7 +206,7 @@ Time was spent subjecting this kitchen sink faucet filter to rigorous testing. C
 
 {{< break >}}
 
-### Best by Category:
+{{< postH2 "best-by-category" "Best by Category:" >}}
 
 {{< break >}}
 
