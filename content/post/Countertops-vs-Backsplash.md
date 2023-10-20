@@ -6,6 +6,7 @@ author: Kitchen Remodel Ideas
 tags:
   - Wall tiles
   - Countertops
+layout: blog
 ---
 
 Your kitchen wouldn’t be complete without countertops and wall tiles. When arranging the design elements and architectural features, the colors don't have to match, they ought to be balanced. 
@@ -103,3 +104,5 @@ Beginning with a backsplash isn't a bad idea. More often than not, the backsplas
 Countertops materials and backsplash tiles often provide a visual lead. Your visual lead sets the tone for the rest of the kitchen experience. That doesn't mean you're not supposed to play around with colors and layout placements. You're going to want to have a theme that works with both a countertop and a backsplash, even mildly so.
 
 Does your countertop match your wall tiles? Have you struggled trying to understand which to install first? Comment below!
+
+{{< break >}}{{< break >}}

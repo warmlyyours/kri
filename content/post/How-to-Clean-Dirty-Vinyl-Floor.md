@@ -5,6 +5,7 @@ author: Kitchen Remodel Ideas
 tags:
 - Flooring
 image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp
+layout: blog
 ---
 
 {{< postH2 "strive-to-be-chemical-free" "Strive To Be Chemical Free" >}}
@@ -104,3 +105,5 @@ Tougher stains come from crayons, wine, lipstick, and lip gloss. For this, youâ€
 Deep cleans of the vinyl floor first start with soap and water then itâ€™s a really easy switch back to vinegar and water. Scrub with a hard bristled brush. Work fast and in quick bursts of strength and mop the floor immediately after and your floors cleaner. Use nail polish remover if the stain is nail polish.
 
 Thanks everyone, we hope you learned how to clean an old vinyl floor. Do you have vinyl plank floors at home? What was the toughest stain you ever cleaned off of your vinyl floor?
+
+{{< break >}}{{< break >}}

@@ -5,6 +5,7 @@ author: Kitchen Remodel Ideas
 image: /img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp
 tags:
   - Flooring
+layout: blog
 ---
 
 {{< postH2 "backed-real-estate-advice" "Backed Real Estate Advice" >}}
@@ -13,7 +14,11 @@ Now that you’ve made the big decision to put your house on the market, there a
 
 {{< postImage "Increasing Resale Value Featured Image" "/img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp" "/img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp" >}}
 
+{{< break >}}{{< break >}}
+
 **What is Floor Heating**
+
+{{< break >}}
 
 *A stress-free multipurpose hating system, delivering warmth to give your home a luxurious amenity. Floor heating is:*
 
@@ -22,7 +27,11 @@ Now that you’ve made the big decision to put your house on the market, there a
 - Acting as a [heating bank](https://www.silive.com/homegarden/2012/03/radiant_heat_is_clean_comforta.html) with suitable concrete substrates.
 - Programmable with a maintenance-free [thermostat](https://www.warmlyyours.com/en-US/floor-heating/thermostats). (Wi-fi thermostats available)
 
+{{< break >}}{{< break >}}
+
 **How does it work**
+
+{{< break >}}
 
 *Electrically heated, energy-efficient, quiet, and flexible:*
 
@@ -31,7 +40,11 @@ Now that you’ve made the big decision to put your house on the market, there a
 - Heats the floor directly with nominal amounts of thermal radiation, rather than heat the air that can be less energy efficient because of heat-sinks, allowing the body to [retain heat](https://www.fcimag.com/articles/95136-the-ins-and-outs-of-electric-radiant-floor-heating) longer.
 - [Scheduled](https://www.warmlyyours.com/en-US/posts/How-to-Set-Up-your-nSpire-Touch-Thermostat-2733) to turn on and off to help save on energy costs.
 
+{{< break >}}{{< break >}}
+
 **Where can I Find Floor Heating Products?**
+
+{{< break >}}
 
 *Distributors across the country have adopted underfloor heating systems to their product offerings*
 
@@ -41,4 +54,9 @@ Now that you’ve made the big decision to put your house on the market, there a
 - Learn where to buy heating systems with WarmlyYours' [Dealer Locator Tool](https://www.warmlyyours.com/en-US/company/where-to-buy).
 - Here's an example of a [modern Philadelphia apartment](https://www.phillymag.com/property/2020/09/29/hawthorne-renovated-row-house-for-sale/) now considered eco-friendly and energy-efficient thanks to radiant floor heating.
 
+{{< break >}}
+
 Floor heating is typically more expensive than your average forced air heat pumps, but you save money over the long run due to better efficiency. Outfitting with radiant heating, for any room, benefits the resale process and improves your valuation. All of these things are great reasons to work with a radiant heating expert, beginning with the zones of the house you want temperature-controlled, ending with a resale deal that’s even better than before, and so much more.
+
+
+{{< break >}}{{< break >}}

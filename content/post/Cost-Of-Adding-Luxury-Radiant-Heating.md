@@ -6,8 +6,11 @@ image: /img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-fea
 tags:
   - Countertops
   - Flooring
+layout: blog
 ---
 What is the cost of adding luxury radiant heating in a kitchen? Before we discuss the average cost of radiantly heating a home, let us first discuss what exactly is radiant heating? Think of it as an electric heating blanket for your floor. Be it tile marble or stone, a heating cable is sown onto a fiberglass mesh to go underneath the floor surface. The heating element is installed over the subfloor. Then, flooring, like tile, is placed on top of the heating system. This technology results in better room temperatures, better home relaxation, and better energy efficiency. It just makes everything better.
+
+{{< break >}}
 
 {{< postImage "Cost of Adding Luxury Radiant Heating in a Kitchen" "/img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp" "/img/luxuryHeating/cost-of-adding-luxury-radiant-heating-in-a-kitchen-featured-image.webp" >}}
 
@@ -17,6 +20,8 @@ So why is the awareness of what radiant heating is not greater? For many people 
 
 The beauty of radiant heating is that it is installed directly underneath the floor and heats the floor, the room, and its objects from the ground up. This gives homeowners a unique opportunity to use radiant heating as a subthermal heating bank which has been known to retain heat longer and save energy costs as a result. The cost-effectiveness of a floor heating system is greater as opposed to an air ventilation system because it cuts heat loss by 10 to 15 percent over the other heating methods.
 Now that we know what radiant heating is and some of its benefits, let us look at the cost of floor heating based on the cost of product, installation, and operation.
+
+{{< break >}}
 
 {{< postH2 "floor-heating-products-are-affordable-luxury" "Floor Heating Products are Affordable Luxury" >}}
 
@@ -52,6 +57,8 @@ Controllers are priced from $139.00 and can go up to $295.00 dependent upon the 
 
 The top-of-the-line control option is a [Wifi Programmable Thermostat](https://www.warmlyyours.com/en-US/products/code/UWG4-4999). If you want a simpler and more affordable means of heating control, then a [Non-Programmable Thermostat](https://www.warmlyyours.com/en-US/products/code/UTN4-4999) may be your best option.
 
+{{< break >}}
+
 {{< postH2 "cost-of-installation-of-a-floor-heating-system" "Cost of Installation of a Floor Heating System" >}}
 
 There’s an all new suite of services from WarmlyYours that can help with every part of the installation process -  either onsite or remotely. Their [SmartGuide Service](https://www.warmlyyours.com/en-US/services) takes out all the trip-ups of installing radiant heating. There are four services available.
@@ -74,7 +81,11 @@ If you are located or reside within 100 miles of the WarmlyYours HQ in Lake Zuri
 
 As the installer masterfully installs the 45 sq ft of kitchen flooring with tempzone flex roll, the going rate is fixed at an additional $199 / Day. Here it tallies to a total of $157.50 for a great installation from an experienced trade professional. When you add that onto the cost of the product, you’re now looking at $675 in addition to a lifetime warranty.
 
+{{< break >}}
+
 {{< postImage "Energy Use Calculator" "/img/luxuryHeating/energy-use-calculator-9d6312.webp" "/img/luxuryHeating/energy-use-calculator-9d6312-small.webp" >}}
+
+{{< break >}}
 
 {{< postH2 "operating-costs" "Operating Costs" >}}
 
@@ -83,6 +94,8 @@ Trying to calculate the cost to run an electric floor heating system can be conf
 Using WarmlyYours’ [Heat Loss Calculator](https://www.warmlyyours.com/en-US/floor-heating/heatloss-calculator), the highest monthly electric bill for this room would amount to only $9.38 during the coldest month of the year. And, annually, that comes out to just $50.81. If your kitchen rests above an unheated basement or any area where there is significant heat loss, you will find that the addition of electric floor heating will give you the heat you need to keep your kitchen at a comfortable temperature.
 
 The [radiant heating system](https://www.warmlyyours.com/en-US/floor-heating) is very economical to operate. The Heat Loss Calculator tool also factors in the desired room temperature, sealing factor, surrounding rooms, and insulation factors to determine whether radiant heat can be the sole source of heat for the room. Electric in-floor radiant heating is a luxury at an affordable price with minimal electricity costs. We hope that this article has increased your understanding of the costs associated with radiant heating. If you have any questions, leave a comment here and we’ll provide the answers you need to make the right decision for your kitchen project.
+
+{{< break >}}
 
 #### Sources
 
@@ -94,3 +107,5 @@ Average Electricity Cost: https://www.electricitylocal.com/states/illinois/lake-
 Dulley, J. (2017, January 8). Electric in-floor heating vs. forced-air heating systems. Dailey Herald. Retrieved October 27, 2020, from https://www.newsbank.com/.
 
 Hageman, W. (2013, January 18). Keep feet toasty with radiant heat. Chicago Tribune. Retrieved October 27, 2020, from https://www.proquest.com/.
+
+{{< break >}}{{< break >}}

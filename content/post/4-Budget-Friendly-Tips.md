@@ -7,10 +7,16 @@ tags:
 - Essentials
 - Cabinets
 - Furniture
+layout: blog
 ---
 The housing market has seen a positive change due to the Coronavirus Pandemic. A surprisingly adverse outcome occurred when middle and upper-income housing prices were appreciated by 5% this quarter. As a result of increased home values combined with high unemployment, a large number of homeowners are opting to list their homes on the market in the hopes of getting a maximum return on their investment. And, with interest rates at an all-time low, a perfect storm has resulted in potential new homeowners entering the market...
 
+{{< break >}}
+
 {{< postImage "Hammer smashing open a jar of money" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX.webp" "/img/4Tips/hammer-against-jar-full-of-dollars-money-saving-PKQ6WUX-small.webp" >}}
+
+{{< break >}}
+
 
 {{< postH2 "cheap-remodeling-and-renovation" "Cheap Remodeling and Renovation" >}}
 
@@ -20,7 +26,11 @@ Whether you are upgrading in the hopes of placing your home on the market or sim
 
 It makes sense that many homeowners are turning their attention to what can be done to improve the kitchen. However, the only issue is that kitchen remodels can be very expensive. With a tight or limited budget top-of-mind, we’ve sourced a multitude of creative ways to remodel or upgrade your kitchen remodel on a budget.
 
+{{< break >}}
+
 {{< postImage "Choosing Color" "/img/4Tips/choosing-color-UMNWC78.webp" "/img/4Tips/choosing-color-UMNWC78-small.webp" >}}
+
+{{< break >}}
 
 {{< postH2 "paint-your-kitchen-a-new-color" "1. Paint Your Kitchen a New Color" >}}
 
@@ -45,11 +55,15 @@ It makes sense that many homeowners are turning their attention to what can be d
 
 - To finish the look. purchase new drawer pulls and doorknobs. This can change the look and feel for next to nothing. Styles change so an easy way to update the style of your cabinets is to replace the old finish with a new one.
 
+{{< break >}}
+
 {{< postH2 "dont-move-major-appliances-around" "3. Don't Move Major Appliances Around" >}}
 
 - “Relocating the sink or range may necessitate new plumbing or gas lines, which are especially burdensome (and costly) when there’s no basement and water pipes and gas lines are embedded in the foundation,” Katz says, vice president of operations and customer service at Katz Builders in Austin, Texas. We’ve all seen remodeling shows on TV where the host-pro recommends knocking down a wall or two shifting workspaces. However, this usually brings up unexpected costs and issues.  
 
 - Rather than move appliances, consider upgrading to enhance and update the look of your kitchen. While it’s tempting to strive for greater efficiency, if it means relocation - it might not be within budget. Keep the footprint and put the money into upgrading your appliances from a simple fix such as a stainless steel toaster to larger purchase items like a stainless steel refrigerator. Many known brands have warehouses for dented and returned items. Check there first.
+
+{{< break >}}
 
 {{< postH2 "use-your-space-wisely" "Use Your Space Wisely" >}}
 

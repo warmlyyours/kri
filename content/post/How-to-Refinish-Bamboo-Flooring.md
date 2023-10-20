@@ -5,6 +5,7 @@ image: /img/bambooFlooring/refinish-bamboo-flooring.jpg
 author: Kitchen Remodel Ideas
 tags:
   - Flooring
+layout: blog
 ---
 
 Bamboo flooring is an absolutely gorgeous and unique alternative to a hardwood floor, giving an interesting feeling to the floor for modern, spatially aware kitchens. Even though this widely celebrated type of flooring is sourced from undoubtedly strong and light bamboo plants, scuff marks and surface scratches may still present themselves over time. 
@@ -20,17 +21,25 @@ However, professional maintenance workers and homeowners with reasonable do-it-y
 * 2" Scraper
 ---
 
+{{< break >}}
+
 {{< postH2 "step-one" "Step One" >}}
 
 Sand the floor using the 36 grit sandpaper diagonally, moving from grain to grain.
+
+{{< break >}}
 
 {{< postH2 "step-two" "Step Two" >}}
 
 Sand the floor using the 80 grit sandpaper straight. Change the sandpaper often.
 
+{{< break >}}
+
 {{< postH2 "step-three" "Step Three" >}}
 
 Sand along the wall using the 2” Scraper
+
+{{< break >}}
 
 {{< postH2 "step-four" "Step Four" >}}
 

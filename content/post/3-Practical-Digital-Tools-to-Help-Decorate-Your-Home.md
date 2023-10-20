@@ -7,13 +7,18 @@ author: "Kitchen Remodel Ideas"
 tags:
 - Essentials
 - Furniture
+layout: blog
 ---
 
 Seeing is believing. Until you you've gotten the product in front of you, you won’t know for sure if it’s a good fit. Generally speaking, Internet retailers have gotten really good at providing product photos, dimensions, and more to show the customer exactly what they’re getting - but it’s still challenging for people to envision what the product will look like once it’s delivered. That’s why Houzz fortified its app with new digital tools to get homeowners as close to seeing a product in their own home as possible. 
 
+{{< break >}}
+
 {{< postH2 "digital-rools-1-view-in-my-room" "Digital Tools #1: View in My Room" >}}
 
 The first tool is called “View in My Room” and enables shoppers to virtually place items from the Houzz Shop in their home (see video below).
+
+{{< break >}}
 
 {{< youtube gGhMNSGKXoU >}}
 
@@ -43,8 +48,12 @@ The second new tool within the Houzz app is called Sketch. Essentially, it’s a
 
 The last new tool is available on both the Houzz app and [Houzz.com](https://www.houzz.com/). If you’ve ever spotted an item that you love but realized it’s way more than you intended to spend, this tool is a must-have for you. Simply by clicking on the items that you like in a photo, this tool will pull up similar products that are available in the [Houzz Shop](https://www.houzz.com/products). The products may or may not be less expensive than the original, but you’re left with a variety of options from which to choose, so it’s very likely you’ll find something that you love that’s in your budget.
 
+{{< break >}}
+
 {{< postImage "Home Design Image" "/img/3Tools/home-design-3.webp" "/img/3Tools/home-design-3-small.webp" >}}
 
 {{< break >}}
 
 For more information about these tools, visit [www.houzz.com](https://www.houzz.com/).
+
+{{< break >}}{{< break >}}

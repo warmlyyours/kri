@@ -5,14 +5,19 @@ author: Kitchen Remodel Ideas
 image: /img/essentialHITips/essentialhometipsfeaturedimage.webp
 tags:
   - Essentials
+layout: blog
 ---
 
 {{< postH2 "essential-tips-for-quick-selling" "Essential Tips for Quick Selling" >}}
 
 Whether you’re in a buyer’s or seller’s market, selling a home can be challenging. Not only can it be difficult to sell for the price you want, but you never really know how long your home will sit on the market. One thing you can do, I think, is get your home in the best shape possible for impressing buyers. Along with checking out sites like Kitchen Remodel Ideas, considering the advice and resources below can help you get started:
 
+{{< break >}}
+
 {{< postImage "Essential Home Improvement Tips Featured Image" "/img/essentialHITips/essentialhometipsfeaturedimage.webp" "/img/essentialHITips/essentialhometipsfeaturedimage-small.webp" >}}
 Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-209274/)
+
+{{< break >}}
 
 {{< postH2 "at-a-glance" "At a Glance">}}
 *When it comes down to it, making improvements to your home can be summarized in a few simple steps:*
@@ -22,6 +27,8 @@ Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-20
 - [Learn about](https://www.redfin.com/resources/how-to-increase-your-home-appraisal-value-now) how improvements can add value to your home.
 - Focus on both your home's interior and exterior when planning improvement [projects](https://www.homes.com/blog/2018/08/how-to-prioritize-home-repair-projects-before-selling-your-home/).
 
+{{< break >}}
+
 {{< postH2 "interior-projects" "Interior Projects" >}}
 *The inside of your home is a good place to start.*
 
@@ -30,6 +37,8 @@ Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-20
 - If you have any areas of your home with bad or old paint jobs, throw on a fresh [coat of paint](https://www.homeadvisor.com/r/room-colors-and-moods/) which'll quickly and easily apply.
 - Embrace [home staging](https://northof.nyc/archive/21-home-staging-tips/) to bring out your home's best qualities.
 
+{{< break >}}
+
 {{< postH2 "exterior-projects" "Exterior Projects" >}}
 *It's important not to forget about your home's exterior when making improvements.*
 
@@ -37,5 +46,7 @@ Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-20
 - [Pressure wash](https://www.bobvila.com/articles/how-to-pressure-wash-a-house/) your home's siding, brick, or stone to make it look new.
 - Shape up the [landscaping](https://www.dragonettibrothers.com/blog/post/landscaping-for-curb-appeal) through regular lawn maintenance, gardening, and other tasks.
 - Add landscape [lighting](https://www.diynetwork.com/how-to/skills-and-know-how/electrical-and-wiring/22-landscape-lighting-ideas-pictures) to attract buyers and make the property safer.
+
+{{< break >}}
 
 You may not be able to control everything about the home selling process, but you can take steps to help your home stand out on the market. Remember how home improvements can benefit your home sale, and determine what interior and exterior projects you *ought to* take on.

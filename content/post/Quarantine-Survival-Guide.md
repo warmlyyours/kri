@@ -5,6 +5,7 @@ date: 2020-04-15
 author: Kitchen Remodel Ideas
 tags:
   - Essentials
+layout: blog
 ---
 It’s time to hunker down due to the Stay-at-Home orders and social distancing currently in place so that we all do our part to help reduce the number of COVID-19 cases in the United States. When the virus reaches your community, we all must follow the Center for Disease Control’s (CDC) sanitation guidelines to prevent more people from dying from this disease.
 
@@ -46,7 +47,7 @@ If you are concerned about the use of bleach, then swap the bleach out for white
 Our technological gadgets are one of the things we touch like often throughout the day. Tablets, phones, and touch screens have an oleophobic (fingerprint-resistant) coating that may dissolve with the use of harsh chemicals. Manufacturers recommend that you gently wipe these devices down with distilled water and a microfiber cloth. Then use cotton swabs to clean the buttons, corners, and edges. If you don’t have cotton swabs, here’s a tip: you could use dryer lint.
 
 Although the manufacturer’s guidelines should always be followed. Look for updates specific to the COVID-19 virus. Apple has revised it’s “How to Clean Your Apple Products” guidelines in response to the COVID-19 pandemic. They now endorse using 70 percent isopropyl alcohol or Clorox disinfectant. This recommendation is optional, of course. You mustn’t mix chemicals. Do not mix the alcohol with other chemicals as you clean electronics and other accessories. Take precaution when using damp wipes or alcohol-soaked cloth which could lead to water damage if over saturated.
-
+{{< break >}}
 {{< postH2 "the-checklist" "The Checklist" >}}
 
 Here is the cleaning checklist we at Kitchen Remodel Ideas created for you. We’ve left a few of the lines blank so that you can personalize the list for your needs. Once you print it out, you can laminate it and stick it to your fridge or notice board. Please don’t hesitate to reach out to us if you have any questions or have ideas or recommendations for cleaning and sanitizing a kitchen.

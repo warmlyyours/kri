@@ -5,10 +5,13 @@ image: /img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp
 author: Kitchen Remodel Ideas
 tags:
   - Faucets
+layout: blog
 ---
 We’re going to be talking about an all-too-common issue that many homeowners face. Kitchen sinks with clogged pipes and how to unclog them. 
 
 Understanding how to unclog the kitchen sink plays an integral part in sink maintenance and upkeep. If you can figure out how to unclog the kitchen sink on your own, then you’ll be saving money. Especially if you’re someone like me who doesn’t know much about working pipes.
+
+{{< break >}}
 
 {{< postImage "Woman fixing kitchen sink" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled.webp" "/img/unclogSink/woman-fixing-kitchen-sink-R2FJEGH-scaled-small.webp" >}}
 
@@ -27,6 +30,7 @@ Hair can clog the bathroom sink very easily. Regardless of the obstruction, you 
 {{< postH2 "mad-scientist-method" "Mad Scientist Method" >}}
 
 {{< postImage "Mad Scientist Method" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled.webp" "/img/unclogSink/apple-cider-vinegar-and-baking-soda-combination-PJ3VUPG-scaled-small.webp" >}}
+
 We’ll be addressing how to unclog a grease clog in the kitchen sink. This method also works in bathroom plumbing systems. Grease clogs happen if someone unknowingly poured bacon grease down the kitchen sink. Don’t do this, as it might solidify in the line and potentially cause [major issues](https://www.nationalgeographic.com/news/2017/08/fatbergs-fat-cities-sewers-wet-wipes-science/).  
 
 First, remove all of the water from the sink basin. Second, pour one cup of baking soda into the clogged drain pipes. Then, pour an equal amount of baking soda (8 fl. oz of vinegar) down the drain.
@@ -47,17 +51,28 @@ The combination of vinegar and baking soda immediately begins to release grease-
 
 Drain cleaners containing chemical substances are usually sold as liquids, however, powders and gels are also available. Chemical drain cleaners work by mixing different chemical compounds to trigger a reaction. There are three general kinds of chemical drain openers/cleaners:
 
-* Acid drain cleaners
+{{< break >}}
+
+**Acid drain cleaners**
+{{< break >}}
 
 Usually contain a high concentration of sulfuric acid or hydrochloric acid. It is unlikely you will find these types of products at the store, you must purchase them locally from plumbers. 
 
 This kind of drain cleaner produces heat by means of chemical reaction to clear a path for the flow of water. They work really well, almost too well. One problem is that over time, acid drain cleaners can eat away at your pipes. Acid drain cleaners might lead to corrosion over time if used improperly. 
 
-* Caustic drain cleaners
+{{< break >}}
+
+**Caustic drain cleaners**
+
+{{< break >}}
 
 Contain either one of two powerful alkaline chemicals; lye or potash. Caustic drain cleaners emit heat from the chemical reaction while expelling a soap-like substance that dissolves food and organic waste.
 
-* Oxidizing drain cleaners
+{{< break >}}
+
+**Oxidizing drain cleaners**
+
+{{< break >}}
 
 Contain bleach, peroxide, and nitrates. Upon use of these kinds of drain cleaners, the organic material of the clog loses mass and oxidizes. While also producing heat from the chemical reaction which then disintegrates any food waste or organic materials present in the line. 
 
@@ -98,3 +113,6 @@ Now we will address how to unclog the kitchen sink garbage disposal and clear ou
 Start by checking if there’s any debris in the trap. In most kitchens, there is a p-trap installed under the open drain. If there’s a garbage disposal in the kitchen sink, then you must detach the line and clean any remaining debris. If there is no debris, then the clog will be located in the water drain line or main waste line.
 
 A clog in the mainline will block other drains above it, and a sewer snake will have to clean it. Sewer snakes are extended into a clogged drain tunnel to shake up and loosen stubborn clogs. Being both flexible and durable, a sewer snake can be extended through pipe turns. Perfect for hard-to-reach mainlines!
+
+
+{{< break >}}{{< break >}}

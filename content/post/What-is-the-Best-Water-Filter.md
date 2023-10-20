@@ -5,6 +5,7 @@ author: Kitchen Remodel Ideas
 image: /img/bestFilter/whats-the-best-water-filter-sans-text.jpg
 tags:
 - Faucets
+layout: blog
 ---
 
 {{< postH2 "what-scientists-dont-want-you-to-know" "What Scientists Don't Want you to Know" >}}
@@ -252,4 +253,5 @@ Thanks for coming down this journey with us and tune in next week for another Ki
 
 What’ve been your experiences filtering water lines? Share your thoughts/opinions/reviews by leaving a comment.
 
+{{< break >}}
 {{< break >}}

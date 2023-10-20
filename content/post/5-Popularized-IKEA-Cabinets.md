@@ -6,6 +6,7 @@ author: "Kitchen Remodel Ideas"
 tags:
 - Furniture
 - Cabinets
+layout: blog
 ---
 
 IKEA kitchen cabinets, found at the furniture megastore, may seem impersonal at times compared to your local furniture store. But, the Scandinavian company designs and fabricates beautiful kitchen cabinetry year-after-year and supplies furniture to literally millions of homes across the country. 
@@ -138,3 +139,5 @@ Incredibly well-designed shelving allows for efficient storage of pots and pans.
 90 "
 
 Thanks so much for reading this week's blog. Do you have kitchen cabinets from IKEA? How are you liking your IKEA cabinets?
+
+{{< break >}}{{< break >}}

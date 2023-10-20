@@ -7,6 +7,7 @@ tags:
   - Flooring
   - Essentials
 image: /img/pups/shih-tzu-sitting-on-the-floor-2623968.webp
+layout: blog
 ---
 
 For those of us who chose to adopt a friendly canine companion, whether it's a new puppy or an older dog, perhaps even a rescue. This new chapter will be marked with responsibilities as you share your home with a clawed animal. They're going to be running around all over the place. Let's not even discuss the mess you're going to be constantly cleaning. As a homeowner, you're never not cleaning up thanks to them.
@@ -61,3 +62,5 @@ Vinyl couldn't be a better flooring option for dogs to race around on. Being scr
 Thanks for reading another installment of KRI blogs. We hope that you found this information not only entertaining but also helpful.
 
 Please consider subscribing to our newsletter and have great start to the new year. Are there dogs at home? How do you keep your floor free of claw marks?
+
+{{< break >}}{{< break >}}

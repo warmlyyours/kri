@@ -5,10 +5,15 @@ image: /img/marbleVs/gvm-1-scaled.webp
 author: Kitchen Remodel Ideas
 tags:
   - Countertops
+layout: blog
 ---
 What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers - in recent history - sent glass bottles of all kinds to the landfill where they would sit for several lifetimes.  With the environmental movement of the 70ies, people started to wise up. The pollution of our planet stirred the oceans of change.
 
+{{< break >}}
+
 {{< postImage "Marble Vs Granite" "/img/marbleVs/gvm-1-scaled.webp" "/img/marbleVs/gvm-1-scaled-small.webp" >}}
+
+{{< break >}}
 
 ***
 
@@ -18,13 +23,19 @@ We will be going over marble and granite countertops thoroughly and diving deep 
 
 Let’s not forget that each slab of marble and granite are deposited from quarries all over the world. Sourcing natural stones from these locations will be more expensive than man-made countertops which can be engineered to resemble granite or marble. Marble from one part of the world may have different properties than say marble sourced from somewhere else. For example, it’s well known that Carrara marble is very dense and non-porous, giving it a natural resistance to stains and scratches quite excellently. The northernmost point of this region is home to some of the finest marble in the world. Positively put, marble and/or granite won’t vary too much depending on where it’s sourced from, and yet won’t always be identical to what you know and love. 
 
+{{< break >}}
 
 {{< postImage "High End Luxury Kitchen with Granite Countertops" "/img/marbleVs/high-end-luxury-kitchen-with-granite-countertops-a-XWJBUNP-scaled.webp" "/img/marbleVs/high-end-luxury-kitchen-with-granite-countertops-a-XWJBUNP-scaled-small.webp" >}}
+
+{{< break >}}
+
 {{< postH2 "granite" "Granite" >}}
 
 Granite is one of the hardest and strongest materials one can utilize for kitchen countertops. These types of stones can have thousands of beautiful pattern variations and a wide range of colors to choose from. Eco-conscious homeowners consider granite to be one of the top choices for both elegant form and practical function. 
 
 The rock's high density causes the countertop to be naturally scratch-resistant and durable. Granite generally comes in at 6 or 7 on the Mohs scale, meaning that it is comparatively on the harder end of the spectrum than other natural stones. Your average kitchen knife won’t scratch the surface. 
+
+{{< break >}}
 
 {{< postH2 "getting-a-closer-look" "Getting a Closer Look" >}}
 
@@ -34,21 +45,33 @@ The rock's high density causes the countertop to be naturally scratch-resistant 
 Granite is an igneous rock composed mostly of quartz and feldspar, along with trace amounts of various other minerals. Present compositions of granite also include mica, amphiboles, and other minerals that usually lead to a red, pink, gray, or white color with closely pact mineral grains present across the length of the slab. 
 
 For millions of years of volcanic activity, granite is formed beneath the earth’s surface as magma slowly cools and solidifies to form deposits of granite. During the cooling process, the magma also forms with other minerals which then give granite its crystal-like appearance. 
+
+{{< break >}}
+
 {{< column >}}
 {{< postImage "Amazon Gold" "/img/marbleVs/34839507732_03ee757555_b.webp" "/img/marbleVs/34839507732_03ee757555_b-small.webp" >}}
 {{< endcolumns >}}
 
 Even if granite is durable, it isn’t completely impervious to damage. Some types of harm are more common than others, but they can all be the result of a mishap or error. First and foremost, granite can be stained from liquids i.e. lemon juice, vinegar, and wine if you allow it to soak. Wipe up stains right away or they might lead to etching.
 
+{{< break >}}
+
 {{< postH2 "etching" "Etching" >}}
 
 The etching is caused by acidic solutions eating away the surface. The same kind of damage can be done to marble and other types of natural stone such as travertine and slate if you don't take care of it properly. The good news is that a homemade paste made of baking soda and acetone can clean oil stains, and organic stains can be extracted by soaking a paper towel in bleach and rubbing it on the affected area.
 
+{{< break >}}
+
 {{< postImage "Marble Kitchen Countertops" "/img/marbleVs/37518821020_168509e295_b.webp" "/img/marbleVs/37518821020_168509e295_b-small.webp" >}}
 {{< endcolumns >}}
+
+{{< break >}}
+
 {{< postH2 "marble" "Marble" >}}
 
 People who entertain dinner guests often get together, and marble countertops are impressive and welcoming to any invitees that visit the kitchen. Compared to granite, marble has a symbolic meaning of luxury and distinction. Marble is also very durable and is the reason why famous structures from antiquity like The Pantheon and Michelangelo’s David have withstood the test of time to this very day.
+
+{{< break >}}
 
 {{< postH2 "whats-it-made-out-of" "What's it Made Out of?" >}}
 
@@ -57,16 +80,25 @@ People who entertain dinner guests often get together, and marble countertops ar
 
 Marble slabs first begin their journey from a limestone quarry where the slabs are cut from a larger stone. The recognizable characteristics of streaks and swirls of many types of marble varieties are usually due to mineral impurities such as silt, clay, iron oxides, sand, and chert which were present during the limestone’s formation millions of years ago. And so geologists classify marble as a metamorphic rock when limestone experiences immense heat and pressure over a long time. Marble is made from the carbonate crystals forming the limestone, most commonly dolomite and calcite. Marble forms under such conditions when the calcite recrystallizes and forms a denser rock made out of the newly formed calcite crystals.
 
+{{< break >}}
+
 {{< postH2 "prefabricated-countertop-vs-full-slab" "Prefabricated Countertop Vs. Full Slab" >}}
 
 When it comes time to install a countertop, you may have heard of different methods of installation. A prefabricated marble counter is when smaller pieces are put together to form the kitchen counter. In that case, you want to artfully match the pattern across every seam. You can do this by booking the veining pattern like puzzle pieces. A full slab option is typically more costly because the stone is custom fit to the countertop as one big piece. Let us know if there are any questions we can clear up. 
 
+{{< break >}}
+
 {{< postH2 "heat-resistance" "Heat Resistance" >}}
 
 One of the reasons Marble is commonly used in home remodeling is because it’s an excellent heat conductor. This is also why marble is often cool to the touch and is great for homes in warmer climates. Also, Marble is often used by avid bakers because of its ability to spread the heat quickly throughout the stone. Meaning that pots and pans will not damage the stone. If you have a layer of finish covering the marble then you want to place a heat resistant mat or a towel below hot pots, pans, and other kitchenware to protect your finish layer. 
+
+{{< break >}}
+
 {{< postH2 "pros-and-cons" "Pros and Cons" >}}
 
 Here’s a table about marble countertops and granite countertops. We compare the two kinds of materials across different categories. The following tables are helpful visual elements to further along with your decision. Please use the tables as a general guide. Stones from different parts of the world may be of different hardness, porosity, etc and the information we have chosen to base the tables off of do not account for unique cases that do not outline the consensus. 
+
+{{< break >}}
 
 {{< columns >}}
 {{< column >}}
@@ -94,7 +126,11 @@ If the production manager tells you that your countertop is going to need a seam
 
 Marble countertops are excellent heat conductors as we mentioned previously. The surface temp of a marble countertop generally comes in at slightly below room temperature. A chilled countertop can be great for pastry chefs, yet still, a cold countertop can be inconvenient when you want your kitchen island bar to feel cozy. Even more so for people who like to elbow up to the countertop, a cold surface can ruin a well-needed coffee break.
 
+{{< break >}}
+
  ### [WarmlyYours FeelsWarm® Countertop Heaters](https://www.warmlyyours.com/en-US/countertop-heater)
   can send heat to your kitchen countertop when you really need it. This heating mat gives you and your family the added comfort of radiant heat. Such mats can be retrofitted right underneath the cantilevered end of a countertop and turned on at appropriate times, and the best part is it doesn't need much care or attention. It’s super easy to install and safe from mishaps or accidents. The local application of heat will not damage the small fractures of polyester resin in the countertop and the gentle warmth won’t cause cracks or chips over time.
 
 Thank you for following up with us for this week’s blog regarding kitchen countertops and the materials that they’re made out of. We want to be the number one destination for kitchen remodeling projects and by writing about the topic every week, we are on our way to achieving this milestone. Be sure to share this page if you liked our comprehensive guide to Marble and Granite Countertops.
+
+{{< break >}}{{< break >}}

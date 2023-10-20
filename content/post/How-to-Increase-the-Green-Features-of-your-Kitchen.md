@@ -7,6 +7,7 @@ tags:
   - Essentials
   - Furniture
   - Flooring
+layout: blog
 ---
 
 {{< postH2 "energy-matters" "Energy Matters" >}}
@@ -21,6 +22,8 @@ Whether you're a conscientious cook, a committed conservationist, or maybe just 
 
 **Here are a few suggestions to help you achieve your green goals.**
 
+{{< break >}}
+
 {{< postH2 "equip-your-kitchen-with-energy-efficient-appliances" "1. Equip your kitchen with energy-efficient appliances" >}}
 
 {{< postImage "Energy Star Appliances" "/img/greenFeatures/pastedimage0.webp" "/img/greenFeatures/pastedimage0-small.webp" >}}
@@ -28,6 +31,8 @@ Whether you're a conscientious cook, a committed conservationist, or maybe just 
 A wide variety of new appliances can be utilized to minimize wasted power, from quiet dishwashers that use less water and electricity to refrigerators that minimize their electric intake. Newer ovens make preheating almost non-existent, saving valuable energy. There are even range hoods with ventilation fans that use 60 percent less energy than standard models.
 
 The Energy Star label has certified products that lead the field in energy efficiency. Energy Star’s website has user-friendly cost estimators for many products and you can visit to see just how much you will save by buying appliances that aren't 'power drains'. Check out energy star certified appliances at [energystar.gov](https://www.energystar.gov/).
+
+{{< break >}}
 
 {{< postH2 "consider-adding-radiant-heating" "2. Consider adding radiant heating" >}}
 
@@ -41,10 +46,12 @@ Radiant heating systems gradually send warmth beneath the floor over the span of
 
 In addition, you can keep track of your energy consumption and change the temperature from an easy-to-use mobile application, conveniently making your thermostat both elegant and functional.
 
+{{< break >}}
+
 {{< postH2 "use-led-or-cfl-lighting" "3. Use LED or CFL lighting" >}}
 
-{{< postImage "Lifestyle of a Kitchen with Electric Radiant Countertop Heating" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912.webp" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912-small.webp" >}}
-photo courtesy of [Feelswarm](https://feelswarm.com/about-us/)
+{{< postImage "Lifestyle of a Kitchen with Electric Radiant Countertop Heating" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912.webp" "/img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912-small.webp" "photo courtesy of Feelswarm 'https://feelswarm.com/about-us/'" >}}
+
 
 Electric lighting alone accounts for up to 25 percent of the average home energy budget. A single incandescent bulb's lifetime electricity use costs five to 10 times the original purchase price of the bulb itself. There’s been a technology revolution and you’re going to be witnessing huge steps forward as far as lighting’s concerned. LED (light-emitting diodes) and CFL (compact fluorescent lights) are revolutionizing 21st-century lighting with their energy efficiency.
 
@@ -56,18 +63,18 @@ Now, three-way CFL bulbs and dimmable ones are also available for use with dimme
 By outfitting your kitchen with energy-efficient appliances, adding the warmth of radiant floor heating, and installing LED or CFL lighting, you will be well on your way to increasing your kitchen's green attributes. Both your family and the planet will love you for it.
 
 We want to hear about your experiences and encourage you to share how you increased your green kitchen features by posting a message in the comments section.
-
+{{< break >}}
 Sources:
 www.bostonglobe.com/magazine/2014/09/03/ideas-for-environmentally-friendly-kitchen/LattGrhI5mraIy1WtwP29O/story.html
 [eartheasy.com/live_energyeff_lighting.htm](https://learn.eartheasy.com/guides/energy-efficient-lighting/)
-
+{{< break >}}
 Related articles:
 [Heat Takes on a New Meaning in an Average Size Kitchen](https://www.warmlyyours.com/en-US/posts/Heat-Takes-on-a-New-Meaning-in-an-Average-Size-Kitchen-1156)
-
+{{< break >}}
 [Radiant Heating Remains Prominent in Kitchens and Bathrooms](https://www.warmlyyours.com/en-US/posts/Radiant-Heating-Remains-Prominent-in-Kitchens-and-Bathrooms-1158)
-
+{{< break >}}
 [4 Green Facts about Radiant Heating](https://www.warmlyyours.com/en-US/posts/post-4-Green-Facts-about-Radiant-Heating-1139)
-
+{{< break >}}
 [Radiant heat's big impact in a small kitchen](https://www.warmlyyours.com/en-US/posts/Radiant-heat-adds-big-impact-at-low-cost-in-a-small-kitchen-1131)
-
+{{< break >}}
 [Integrating Radiant Heat into Smart Homes of the Future](https://www.warmlyyours.com/en-US/posts/Integrating-Radiant-Heat-into-Smart-Homes-of-the-Future-1118)
