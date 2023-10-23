@@ -12,7 +12,7 @@ It takes more than raising the thermostat to make a kitchen feel warm and welcom
 
 {{< break >}}
 
-{{< postImage "Kitchen, with new rugs" "/img/kitchenWarmer/use-area-rugs.webp" "/img/kitchenWarmer/use-area-rugs.webp" "'Kitchen, with new rugs' by Andie712b is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "Kitchen, with new rugs" "/img/warmerKitchen/use-area-rugs.webp" "/img/warmerKitchen/use-area-rugs.webp" "'Kitchen, with new rugs' by Andie712b is licensed under CC BY 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -22,7 +22,7 @@ Place area rugs on the floor in your kitchen to offer warmth. They not only give
 
 {{< break >}}
 
-{{< postImage "Finally! Kitchen curtains" "/img/kitchenWarmer/curtains-or-blinds.webp" "/img/kitchenWarmer/curtains-or-blinds.webp" "'Finally! Kitchen curtains' by MabyCakes is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "Finally! Kitchen curtains" "/img/warmerKitchen/curtains-or-blinds.webp" "/img/warmerKitchen/curtains-or-blinds.webp" "'Finally! Kitchen curtains' by MabyCakes is licensed under CC BY 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -32,7 +32,7 @@ Install window drapes or shades to keep cold air out and heat in during the wint
 
 {{< break >}}
 
-{{< postImage "rainy window" "/img/warmerKitchen/weatherproofing.webp" "/img/warmerKitchen/weatherproofing.webp" "'rainy window' by ultravox1 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "rainy window" "/img/warmerKitchen/weatherproofing.webp" "/img/warmerKitchen/weatherproofing.webp" "'rainy window' by ultravox1 is licensed under CC BY 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -42,7 +42,7 @@ Check for drafts around windows and doors and seal them with weatherstripping or
 
 {{< break >}}
 
-{{< postImage "underfloor heating installed in a tile bahtroom with vanity mirrors and a tub fee 346" "/img/warmerKitchen/underfloor-heating.webp" "/img/warmerKitchen/underfloor-heating.webp" >}}
+{{< postImage "underfloor heating installed in a tile bathroom with vanity mirrors and a tub fee 346" "/img/warmerKitchen/underfloor-heating.webp" "/img/warmerKitchen/underfloor-heating.webp" >}}
 
 {{< break >}}
 
@@ -56,7 +56,7 @@ Heating elements are put beneath the floor's surface in underfloor heating syste
 
 {{< break >}}
 
-{{< postImage "2016 Christmas Home Tour" "/img/warmerKitchen/use-heavier-fabrics.webp" "/img/warmerKitchen/use-heavier-fabrics.webp" "'2016 Christmas Home Tour' by HAUS By Emily May is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "2016 Christmas Home Tour" "/img/warmerKitchen/use-heavier-fabrics.webp" "/img/warmerKitchen/use-heavier-fabrics.webp" "'2016 Christmas Home Tour' by HAUS By Emily May is licensed under CC BY 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -68,7 +68,7 @@ Heavier fabrics, such as curtains or drapes made of thicker materials such as wo
 
 {{< break >}}
 
-{{< postImage "white kitchen cabinets remodel remodeling light home sebring services" "/img/warmerKitchen/strategic-lighting.webp" "/img/warmerKitchen/strategic-lighting.webp" "'white-kitchen-cabinets-remodel-remodeling-light-home-sebring-services' by sebringdesignbuild is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "white kitchen cabinets remodel remodeling light home sebring services" "/img/warmerKitchen/strategic-lighting.webp" "/img/warmerKitchen/strategic-lighting.webp" "'white-kitchen-cabinets-remodel-remodeling-light-home-sebring-services' by sebringdesignbuild is licensed under CC BY 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -78,7 +78,7 @@ Use warm, soft lighting to create a pleasant atmosphere. Think about using penda
 
 {{< break >}}
 
-{{< postImage "Plants in the Kitchen" "/img/warmerKitchen/add-plants.webp" "/img/warmerKitchen/add-plants.webp" "'Plants in the Kitchen' by pasa47 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "Plants in the Kitchen" "/img/warmerKitchen/add-plants.webp" "/img/warmerKitchen/add-plants.webp" "'Plants in the Kitchen' by pasa47 is licensed under CC BY 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -88,7 +88,7 @@ Houseplants can increase humidity levels, enhancing the room's aesthetic appeal 
 
 {{< break >}}
 
-{{< postImage "kitchen appliances" "/img/warmerKitchen/upgrade-appliances.webp" "/img/warmerKitchen/upgrade-appliances.webp" "'kitchen appliances' by jm3 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse." >}}
+{{< postImage "kitchen appliances" "/img/warmerKitchen/upgrade-appliances.webp" "/img/warmerKitchen/upgrade-appliances.webp" "'kitchen appliances' by jm3 is licensed under CC BY-SA 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -98,7 +98,7 @@ Upgrade to more recent models that consume less energy and release less heat if 
 
 {{< break >}}
 
-{{< postImage "Christopher Barson: Personal Residence, Photographed for Washington Life Magazine" "/img/warmerKitchen/warm-colors.webp" "/img/warmerKitchen/warm-colors.webp" "'Christopher Barson: Personal Residence, Photographed for Washington Life Magazine' by Christopher Barson is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "Christopher Barson: Personal Residence, Photographed for Washington Life Magazine" "/img/warmerKitchen/warm-colors.webp" "/img/warmerKitchen/warm-colors.webp" "'Christopher Barson: Personal Residence, Photographed for Washington Life Magazine' by Christopher Barson is licensed under CC BY 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
@@ -108,7 +108,7 @@ Warm colors can psychologically make a space feel cozier, so think about paintin
 
 {{< break >}}
 
-{{< postImage "Built-in Kitchen Bench" "/img/warmerKitchen/add-soft-furnishings.webp" "/img/warmerKitchen/add-soft-furnishings.webp" "'Built-in Kitchen Bench' by DesignFolly.com is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse." >}}
+{{< postImage "Built-in Kitchen Bench" "/img/warmerKitchen/add-soft-furnishings.webp" "/img/warmerKitchen/add-soft-furnishings.webp" "'Built-in Kitchen Bench' by DesignFolly.com is licensed under CC BY-SA 2.0. To view a copy of this license, visit 'https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse.'" >}}
 
 {{< break >}}
 
