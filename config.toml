@@ -180,3 +180,9 @@ summaryLength = 50
   changefreq = "monthly"
   filename = "sitemap.xml"
   priority = 0.5
+
+[module]
+[[module.headerImage]]
+    source = 'assets'
+    target = 'content/post'
+    includeFiles = '/img/*'

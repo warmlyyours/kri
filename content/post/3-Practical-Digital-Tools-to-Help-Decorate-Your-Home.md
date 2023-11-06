@@ -8,6 +8,7 @@ tags:
 - Essentials
 - Furniture
 layout: blog
+headerImage: /img/3Tools/home-design-3.webp
 ---
 
 Seeing is believing. Until you you've gotten the product in front of you, you won’t know for sure if it’s a good fit. Generally speaking, Internet retailers have gotten really good at providing product photos, dimensions, and more to show the customer exactly what they’re getting - but it’s still challenging for people to envision what the product will look like once it’s delivered. That’s why Houzz fortified its app with new digital tools to get homeowners as close to seeing a product in their own home as possible. 

@@ -8,6 +8,7 @@ tags:
   - Furniture
   - Flooring
 layout: blog
+headerImage: /img/greenFeatures/lifestyle-of-a-kitchen-with-electric-radiant-countertop-heaters-2b8912.webp
 ---
 
 {{< postH2 "energy-matters" "Energy Matters" >}}

@@ -7,6 +7,7 @@ tags:
   - Countertops
   - Flooring
 layout: blog
+headerImage: /img/luxuryHeating/energy-use-calculator-9d6312.webp
 ---
 What is the cost of adding luxury radiant heating in a kitchen? Before we discuss the average cost of radiantly heating a home, let us first discuss what exactly is radiant heating? Think of it as an electric heating blanket for your floor. Be it tile marble or stone, a heating cable is sown onto a fiberglass mesh to go underneath the floor surface. The heating element is installed over the subfloor. Then, flooring, like tile, is placed on top of the heating system. This technology results in better room temperatures, better home relaxation, and better energy efficiency. It just makes everything better.
 

@@ -6,12 +6,9 @@ image: /img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.we
 tags:
 - Cabinets
 layout: blog
+headerImage: /img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.webp
 ---
 People across the nation have decided to stay at home to do their part to help decrease the spread of novel Coronavirus. Social distancing has given us tons of new found time on our hands. Cleaning out the kitchen cabinets and reorganizing the kitchenware sounds like a great project to kill some time and stay productive during social isolation...don’it?
-
-{{< break >}}
-
-{{< postImage "Architecture Cabinets" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648.webp" "/img/organizeCabinets/architecture-cabinets-chairs-contemporary-279648-small.webp" >}}
 
 {{< break >}}
 

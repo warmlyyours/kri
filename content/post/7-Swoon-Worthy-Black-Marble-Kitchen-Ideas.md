@@ -7,6 +7,7 @@ tags:
   - Countertops
   - Cabinets
 layout: blog
+headerImage: /img/blackMarble/image2.jpg
 ---
 {{< break >}}
 

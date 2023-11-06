@@ -7,6 +7,7 @@ tags:
 - Furniture
 - Cabinets
 layout: blog
+headerImage: /img/5IKEA/sektion1.webp
 ---
 
 IKEA kitchen cabinets, found at the furniture megastore, may seem impersonal at times compared to your local furniture store. But, the Scandinavian company designs and fabricates beautiful kitchen cabinetry year-after-year and supplies furniture to literally millions of homes across the country. 

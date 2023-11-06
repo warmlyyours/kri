@@ -6,6 +6,7 @@ image: /img/essentialHITips/essentialhometipsfeaturedimage.webp
 tags:
   - Essentials
 layout: blog
+headerImage: /img/essentialHITips/essentialhometipsfeaturedimage.webp
 ---
 
 {{< postH2 "essential-tips-for-quick-selling" "Essential Tips for Quick Selling" >}}
@@ -13,9 +14,6 @@ layout: blog
 Whether you’re in a buyer’s or seller’s market, selling a home can be challenging. Not only can it be difficult to sell for the price you want, but you never really know how long your home will sit on the market. One thing you can do, I think, is get your home in the best shape possible for impressing buyers. Along with checking out sites like Kitchen Remodel Ideas, considering the advice and resources below can help you get started:
 
 {{< break >}}
-
-{{< postImage "Essential Home Improvement Tips Featured Image" "/img/essentialHITips/essentialhometipsfeaturedimage.webp" "/img/essentialHITips/essentialhometipsfeaturedimage-small.webp" >}}
-Image via [Pexels](https://www.pexels.com/photo/white-and-brown-painted-house-209274/)
 
 {{< break >}}
 

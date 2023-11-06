@@ -7,6 +7,8 @@ tags:
   - Wall tiles
   - Countertops
 layout: blog
+headerImage: /img/corbPairingOptions/modern-kitchenette-with-wooden-furniture.webp
+image: /img/corbPairingOptions/cake-herbs-and-fruits-on-kitchen-counter.webp
 ---
 
 Your kitchen wouldn’t be complete without countertops and wall tiles. When arranging the design elements and architectural features, the colors don't have to match, they ought to be balanced. 

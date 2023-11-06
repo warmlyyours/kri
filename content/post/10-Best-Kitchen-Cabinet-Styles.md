@@ -6,6 +6,8 @@ tags:
 - Cabinets
 - Furniture
 layout: blog
+headerImage: /img/10Cabinets/openshelvingcabinets.webp
+image: /img/10Cabinets/glassfrontcabinets.webp
 ---
 
 {{< postH2 "designs" "Designs" >}}

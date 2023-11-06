@@ -6,6 +6,7 @@ author: Kitchen Remodel Ideas
 tags:
   - Flooring
 layout: blog
+headerImage: /img/bambooFlooring/refinish-bamboo-flooring.jpg
 ---
 
 Bamboo flooring is an absolutely gorgeous and unique alternative to a hardwood floor, giving an interesting feeling to the floor for modern, spatially aware kitchens. Even though this widely celebrated type of flooring is sourced from undoubtedly strong and light bamboo plants, scuff marks and surface scratches may still present themselves over time. 

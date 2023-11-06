@@ -8,8 +8,8 @@ tags:
   - Furniture
   - Essentials
 layout: blog
+headerImage: /img/32Dazzling/b97c7473-c18b-41c3-8455-a3a052a7241b.webp
 ---
-{{< postImage "Banner over Lifestyle Photo" "/img/32Dazzling/32-Dazzling-Traditional-Kitchen-Design-Photos.webp" "/img/32Dazzling/32-Dazzling-Traditional-Kitchen-Design-Photos.webp" >}}
 
 {{< break >}}
 

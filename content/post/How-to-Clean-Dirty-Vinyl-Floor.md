@@ -6,15 +6,12 @@ tags:
 - Flooring
 image: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp
 layout: blog
+headerImage: /img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp
 ---
 
 {{< postH2 "strive-to-be-chemical-free" "Strive To Be Chemical Free" >}}
 
 We live in a society that’s well-informed and each day we learn and continue to learn about the ways in which we can live cleanly. By now you're aware of the harmful effects that chemicals like pesticides, preservatives, and additives have on the body.
-
-{{< break >}}
-
-{{< postImage "Concentrated Woman Polishing Wooden Floor" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor.webp" "/img/dirtyvinylFloor/concentrated-woman-polishing-wooden-floor-small.webp" >}}
 
 {{< break >}}
 

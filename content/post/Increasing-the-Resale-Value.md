@@ -6,6 +6,7 @@ image: /img/increasingValue/Increasing-resale-value-radiant-floor-heating.webp
 tags:
   - Flooring
 layout: blog
+headerImage: /img/7Countertops/BL-181-1_AMB01.webp
 ---
 
 {{< postH2 "backed-real-estate-advice" "Backed Real Estate Advice" >}}

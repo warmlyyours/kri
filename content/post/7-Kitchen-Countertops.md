@@ -6,6 +6,7 @@ image: /img/7Countertops/default.webp
 tags:
 - Countertops
 layout: blog
+headerImage: /img/7Countertops/Glass-Recycled-Surfaces-Carriage-27-Coast-Bridge-Way-Kitchen-np5r1czubhw3ivtak1uy6lwo5hhn93ckfoedoqba4q.webp
 ---
 
 What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers in recent history sent glass bottles of all kinds to the landfill where they would sit for several lifetimes.  With the environmental movement of the 70's, people started to wise up. The pollution of our planet stirred the oceans of change.

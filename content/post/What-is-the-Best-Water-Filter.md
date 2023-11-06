@@ -6,13 +6,12 @@ image: /img/bestFilter/whats-the-best-water-filter-sans-text.jpg
 tags:
 - Faucets
 layout: blog
+headerImage: /img/bestFilter/whats-the-best-water-filter-sans-text.jpg
 ---
 
 {{< postH2 "what-scientists-dont-want-you-to-know" "What Scientists Don't Want you to Know" >}}
 
 Water is an essential building block of life which makes up more than 80% of our bodies. The quality of the water we drink and share with our family and house guests is dependent upon so many factors.
-
-{{< postImage "refill" "/img/bestFilter/whats-the-best-water-filter-sans-text.jpg" "/img/bestFilter/whats-the-best-water-filter-sans-text-small.webp" >}}
 
 {{< break >}}
 
