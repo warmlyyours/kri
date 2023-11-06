@@ -6,13 +6,14 @@
     }
   }
 </style>
-
-  <figure>
-<img class="postImage mx-auto img-fluid d-flex justify-content-center" alt="{{ .Get 0 | markdownify }}"
+<div style="display: flex;justify-content: center;">
+  <figure style="display: table;margin:0;">
+<img class="postImage mx-auto" alt="{{ .Get 0 | markdownify }}"
  srcset="{{ .Get 2 | markdownify }} 324w, {{ .Get 1 | markdownify }} 720w"
  sizes="(max-width: 767px) 324w, 720w"
  src="https://ik.imagekit.io/wy/kri/{{ .Get 1 | markdownify }}"
  loading="lazy"
- style="max-width: 100%; height: auto; width:50%" />
-    <ficaption style="display: flex;justify-content: center">{{ .Get 3 | markdownify }}</ficaption>
+ style="max-width: 100%; height: auto; width: 50%;" />
+    <ficaption style="display: table-caption;caption-side: bottom;text-align: center">{{ .Get 3 | markdownify }}</ficaption>
   </figure>
+</div>

@@ -10835,4 +10835,9 @@ textarea.form-control-lg {
   }
 }
 
+.btn .cardButton {
+  opacity: .7 !important;
+  color: red;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
