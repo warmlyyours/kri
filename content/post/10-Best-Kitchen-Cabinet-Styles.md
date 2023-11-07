@@ -12,7 +12,11 @@ image: /img/10Cabinets/glassfrontcabinets.webp
 
 {{< postH2 "designs" "Designs" >}}
 
+{{< break >}}
+
 There's more than one way to update your kitchen's style than by setting up a couple decorations. Here we will share 10 kitchen cabinet styles to integrate to within your home. Once the options are clearer, you want to make sure to reach out about a specific cabinet design at a local home improvement store.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -28,6 +32,8 @@ Traditional kitchen cabinets are detailed, sometimes in the form of raised-panel
 
 {{< break >}}
 
+{{< break >}}
+
 **2. Shaker Cabinets**
 
 {{< break >}}
@@ -37,6 +43,8 @@ Traditional kitchen cabinets are detailed, sometimes in the form of raised-panel
 {{< break >}}
 
 Shaker cabinets are built to be simple and practical. The cabinet style includes flat-paneled doors with rail bases and inset frames. There are light tones across the selection and commercially you're going to be seeing pale white and natural wood stains. Also, shaker cabinets are very popular these days due to their classic and casual look. Pairing well with traditional - contemporary - practically any style.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -52,6 +60,8 @@ Rustic cabinet styles often have warm colors and lots of vibrant hues and themes
 
 {{< break >}}
 
+{{< break >}}
+
 **4. Contemporary Cabinets**
 
 {{< break >}}
@@ -61,6 +71,8 @@ Rustic cabinet styles often have warm colors and lots of vibrant hues and themes
 {{< break >}}
 
 In general, contemporary cabinets feature flat surfaces, minimal ornamentation, and plain hardware to offer a fresh and unfussy feel to your house. For small kitchens, this cabinet style is a great choice; no molding means that cabinet panels can be larger and provide more storage in areas where there is no horizontal space. Materials used in contemporary kitchen cabinets include steel, cement, and wood composites.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -76,6 +88,8 @@ Slab cabinets often go hand-in-hand with contemporary designs, since both can be
 
 {{< break >}}
 
+{{< break >}}
+
 **6. Country Cabinets**
 
 {{< break >}}
@@ -85,6 +99,8 @@ Slab cabinets often go hand-in-hand with contemporary designs, since both can be
 {{< break >}}
 
 Country cabinets come up to a choice of bright colors, warm tones, and nice feels that other decorative combinations (think glass, wire or tin) do not send off. They're timeless and their down-home feeling is all part of the appeal. You're typically going to see stained white cabinets as this was a popular choice for country kitchen cabinets the years prior, however, don't be surprised to find yellows, mint green, blue apel and cream. It is possible to outfit your kitchen project with country kitchen cabinets.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -100,6 +116,8 @@ The Craftsmen cabinet, or also duly noted as Mission cabinets, developed in late
 
 {{< break >}}
 
+{{< break >}}
+
 **8. Glass-Front Cabinets**
 
 {{< break >}}
@@ -109,6 +127,8 @@ The Craftsmen cabinet, or also duly noted as Mission cabinets, developed in late
 {{< break >}}
 
 Glass-front cabinet doors can give a beautiful and functional view which can then be mixed and matched with strong cabinet features. Often used as upper cabinets, a glass-front design acts as a convenient spot to display your glassware, cookbooks, and delicate fine bowls or vase sets. It is almost necessary to light such cabinets with additional lighting to give your kitchen ambience a big boost!
+
+{{< break >}}
 
 {{< break >}}
 
@@ -124,6 +144,8 @@ A more unusual style frequently used in kitchen islands and decorative cabinets 
 
 {{< break >}}
 
+{{< break >}}
+
 **10. Open-Shelving Cabinets**
 
 {{< break >}}
@@ -134,4 +156,6 @@ A more unusual style frequently used in kitchen islands and decorative cabinets 
 
 Whilst not technically a cabinet design, open cabinet shelving is an unorthodox concept integrating both storage and kitchen design, especially if you have little wall space to work with. Open shelving requires a level of organization. Just google kitchen curb appeal. I think we all hate it when a kitchen is way too messy. Over a cooking area, open shelves are a smart way of keeping utensils and spices close by during meal prep. They're great for displaying matching dishes as well.
 
-{{< break >}}{{< break >}}
+{{< break >}}
+
+{{< break >}}

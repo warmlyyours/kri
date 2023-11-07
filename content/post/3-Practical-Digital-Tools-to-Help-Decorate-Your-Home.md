@@ -15,9 +15,15 @@ Seeing is believing. Until you you've gotten the product in front of you, you wo
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "digital-rools-1-view-in-my-room" "Digital Tools #1: View in My Room" >}}
 
+{{< break >}}
+
 The first tool is called “View in My Room” and enables shoppers to virtually place items from the Houzz Shop in their home (see video below).
+
+{{< break >}}
 
 {{< break >}}
 
@@ -25,9 +31,17 @@ The first tool is called “View in My Room” and enables shoppers to virtually
 
 {{< break >}}
 
+{{< break >}}
+
 To use the feature, users simply need to open the Houzz app, click the Shop button, select a product they like and tap the “View in My Room” button. The app will launch their smartphone’s camera with the selected product shown in the center of the screen. Then, the user can move, shrink or enlarge the product as needed, take a photo, and save it to their Houzz Wish List or Ideabook.
 
+{{< break >}}
+
+{{< break >}}
+
 The Houzz Shop includes more than 1.8 million home décor items, including furniture, lighting, artwork and even radiant heating products like [towel warmers](https://www.warmlyyours.com/en-US/towel-warmer?referral_code=KRICOM) and [radiant panels](https://www.warmlyyours.com/en-US/radiant-panel?referral_code=KRICOM).
+
+{{< break >}}
 
 {{< break >}}
 
@@ -37,7 +51,11 @@ The Houzz Shop includes more than 1.8 million home décor items, including furni
 
 {{< postH2 "digital-tools-2-sketch" "Digital Tools #2: Sketch" >}}
 
+{{< break >}}
+
 The second new tool within the Houzz app is called Sketch. Essentially, it’s a virtual idea board for your room. Instead of collecting pictures of rooms and products that you like from a variety of sources, you can do so all in the Houzz app and share your ideas with your family, friends, or designer for feedback. By tapping the Sketch icon on any Houzz photo and selecting the chair icon, you can begin placing items from the Houzz store in the photo. The Sketch feature even allows you to mark up Houzz photos and your own photos to show what you like, what you don’t like, and what you want someone else’s opinion on. When you’re finished, green price tags will appear to show the products that are available for purchase on Houzz. For a brief example, check out the video below.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -45,9 +63,15 @@ The second new tool within the Houzz app is called Sketch. Essentially, it’s a
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "digital-tools-3-match" "Digital Tools #3: Match" >}}
 
+{{< break >}}
+
 The last new tool is available on both the Houzz app and [Houzz.com](https://www.houzz.com/). If you’ve ever spotted an item that you love but realized it’s way more than you intended to spend, this tool is a must-have for you. Simply by clicking on the items that you like in a photo, this tool will pull up similar products that are available in the [Houzz Shop](https://www.houzz.com/products). The products may or may not be less expensive than the original, but you’re left with a variety of options from which to choose, so it’s very likely you’ll find something that you love that’s in your budget.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -57,4 +81,6 @@ The last new tool is available on both the Houzz app and [Houzz.com](https://www
 
 For more information about these tools, visit [www.houzz.com](https://www.houzz.com/).
 
-{{< break >}}{{< break >}}
+{{< break >}}
+
+{{< break >}}

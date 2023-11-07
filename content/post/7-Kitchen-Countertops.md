@@ -11,13 +11,25 @@ headerImage: /img/7Countertops/Glass-Recycled-Surfaces-Carriage-27-Coast-Bridge-
 
 What happens to the glass bottle of marinara sauce you just threw out? Or that bottle of seltzer water? Retailers and consumers in recent history sent glass bottles of all kinds to the landfill where they would sit for several lifetimes.  With the environmental movement of the 70's, people started to wise up. The pollution of our planet stirred the oceans of change.
 
+{{< break >}}
+
+{{< break >}}
+
 Modern-day recycling has the potential to restore glass bottles and porcelain to its former beauty. Post-consumer glass can be converted back into the supply chain. Incredible slabs of recycled glass can be used in new construction projects, sculpted into exquisite countertops and flooring.
+
+{{< break >}}
 
 {{< break >}}
 
 {{< postH2 "what-really-happens-to-recycled-glass" "What Really Happens to Recycled Glass" >}}
 
+{{< break >}}
+
 American utility companies have thousands of recycling centers around the United States. Each one adhering to the rules and regulations of the recycling industry helps to standardize practices. To begin with, glass is collected from the recycling bin at a home or residence. This is called the collection stage and it constitutes the beginnings of the recycling process.
+
+{{< break >}}
+
+{{< break >}}
 
 The glass is taken to a treatment plant for processing. To remove any impurities, the glass is first sorted by color and then thoroughly cleaned. After that, the glass is melted down to be molded into something new like bottles, jars, and even kitchen countertops.
 
@@ -25,13 +37,21 @@ The glass is taken to a treatment plant for processing. To remove any impurities
 
 {{< postH2 "environmental-impact" "Environmental Impact" >}}
 
+{{< break >}}
+
 According to Compactor Management Company, “Recycled glass reduces the amount of water and air pollution emissions by around 20% to 40% respectfully. Reducing industrial pollution benefits not only the environment but also the entire ecosystem.” Swapping out an old scratched up countertop for a recycled glass one assures oneself of contributing to a healthier world, makes for a great focal point for a kitchen, and all with the knowledge that you are contributing to a greener world.
+
+{{< break >}}
 
 {{< break >}}
 
 {{< postH2 "recycled-glass-manufacturers-and-distributors" "Recycled Glass Manufacturers and Distributors" >}}
 
+{{< break >}}
+
 Ready to run the gamut? We’ve picked out seven companies who’ve incorporated recycled glass materials into all or part of available products. From one to seven, and in no particular order, these companies were showcased on the basis of their eco-friendly construction, materials and developed at a less harmful cost to the environment.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -47,6 +67,8 @@ IceStone USA, a respected member of the U.S. Green Building Council (USGBC), pri
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postImage "Vetrazzo Residential Projects" "/img/7Countertops/residentials-projets-vetrazzo-2.webp" "/img/7Countertops/residentials-projets-vetrazzo-2-small.webp" >}}
 
 {{< break >}}
@@ -56,6 +78,8 @@ IceStone USA, a respected member of the U.S. Green Building Council (USGBC), pri
 {{< break >}}
 
 Vetrazzo has built an incredible gallery of innovative designs. We’re truly excited to highlight their unique stock of recycled glass countertop composites. Every one of their products serves as a benchmark for responsible engineering, green building, and efficiency. Vetrazzo & Co. is committed to innovative manufacturing and a promise to ‘authentic works of art that tell a story on every incredible surface.’
+
+{{< break >}}
 
 {{< break >}}
 
@@ -69,6 +93,10 @@ Vetrazzo has built an incredible gallery of innovative designs. We’re truly ex
 
 Here’s one of the things we loved about Glass Recycled Surfaces (GRS). If you are in the market for a countertop combined with other recycled materials, you can actually choose from upcycled glass, porcelain, and shell to customize your solution. You can also select the color of the resin to add to the mix for a more personal touch. GRS enjoys success here in America, providing sustainable business practices on both residential and commercial projects.
 
+{{< break >}}
+
+{{< break >}}
+
 {{< postImage "Bio Glass Hero" "/img/7Countertops/BioGlassHero14.webp" "/img/7Countertops/BioGlassHero14-small.webp" >}}
 
 {{< break >}}
@@ -78,6 +106,8 @@ Here’s one of the things we loved about Glass Recycled Surfaces (GRS). If you 
 {{< break >}}
 
 As a member of the U.S. Green Building Council, Bio-glass adopted a circular mindset when designing new products built from reused or recycled glass. Bio-glass countertops are sourced from the same material, giving each countertop a uniformed look. Bio-Glass has a patent-protected treatment process that is a one-time application to give, stain-resistance, frost-resistance, chemical-resistance, and fire-resistance. What we like about this countertop is the LED lighting positioned beneath the top cap to provide ambient lighting with an enhanced modern design.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -93,6 +123,8 @@ Trend Transformations award-winning products are made here in the U.S. Post-cons
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postImage "Eco by Consentino" "/img/7Countertops/default.webp" "/img/7Countertops/default-small.webp" >}}
 
 {{< break >}}
@@ -102,6 +134,8 @@ Trend Transformations award-winning products are made here in the U.S. Post-cons
 {{< break >}}
 
 Eco by Consentino began when a multinational Spanish company asserted a large charitable contribution to bootstrap a team of visionaries’ products which led to the formation of a recycled surface. Slabs and precuts are available to adapt to project requirements. Eco’s countertops can be ordered in three varying degrees of thickness. Every slab comes in at a hardness of 5 to 7 on the Mohs scale to give the countertop a natural flexibility and durability.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -117,17 +151,31 @@ Curava is a family owned and operated manufacturer and distributor of resin-base
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "recycled-glass-and-countertop-heating" "Recycled Glass and Countertop Heating" >}}
+
+{{< break >}}
 
 The one objection to a glass countertop, especially when combined with stone is that in colder climates the countertop may be uncomfortable to the touch which does not make for an inviting eating area.  Consider eliminating this problem by adding a touch of warmth with [Feelswarm Countertop Heating](https://www.warmlyyours.com/en-US/products/code/CTHS-009-11x24-KIT). It’s basically a heating element that can be used to warm up most countertops.   Check out [WarmlyYours Radiant Heating](https://www.warmlyyours.com/en-US/floor-heating/tile-marble-or-stone?referral_code=KRICOM). They are a manufacturer and distributor of quality-grade radiant heating products with an outstanding reputation for customer service.
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "recycled-glass-considerations" "Recycled Glass Considerations" >}}
+
+{{< break >}}
 
 Countertops made from recycled glass, in a traditional sense are usually particulates mixed with natural resources. Recycled glass formed with either cement or a non-porous resin provides a frictionless, durable, and maintenance-free finish. The glass may stain from acidic liquids like mustard, wine, and other chemicals which may cause discoloration (resin and cement) so know your glass and heed any precautions.
 
+{{< break >}}
+
+{{< break >}}
+
 Thank you for tuning into this week’s blog post. Be sure to leave a comment if you enjoyed this blog post. We’d be happy to answer any questions.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -135,4 +183,6 @@ Thank you for tuning into this week’s blog post. Be sure to leave a comment if
 
 Compactor Management CompanyNorthern California Compactors Inc. offers installation and support services for waste recycling equipment such as trash compactors. (2020, July 31). Advantages and Disadvantages of Glass Recycling. Retrieved August 03, 2020, from [https://www.norcalcompactors.net/advantages-and-disadvantages-of-glass-recycling/](https://www.norcalcompactors.net/advantages-and-disadvantages-of-glass-recycling/)
 
-{{< break >}}{{< break >}}
+{{< break >}}
+
+{{< break >}}

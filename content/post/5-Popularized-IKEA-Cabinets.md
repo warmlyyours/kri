@@ -10,27 +10,62 @@ layout: blog
 headerImage: /img/5IKEA/sektion1.webp
 ---
 
-IKEA kitchen cabinets, found at the furniture megastore, may seem impersonal at times compared to your local furniture store. But, the Scandinavian company designs and fabricates beautiful kitchen cabinetry year-after-year and supplies furniture to literally millions of homes across the country. 
+
+IKEA kitchen cabinets, found at the furniture megastore, may seem impersonal at times compared to your local furniture store. But, the Scandinavian company designs and fabricates beautiful kitchen cabinetry year-after-year and supplies furniture to literally millions of homes across the country.
+
+{{< break >}}
+
+{{< break >}} 
 
 We believe that the heart of any good IKEA system is its cafeteria. So much traffic builds up as shoppers line up for IKEA’s world-famous meatballs. They’re trying to grow a business that caters to their customers’ every need and we applaud that effort.
 
+{{< break >}}
+
+{{< break >}}
+
 How important the cafeteria is for IKEA’s customers is comparatively how important your kitchen is for your dinner guests and visitors. The kitchen is the meeting place and the heart of your home. Where you can entertain, eat, and lounge at all times of the day.
 
+{{< break >}}
+
+{{< break >}}
+
 The organizational arrangement of your kitchenware tells a great deal about your style, your approach to function and your unique personality all wrapped into one. You are going to want to apply this newfound style as you determine a wall cabinet design that represents you, so far as it isn't too daft.
+
+{{< break >}}
+
+{{< break >}}
 
 To start your journey, our team investigated IKEA’s kitchen cabinet offering.  We studied their website during the making of our ‘10 Best Kitchen Cabinet Styles’ blog post to discover the best of the best.  The top 5 cabinets based on customer ratings - which begs the question: Can people really fall in love with a kitchen cabinet system? Clearly, these folks did, so yes you can!
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "ikea-kitchen-cabinet-code-SE-BS2G" "SEKTION: IKEA Kitchen Cabinet Code SE BS2G" >}}
+
+{{< break >}}
 
 {{< postImage "SE BS2G" "/img/5IKEA/sektion1.webp" "/img/5IKEA/sektion1-small.webp" >}}
 
+{{< break >}}
+
 We are really impressed by this IKEA base cabinet. The IKEA kitchen cabinet received high remarks.  I think what makes this wide cabinet interesting is that it’s what may be considered as part of the collection of IKEA custom cabinets. The base cabinet’s spacing can be customized. 
 
-Flexibility is a key factor in kitchen cabinet design so having the ability to adjust shelves as needed puts this sektion base cabinet at the top of the list. In addition, the base cabinet frame is sturdy and the clear glass is on-trend to try a more modern design perspective.  
+{{< break >}}
+
+{{< break >}}
+
+Flexibility is a key factor in kitchen cabinet design so having the ability to adjust shelves as needed puts this sektion base cabinet at the top of the list. In addition, the base cabinet frame is sturdy and the clear glass is on-trend to try a more modern design perspective. 
+
+{{< break >}}
+
+{{< break >}} 
 
 And for us, here is where function steps in. For cleaning the glass, there are snap-on hinges without screws. Making it easier than ever to remove the door for cleaning without the intervention of a power tool. The hinge on the shoulder is adjustable by heights, depth, and width and the leg stands are sold separately. A perfect way to set your kitchen up very nicely and keep its contents safe and visible at all times. 
+
+{{< break >}}
+
+{{< break >}}
 
 **Product size**
 
@@ -52,93 +87,191 @@ And for us, here is where function steps in. For cleaning the glass, there are s
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "ikea-kitchen-cabinet-code-SE-HS2DE2I" "SEKTION: IKEA Kitchen Cabinet Code SE HS2D2E2I" >}}
+
+{{< break >}}
 
 {{< postImage "SE HS2D2E2I" "/img/5IKEA/sektion2.webp" "/img/5IKEA/sektion2-small.webp" >}}
 
+{{< break >}}
+
 Color is again trending in kitchen design and that’s reflected in the popularity of this model.  After year-over-year of white-on-white kitchen themes, color is back and in a big way.
+
+{{< break >}}
+
+{{< break >}}
 
 What makes IKEA’s cabinet line so great is the ability to incorporate into your kitchen design a great selection of fun and interesting colors and textures for custom cabinet fronts. Very much on-trend! We believe that a well-designed kitchen cabinet must be elegantly designed, functional and interesting.
 
+{{< break >}}
+
+{{< break >}}
+
 The cabinet finish has a coating that also protects your luxury cabinets from long term daily usage plus flexible shelving design helps to efficiently organize items in every size - from large to small. You can completely customize your spacing just like the previous cabinet
+
+{{< break >}}
+
+{{< break >}}
 
 The door damper catches a moving door and gently closes it silently. Effortlessly getting rid of snapped on doors. We could not be more impressed by this incredible high cabinet with two doors and four drawers.
 
+{{< break >}}
+
+{{< break >}}
+
 **Product size**
+
 **Width:**
+
 15 "
+
 **The system, depth:**
+
 15 "
+
 **Depth:**  
+
 15 1/2 "
+
 **Frame, height:**
+
 80 "
+
+{{< break >}}
 
 {{< break >}}
 
 {{< postH2 "cabinet-code-SE-WR1H" "SEKTION: Cabinet code SE WR1H" >}}
 
+{{< break >}}
+
 {{< postImage "SE WR1H" "/img/5IKEA/sektion3.webp" "/img/5IKEA/sektion3-small.webp" >}}
+
+{{< break >}}
 
 A well-designed kitchen incorporates cabinetry with purpose. We think that this piece really shines above a fridge and it’s possible to wall-mount it for added safety.  That’s especially important if you are planning to use this space to tuck away large appliances.
 
+{{< break >}}
+
+{{< break >}}
+
 Hinges are adjustable and a knob or a handle is required to open the hatch.
 
+{{< break >}}
 
+{{< break >}}
 
 **Width:**
+
 30 "
+
 **System, depth:**
+
 24 "
+
 **Depth:**
+
 24 3/4 "
+
 **Frame, height:**
+
 15 "
+
+{{< break >}}
 
 {{< break >}}
 
 {{< postH2 "cabinet-code-SE-HM2D2E" "SEKTION: Cabinet code SE HM2D2E" >}}
 
+{{< break >}}
+
 {{< postImage "SE HM2D2E" "/img/5IKEA/sektion4.webp" "/img/5IKEA/sektion4-small.webp" >}}
+
+{{< break >}}
 
 IKEA specializes in maximizing storage space and this cabinet is a clear popular choice for smaller kitchens.  When wall space is limited - travel up! Incorporating the space for the microwave - is a space saver too and clears up much needed counter space for prepping those home-cooked meals that your family appreciates and loves!! Especially if your kitchen is small, you’ve got two meters of vertical storage.
 
+{{< break >}}
+
+{{< break >}}
+
 This cabinet design makes it easy to declutter and organize just about anything because the snap-on shelves are customizable. At the base you’ve got drawers to store things you want easy access to and if a microwave is not your thing, use the open area showing off a fabulous dinner plate collection or BONUS, a cookbook mini library!
+
+{{< break >}}
+
+{{< break >}}
 
 PRO TIP: On the condition you do incorporate a microwave, leave ample room above and below the microwave unit and make sure that walls and other obstructions do not prevent the flow of warm air from properly ventilating.
 
+{{< break >}}
 
+{{< break >}}
 
 
 **Width:**
+
 24 "
+
 **System, depth:**
+
 24 "
+
 **Depth:**
+
 24 3/4 "
+
 **Frame, height:**
+
 90 "
+
+{{< break >}}
 
 {{< break >}}
 
 {{< postH2 "cabinet-code-SE-H2D3EE2I" "SEKTION: Cabinet code SE H2D3EE2I" >}}
 
+{{< break >}}
+
 {{< postImage "SE H2D3EE2I" "/img/5IKEA/sektion5.webp" "/img/5IKEA/sektion5-small.webp" >}}
+
+{{< break >}}
 
 To round out the fab-five, this popular cabinet configuration has drawers that are located behind the cabinet doors giving it a sleek finish. The cabinet can blend into any kitchen asserting a seamlessly modern feel.
 
+{{< break >}}
+
+{{< break >}}
+
 Incredibly well-designed shelving allows for efficient storage of pots and pans. That is, shelf space can even double as a pantry. Also, it has a smooth-running - full-extension track line with dampers to ease in and out your draw.
 
+{{< break >}}
+
+{{< break >}}
 
 **Width:**
+
 30 "
+
 **System, depth:**
+
 24 "
+
 **Depth:**
+
 24 3/4 "
+
 **Frame, height:**
+
 90 "
+
+{{< break >}}
+
+{{< break >}}
 
 Thanks so much for reading this week's blog. Do you have kitchen cabinets from IKEA? How are you liking your IKEA cabinets?
 
-{{< break >}}{{< break >}}
+{{< break >}}
+
+{{< break >}}

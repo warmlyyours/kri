@@ -11,7 +11,11 @@ headerImage: /img/bestFilter/whats-the-best-water-filter-sans-text.jpg
 
 {{< postH2 "what-scientists-dont-want-you-to-know" "What Scientists Don't Want you to Know" >}}
 
+{{< break >}}
+
 Water is an essential building block of life which makes up more than 80% of our bodies. The quality of the water we drink and share with our family and house guests is dependent upon so many factors.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -19,7 +23,13 @@ What causes water to give off unpleasant odors? Everyone feels concerned about t
 
 You can research the [Tap Water Database](https://www.ewg.org/tapwater/) to find out what’s in your tap water.
 
+{{< break >}}
+
+{{< break >}}
+
 We entered our zip code to get an idea of the information that the report contains. The U.S. EPA reports (January 2019 - March 2019) the tap water from our zip code has a total of 15 contaminants.  Of these, seven exceed the EWG health guidelines.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -31,6 +41,8 @@ We’ve put together a buying guide to assist you along the process. Our goal is
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "countertop-filters" "Contertop Filters" >}}
 
 {{< break >}}
@@ -39,12 +51,15 @@ Countertop filters get rid of unwanted contaminants with ease of use. Whilst oth
 
 {{< break >}}
 
+{{< break >}}
+
 Countertop filters have different levels of filtration, starting from simple charcoal carbon filters to more complex ionizing diffusion systems.
 
 {{< break >}}
 
-## [Amazon Basics Filtration System](https://amzn.to/3DQZ74l)
+{{< break >}}
 
+## [Amazon Basics Filtration System](https://amzn.to/3DQZ74l)
 **Price: $46.73**
 
 {{< break >}}
@@ -57,7 +72,11 @@ The Amazon Basics system is excellent at reducing chlorine and volatile organic 
 
 {{< break >}}
 
+{{< break >}}
+
 It has a 5-stage filter that is placed conveniently on a kitchen countertop. Amazon Basics Filtration System is a tap faucet water filter conveniently connecting to either the kitchen or bathroom sink.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -65,10 +84,16 @@ This filtration system does not need replacement of the inner filter cartridge. 
 
 {{< break >}}
 
+{{< break >}}
+
 ## [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://amzn.to/3plSvXJ)
 **Price: $114.95**
 
+{{< break >}}
+
 {{< postImage "APEX EXPRT MR-2050" "/img/bestFilter/APEX-EXPRT-MR-2050.jpg" "/img/bestFilter/APEX-EXPRT-MR-2050.jpg" >}}
+
+{{< break >}}
 
 {{< break >}}
 
@@ -76,7 +101,11 @@ APEX has envisioned a unique and easy kitchen countertop water filter with fast-
 
 {{< break >}}
 
+{{< break >}}
+
 Many water filter systems claim reverse diffusion to be the best recommendation to give your home bottled water quality water. The MR-2050 kitchen water filter eliminates many harmful toxins present in unfiltered tap water.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -84,8 +113,12 @@ The flow rate is pretty fast, and always able to fill up a glass in a matter of 
 
 {{< break >}}
 
+{{< break >}}
+
 ## [H2O+ Cypress Countertop Water Filtration System](https://amzn.to/3j8t0F7)
 **Price: $146.00**
+
+{{< break >}}
 
 {{< postImage "APEX EXPRT MR-2050" "/img/bestFilter/Brondell-H630-H20+.jpg" "/img/bestFilter/Brondell-H630-H20+.jpg" >}}
 
@@ -95,7 +128,11 @@ A major selling point of the H20+ Cypress is that it is both versatile and conve
 
 {{< break >}}
 
+{{< break >}}
+
 The Cypress Countertop kitchen water filter system removes contaminants, industrial chemicals, pesticides, herbicides turbidity, volatile organic compounds, bad tastes, and odors.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -103,13 +140,21 @@ Most people believe that the best quality of water involves a 5-stage reverse os
 
 {{< break >}}
 
+{{< break >}}
+
 We’re pleased to see that this filter is tested and approved by the Water Quality Association (WQA). The tankless system delivers fresh clean water without water waste or need for electricity.
+
+{{< break >}}
 
 {{< break >}}
 
 {{< postH2 "undersink-filters" "Undersink Filters" >}}
 
+{{< break >}}
+
 Undersink filters are another popular in-house water filter solution that delivers mineral-spring quality water without watersheds, tanks, and electricity. The most frequently chosen options are a one-channel design, requiring less maintenance.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -117,12 +162,20 @@ Filters of this kind are good quality at a higher price point. An undersink filt
 
 {{< break >}}
 
+{{< break >}}
+
 ## [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
 **Price: $142.85**
 
+{{< break >}}
+
 {{< postImage "Aquasan 3-stage under counter" "/img/bestFilter/AQ-5300-BrNickel.png" "/img/bestFilter/AQ-5300-BrNickel.png" >}}
 
+{{< break >}}
+
 Aquasana is a great water filter with charcoal filtering technology. We like the 3-stage under counter filter because it amazingly transforms dirty pipe water back into pristine condition.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -130,17 +183,26 @@ Herbicides, pesticides, and VOCs are stopped from tainting the drinking water an
 
 {{< break >}}
 
+{{< break >}}
+
 Aquasan delivers strong results, showing a 99% reduction of 77 known contaminants. This filter also gets rid of lead mercury if you live in an older home with outdated plumbing. On the downside, reviews showed that the under kitchen sink water filter may be prone to leaking. However, by carefully following the installation instructions, you can be sure that the product works as directed.  
 
 {{< break >}}
 
-## [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
+{{< break >}}
 
+## [Frizzlife SK99 3-Stage Under Sink Water Filter](https://www.frizzlife.com/products/sk99-3-stage-under-sink-water-filtration)
 **Price: $125.99**
+
+{{< break >}}
 
 {{< postImage "Frizzlife SK99 3-Stage Under Sink Water Filter" "/img/bestFilter/FrizzLife-SK99-3-Stage-Under-Sink-Water-Filter.jpeg" "/img/bestFilter/FrizzLife-SK99-3-Stage-Under-Sink-Water-Filter.jpeg" >}}
 
+{{< break >}}
+
 We all have a high standard when it comes to our drinking water. Frizzlife’s SK99 3-stage undersink certainly meets expectations and exceeds them in some categories. Right off the bat, we’re promised a 99.99% reduction of harmful contaminants.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -148,17 +210,26 @@ Rusty pipes are no problem since the SK99 filtration process can take care of th
 
 {{< break >}}
 
+{{< break >}}
+
 Minerals with immune system boosting properties are not filtered out and it completely eliminates any funny tastes in the tap water. The flow rate is measured out at 2 Gallons Per Minute (GPM) for a 60 PSI plumbing system. The Frizzlife 3-stage can fill up a drinking glass faster than Aquasana’s 44% flow rate of .72 GPM’s.
 
 {{< break >}}
 
-## [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
+{{< break >}}
 
+## [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
 **Price: $815.98**
+
+{{< break >}}
 
 {{< postImage "EZ-Connect" "/img/bestFilter/white-and-blue-pentair-whole-house-water-filters-pse500-p-64_100.jpg" "/img/bestFilter/white-and-blue-pentair-whole-house-water-filters-pse500-p-64_100.jpg" >}}
 
+{{< break >}}
+
 Featuring a 2-in-one Compact Combo Series from The Pelican Company. The product offering is very positive to the extent of claiming to be of better quality and taste than bottled water.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -166,15 +237,22 @@ A good reason to select this undersink filter is its removal of chlorine and chl
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postH2 "faucet-filters" "Faucet Filters" >}}
+
+{{< break >}}
 
 We just had to include faucet filters. A faucet filter is a kitchen faucet with a mounted attachment that connects to your kitchen sink. This past year, new technologies of faucet filters have been a major trend. Outfitting a sink to a kitchen faucet provides great-tasting and clean faucet water.
 
 {{< break >}}
 
-## [Brita Tap Water Filter System, Water Faucet Filtration System](https://amzn.to/3j6PKoY)
+{{< break >}}
 
+## [Brita Tap Water Filter System, Water Faucet Filtration System](https://amzn.to/3j6PKoY)
 **Price: $16.88**
+
+{{< break >}}
 
 {{< postImage "Brita Tap Water Filter System" "/img/bestFilter/Brita-Tap-Water-FilterSystem.jpg" "/img/bestFilter/Brita-Tap-Water-FilterSystem.jpg" >}}
 
@@ -184,17 +262,26 @@ Keep clean and great tasting water at your disposal with the critically acclaime
 
 {{< break >}}
 
+{{< break >}}
+
 Brita’s kitchen faucet water filter rarely ever leaks. The life span of a basic Brita filter guarantees 100 gallons of filtered tap water.
 
 {{< break >}}
 
-## [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://amzn.to/3mX7Zyf)
+{{< break >}}
 
+## [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://amzn.to/3mX7Zyf)
 **Price: $19.88**
+
+{{< break >}}
 
 {{< postImage "Waterdrop WD-FC-01" "/img/bestFilter/Waterdrop.jpg" "/img/bestFilter/Waterdrop.jpg" >}}
 
+{{< break >}}
+
 Upgrade your kitchen faucet to a brand new water faucet filtration system. A standard faucet mount can be fitted to your nozzle with the right adapters. This certified kitchen sink water faucet filter removes fluoride, lead, and other contaminants.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -202,7 +289,11 @@ A stainless steel mesh initially intercepts large particles, and then another fi
 
 {{< break >}}
 
+{{< break >}}
+
 Time was spent subjecting this kitchen sink faucet filter to rigorous testing. Certifying the Waterdrop WD-FC-01 by NSF International against NSF/ANSI standards for the reduction of a whole variety of contaminants.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -214,7 +305,11 @@ Best at removing fluoride: [Amazon Basics Filtration System](https://www.amazon.
 
 {{< break >}}
 
+{{< break >}}
+
 Best at removing lead: [Aquasana 3-stage under counter](https://www.aquasana.com/drinking-water-filter-systems/under-counter-faucet-3-stage)
+
+{{< break >}}
 
 {{< break >}}
 
@@ -222,7 +317,11 @@ Best taste: [APEX EXPRT MR-2050 Quality Dual Countertop Water Filter](https://ww
 
 {{< break >}}
 
+{{< break >}}
+
 Best water filtration on a budget: [Brita Tap Water Filter System, Water Faucet Filtration System](https://www.amazon.com/gp/product/B000EOOQPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EOOQPW&linkCode=as2&tag=kri0eb-20&linkId=51cec17a3cf44714ca60d14df9d1ebdb)
+
+{{< break >}}
 
 {{< break >}}
 
@@ -230,7 +329,11 @@ Best at removing rust: [Frizzlife SK99 3-Stage Under Sink Water Filter](https://
 
 {{< break >}}
 
+{{< break >}}
+
 Best under sink filter: [EZ-Connect Compact Whole House Water Filtration System and Water Softener Alternative Combo](https://www.homedepot.com/p/Pelican-Water-EZ-Connect-Compact-Whole-House-Water-Filtration-System-and-Water-Softener-Alternative-Combo-THD-PSE500/301752088)
+
+{{< break >}}
 
 {{< break >}}
 
@@ -238,7 +341,11 @@ Best countertop filter: [H2O+ Cypress Countertop Water Filtration System](https:
 
 {{< break >}}
 
+{{< break >}}
+
 Best faucet filter: [Waterdrop WD-FC-01 NSF Certified 320-Gallon Long-Lasting Water Faucet Filtration System](https://www.amazon.com/gp/product/B01GABXWCK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GABXWCK&linkCode=as2&tag=kri0eb-20&linkId=29b057289585eebf1b35a4f9997b1ce7)
+
+{{< break >}}
 
 {{< break >}}
 
@@ -246,11 +353,17 @@ Be free from the burdens of bottled water and save money. Our greatest interest 
 
 {{< break >}}
 
+{{< break >}}
+
 Thanks for coming down this journey with us and tune in next week for another Kitchen Remodeling Blog Post.
+
+{{< break >}}
 
 {{< break >}}
 
 What’ve been your experiences filtering water lines? Share your thoughts/opinions/reviews by leaving a comment.
 
+{{< break >}}
+{{< break >}}
 {{< break >}}
 {{< break >}}

@@ -9,12 +9,16 @@ tags:
 layout: blog
 headerImage: /img/blackMarble/image2.jpg
 ---
+
 {{< break >}}
 
 {{< postImage "Black Marble Kitchen 1" "/img/blackMarble/image1.jpg" "/img/blackMarble/image1.jpg" >}}
 
+{{< break >}}
 
 Countertops, backsplashes, and divider walls in black marble convey a timeless elegance that can transform any cooking environment into a luxurious refuge. With its beautiful veining and glossy texture, the deep, rich tones of black marble provide a fascinating focal point that suits various design styles.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -26,11 +30,15 @@ Black marble countertops, with their smooth and polished surfaces, bring a sense
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postImage "Kitchen Extension - Black Marble Top" "/img/blackMarble/image3.jpg" "/img/blackMarble/image3.jpg" "'Kitchen Extension - Black Marble Top' by Holland And Green Architectural Design is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
 
 {{< break >}}
 
 Black marble is incredibly adaptable, making it appropriate for various design aesthetics. Whether your kitchen is modern, traditional, or somewhere in the middle, black marble countertops, backsplashes, and partitioning walls can blend in or stand out. Its versatility opens up a world of design possibilities.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -42,11 +50,15 @@ The enduring allure of black marble attests to its toughness and beauty. This na
 
 {{< break >}}
 
+{{< break >}}
+
 {{< postImage "Black Marble Kitchen 5" "/img/blackMarble/image5.jpg" "/img/blackMarble/image5.jpg" >}}
 
 {{< break >}}
 
 Black marble backsplashes are a popular choice for adding drama to the decor of your kitchen. The reflected quality of the stone adds depth and perspective to your kitchen, making it appear larger. These backsplashes not only protect but also transform your walls into works of beauty.
+
+{{< break >}}
 
 {{< break >}}
 
@@ -56,6 +68,7 @@ Black marble backsplashes are a popular choice for adding drama to the decor of 
 
 Black marble can visually soften the surface by combining it with warm, earthy tones, metallic accents, or natural wood pieces to create a balanced, inviting atmosphere. Black marble's adaptability allows it to work well with various design aspects, making it a popular choice among kitchen enthusiasts.
 
+{{< break >}}
 
 {{< break >}}
 
@@ -66,4 +79,7 @@ Black marble can visually soften the surface by combining it with warm, earthy t
 The attractiveness of black marble kitchen installations stems from their ability to awe and inspire adoration. Black marble worktops, backsplashes, and divider walls epitomize beauty and functionality in anything from clean, minimalist kitchens to luxurious, traditional rooms. This design decision not only looks great for years to come, but it also gives your kitchen an unparalleled sense of richness.
 
 {{< break >}}
+
+{{< break >}}
+
 {{< break >}}
