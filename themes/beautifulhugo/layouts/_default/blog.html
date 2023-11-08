@@ -6,7 +6,7 @@
         {{ if .Params.tags }}
           <div class="blog-tags">
             {{ range .Params.tags }}
-              <a style="text-decoration: none;" rel="dofollow" href="{{ $.Site.LanguagePrefix | absURL }}tags/{{ . | urlize }}"><button style="background-color: #eee;color: gray;border: 3px solid lightgray;border-radius: 5px;">{{ . }}</button></a>&nbsp;
+              <a style="text-decoration: none;" rel="dofollow" href="{{ $.Site.LanguagePrefix | absURL }}tags/{{ . | urlize }}"><button style="background-color: lightgray;color: gray;border: 3px solid lightgray;border-radius: 5px;">{{ . }}</button></a>&nbsp;
             {{ end }}
           </div>
         {{ end }}
