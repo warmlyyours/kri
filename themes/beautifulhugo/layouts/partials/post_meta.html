@@ -1,12 +1,12 @@
 {{ if .Params.tags }}
           <div class="blog-tags" style="z-index:2">
             {{ range .Params.tags }}
-              <a style="text-decoration: none;color: #eee;font-family:Avenir, Open Sans" rel="dofollow" href="{{ $.Site.LanguagePrefix | absURL }}tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+              <a style="text-decoration: none;color: #112b3c;font-family:Avenir, Open Sans" rel="dofollow" href="{{ $.Site.LanguagePrefix | absURL }}tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
             {{ end }}
           </div>
         {{ end }}
         <br />
-<span class="post-meta" style="color: #eee;z-index:1;font-family:Avenir, Open Sans">
+<span class="post-meta" style="color:#112b3c;z-index:1;font-family:Avenir, Open Sans">
   {{ $lastmodstr := default (i18n "dateFormat") .Site.Params.dateformat | .Lastmod.Format }}
   {{ $datestr := default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format }}
   <i ></i>&nbsp;{{ $datestr | i18n "postedOnDate"}}
