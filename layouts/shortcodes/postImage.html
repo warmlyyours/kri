@@ -1,8 +1,17 @@
 <style>
+
+  img {
+    width: 50%;
+  }
+
   @media only screen and (max-width: 768px) {
     p {
       font-size: 16px;
       display: inline;
+    }
+
+    img {
+      width: 100%;
     }
   }
 </style>
@@ -13,7 +22,7 @@
  sizes="(max-width: 767px) 324w, 720w"
  src="https://ik.imagekit.io/wy/kri/{{ .Get 1 | markdownify }}"
  loading="lazy"
- style="max-width: 100%; height: auto; width: 50%;" />
+ style="max-width: 100%; height: auto;" />
     <ficaption style="display: table-caption;caption-side: bottom;text-align: center;font-size: .7rem">{{ .Get 3 | markdownify }}</ficaption>
   </figure>
 </div>
