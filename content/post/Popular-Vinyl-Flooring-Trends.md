@@ -221,6 +221,7 @@ Thank you for joining us on our journey through today's design landscape's most 
 
 Have a peek at our sponsor’s complete [Luxury Vinyl Flooring Design Guide](https://www.warmlyyours.com/en-US/floor-heating/basement-luxury-vinyl-tile) to learn how to effortlessly include electric floor heating into your LVP flooring project.
 
+
 {{< break >}}
 
 {{< break >}}
