@@ -2,17 +2,17 @@
 title: 7 Swoon-Worthy Black Marble Kitchen Ideas
 date: 2023-10-31
 author: Kitchen Remodel Ideas
-image: /img/blackMarble/7-Black-Marble-Banner.jpg
+image: /img/blackMarble/7-Black-Marble-Banner.webp
 tags:
   - Countertops
   - Cabinets
 layout: blog
-headerImage: /img/blackMarble/image2.jpg
+headerImage: /img/blackMarble/image2.webp
 ---
 
 {{< break >}}
 
-{{< postImage "Black Marble Kitchen 1" "/img/blackMarble/image1.jpg" "/img/blackMarble/image1.jpg" >}}
+{{< postImage "Black Marble Kitchen 1" "/img/blackMarble/image1.webp" "/img/blackMarble/image1.webp" >}}
 
 {{< break >}}
 
@@ -22,7 +22,7 @@ Countertops, backsplashes, and divider walls in black marble convey a timeless e
 
 {{< break >}}
 
-{{< postImage "Black Marble Kitchen 4" "/img/blackMarble/image4.jpg" "/img/blackMarble/image4.jpg" >}}
+{{< postImage "Black Marble Kitchen 4" "/img/blackMarble/image4.webp" "/img/blackMarble/image4.webp" >}}
 
 {{< break >}}
 
@@ -32,7 +32,7 @@ Black marble countertops, with their smooth and polished surfaces, bring a sense
 
 {{< break >}}
 
-{{< postImage "Kitchen Extension - Black Marble Top" "/img/blackMarble/image3.jpg" "/img/blackMarble/image3.jpg" "'Kitchen Extension - Black Marble Top' by Holland And Green Architectural Design is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "Kitchen Extension - Black Marble Top" "/img/blackMarble/image3.webp" "/img/blackMarble/image3.webp" "'Kitchen Extension - Black Marble Top' by Holland And Green Architectural Design is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
 
 {{< break >}}
 
@@ -42,7 +42,7 @@ Black marble is incredibly adaptable, making it appropriate for various design a
 
 {{< break >}}
 
-{{< postImage "Black Marble Kitchen 6" "/img/blackMarble/image6.jpg" "/img/blackMarble/image6.jpg" >}}
+{{< postImage "Black Marble Kitchen 6" "/img/blackMarble/image6.webp" "/img/blackMarble/image6.webp" >}}
 
 {{< break >}}
 
@@ -52,7 +52,7 @@ The enduring allure of black marble attests to its toughness and beauty. This na
 
 {{< break >}}
 
-{{< postImage "Black Marble Kitchen 5" "/img/blackMarble/image5.jpg" "/img/blackMarble/image5.jpg" >}}
+{{< postImage "Black Marble Kitchen 5" "/img/blackMarble/image5.webp" "/img/blackMarble/image5.webp" >}}
 
 {{< break >}}
 
@@ -62,7 +62,7 @@ Black marble backsplashes are a popular choice for adding drama to the decor of 
 
 {{< break >}}
 
-{{< postImage "Black Marble Kitchen 2" "/img/blackMarble/image2.jpg" "/img/blackMarble/image2.jpg" >}}
+{{< postImage "Black Marble Kitchen 2" "/img/blackMarble/image2.webp" "/img/blackMarble/image2.webp" >}}
 
 {{< break >}}
 
@@ -72,7 +72,7 @@ Black marble can visually soften the surface by combining it with warm, earthy t
 
 {{< break >}}
 
-{{< postImage "Black Marble Kitchen 7" "/img/blackMarble/image7.jpg" "/img/blackMarble/image7.jpg" >}}
+{{< postImage "Black Marble Kitchen 7" "/img/blackMarble/image7.webp" "/img/blackMarble/image7.webp" >}}
 
 {{< break >}}
 
