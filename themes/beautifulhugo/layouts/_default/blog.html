@@ -33,7 +33,7 @@
                 {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
                     <div class="col-sm-12 col">
                       <div class="card">
-                        <img src="{{ .Params.image }}" class="card-img-top" alt="...">
+                        <img src="{{ .Params.image }}" class="card-img-top" alt="seeAlsoCard">
                         <div class="card-body">
                           <h5 class="card-title">{{ .Title }}</h5>
                           <p class="card-text" style="font-family: Helvetica Neue;font-size:1rem">{{ .Summary | truncate 19 }}</p>
@@ -44,7 +44,6 @@
                 {{ end }}
                   </div>
                 </div>
-
           {{ end }}
         {{ end }}
       </article>
