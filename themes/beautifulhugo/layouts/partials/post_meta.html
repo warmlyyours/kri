@@ -3,6 +3,7 @@
             {{ range .Params.tags }}
               <a style="text-decoration: none;color: #112b3c;font-family:Avenir, Open Sans" rel="dofollow" href="{{ $.Site.LanguagePrefix | absURL }}tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
             {{ end }}
+            <div><a class="postComment" href="{{ .RelPermalink }}#disqus_thread">Post a comment</a></div>
           </div>
         {{ end }}
         <br />
