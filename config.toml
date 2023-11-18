@@ -11,12 +11,12 @@ pygmentsCodefencesGuessSyntax = true
 enableRobotsTXT = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
+disqusShortname = "https-www-kitchenremodelideas-com"
 #googleAnalytics = "XXX"
 canonifyURLS = false
 uglyURLS = false
 paginate = 5
-description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything AND the kitchen sink's covered."
+description = "Kitchen Remodeling Ideas is your online database of kitchen renovation ideas. Everything and the kitchen sink's covered."
 summaryLength = 50
 [Params]
   #homeTitle = "" # Set a different text for the header on the home page
@@ -186,6 +186,3 @@ summaryLength = 50
     source = 'assets'
     target = 'content/post'
     includeFiles = '/img/*'
-    
-[Params.staticman]
-  api = "https://<API-ENDPOINT>/v3/entry/{GIT-HOST}/<USERNAME>/<REPOSITORY-BLOGNAME>/master/comments"
