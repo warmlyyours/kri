@@ -186,3 +186,6 @@ summaryLength = 50
     source = 'assets'
     target = 'content/post'
     includeFiles = '/img/*'
+    
+[Params.staticman]
+  api = "https://<API-ENDPOINT>/v3/entry/{GIT-HOST}/<USERNAME>/<REPOSITORY-BLOGNAME>/master/comments"
