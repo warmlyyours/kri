@@ -260,7 +260,7 @@ Winterizing your kitchen pipes is a preventative measure that can save you from 
 
 {{< break >}}
 
-We at Kitchen Remodel Ideas recognize the importance of keeping your house safe and pleasant during winter. Explore our pipe-tracing heating cables to keep your kitchen pipes warm and functional throughout the colder months. Discover the potential of tailored pipe protection by clicking [examplelink](https://examplelink.com).
+We at Kitchen Remodel Ideas recognize the importance of keeping your house safe and pleasant during winter. Explore our pipe-tracing heating cables to keep your kitchen pipes warm and functional throughout the colder months. Discover the potential of tailored pipe protection by clicking [here](https://www.warmlyyours.com/pipe-freeze-protection).
 
 {{< break >}}
 
