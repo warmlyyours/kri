@@ -92,7 +92,7 @@ Allowing faucets to trickle gently relieves pressure in pipes, lowering the chan
 
 {{< break >}}
 
-Consider employing pipe-tracing heating cables to add an extra layer of security. These wires go around pipes, giving controlled heat to keep them from freezing. Easy to install, they offer a targeted solution to keep your lines warm.
+Consider employing heating tape to add an extra layer of security. These rolls of tape go around pipes, giving controlled heat to keep them from freezing. Easy to install, they offer a targeted solution to keep your lines warm.
 
 {{< break >}}
 
