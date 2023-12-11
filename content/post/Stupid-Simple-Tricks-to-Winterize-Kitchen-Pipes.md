@@ -154,7 +154,7 @@ Consider installing frost-free sillcocks on outdoor faucets. When you turn off t
 
 {{< break >}}
 
-{{< postImage "Repetition #2" "/img/winterizePipes/repetition-#2.webp" "/img/winterizePipes/repetition-#2.webp" "'Repetition #2: Sillcocks' by eileenmak is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
+{{< postImage "Repetition #2" "/img/winterizePipes/repetition2.webp" "/img/winterizePipes/repetition2.webp" "'Repetition #2: Sillcocks' by eileenmak is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
 
 {{< break >}}
 
