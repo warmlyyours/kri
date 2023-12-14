@@ -32,7 +32,7 @@ Before we get into the strategies, let's take a quick look at why winterizing yo
 
 {{< break >}}
 
-While all of the procedures stated above are important for preserving your kitchen pipes, let's focus on the effectiveness of pipe-tracing heating cables. These distinct cables wrap around tubes and supply a steady, controlled heat source to prevent freezing.
+While all of the procedures stated below are important for preserving your kitchen pipes, let's focus on the effectiveness of pipe-tracing heating cables. These distinct cables wrap around tubes and supply a steady, controlled heat source to prevent freezing.
 
 {{< break >}}
 
