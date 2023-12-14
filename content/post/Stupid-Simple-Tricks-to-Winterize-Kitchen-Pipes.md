@@ -86,6 +86,8 @@ Winterizing your kitchen pipes is a preventative measure that can save you from 
 
 {{< break >}}
 
+{{< hr >}}
+
 {{< break >}}
 
 ## Simple Techniques for Winterizing Kitchen Pipes
@@ -211,10 +213,6 @@ If you are away from home for a long time during the winter, consider turning of
 Consult a professional plumber if you need help with how to winterize your pipes or if you have specific concerns. Their knowledge and experience can ensure that your winterization activities are complete and efficient.
 
 {{< break >}}
-
-{{< break >}}
-
-{{< postImage "Plumber explaining" "/img/winterizePipes/consultPlumber.webp" "/img/winterizePipes/consultPlumber.webp" "'The Plumber' by Editor B is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse." >}}
 
 {{< break >}}
 
