@@ -2,7 +2,7 @@
 title: 7 Swoon-Worthy Black Marble Kitchen Ideas
 date: 2023-10-31
 author: Kitchen Remodel Ideas
-image: /img/blackMarble/7-Black-Marble-Banner.webp
+image: /img/blackMarble/image6.webp
 tags:
   - Countertops
   - Cabinets

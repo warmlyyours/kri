@@ -2,7 +2,7 @@
 title: How to Make Your Kitchen Warmer
 date: 2023-10-16
 author: Kitchen Remodel Ideas
-image: /img/warmerKitchen/how-to-make-kitchen-warmer.webp
+image: /img/warmerKitchen/underfloor-heating.webp
 tags:
   - Flooring
   - Cabinets
