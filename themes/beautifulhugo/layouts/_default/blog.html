@@ -27,11 +27,11 @@
 
           {{ if $.Scratch.Get "has_related" }}
                   <h4 class="see-also">{{ i18n "seeAlso" }}</h4>
-                  <div class="container-fluid seeAlsoContainer">
-                  <div class="row">
+                  <div class="container seeAlsoContainer">
+                  <div class="row m-0" style="display: fixed">
                 {{ $num_to_show := .Site.Params.related_content_limit | default 3 }}
                 {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
-                    <div class="col col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-3">
+                    <div class="col col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-3 ">
                       <div class="card">
                         <img src="{{ .Params.image }}" class="card-img-top" alt="seeAlsoCard">
                         <div class="card-body">
