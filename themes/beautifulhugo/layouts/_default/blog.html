@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="container" role="main" style="max-width: 100%;height: auto;padding:0 15vw">
+<div class="container" role="main" style="max-width: 100%;height: auto;padding:0 15vw;">
       <article class="container-fluid" role="main" class="blog-post">
         {{ .Content }}
         
@@ -27,11 +27,11 @@
 
           {{ if $.Scratch.Get "has_related" }}
                   <h4 class="see-also">{{ i18n "seeAlso" }}</h4>
-                  <div class="container seeAlsoContainer">
-                  <div class="row-12">
+                  <div class="container-fluid seeAlsoContainer">
+                  <div class="row">
                 {{ $num_to_show := .Site.Params.related_content_limit | default 3 }}
                 {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
-                    <div class="col-sm-12 col">
+                    <div class="col col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-3">
                       <div class="card">
                         <img src="{{ .Params.image }}" class="card-img-top" alt="seeAlsoCard">
                         <div class="card-body">
