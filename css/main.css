@@ -8,6 +8,7 @@ html {
   font-style: normal;
   font-weight: normal;
   font-display: swap;
+  
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -953,10 +954,4 @@ h4.see-also {
   border-radius: 5px;
   height: 20px;
   background-image: url(img/menuicon.jpg)
-}
-
-.card-img-top {
-  width: 100% !important;
-  height: 37vw !important;
-  object-fit: cover !important;
 }
