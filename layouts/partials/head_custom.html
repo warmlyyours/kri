@@ -383,6 +383,17 @@
 }
   {{ end }}
 
+  {{ if eq .Title "Posts" }}
+
+    article > span.post-meta, .blog-tags > a,
+    div > a.postComment {
+      color: #000000 !important;
+    }
+
+
+
+  {{ end }}
+
   /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
   .header-section.has-img .intro-header.no-img {
     display: none;
