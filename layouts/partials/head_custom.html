@@ -344,7 +344,8 @@
     box-shadow: 0 0 5px #AAA;
   }
 
-  {{ if eq .Type "post" }}
+  {{ if eq .Title "Posts" }}
+  
   header {
   background: url('{{ .Params.headerImage }}') center center no-repeat;
   background-size: cover !important;
@@ -381,16 +382,11 @@
    margin-bottom: 10vw !important;
   }
 }
-  {{ end }}
-
-  {{ if eq .Title "Posts" }}
 
     article > span.post-meta, .blog-tags > a,
     div > a.postComment {
       color: #000000 !important;
     }
-
-
 
   {{ end }}
 
