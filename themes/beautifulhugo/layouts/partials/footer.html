@@ -123,6 +123,7 @@
 <!-- End Piwik Code -->
 {{ end }}
 
+{{ if eq .Type "post" }}
 {{ if and .Site.Params.delayDisqus .Site.DisqusShortname }}
 <!-- Delayed Disqus -->
 <script type="text/javascript">
@@ -143,6 +144,7 @@ $(function(){
   });
 
 </script>
+{{ end }}
 {{ end }}
 
 {{- partial "footer_custom.html" . }}

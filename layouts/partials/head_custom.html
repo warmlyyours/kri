@@ -336,6 +336,45 @@
     }
   }
 
+  {{ if eq .Type "post" }}
+  header {
+  background: url('{{ .Params.headerImage }}') center center no-repeat;
+  background-size: cover !important;
+  width: 100%;
+  height: 100%;
+  padding: 10vw 5vw;
+  color: #eee;
+  overflow: hidden;
+    background: #112b3c;
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ .Params.headerImage }});
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ .Params.headerImage }});
+  }
+
+  .post-meta {
+    color: #eee !important;
+  }
+
+  .blog-tags > a {
+    color: #eee !important;
+  }
+
+  .postComment {
+    color: #eee !important;
+    font-family: Avenir, Open Sans;
+    text-decoration: #eee line underline;
+  }
+
+  .postComment:hover {
+    opacity: 0.7;
+  }
+
+  @media only screen and (min-width: 768px) {
+  header {
+   margin-bottom: 10vw !important;
+  }
+}
+  {{ end }}
+
   .header-section.has-img .no-img {
     margin-top: 0;
     background: #FCFCFC;
