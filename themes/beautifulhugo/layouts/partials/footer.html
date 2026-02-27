@@ -7,9 +7,9 @@
       <div class="col" style="max-width: 100%;height: auto;min-height: 10vh">
         <ul class="p-0 d-flex justify-content-center footer-links" style="display: inline-block;height: auto;min-height: 5vh">
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
-            {{- if isset $.Site.Author .id }}
+            {{- if isset $.Site.Params.author .id }}
               <li style="display: inline-block; min-height: 5vh">
-                <a href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+                <a href="{{ printf .url (index $.Site.Params.author .id) }}" title="{{ .title }}">
                   <span class="fa-stack fa-lg" style="min-height: 5vh;max-width: 100%;height: auto0;">
                     <i class="fas fa-circle fa-stack-2x" style="min-height: 5vh"></i>
                     <i class="{{ .icon }} fa-stack-1x fa-inverse" style="min-height: 5vh"></i>
@@ -30,19 +30,19 @@
           {{ end }}
         </ul>
         <p class="credits copyright text-muted" style="color: #eee !important;">
-          {{ if .Site.Author.name }}
-            {{ if .Site.Author.website }}
-              <a style="color: #eee" href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+          {{ if .Site.Params.author.name }}
+            {{ if .Site.Params.author.website }}
+              <a style="color: #eee" href="{{ .Site.Params.author.website }}">{{ .Site.Params.author.name }}</a>
             {{ else }}
-              {{ .Site.Author.name }}
+              {{ .Site.Params.author.name }}
             {{ end }}
           {{ end }}
 
           &nbsp;&bull;&nbsp;&copy;
           {{ if .Site.Params.since }}
-            {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006" }}
+            {{ .Site.Params.since }} - {{ .Site.Lastmod.Format "2006" }}
           {{ else }}
-            {{ .Site.LastChange.Format "2006" }}
+            {{ .Site.Lastmod.Format "2006" }}
           {{ end }}
 
           {{ if .Site.Title }}
@@ -124,12 +124,12 @@
 {{ end }}
 
 {{ if eq .Type "post" }}
-{{ if and .Site.Params.delayDisqus .Site.DisqusShortname }}
+{{ if and .Site.Params.delayDisqus .Site.Config.Services.Disqus.Shortname }}
 <!-- Delayed Disqus -->
 <script type="text/javascript">
 $(function(){
   $('#show-comments').on('click', function(){
-    var disqus_shortname = '{{ .Site.DisqusShortname }}';
+    var disqus_shortname = '{{ .Site.Config.Services.Disqus.Shortname }}';
 
     (function() {
       var disqus = document.createElement('script');

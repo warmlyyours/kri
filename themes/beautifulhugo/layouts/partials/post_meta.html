@@ -24,7 +24,7 @@
     {{ if .Params.author }}
       &nbsp;|&nbsp;<i ></i>&nbsp;{{ .Params.author | safeHTML }}
     {{ else }}
-      &nbsp;|&nbsp;<i ></i>&nbsp;{{ .Site.Author.name | safeHTML }}
+      &nbsp;|&nbsp;<i ></i>&nbsp;{{ .Site.Params.author.name | safeHTML }}
     {{ end }}
   {{ end }}
   {{- if .Site.Params.staticman -}}

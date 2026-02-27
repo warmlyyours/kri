@@ -54,6 +54,18 @@ summaryLength = 50
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+[services]
+  [services.disqus]
+    shortname = "https-www-kitchenremodelideas-com"
+
+[Params.author]
+  name = "Kitchen Remodel Ideas"
+  email = "chris@kitchenremodelideas.com"
+  facebook = "kitchenremodelideasworldwide"
+  github = "antiprysm"
+  twitter = "KR_Ideas"
+  instagram = "kitchenremodelideas"
+
 [Author]
   name = "Kitchen Remodel Ideas"
   #website = ""

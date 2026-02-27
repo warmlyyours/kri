@@ -73,7 +73,7 @@
     </div>
 
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
-        {{ if .Site.DisqusShortname }}
+        {{ if .Site.Config.Services.Disqus.Shortname }}
           {{ if .Site.Params.delayDisqus }}
           <h3 class="d-flex justify-content-center align-items-center pb-5">Comments</h3>
           <div class="disqus-comments px-5 pb-5">
@@ -90,7 +90,7 @@
               */
               (function() { // DON'T EDIT BELOW THIS LINE
               var d = document, s = d.createElement('script');
-              s.src = 'https://{{ .Site.DisqusShortname }}.disqus.com/embed.js';
+              s.src = 'https://{{ .Site.Config.Services.Disqus.Shortname }}.disqus.com/embed.js';
               s.setAttribute('data-timestamp', +new Date());
               (d.head || d.body).appendChild(s);
               })();
