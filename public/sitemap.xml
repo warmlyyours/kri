@@ -87,6 +87,132 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/floorplans/</loc>
+    <lastmod>2021-08-20T12:44:53-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped/</loc>
+    <lastmod>2021-08-20T12:44:53-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-compact-kitchen-floor-plan/</loc>
+    <lastmod>2021-08-20T12:44:53-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/double-galley/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/double-galley-kitchen-ideas/</loc>
+    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-kitchen-with-island-and-countertop/</loc>
+    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped/</loc>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-design-with-island/</loc>
+    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/double-galley-kitchen-with-island/</loc>
+    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-kitchen-design/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-open-floor-plan/</loc>
+    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/small-11-x-7-shaped-kitchen-floor-plan/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/spacious-l-shaped-kitchen-with-island/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-plan/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-with-counter-depth-fridge/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-kitchen-with-island-floor-plan/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-kitchen-layout/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/mobile-home-kitchen-floor-plan/</loc>
+    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/32-dazzling-traditional-kitchen-design-photos/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -103,6 +229,41 @@
   <url>
     <loc>http://localhost:1313/tags/furniture/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/small-double-galley-kitchen-floor-plan/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/large-kitchen-floor-plan-with-kitchen-nook/</loc>
+    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-floor-plan-with-dimensions/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-with-island/</loc>
+    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-lake-house-kitchen-floor-plan-design/</loc>
+    <lastmod>2021-01-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -129,6 +290,20 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/floorplans/double-galley-kitchen-and-island/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/double-galley-kitchen-layout/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/increasing-the-resale-value/</loc>
     <lastmod>2020-10-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -150,8 +325,64 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/floorplans/modern-u-shaped-kitchen/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/modern-l-shaped-kitchen-floor-plan/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/suggestions-for-high-end-kitchen-makeover/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-floor-plan-with-island-makeover/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-kitchen-floor-plan-with-a-concrete-subfloor/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/new-hampton-kitchen-floor-plan-with-island/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/single-galley/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/single-galley-one-wall-kitchen-floor-plan/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/minimalist-u-shaped-kitchen/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -164,8 +395,134 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-and-kitchen-nook/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/double-galley-kitchen-with-zig-zagged-pathway/</loc>
+    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/7-kitchen-countertops/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/large-l-shaped-kitchen-with-island/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/single-galley-california-kitchen/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/cozy-double-galley-kitchen-floor-plan/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/cozy-l-shaped-kitchen/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/double-galley-kitchen-with-curved-island/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/double-galley-style-kitchen-floor-plan/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/eat-in-u-shaped-kitchen/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/first-floor-single-galley-with-kitchen/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/kitchen-and-kitchen-nook/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-kitchen-and-mudroom/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-kitchen-with-laminate-wood/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/l-shaped-small-kitchen/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-layout-hardwood-flooring/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-layout-tms/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-first-floor-kitchen/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-and-kitchenette/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -187,6 +544,13 @@
   <url>
     <loc>http://localhost:1313/post/marble-vs-granite-countertops/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/10x10-double-galley-shaped-kitchen/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -229,6 +593,13 @@
   <url>
     <loc>http://localhost:1313/post/how-to-refinish-bamboo-flooring/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/floorplans/u-shaped-kitchen-design/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -291,12 +662,6 @@
   
   <url>
     <loc>http://localhost:1313/page/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/floorplans/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
